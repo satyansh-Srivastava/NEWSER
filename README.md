@@ -46,8 +46,22 @@ no login panel, per CLAUDE.md section 2).
 
 ```bash
 pip install -r requirements.txt
-export ANTHROPIC_API_KEY=sk-ant-...   # required for Editor + Classifier
+```
 
+**API key:** copy `.env.example` to `.env` in the repo root and fill in your
+real key:
+
+```bash
+cp .env.example .env
+# then edit .env so it reads:  ANTHROPIC_API_KEY=sk-ant-...
+```
+
+`.env` is gitignored, so it never gets committed. `main.py` loads it
+automatically on every run (via `python-dotenv`) -- no `export` needed. If
+you'd rather set it as a real environment variable instead, that still
+works too and takes the same effect.
+
+```bash
 python main.py                        # writes docs/index.html + docs/archive/
 python main.py --output-dir docs -v   # verbose logging
 python main.py --config config.yaml

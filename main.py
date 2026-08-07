@@ -12,6 +12,8 @@ import json
 import logging
 import sys
 
+from dotenv import load_dotenv
+
 from agents import orchestrator
 from agents.config import Config
 
@@ -25,6 +27,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
 
 
 def main(argv: list[str] | None = None) -> int:
+    load_dotenv()  # picks up ANTHROPIC_API_KEY from a .env file in the repo root, if present
     args = parse_args(argv)
     logging.basicConfig(
         level=logging.DEBUG if args.verbose else logging.INFO,
