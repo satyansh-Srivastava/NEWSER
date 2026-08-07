@@ -3,28 +3,30 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Newser -- AI Digest</title>
+<title>Glueball</title>
 <style>
   body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-family: Georgia, "Times New Roman", Times, serif;
     max-width: 640px;
     margin: 4rem auto;
     padding: 0 1.5rem;
-    color: #16181d;
+    color: #111111;
+    background: #ffffff;
     text-align: center;
   }
-  h1 { font-size: 1.6rem; }
-  p { color: #5b6270; line-height: 1.6; }
-  code { background: #f4f5f7; padding: .15rem .4rem; border-radius: 4px; }
+  h1 { font-size: 1.5rem; }
+  p { color: #555555; line-height: 1.6; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+  code { background: #f4f4f4; padding: .15rem .4rem; border-radius: 3px; }
 </style>
 </head>
 <body>
-  <h1>&#129302; Newser &mdash; AI Digest</h1>
+  <h1>Glueball</h1>
   <p>
-    No digest has been generated yet. The <code>daily-digest</code> GitHub Actions
-    workflow runs every day and will replace this page with the latest AI news
-    digest. You can also trigger it manually from the Actions tab, or run
-    <code>python -m newser.main</code> locally.
+    No digest has been generated yet. The daily GitHub Actions workflow
+    (<code>.github/workflows/daily-digest.yml</code>) runs the pipeline once
+    a day and will replace this page with the latest AI digest. You can also
+    trigger it manually from the Actions tab, or run
+    <code>python main.py</code> locally.
   </p>
 </body>
 </html>

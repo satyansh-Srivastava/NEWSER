@@ -1,0 +1,14 @@
+hn_threshold: 200
+reddit_ratio: 10
+subreddits:
+  - artificial
+  - MachineLearning
+  - SaaS
+taxonomy:
+  - Use-Case News
+  - Novel SaaS/Tech
+  - Open-Source Models
+  - Policy & Regulation
+  - Funding
+schedule_cron: "0 23 * * *"
+brief_word_range: [180, 280]

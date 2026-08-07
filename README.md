@@ -1,65 +1,76 @@
-# Newser
+# Glueball
 
-An agent harness that fetches AI news every day from several free sources,
-groups and deduplicates it, and renders a single visual HTML digest.
+An autonomous, no-human-in-loop multi-agent pipeline that scrapes AI
+discussion from Hacker News and Reddit, filters it to high-signal posts,
+synthesizes each into a 2-minute What/Why/Who business brief via the
+Claude API, tags it against a locked taxonomy, and publishes a single
+static, light-mode-only HTML digest to GitHub Pages.
 
-**Live digest:** enable GitHub Pages (see below) to get a URL like
-`https://<user>.github.io/NEWSER/`.
+The full build spec lives in [`CLAUDE.md`](./CLAUDE.md) — that file is fed
+to Claude Code as project context automatically. Section 9 of it
+(**Continuous Improvement Protocol**) is a standing instruction: every real
+issue this harness hits gets logged, fixed in code, covered by a
+regression test, and recorded in [`ISSUES.md`](./ISSUES.md) — not just
+patched and forgotten.
 
-## Sources
+## Architecture
 
-| Source | Method | Notes |
-|---|---|---|
-| Hacker News | official Firebase API | top stories scanned, filtered by AI keywords |
-| r/artificial, r/MachineLearning | Reddit `.json` endpoints | no auth required |
-| arXiv cs.AI | RSS | already AI-scoped |
-| TechCrunch AI | RSS | category feed |
-| VentureBeat AI | RSS | category feed |
-| Google News | RSS search for `AI`, last 24h | already AI-scoped |
-| Twitter/X lists | -- | **stubbed, disabled** -- needs a paid API tier. See `newser/fetchers/twitter.py`. |
+```
+Orchestrator (agents/orchestrator.py)
+   │
+   ├─▶ Scraper    (agents/scraper.py)     → runs/<date>/qualified_posts.json
+   ├─▶ Extractor  (agents/extractor.py)   → runs/<date>/raw_articles.json
+   ├─▶ Editor     (agents/editor.py)      → runs/<date>/briefs.json
+   ├─▶ Classifier (agents/classifier.py)  → runs/<date>/tagged_briefs.json
+   └─▶ Publisher  (agents/publisher.py)   → docs/index.html (+ docs/archive/)
+```
 
-## How it works (the harness)
+Each agent is a discrete unit with a defined JSON input/output contract
+(see `agents/models.py` and CLAUDE.md section 3), so any stage can be
+rerun, retried, or replaced independently. Every agent's own retry/failure
+rules (429 backoff, bot-block detection, malformed-field handling,
+word-count retry, taxonomy fallback) are implemented exactly per the
+Gherkin acceptance criteria in CLAUDE.md, and each has a matching pytest
+file under `tests/`.
 
-1. **Fetchers** (`newser/fetchers/`) -- one class per source, each implementing
-   `fetch() -> list[NewsItem]`. A fetcher never raises on network/parse
-   failure; it logs and returns `[]` so one bad source can't sink the run.
-2. **Harness** (`newser/harness.py`) -- runs every fetcher concurrently
-   (`ThreadPoolExecutor`), flattens results in a stable priority order, then
-   deduplicates by normalized title across sources (so a story that's both on
-   TechCrunch and re-surfaced by Google News only appears once), and groups
-   what's left into `Section`s.
-3. **Filters** (`newser/filters.py`) -- keyword-based AI relevance check
-   (used only for Hacker News, since it isn't topically scoped) and the
-   cross-source dedupe logic.
-4. **Render** (`newser/render.py` + `newser/templates/digest.html.jinja`) --
-   renders the digest into a card-based, responsive HTML page (light/dark
-   aware), writes it to `docs/index.html`, and archives a dated copy under
-   `docs/archive/`.
-5. **CLI** (`newser/main.py`) -- wires it all together.
+**Only Hacker News + Reddit are sources** (per spec) — qualification is
+threshold-based, not keyword-based: an HN post qualifies at
+`score >= hn_threshold`; a Reddit post qualifies at
+`upvotes / max(comments, 1) >= reddit_ratio`. All thresholds, the
+subreddit list, the taxonomy, and the brief word range live in
+[`config.yaml`](./config.yaml) — nothing is hardcoded, and editing that
+file + committing is the only way to change runtime behavior (no admin UI,
+no login panel, per CLAUDE.md section 2).
 
 ## Running locally
 
 ```bash
 pip install -r requirements.txt
-python -m newser.main                    # writes docs/index.html + docs/archive/
-python -m newser.main --dry-run          # fetch + print stats only, no files written
-python -m newser.main --sources hackernews,arxiv
-python -m newser.main --max-per-source 5
+export ANTHROPIC_API_KEY=sk-ant-...   # required for Editor + Classifier
+
+python main.py                        # writes docs/index.html + docs/archive/
+python main.py --output-dir docs -v   # verbose logging
+python main.py --config config.yaml
 ```
 
-Open `docs/index.html` in a browser to view the result.
+Each day's intermediate artifacts and a run summary land under
+`runs/<YYYY-MM-DD>/` and `runs/<YYYY-MM-DD>.json`; rerunning the same day
+is a no-op (the orchestrator and each agent check for existing output
+before doing any work again).
 
 ## Automation (GitHub Actions + GitHub Pages)
 
-`.github/workflows/daily-digest.yml` runs the agent daily (13:00 UTC) and on
-manual dispatch, and commits the regenerated `docs/` back to the repo.
+`.github/workflows/daily-digest.yml` runs the pipeline daily at 23:00 UTC
+(matching `config.yaml`'s `schedule_cron`) and on manual dispatch, then
+commits the regenerated `docs/`, `runs/`, and `ISSUES.md` back to the repo.
 
-One-time setup to publish it:
-1. Go to **Settings -> Pages**.
-2. Under "Build and deployment", set **Source: Deploy from a branch**.
-3. Set **Branch: `main` / `docs`** (root of the `docs` folder).
-4. Save. Your digest will be live at `https://<user>.github.io/<repo>/` after
-   the next workflow run (or trigger it manually from the **Actions** tab).
+One-time setup:
+1. Add an **`ANTHROPIC_API_KEY`** repository secret (Settings → Secrets and
+   variables → Actions) — required for the Editor and Classifier agents.
+2. Go to **Settings → Pages**, set **Source: Deploy from a branch**,
+   **Branch: `main` / `docs`**, and save.
+3. Your digest will be live at `https://<user>.github.io/<repo>/` after
+   the next workflow run (or trigger one manually from the **Actions** tab).
 
 ## Tests
 
@@ -68,20 +79,23 @@ pip install -r requirements-dev.txt
 pytest
 ```
 
-Tests cover the keyword filter, cross-source dedupe, harness orchestration
-(including a fetcher that raises), and HTML rendering -- all with fixture
-data, no network calls.
+Every Gherkin scenario in `CLAUDE.md` section 3 has a corresponding pytest
+case (see `tests/test_scraper.py`, `test_extractor.py`, `test_editor.py`,
+`test_classifier.py`, `test_publisher.py`, `test_orchestrator.py`). No test
+makes a real network or LLM call — HTTP is faked via a minimal
+session-like object (`tests/conftest.py:fake_session`) and the LLM via
+`tests/conftest.py:FakeLLM`. An autouse fixture also redirects
+`agents/issue_log.py`'s output into a temp directory for every test, so
+running the suite never mutates the real `ISSUES.md` / `runs/run_log.json`
+(see the first entry in `ISSUES.md`'s Resolved section for why that
+fixture exists).
 
-## Extending
+## Continuous improvement
 
-- **New RSS source:** add an entry to `RSS_FEEDS` in `newser/config.py` --
-  no new code needed, it reuses `GenericRssFetcher`.
-- **New non-RSS source:** subclass `newser.fetchers.base.Fetcher`, add it to
-  `newser/harness.py:build_fetchers`, and add a `SECTION_META` entry for
-  display name/icon/color.
-- **Twitter/X:** implement `newser/fetchers/twitter.py:TwitterFetcher.fetch`
-  against the X API (list timelines require a paid tier), then set
-  `ENABLE_TWITTER = True` in `newser/config.py`.
-- **LLM-written summaries:** this version is template-based (no LLM calls,
-  no API key required). To add real narrative summarization, you'd add a
-  step in the harness that sends grouped items to an LLM before rendering.
+`agents/issue_log.py:record_issue()` is called by every agent on every
+handled failure. It always appends a structured entry to
+`runs/run_log.json`, and — the first time a given `(component, message)`
+signature is seen — also appends a bullet to `ISSUES.md` under "Open
+observations". That's the prompt for a human or Claude Code to ship a real
+fix (with a regression test) and move the entry to "Resolved". See
+CLAUDE.md section 9 for the full protocol.
