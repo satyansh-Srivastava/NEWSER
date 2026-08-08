@@ -1,0 +1,682 @@
+[
+  {
+    "id": "49224294",
+    "source": "hackernews",
+    "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+    "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+    "score": 454,
+    "comments": 212,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:39.239092+00:00"
+  },
+  {
+    "id": "49223082",
+    "source": "hackernews",
+    "title": "Fastmail offers EU data region",
+    "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+    "score": 288,
+    "comments": 130,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:39.313920+00:00"
+  },
+  {
+    "id": "49220126",
+    "source": "hackernews",
+    "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "score": 355,
+    "comments": 108,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:39.340737+00:00"
+  },
+  {
+    "id": "49221668",
+    "source": "hackernews",
+    "title": "A domain can now say it is for sale, in DNS",
+    "url": "https://specification.website/spec/foundations/for-sale-dns/",
+    "score": 323,
+    "comments": 126,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:39.343748+00:00"
+  },
+  {
+    "id": "49220609",
+    "source": "hackernews",
+    "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+    "score": 302,
+    "comments": 304,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:39.353095+00:00"
+  },
+  {
+    "id": "49220339",
+    "source": "hackernews",
+    "title": "US Military's cyber command unit grapples with cluster of deaths by suicide",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
+    "score": 211,
+    "comments": 326,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:39.370842+00:00"
+  },
+  {
+    "id": "49222189",
+    "source": "hackernews",
+    "title": "\u201cCode was never the hard part\u201d is an insult to all programmers",
+    "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+    "score": 505,
+    "comments": 335,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:39.417707+00:00"
+  },
+  {
+    "id": "49214008",
+    "source": "hackernews",
+    "title": "DeepSeek V4 Flash 0731",
+    "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+    "score": 754,
+    "comments": 451,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:39.458757+00:00"
+  },
+  {
+    "id": "49189457",
+    "source": "hackernews",
+    "title": "A physicist rigged his pet hamster\u2019s wheel to upload to Strava",
+    "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+    "score": 415,
+    "comments": 97,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:39.469730+00:00"
+  },
+  {
+    "id": "49219508",
+    "source": "hackernews",
+    "title": "Hardware backdoors in some x86 CPUs",
+    "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+    "score": 324,
+    "comments": 93,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:39.573999+00:00"
+  },
+  {
+    "id": "49216946",
+    "source": "hackernews",
+    "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+    "url": "https://genesisopenmodels.anl.gov/",
+    "score": 339,
+    "comments": 143,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:39.575790+00:00"
+  },
+  {
+    "id": "49209539",
+    "source": "hackernews",
+    "title": "What happens if an entire class of workers loses faith in their careers",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "score": 968,
+    "comments": 1137,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:39.593748+00:00"
+  },
+  {
+    "id": "49214098",
+    "source": "hackernews",
+    "title": "Assembly Hall of Shame",
+    "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+    "score": 410,
+    "comments": 104,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:39.644812+00:00"
+  },
+  {
+    "id": "49214770",
+    "source": "hackernews",
+    "title": "Ancient Library \u2013 1,060 Greek/Latin texts, click any word to parse it",
+    "url": "https://ancientlibrary.net/",
+    "score": 251,
+    "comments": 78,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:39.666255+00:00"
+  },
+  {
+    "id": "49214468",
+    "source": "hackernews",
+    "title": "Managing AI Coding Costs at Scale",
+    "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+    "score": 298,
+    "comments": 253,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:39.753970+00:00"
+  },
+  {
+    "id": "49218179",
+    "source": "hackernews",
+    "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
+    "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+    "score": 349,
+    "comments": 79,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:39.790085+00:00"
+  },
+  {
+    "id": "49135457",
+    "source": "hackernews",
+    "title": "Carl's Required Reading",
+    "url": "https://carlkolon.com/reading/",
+    "score": 223,
+    "comments": 30,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:39.879741+00:00"
+  },
+  {
+    "id": "49208535",
+    "source": "hackernews",
+    "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+    "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+    "score": 323,
+    "comments": 161,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:39.909734+00:00"
+  },
+  {
+    "id": "49201970",
+    "source": "hackernews",
+    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+    "score": 921,
+    "comments": 693,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:39.934556+00:00"
+  },
+  {
+    "id": "49207236",
+    "source": "hackernews",
+    "title": "2027 memory capacity is reportedly sold out",
+    "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+    "score": 489,
+    "comments": 471,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:39.957260+00:00"
+  },
+  {
+    "id": "49208393",
+    "source": "hackernews",
+    "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+    "url": "https://blog.cloudflare.com/kitesurf/",
+    "score": 212,
+    "comments": 60,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:39.957276+00:00"
+  },
+  {
+    "id": "49204352",
+    "source": "hackernews",
+    "title": "New Mexico court orders Meta to pay $567m over harms to children\u2019s mental health",
+    "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+    "score": 791,
+    "comments": 422,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:39.971290+00:00"
+  },
+  {
+    "id": "49217993",
+    "source": "hackernews",
+    "title": "The Nixpkgs core team has disbanded",
+    "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+    "score": 383,
+    "comments": 198,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:39.998505+00:00"
+  },
+  {
+    "id": "49213754",
+    "source": "hackernews",
+    "title": "Oracle bans AI-generated code from OpenJDK",
+    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "score": 517,
+    "comments": 374,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:39.998532+00:00"
+  },
+  {
+    "id": "49198464",
+    "source": "hackernews",
+    "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+    "url": "https://provenmetal.com",
+    "score": 229,
+    "comments": 155,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:40.043418+00:00"
+  },
+  {
+    "id": "49195231",
+    "source": "hackernews",
+    "title": "Mario Meets Pareto",
+    "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+    "score": 1166,
+    "comments": 165,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:40.104911+00:00"
+  },
+  {
+    "id": "49216362",
+    "source": "hackernews",
+    "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+    "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+    "score": 242,
+    "comments": 158,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:40.125952+00:00"
+  },
+  {
+    "id": "49209385",
+    "source": "hackernews",
+    "title": "Show HN: Wyzer Programming Language",
+    "url": "https://github.com/Wyzer-Lang/wyzer",
+    "score": 214,
+    "comments": 112,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:40.158306+00:00"
+  },
+  {
+    "id": "49203105",
+    "source": "hackernews",
+    "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+    "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+    "score": 217,
+    "comments": 35,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:40.158325+00:00"
+  },
+  {
+    "id": "49199346",
+    "source": "hackernews",
+    "title": "Taste Is All That's Left",
+    "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+    "score": 686,
+    "comments": 532,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:40.254376+00:00"
+  },
+  {
+    "id": "49211386",
+    "source": "hackernews",
+    "title": "A year of fighting scrapers on my 1.5 million-page website",
+    "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+    "score": 443,
+    "comments": 411,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:40.284285+00:00"
+  },
+  {
+    "id": "49138446",
+    "source": "hackernews",
+    "title": "S\u00e3o Paulo resident transforms degraded area into urban forest",
+    "url": "https://saopaulosecreto.com/en/tiquatira-linear-park-en/",
+    "score": 349,
+    "comments": 124,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:40.394845+00:00"
+  },
+  {
+    "id": "49184960",
+    "source": "hackernews",
+    "title": "Discovery Loop",
+    "url": "https://www.discoveryloop.com/",
+    "score": 944,
+    "comments": 592,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:40.441887+00:00"
+  },
+  {
+    "id": "49162653",
+    "source": "hackernews",
+    "title": "There Will Come Soft Rains (1950) [pdf]",
+    "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+    "score": 452,
+    "comments": 442,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:40.501206+00:00"
+  },
+  {
+    "id": "49192566",
+    "source": "hackernews",
+    "title": "Crime Pays but Botany Doesn't",
+    "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+    "score": 692,
+    "comments": 214,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:40.520117+00:00"
+  },
+  {
+    "id": "49198302",
+    "source": "hackernews",
+    "title": "GitHub Actions and Pages are experiencing degraded availability",
+    "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+    "score": 501,
+    "comments": 409,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:40.520138+00:00"
+  },
+  {
+    "id": "49202716",
+    "source": "hackernews",
+    "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+    "score": 211,
+    "comments": 62,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:40.559834+00:00"
+  },
+  {
+    "id": "49184355",
+    "source": "hackernews",
+    "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+    "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+    "score": 302,
+    "comments": 61,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:40.581805+00:00"
+  },
+  {
+    "id": "49201930",
+    "source": "hackernews",
+    "title": "Quake \u2013 30th Anniversary Update",
+    "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
+    "score": 412,
+    "comments": 201,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:40.599867+00:00"
+  },
+  {
+    "id": "49184755",
+    "source": "hackernews",
+    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+    "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+    "score": 854,
+    "comments": 928,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:40.614054+00:00"
+  },
+  {
+    "id": "49168622",
+    "source": "hackernews",
+    "title": "How to Make a Nintendo 64 Game in 2026",
+    "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
+    "score": 489,
+    "comments": 252,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:40.728908+00:00"
+  },
+  {
+    "id": "49199357",
+    "source": "hackernews",
+    "title": "Improving GPT\u20115.6 Sol in ChatGPT, expanding GPT\u20115.6 Luna access for free users",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+    "score": 314,
+    "comments": 271,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:40.746884+00:00"
+  },
+  {
+    "id": "49195468",
+    "source": "hackernews",
+    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+    "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+    "score": 335,
+    "comments": 244,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:40.779871+00:00"
+  },
+  {
+    "id": "49220350",
+    "source": "hackernews",
+    "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+    "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+    "score": 215,
+    "comments": 274,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:40.833855+00:00"
+  },
+  {
+    "id": "49152255",
+    "source": "hackernews",
+    "title": "I stopped trusting USB-C cable labels and started testing them",
+    "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
+    "score": 258,
+    "comments": 256,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:40.833878+00:00"
+  },
+  {
+    "id": "49188022",
+    "source": "hackernews",
+    "title": "I'm switching my phone from Android to Linux",
+    "url": "https://runarcn.no/android-to-linux/",
+    "score": 476,
+    "comments": 518,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:40.874245+00:00"
+  },
+  {
+    "id": "49198069",
+    "source": "hackernews",
+    "title": "Software development with AI is starting to feel like cooking steak",
+    "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+    "score": 413,
+    "comments": 417,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:40.931338+00:00"
+  },
+  {
+    "id": "49105978",
+    "source": "hackernews",
+    "title": "\u201cGravity is worth asking about\u201d",
+    "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
+    "score": 227,
+    "comments": 146,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:40.931360+00:00"
+  },
+  {
+    "id": "49184216",
+    "source": "hackernews",
+    "title": "The Valley of Webhooks",
+    "url": "https://weli.dev/blog/the-valley-of-webhooks/",
+    "score": 241,
+    "comments": 100,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:40.931370+00:00"
+  },
+  {
+    "id": "49187061",
+    "source": "hackernews",
+    "title": "Born Against, or why hobby programming communities are against LLM usage",
+    "url": "https://blog.fogus.me/llm/born-against.html",
+    "score": 437,
+    "comments": 520,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:41.021775+00:00"
+  },
+  {
+    "id": "49201003",
+    "source": "hackernews",
+    "title": "Herdr is joining Y Combinator. The runtime stays open",
+    "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+    "score": 276,
+    "comments": 186,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:41.035784+00:00"
+  },
+  {
+    "id": "49161518",
+    "source": "hackernews",
+    "title": "LLMs reward expertise",
+    "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+    "score": 1409,
+    "comments": 571,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:41.132779+00:00"
+  },
+  {
+    "id": "49182996",
+    "source": "hackernews",
+    "title": "Cloudflare OS: an open platform for agents, apps, and work",
+    "url": "https://blog.cloudflare.com/cloudflare-os/",
+    "score": 659,
+    "comments": 331,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:41.137312+00:00"
+  },
+  {
+    "id": "49096439",
+    "source": "hackernews",
+    "title": "Pareto Front",
+    "url": "https://en.wikipedia.org/wiki/Pareto_front",
+    "score": 253,
+    "comments": 108,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:41.144487+00:00"
+  },
+  {
+    "id": "49120149",
+    "source": "hackernews",
+    "title": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation",
+    "url": "https://laurentiugabriel.github.io/ChipTycoon/",
+    "score": 207,
+    "comments": 70,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:41.157750+00:00"
+  },
+  {
+    "id": "49186762",
+    "source": "hackernews",
+    "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+    "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+    "score": 432,
+    "comments": 122,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:41.175380+00:00"
+  },
+  {
+    "id": "49189287",
+    "source": "hackernews",
+    "title": "The title cards in Blade Runner are amazing",
+    "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+    "score": 438,
+    "comments": 211,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:41.251874+00:00"
+  },
+  {
+    "id": "49151734",
+    "source": "hackernews",
+    "title": "More German than many Germans",
+    "url": "https://mertbulan.com/more-german-than-many-germans/",
+    "score": 646,
+    "comments": 498,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:41.346484+00:00"
+  },
+  {
+    "id": "49208314",
+    "source": "hackernews",
+    "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+    "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+    "score": 891,
+    "comments": 865,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:41.409734+00:00"
+  },
+  {
+    "id": "49187575",
+    "source": "hackernews",
+    "title": "Muse Code and Muse Spark 1.2",
+    "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+    "score": 331,
+    "comments": 260,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:41.425365+00:00"
+  },
+  {
+    "id": "49200652",
+    "source": "hackernews",
+    "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+    "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+    "score": 544,
+    "comments": 345,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:41.485762+00:00"
+  },
+  {
+    "id": "49214863",
+    "source": "hackernews",
+    "title": "App Store Rejection of the Week: Dark Hours",
+    "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
+    "score": 337,
+    "comments": 218,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:41.505292+00:00"
+  },
+  {
+    "id": "49181099",
+    "source": "hackernews",
+    "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+    "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+    "score": 496,
+    "comments": 278,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:41.614787+00:00"
+  },
+  {
+    "id": "49167448",
+    "source": "hackernews",
+    "title": "Xbox goes down. You can't play games you own on disc",
+    "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+    "score": 712,
+    "comments": 767,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:41.640023+00:00"
+  },
+  {
+    "id": "49185983",
+    "source": "hackernews",
+    "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+    "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+    "score": 301,
+    "comments": 136,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:41.641168+00:00"
+  },
+  {
+    "id": "49170165",
+    "source": "hackernews",
+    "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+    "url": "https://toneyalexander.github.io/inclusive-color-space/",
+    "score": 622,
+    "comments": 99,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:41.649596+00:00"
+  },
+  {
+    "id": "49187256",
+    "source": "hackernews",
+    "title": "Zed DeltaDB",
+    "url": "https://zed.dev/deltadb",
+    "score": 526,
+    "comments": 311,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:41.675123+00:00"
+  },
+  {
+    "id": "49171268",
+    "source": "hackernews",
+    "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+    "url": "https://mistral.ai/news/shieldstral/",
+    "score": 481,
+    "comments": 133,
+    "subreddit": null,
+    "qualified_at": "2026-08-08T23:16:41.684091+00:00"
+  }
+]

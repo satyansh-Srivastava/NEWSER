@@ -30,6 +30,46 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [ff184bc9360a] `editor`: LLM call failed for 49209385: ANTHROPIC_API_KEY is not set (first seen 2026-08-08)
+
+- [90893254cfca] `editor`: LLM call failed for 49216362: ANTHROPIC_API_KEY is not set (first seen 2026-08-08)
+
+- [227604a8d30b] `editor`: LLM call failed for 49217993: ANTHROPIC_API_KEY is not set (first seen 2026-08-08)
+
+- [d6f247c02a7e] `editor`: LLM call failed for 49207236: ANTHROPIC_API_KEY is not set (first seen 2026-08-08)
+
+- [7b0c4c5a93af] `editor`: LLM call failed for 49135457: ANTHROPIC_API_KEY is not set (first seen 2026-08-08)
+
+- [81c29a7a0c03] `editor`: LLM call failed for 49218179: ANTHROPIC_API_KEY is not set (first seen 2026-08-08)
+
+- [233c8a58748d] `editor`: LLM call failed for 49214468: ANTHROPIC_API_KEY is not set (first seen 2026-08-08)
+
+- [9ae55c2b2c6c] `editor`: LLM call failed for 49214770: ANTHROPIC_API_KEY is not set (first seen 2026-08-08)
+
+- [6d10bcfca130] `editor`: LLM call failed for 49216946: ANTHROPIC_API_KEY is not set (first seen 2026-08-08)
+
+- [bf508199cabc] `editor`: LLM call failed for 49219508: ANTHROPIC_API_KEY is not set (first seen 2026-08-08)
+
+- [b03cb7aee173] `editor`: LLM call failed for 49189457: ANTHROPIC_API_KEY is not set (first seen 2026-08-08)
+
+- [1e333402e15e] `editor`: LLM call failed for 49222189: ANTHROPIC_API_KEY is not set (first seen 2026-08-08)
+
+- [3ca300e64431] `editor`: LLM call failed for 49220609: ANTHROPIC_API_KEY is not set (first seen 2026-08-08)
+
+- [e2bcd4c00f5f] `editor`: LLM call failed for 49221668: ANTHROPIC_API_KEY is not set (first seen 2026-08-08)
+
+- [9602be312b7e] `editor`: LLM call failed for 49220126: ANTHROPIC_API_KEY is not set (first seen 2026-08-08)
+
+- [2029cabf61f7] `editor`: LLM call failed for 49223082: ANTHROPIC_API_KEY is not set (first seen 2026-08-08)
+
+- [2bd6c0333b08] `extractor`: bot-blocked (403): https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html (first seen 2026-08-08)
+
+- [24e7eca176b9] `extractor`: bot-block page detected: https://blog.cloudflare.com/kitesurf/ (first seen 2026-08-08)
+
+- [83ee55f66c05] `extractor`: bot-blocked (403): https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide (first seen 2026-08-08)
+
+- [5ddd87334d5c] `extractor`: bot-blocked (403): https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/ (first seen 2026-08-08)
+
 - [a73cf90e2a63] `editor`: LLM call failed for 49150470: ANTHROPIC_API_KEY is not set (first seen 2026-08-07)
 
 - [c1a397f02f73] `editor`: LLM call failed for 49172836: ANTHROPIC_API_KEY is not set (first seen 2026-08-07)
