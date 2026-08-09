@@ -30,6 +30,34 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [faf1a25b5618] `editor`: LLM call failed for 49223845: ANTHROPIC_API_KEY is not set (first seen 2026-08-09)
+
+- [28348112e0f3] `editor`: LLM call failed for 49223079: ANTHROPIC_API_KEY is not set (first seen 2026-08-09)
+
+- [52d845830689] `editor`: LLM call failed for 49221939: ANTHROPIC_API_KEY is not set (first seen 2026-08-09)
+
+- [97f49de32eab] `editor`: LLM call failed for 49226536: ANTHROPIC_API_KEY is not set (first seen 2026-08-09)
+
+- [c1e725670a3f] `editor`: LLM call failed for 49221711: ANTHROPIC_API_KEY is not set (first seen 2026-08-09)
+
+- [8f2ba4068fd6] `editor`: LLM call failed for 49215786: ANTHROPIC_API_KEY is not set (first seen 2026-08-09)
+
+- [d81bb88febc0] `editor`: LLM call failed for 49228166: ANTHROPIC_API_KEY is not set (first seen 2026-08-09)
+
+- [705937b46e07] `editor`: LLM call failed for 49226742: ANTHROPIC_API_KEY is not set (first seen 2026-08-09)
+
+- [f82c3fbaaa23] `editor`: LLM call failed for 49226923: ANTHROPIC_API_KEY is not set (first seen 2026-08-09)
+
+- [19643d6e01b8] `editor`: LLM call failed for 49226636: ANTHROPIC_API_KEY is not set (first seen 2026-08-09)
+
+- [ce85645a7047] `editor`: LLM call failed for 49232221: ANTHROPIC_API_KEY is not set (first seen 2026-08-09)
+
+- [177ea9825ec3] `editor`: LLM call failed for 49232138: ANTHROPIC_API_KEY is not set (first seen 2026-08-09)
+
+- [6151729fa40d] `editor`: LLM call failed for 49234675: ANTHROPIC_API_KEY is not set (first seen 2026-08-09)
+
+- [d712815983f6] `editor`: LLM call failed for 49231154: ANTHROPIC_API_KEY is not set (first seen 2026-08-09)
+
 - [ff184bc9360a] `editor`: LLM call failed for 49209385: ANTHROPIC_API_KEY is not set (first seen 2026-08-08)
 
 - [90893254cfca] `editor`: LLM call failed for 49216362: ANTHROPIC_API_KEY is not set (first seen 2026-08-08)
