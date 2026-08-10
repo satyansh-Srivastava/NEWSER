@@ -30,6 +30,42 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [6288704f71b8] `editor`: LLM call failed for 49228458: ANTHROPIC_API_KEY is not set (first seen 2026-08-10)
+
+- [14a1a8f80b40] `editor`: LLM call failed for 49232110: ANTHROPIC_API_KEY is not set (first seen 2026-08-10)
+
+- [2a9a00e0f182] `editor`: LLM call failed for 49234271: ANTHROPIC_API_KEY is not set (first seen 2026-08-10)
+
+- [a2bf7cc0b18e] `editor`: LLM call failed for 49239021: ANTHROPIC_API_KEY is not set (first seen 2026-08-10)
+
+- [b19e17d31db7] `editor`: LLM call failed for 49231809: ANTHROPIC_API_KEY is not set (first seen 2026-08-10)
+
+- [cc374aa3c113] `editor`: LLM call failed for 49232253: ANTHROPIC_API_KEY is not set (first seen 2026-08-10)
+
+- [f80ed4c08747] `editor`: LLM call failed for 49238561: ANTHROPIC_API_KEY is not set (first seen 2026-08-10)
+
+- [955671460ba7] `editor`: LLM call failed for 49245023: ANTHROPIC_API_KEY is not set (first seen 2026-08-10)
+
+- [309158118826] `editor`: LLM call failed for 49242739: ANTHROPIC_API_KEY is not set (first seen 2026-08-10)
+
+- [667359e0cf69] `editor`: LLM call failed for 49239751: ANTHROPIC_API_KEY is not set (first seen 2026-08-10)
+
+- [cdf00cde127c] `editor`: LLM call failed for 49243397: ANTHROPIC_API_KEY is not set (first seen 2026-08-10)
+
+- [0c1e5ca30778] `editor`: LLM call failed for 49249150: ANTHROPIC_API_KEY is not set (first seen 2026-08-10)
+
+- [77c851ff7ee3] `editor`: LLM call failed for 49242653: ANTHROPIC_API_KEY is not set (first seen 2026-08-10)
+
+- [de0a93873627] `editor`: LLM call failed for 49243880: ANTHROPIC_API_KEY is not set (first seen 2026-08-10)
+
+- [7865006d9378] `editor`: LLM call failed for 49241679: ANTHROPIC_API_KEY is not set (first seen 2026-08-10)
+
+- [e4e1becaff96] `extractor`: bot-block page detected: https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/ (first seen 2026-08-10)
+
+- [90bd8ae87157] `extractor`: bot-block page detected: https://news.ycombinator.com/item?id=49233423 (first seen 2026-08-10)
+
+- [d753201849ce] `extractor`: bot-blocked (403): https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392 (first seen 2026-08-10)
+
 - [faf1a25b5618] `editor`: LLM call failed for 49223845: ANTHROPIC_API_KEY is not set (first seen 2026-08-09)
 
 - [28348112e0f3] `editor`: LLM call failed for 49223079: ANTHROPIC_API_KEY is not set (first seen 2026-08-09)
