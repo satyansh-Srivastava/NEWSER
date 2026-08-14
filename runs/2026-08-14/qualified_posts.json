@@ -1,0 +1,412 @@
+[
+  {
+    "id": "49296740",
+    "source": "hackernews",
+    "title": "Why does Opus 5 feel worse to work with?",
+    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+    "score": 723,
+    "comments": 659,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:57.349294+00:00"
+  },
+  {
+    "id": "49300314",
+    "source": "hackernews",
+    "title": "Google is making private AI practical with homomorphic encryption",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "score": 235,
+    "comments": 143,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:57.366614+00:00"
+  },
+  {
+    "id": "49303202",
+    "source": "hackernews",
+    "title": "Firefox is now the last major browser that still supports uBlock Origin",
+    "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+    "score": 208,
+    "comments": 55,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:57.376709+00:00"
+  },
+  {
+    "id": "49299605",
+    "source": "hackernews",
+    "title": "Qwen 3.8 27B",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "score": 794,
+    "comments": 520,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:57.394764+00:00"
+  },
+  {
+    "id": "49299675",
+    "source": "hackernews",
+    "title": "Seven books I keep close because I love them",
+    "url": "https://blog.plover.com/2026/08/02/",
+    "score": 283,
+    "comments": 127,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:57.489226+00:00"
+  },
+  {
+    "id": "49249523",
+    "source": "hackernews",
+    "title": "Don't classify, hallucinate",
+    "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
+    "score": 212,
+    "comments": 82,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:57.512205+00:00"
+  },
+  {
+    "id": "49294997",
+    "source": "hackernews",
+    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+    "url": "https://z.ai/blog/glm-5.3",
+    "score": 1016,
+    "comments": 501,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:57.583419+00:00"
+  },
+  {
+    "id": "49299222",
+    "source": "hackernews",
+    "title": "Every Fucking Website (2020)",
+    "url": "https://lxe.github.io/everywebsite/",
+    "score": 702,
+    "comments": 392,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:57.636710+00:00"
+  },
+  {
+    "id": "49298910",
+    "source": "hackernews",
+    "title": "In Australia, a home battery boom has helped cut wholesale power prices",
+    "url": "https://e360.yale.edu/digest/australia-home-batteries",
+    "score": 302,
+    "comments": 230,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:57.664759+00:00"
+  },
+  {
+    "id": "49289112",
+    "source": "hackernews",
+    "title": "Gemini 3.7 Flash",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "score": 946,
+    "comments": 482,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:57.835168+00:00"
+  },
+  {
+    "id": "49289844",
+    "source": "hackernews",
+    "title": "Accelerating GPT-5.6 Sol Ultrafast",
+    "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+    "score": 694,
+    "comments": 270,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:57.999344+00:00"
+  },
+  {
+    "id": "49285244",
+    "source": "hackernews",
+    "title": "DeepSeek Harness developer preview",
+    "url": "https://deepseek.com/harness/en/",
+    "score": 718,
+    "comments": 297,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:58.101621+00:00"
+  },
+  {
+    "id": "49286341",
+    "source": "hackernews",
+    "title": "Spaghettifying DRAM",
+    "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+    "score": 691,
+    "comments": 174,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:58.134431+00:00"
+  },
+  {
+    "id": "49285327",
+    "source": "hackernews",
+    "title": "Choosing an AI model: one prompt, 11 models, different results",
+    "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+    "score": 215,
+    "comments": 94,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:58.149753+00:00"
+  },
+  {
+    "id": "49290166",
+    "source": "hackernews",
+    "title": "Hello, me. It's been a while",
+    "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
+    "score": 356,
+    "comments": 193,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:58.163382+00:00"
+  },
+  {
+    "id": "49291268",
+    "source": "hackernews",
+    "title": "NP-overrated",
+    "url": "https://gruhn.me/blog/2026-08-13/",
+    "score": 240,
+    "comments": 174,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:58.256707+00:00"
+  },
+  {
+    "id": "49288889",
+    "source": "hackernews",
+    "title": "Mistral OCR 4.1",
+    "url": "https://docs.mistral.ai/models/ocr-4-1",
+    "score": 402,
+    "comments": 160,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:58.288362+00:00"
+  },
+  {
+    "id": "49218040",
+    "source": "hackernews",
+    "title": "Mushroom behind 'tiny people' hallucinations identified",
+    "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
+    "score": 293,
+    "comments": 278,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:58.331626+00:00"
+  },
+  {
+    "id": "49290299",
+    "source": "hackernews",
+    "title": "Understanding is the new bottleneck",
+    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+    "score": 418,
+    "comments": 235,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:58.339153+00:00"
+  },
+  {
+    "id": "49289512",
+    "source": "hackernews",
+    "title": "Choose Boring Technology (2015)",
+    "url": "https://mcfunley.com/choose-boring-technology",
+    "score": 419,
+    "comments": 240,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:58.387843+00:00"
+  },
+  {
+    "id": "49293324",
+    "source": "hackernews",
+    "title": "Bluesky Protocol Services",
+    "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+    "score": 204,
+    "comments": 61,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:58.464208+00:00"
+  },
+  {
+    "id": "49285418",
+    "source": "hackernews",
+    "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+    "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+    "score": 374,
+    "comments": 220,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:58.479477+00:00"
+  },
+  {
+    "id": "49285982",
+    "source": "hackernews",
+    "title": "Gloomberb",
+    "url": "https://gloom.sh/",
+    "score": 431,
+    "comments": 226,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:58.479494+00:00"
+  },
+  {
+    "id": "49289465",
+    "source": "hackernews",
+    "title": "Donkey.bas is 45 Years Old \u2013 131 line of Glory",
+    "url": "https://donkeybas.com/",
+    "score": 271,
+    "comments": 143,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:58.531658+00:00"
+  },
+  {
+    "id": "49274600",
+    "source": "hackernews",
+    "title": "DeepSeek V4 Pro 0813",
+    "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+    "score": 1027,
+    "comments": 446,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:58.595032+00:00"
+  },
+  {
+    "id": "49272832",
+    "source": "hackernews",
+    "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
+    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "score": 1198,
+    "comments": 232,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:58.637495+00:00"
+  },
+  {
+    "id": "49281916",
+    "source": "hackernews",
+    "title": "Codex in ChatGPT desktop app for Linux is now in preview",
+    "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
+    "score": 462,
+    "comments": 316,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:58.662436+00:00"
+  },
+  {
+    "id": "49289654",
+    "source": "hackernews",
+    "title": "How Compaction Works in Pi",
+    "url": "https://earendil.com/posts/compaction-in-pi/",
+    "score": 202,
+    "comments": 90,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:58.716083+00:00"
+  },
+  {
+    "id": "49289532",
+    "source": "hackernews",
+    "title": "Where did the old web go? We followed 657,607 links to find out",
+    "url": "https://0.mk/blog/link-rot",
+    "score": 221,
+    "comments": 207,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:58.789865+00:00"
+  },
+  {
+    "id": "49285770",
+    "source": "hackernews",
+    "title": "Ordinary Abundance",
+    "url": "https://ordinaryabundance.com/",
+    "score": 375,
+    "comments": 191,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:58.827800+00:00"
+  },
+  {
+    "id": "49280061",
+    "source": "hackernews",
+    "title": "Flutter 3.47",
+    "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+    "score": 201,
+    "comments": 214,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:58.831634+00:00"
+  },
+  {
+    "id": "49273478",
+    "source": "hackernews",
+    "title": "Qwen3.8-2.4T",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+    "score": 710,
+    "comments": 170,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:58.920526+00:00"
+  },
+  {
+    "id": "49290215",
+    "source": "hackernews",
+    "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+    "url": "https://github.com/systemd/systemd/issues/40262",
+    "score": 249,
+    "comments": 217,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:58.994070+00:00"
+  },
+  {
+    "id": "49201953",
+    "source": "hackernews",
+    "title": "The hardest working font in Manhattan (2025)",
+    "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
+    "score": 386,
+    "comments": 58,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:59.052219+00:00"
+  },
+  {
+    "id": "49284774",
+    "source": "hackernews",
+    "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+    "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
+    "score": 408,
+    "comments": 466,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:59.090397+00:00"
+  },
+  {
+    "id": "49276574",
+    "source": "hackernews",
+    "title": "Delta",
+    "url": "https://zed.dev/blog/introducing-delta",
+    "score": 672,
+    "comments": 254,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:59.099154+00:00"
+  },
+  {
+    "id": "49270726",
+    "source": "hackernews",
+    "title": "uBlock Origin is giving up the fight to keep ads off Facebook",
+    "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
+    "score": 709,
+    "comments": 902,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:59.181389+00:00"
+  },
+  {
+    "id": "49301260",
+    "source": "hackernews",
+    "title": "Count Binface receives over a quarter of votes in Clacton by-election",
+    "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+    "score": 426,
+    "comments": 336,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:59.421415+00:00"
+  },
+  {
+    "id": "49270953",
+    "source": "hackernews",
+    "title": "2026 Eclipse Webcams",
+    "url": "https://jonty.github.io/2026_eclipse_webcams/",
+    "score": 510,
+    "comments": 142,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:59.517621+00:00"
+  },
+  {
+    "id": "49286662",
+    "source": "hackernews",
+    "title": "I requested a copy of my data from McDonald\u2019s loyalty program",
+    "url": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
+    "score": 227,
+    "comments": 322,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:59.641306+00:00"
+  },
+  {
+    "id": "49279928",
+    "source": "hackernews",
+    "title": "Principia Mathematica is modern and insightful",
+    "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+    "score": 275,
+    "comments": 155,
+    "subreddit": null,
+    "qualified_at": "2026-08-14T23:10:59.642937+00:00"
+  }
+]
