@@ -30,6 +30,34 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [deb4d1435243] `editor`: LLM call failed for 49299746: ANTHROPIC_API_KEY is not set (first seen 2026-08-15)
+
+- [c8699f404105] `editor`: LLM call failed for 49299081: ANTHROPIC_API_KEY is not set (first seen 2026-08-15)
+
+- [81de7c759689] `editor`: LLM call failed for 49300568: ANTHROPIC_API_KEY is not set (first seen 2026-08-15)
+
+- [eebc34eeb6f6] `editor`: LLM call failed for 49300800: ANTHROPIC_API_KEY is not set (first seen 2026-08-15)
+
+- [3d27df07bf62] `editor`: LLM call failed for 49300759: ANTHROPIC_API_KEY is not set (first seen 2026-08-15)
+
+- [6f54ac51692c] `editor`: LLM call failed for 49304447: ANTHROPIC_API_KEY is not set (first seen 2026-08-15)
+
+- [5285f352a44c] `editor`: LLM call failed for 49306577: ANTHROPIC_API_KEY is not set (first seen 2026-08-15)
+
+- [486effede269] `editor`: LLM call failed for 49307592: ANTHROPIC_API_KEY is not set (first seen 2026-08-15)
+
+- [d23524b84d2c] `editor`: LLM call failed for 49309451: ANTHROPIC_API_KEY is not set (first seen 2026-08-15)
+
+- [cb853daa3ed9] `editor`: LLM call failed for 49298035: ANTHROPIC_API_KEY is not set (first seen 2026-08-15)
+
+- [6965e244a625] `editor`: LLM call failed for 49312845: ANTHROPIC_API_KEY is not set (first seen 2026-08-15)
+
+- [d33627854c31] `editor`: LLM call failed for 49309549: ANTHROPIC_API_KEY is not set (first seen 2026-08-15)
+
+- [ed00fb84257a] `extractor`: HTTP 401 for https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/ (first seen 2026-08-15)
+
+- [93f64f6436a8] `extractor`: bot-blocked (403): https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432 (first seen 2026-08-15)
+
 - [1647cf1706a5] `editor`: LLM call failed for 49279928: ANTHROPIC_API_KEY is not set (first seen 2026-08-14)
 
 - [3131567e56a2] `editor`: LLM call failed for 49286662: ANTHROPIC_API_KEY is not set (first seen 2026-08-14)
