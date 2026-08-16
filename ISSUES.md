@@ -30,6 +30,40 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [1cf1a7534b04] `editor`: LLM call failed for 49246366: ANTHROPIC_API_KEY is not set (first seen 2026-08-16)
+
+- [a713bc74ba24] `editor`: LLM call failed for 49310926: ANTHROPIC_API_KEY is not set (first seen 2026-08-16)
+
+- [18e763b6fea0] `editor`: LLM call failed for 49317760: ANTHROPIC_API_KEY is not set (first seen 2026-08-16)
+
+- [333b898a8d42] `editor`: LLM call failed for 49310682: ANTHROPIC_API_KEY is not set (first seen 2026-08-16)
+
+- [9222a914275b] `editor`: LLM call failed for 49314403: ANTHROPIC_API_KEY is not set (first seen 2026-08-16)
+
+- [62318c4bf0dc] `editor`: LLM call failed for 49314902: ANTHROPIC_API_KEY is not set (first seen 2026-08-16)
+
+- [13047e2051a2] `editor`: LLM call failed for 49313428: ANTHROPIC_API_KEY is not set (first seen 2026-08-16)
+
+- [e4e92c3674a6] `editor`: LLM call failed for 49314235: ANTHROPIC_API_KEY is not set (first seen 2026-08-16)
+
+- [83187dfa5064] `editor`: LLM call failed for 49243061: ANTHROPIC_API_KEY is not set (first seen 2026-08-16)
+
+- [c7d6c85e9ec7] `editor`: LLM call failed for 49268580: ANTHROPIC_API_KEY is not set (first seen 2026-08-16)
+
+- [f3ee25bec585] `editor`: LLM call failed for 49319633: ANTHROPIC_API_KEY is not set (first seen 2026-08-16)
+
+- [ea2cf55892ad] `editor`: LLM call failed for 49320611: ANTHROPIC_API_KEY is not set (first seen 2026-08-16)
+
+- [6e43c98372f2] `editor`: LLM call failed for 49321717: ANTHROPIC_API_KEY is not set (first seen 2026-08-16)
+
+- [83248d2480ed] `editor`: LLM call failed for 49322695: ANTHROPIC_API_KEY is not set (first seen 2026-08-16)
+
+- [56df4d6014a0] `editor`: LLM call failed for 49319556: ANTHROPIC_API_KEY is not set (first seen 2026-08-16)
+
+- [20058bfc9310] `extractor`: bot-blocked (403): https://scholar.google.com/scholar?q=%22kidney+disappointment%22 (first seen 2026-08-16)
+
+- [32d9c891de57] `extractor`: bot-block page detected: https://news.ycombinator.com/item?id=49322107 (first seen 2026-08-16)
+
 - [deb4d1435243] `editor`: LLM call failed for 49299746: ANTHROPIC_API_KEY is not set (first seen 2026-08-15)
 
 - [c8699f404105] `editor`: LLM call failed for 49299081: ANTHROPIC_API_KEY is not set (first seen 2026-08-15)
