@@ -30,6 +30,52 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [0b21159f04f0] `editor`: LLM call failed for 49325159: ANTHROPIC_API_KEY is not set (first seen 2026-08-17)
+
+- [1fad23faf3b0] `editor`: LLM call failed for 49320984: ANTHROPIC_API_KEY is not set (first seen 2026-08-17)
+
+- [4c775399e3b3] `editor`: LLM call failed for 49326156: ANTHROPIC_API_KEY is not set (first seen 2026-08-17)
+
+- [98c9673c4c6a] `editor`: LLM call failed for 49323381: ANTHROPIC_API_KEY is not set (first seen 2026-08-17)
+
+- [be1ac82b2514] `editor`: LLM call failed for 49332981: ANTHROPIC_API_KEY is not set (first seen 2026-08-17)
+
+- [7b991d1864a2] `editor`: LLM call failed for 49325061: ANTHROPIC_API_KEY is not set (first seen 2026-08-17)
+
+- [14c1d90a207f] `editor`: LLM call failed for 49290545: ANTHROPIC_API_KEY is not set (first seen 2026-08-17)
+
+- [bd38545c0dfa] `editor`: LLM call failed for 49324087: ANTHROPIC_API_KEY is not set (first seen 2026-08-17)
+
+- [eef9f5f5d944] `editor`: LLM call failed for 49324985: ANTHROPIC_API_KEY is not set (first seen 2026-08-17)
+
+- [6a5c8c93237c] `editor`: LLM call failed for 49331222: ANTHROPIC_API_KEY is not set (first seen 2026-08-17)
+
+- [122d3d602fe0] `editor`: LLM call failed for 49326816: ANTHROPIC_API_KEY is not set (first seen 2026-08-17)
+
+- [677180f3e3a1] `editor`: LLM call failed for 49325789: ANTHROPIC_API_KEY is not set (first seen 2026-08-17)
+
+- [9fa7575f997f] `editor`: LLM call failed for 49334544: ANTHROPIC_API_KEY is not set (first seen 2026-08-17)
+
+- [6674d3bec201] `editor`: LLM call failed for 49331033: ANTHROPIC_API_KEY is not set (first seen 2026-08-17)
+
+- [e5535ecab9d7] `editor`: LLM call failed for 49336573: ANTHROPIC_API_KEY is not set (first seen 2026-08-17)
+
+- [e8a28d7b53c4] `editor`: LLM call failed for 49331423: ANTHROPIC_API_KEY is not set (first seen 2026-08-17)
+
+- [5234de40df94] `editor`: LLM call failed for 49331220: ANTHROPIC_API_KEY is not set (first seen 2026-08-17)
+
+- [e49ad64035dd] `editor`: LLM call failed for 49270194: ANTHROPIC_API_KEY is not set (first seen 2026-08-17)
+
+- [4159565c13c3] `editor`: LLM call failed for 49329575: ANTHROPIC_API_KEY is not set (first seen 2026-08-17)
+
+- [14b58bfc5602] `editor`: LLM call failed for 49330781: ANTHROPIC_API_KEY is not set (first seen 2026-08-17)
+
+- [5a68a38a9b23] `extractor`: bot-blocked (403): https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf (first seen 2026-08-17)
+
+- [a6509682aff0] `extractor`: HTTP 401 for https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/ (first seen 2026-08-17)
+
+- [1cd8d7d9b6f5] `extractor`: bot-block page detected: https://www.githubstatus.com/incidents/zkxwbgr0cnmx (first seen 2026-08-17)
+
 - [1cf1a7534b04] `editor`: LLM call failed for 49246366: ANTHROPIC_API_KEY is not set (first seen 2026-08-16)
 
 - [a713bc74ba24] `editor`: LLM call failed for 49310926: ANTHROPIC_API_KEY is not set (first seen 2026-08-16)

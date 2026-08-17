@@ -1,0 +1,552 @@
+[
+  {
+    "id": "49330781",
+    "source": "hackernews",
+    "title": "A Preview of DuckDB v2.0",
+    "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+    "score": 501,
+    "comments": 86,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:02.927012+00:00"
+  },
+  {
+    "id": "49329575",
+    "source": "hackernews",
+    "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+    "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+    "score": 287,
+    "comments": 149,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:02.951662+00:00"
+  },
+  {
+    "id": "49270194",
+    "source": "hackernews",
+    "title": "Olo (Color)",
+    "url": "https://en.wikipedia.org/wiki/Olo_(color)",
+    "score": 268,
+    "comments": 62,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:02.970620+00:00"
+  },
+  {
+    "id": "49331220",
+    "source": "hackernews",
+    "title": "How to disable or avoid intrusive AI",
+    "url": "https://www.librarian.net/notoai/",
+    "score": 236,
+    "comments": 129,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:02.983761+00:00"
+  },
+  {
+    "id": "49331423",
+    "source": "hackernews",
+    "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
+    "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+    "score": 297,
+    "comments": 122,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:02.989883+00:00"
+  },
+  {
+    "id": "49336573",
+    "source": "hackernews",
+    "title": "AI;DR (AI; Didn't Read)",
+    "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+    "score": 477,
+    "comments": 292,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:03.002707+00:00"
+  },
+  {
+    "id": "49330597",
+    "source": "hackernews",
+    "title": "Incident with Github.com",
+    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+    "score": 483,
+    "comments": 869,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:03.002729+00:00"
+  },
+  {
+    "id": "49331033",
+    "source": "hackernews",
+    "title": "Ask HN: Alternatives to GitHub",
+    "url": "https://news.ycombinator.com/item?id=49331033",
+    "score": 467,
+    "comments": 295,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:03.069185+00:00"
+  },
+  {
+    "id": "49334544",
+    "source": "hackernews",
+    "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+    "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+    "score": 272,
+    "comments": 122,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:03.245377+00:00"
+  },
+  {
+    "id": "49325789",
+    "source": "hackernews",
+    "title": "On AI regulation and messaging",
+    "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+    "score": 230,
+    "comments": 490,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:03.309011+00:00"
+  },
+  {
+    "id": "49326816",
+    "source": "hackernews",
+    "title": "Linear algebra done right",
+    "url": "https://linear.axler.net/",
+    "score": 247,
+    "comments": 96,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:03.341628+00:00"
+  },
+  {
+    "id": "49331222",
+    "source": "hackernews",
+    "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
+    "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
+    "score": 236,
+    "comments": 92,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:03.407451+00:00"
+  },
+  {
+    "id": "49324985",
+    "source": "hackernews",
+    "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "score": 750,
+    "comments": 355,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:03.414634+00:00"
+  },
+  {
+    "id": "49324087",
+    "source": "hackernews",
+    "title": "Anthropic's \u2018watermark\u2019 text adulteration in Claude is a perversion of writing",
+    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+    "score": 753,
+    "comments": 669,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:03.470469+00:00"
+  },
+  {
+    "id": "49290545",
+    "source": "hackernews",
+    "title": "How do I permanently disable random Google Photos popup to backup photos? (2024)",
+    "url": "https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en",
+    "score": 213,
+    "comments": 160,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:03.546520+00:00"
+  },
+  {
+    "id": "49321717",
+    "source": "hackernews",
+    "title": "A third world engineer responds to \u201cRISC-V: They should have known better\u201d",
+    "url": "https://rvembedded.com/blog_post/12/",
+    "score": 600,
+    "comments": 317,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:03.686335+00:00"
+  },
+  {
+    "id": "49319556",
+    "source": "hackernews",
+    "title": "Claude: System Prompts",
+    "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+    "score": 738,
+    "comments": 281,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:03.720878+00:00"
+  },
+  {
+    "id": "49325061",
+    "source": "hackernews",
+    "title": "Reticulum \u2013 Decentralized Mesh Network",
+    "url": "https://reticulum.network/",
+    "score": 218,
+    "comments": 73,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:03.881490+00:00"
+  },
+  {
+    "id": "49322107",
+    "source": "hackernews",
+    "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+    "url": "https://news.ycombinator.com/item?id=49322107",
+    "score": 621,
+    "comments": 192,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:03.904956+00:00"
+  },
+  {
+    "id": "49332981",
+    "source": "hackernews",
+    "title": "Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study",
+    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+    "score": 373,
+    "comments": 508,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:03.955360+00:00"
+  },
+  {
+    "id": "49323381",
+    "source": "hackernews",
+    "title": "Stripe will reportedly acquire OpenRouter for $7B+",
+    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "score": 449,
+    "comments": 281,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:03.974385+00:00"
+  },
+  {
+    "id": "49323686",
+    "source": "hackernews",
+    "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+    "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+    "score": 242,
+    "comments": 151,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:04.117444+00:00"
+  },
+  {
+    "id": "49325185",
+    "source": "hackernews",
+    "title": "The Life and Death of Direct File [pdf]",
+    "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+    "score": 210,
+    "comments": 110,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:04.178484+00:00"
+  },
+  {
+    "id": "49299605",
+    "source": "hackernews",
+    "title": "Qwen 3.8 27B",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "score": 1423,
+    "comments": 789,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:04.215494+00:00"
+  },
+  {
+    "id": "49320611",
+    "source": "hackernews",
+    "title": "The AI Credit Resale Economy",
+    "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+    "score": 322,
+    "comments": 128,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:04.305934+00:00"
+  },
+  {
+    "id": "49326156",
+    "source": "hackernews",
+    "title": "GIMP Development Update",
+    "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
+    "score": 251,
+    "comments": 229,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:04.333608+00:00"
+  },
+  {
+    "id": "49319389",
+    "source": "hackernews",
+    "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+    "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+    "score": 425,
+    "comments": 152,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:04.343088+00:00"
+  },
+  {
+    "id": "49294997",
+    "source": "hackernews",
+    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+    "url": "https://z.ai/blog/glm-5.3",
+    "score": 1164,
+    "comments": 577,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:04.481166+00:00"
+  },
+  {
+    "id": "49320984",
+    "source": "hackernews",
+    "title": "The weekend is 100 years old",
+    "url": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
+    "score": 216,
+    "comments": 154,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:04.553503+00:00"
+  },
+  {
+    "id": "49319633",
+    "source": "hackernews",
+    "title": "Firefox for iOS now has a native adblocker",
+    "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+    "score": 695,
+    "comments": 271,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:04.597246+00:00"
+  },
+  {
+    "id": "49309549",
+    "source": "hackernews",
+    "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+    "url": "https://sankalp.bearblog.dev/autoresearch/",
+    "score": 452,
+    "comments": 93,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:04.649472+00:00"
+  },
+  {
+    "id": "49310682",
+    "source": "hackernews",
+    "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+    "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+    "score": 295,
+    "comments": 125,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:04.671232+00:00"
+  },
+  {
+    "id": "49314235",
+    "source": "hackernews",
+    "title": "Cultivating a state of mind where new ideas are born (2023)",
+    "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+    "score": 273,
+    "comments": 65,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:04.705176+00:00"
+  },
+  {
+    "id": "49296740",
+    "source": "hackernews",
+    "title": "Why does Opus 5 feel worse to work with?",
+    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+    "score": 977,
+    "comments": 864,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:04.739887+00:00"
+  },
+  {
+    "id": "49311651",
+    "source": "hackernews",
+    "title": "Semaglutide linked to lower predicted dementia risk",
+    "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+    "score": 496,
+    "comments": 392,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:04.760118+00:00"
+  },
+  {
+    "id": "49322695",
+    "source": "hackernews",
+    "title": "Models Are Getting Dumber on Purpose",
+    "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+    "score": 327,
+    "comments": 187,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:04.788483+00:00"
+  },
+  {
+    "id": "49314403",
+    "source": "hackernews",
+    "title": "Abdominal fat predicts heart disease risk better than BMI",
+    "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+    "score": 338,
+    "comments": 310,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:04.844439+00:00"
+  },
+  {
+    "id": "49298035",
+    "source": "hackernews",
+    "title": "RISC-V: They Should Have Known Better",
+    "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+    "score": 392,
+    "comments": 445,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:04.849460+00:00"
+  },
+  {
+    "id": "49289112",
+    "source": "hackernews",
+    "title": "Gemini 3.7 Flash",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "score": 967,
+    "comments": 492,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:04.887952+00:00"
+  },
+  {
+    "id": "49310926",
+    "source": "hackernews",
+    "title": "A spectre is haunting Unicode",
+    "url": "https://www.dampfkraft.com/ghost-characters.html",
+    "score": 279,
+    "comments": 120,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:04.996565+00:00"
+  },
+  {
+    "id": "49312845",
+    "source": "hackernews",
+    "title": "AI isn\u2019t outthinking mathematicians, it\u2019s out-remembering them",
+    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "score": 628,
+    "comments": 497,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:05.063544+00:00"
+  },
+  {
+    "id": "49300314",
+    "source": "hackernews",
+    "title": "Google is making private AI practical with homomorphic encryption",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "score": 497,
+    "comments": 289,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:05.063571+00:00"
+  },
+  {
+    "id": "49304447",
+    "source": "hackernews",
+    "title": "Going Dark, and the era of law enforcement hacking",
+    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+    "score": 457,
+    "comments": 249,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:05.066161+00:00"
+  },
+  {
+    "id": "49307592",
+    "source": "hackernews",
+    "title": "The other Sean Byrne doesn't exist",
+    "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+    "score": 389,
+    "comments": 188,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:05.107771+00:00"
+  },
+  {
+    "id": "49309451",
+    "source": "hackernews",
+    "title": "Working with AI feels more like leadership than coding",
+    "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+    "score": 333,
+    "comments": 201,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:05.158670+00:00"
+  },
+  {
+    "id": "49325159",
+    "source": "hackernews",
+    "title": "The federal keyword lists that canceled billions in research funding",
+    "url": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
+    "score": 274,
+    "comments": 174,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:05.168469+00:00"
+  },
+  {
+    "id": "49306577",
+    "source": "hackernews",
+    "title": "Magnitude 7.7 Earthquake \u2013 68 km NNW of Ende, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+    "score": 224,
+    "comments": 56,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:05.176340+00:00"
+  },
+  {
+    "id": "49272832",
+    "source": "hackernews",
+    "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
+    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "score": 1213,
+    "comments": 237,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:05.263544+00:00"
+  },
+  {
+    "id": "49285244",
+    "source": "hackernews",
+    "title": "DeepSeek Harness developer preview",
+    "url": "https://deepseek.com/harness/en/",
+    "score": 736,
+    "comments": 309,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:05.275748+00:00"
+  },
+  {
+    "id": "49274600",
+    "source": "hackernews",
+    "title": "DeepSeek V4 Pro 0813",
+    "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+    "score": 1037,
+    "comments": 451,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:05.293481+00:00"
+  },
+  {
+    "id": "49289844",
+    "source": "hackernews",
+    "title": "Accelerating GPT-5.6 Sol Ultrafast",
+    "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+    "score": 712,
+    "comments": 278,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:05.305965+00:00"
+  },
+  {
+    "id": "49314902",
+    "source": "hackernews",
+    "title": "Software Engineering fundamentals matter more",
+    "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+    "score": 311,
+    "comments": 235,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:05.424834+00:00"
+  },
+  {
+    "id": "49303202",
+    "source": "hackernews",
+    "title": "Firefox is now the last major browser that still supports uBlock Origin",
+    "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+    "score": 1730,
+    "comments": 710,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:05.426198+00:00"
+  },
+  {
+    "id": "49299675",
+    "source": "hackernews",
+    "title": "Seven books I keep close because I love them",
+    "url": "https://blog.plover.com/2026/08/02/",
+    "score": 380,
+    "comments": 182,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:05.429155+00:00"
+  },
+  {
+    "id": "49285327",
+    "source": "hackernews",
+    "title": "Choosing an AI model: one prompt, 11 models, different results",
+    "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+    "score": 219,
+    "comments": 95,
+    "subreddit": null,
+    "qualified_at": "2026-08-17T23:12:05.429172+00:00"
+  }
+]
