@@ -30,6 +30,54 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [212b6f765d38] `editor`: LLM call failed for 49333824: ANTHROPIC_API_KEY is not set (first seen 2026-08-18)
+
+- [e1c3e6f89daf] `editor`: LLM call failed for 49334409: ANTHROPIC_API_KEY is not set (first seen 2026-08-18)
+
+- [2fe47ea0f3df] `editor`: LLM call failed for 49334991: ANTHROPIC_API_KEY is not set (first seen 2026-08-18)
+
+- [f038065233f2] `editor`: LLM call failed for 49337392: ANTHROPIC_API_KEY is not set (first seen 2026-08-18)
+
+- [799d9580de7e] `editor`: LLM call failed for 49338285: ANTHROPIC_API_KEY is not set (first seen 2026-08-18)
+
+- [2921861d8f09] `editor`: LLM call failed for 49337602: ANTHROPIC_API_KEY is not set (first seen 2026-08-18)
+
+- [50c9ea1c6f9c] `editor`: LLM call failed for 49338328: ANTHROPIC_API_KEY is not set (first seen 2026-08-18)
+
+- [51bb7f0c70bd] `editor`: LLM call failed for 49338459: ANTHROPIC_API_KEY is not set (first seen 2026-08-18)
+
+- [4fc6b71dad0e] `editor`: LLM call failed for 49344654: ANTHROPIC_API_KEY is not set (first seen 2026-08-18)
+
+- [48c869bd6ab9] `editor`: LLM call failed for 49342530: ANTHROPIC_API_KEY is not set (first seen 2026-08-18)
+
+- [8eac5b896252] `editor`: LLM call failed for 49343559: ANTHROPIC_API_KEY is not set (first seen 2026-08-18)
+
+- [2cc2100800db] `editor`: LLM call failed for 49344811: ANTHROPIC_API_KEY is not set (first seen 2026-08-18)
+
+- [2af093e42bc5] `editor`: LLM call failed for 49332495: ANTHROPIC_API_KEY is not set (first seen 2026-08-18)
+
+- [08481b6d4b20] `editor`: LLM call failed for 49345843: ANTHROPIC_API_KEY is not set (first seen 2026-08-18)
+
+- [1139da9fe858] `editor`: LLM call failed for 49272631: ANTHROPIC_API_KEY is not set (first seen 2026-08-18)
+
+- [da879c90f848] `editor`: LLM call failed for 49348751: ANTHROPIC_API_KEY is not set (first seen 2026-08-18)
+
+- [8f001f89610e] `editor`: LLM call failed for 49342719: ANTHROPIC_API_KEY is not set (first seen 2026-08-18)
+
+- [849d52db03f4] `editor`: LLM call failed for 49334960: ANTHROPIC_API_KEY is not set (first seen 2026-08-18)
+
+- [54f15cd793cb] `editor`: LLM call failed for 49345220: ANTHROPIC_API_KEY is not set (first seen 2026-08-18)
+
+- [2c56cd9f4383] `editor`: LLM call failed for 49334209: ANTHROPIC_API_KEY is not set (first seen 2026-08-18)
+
+- [71911fc8f3ef] `editor`: LLM call failed for 49351324: ANTHROPIC_API_KEY is not set (first seen 2026-08-18)
+
+- [c51956f9ef24] `editor`: LLM call failed for 49344825: ANTHROPIC_API_KEY is not set (first seen 2026-08-18)
+
+- [f6520bc1b618] `editor`: LLM call failed for 49345263: ANTHROPIC_API_KEY is not set (first seen 2026-08-18)
+
+- [07f2a9dc54cc] `extractor`: bot-blocked (403): https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban (first seen 2026-08-18)
+
 - [0b21159f04f0] `editor`: LLM call failed for 49325159: ANTHROPIC_API_KEY is not set (first seen 2026-08-17)
 
 - [1fad23faf3b0] `editor`: LLM call failed for 49320984: ANTHROPIC_API_KEY is not set (first seen 2026-08-17)
