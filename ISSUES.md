@@ -30,6 +30,64 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [64d28e57ee51] `editor`: LLM call failed for 49351330: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [35ce8ec06974] `editor`: LLM call failed for 49355142: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [7f8731ad738d] `editor`: LLM call failed for 49348912: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [d515ef5800ee] `editor`: LLM call failed for 49311814: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [1a5d40c7c53c] `editor`: LLM call failed for 49342472: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [3cfa1efe111d] `editor`: LLM call failed for 49349984: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [374ad6891c26] `editor`: LLM call failed for 49353221: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [c831f65ffa8a] `editor`: LLM call failed for 49348055: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [bf3326993abd] `editor`: LLM call failed for 49363433: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [04292d7ed62f] `editor`: LLM call failed for 49358327: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [0fafe8266dfd] `editor`: LLM call failed for 49349898: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [da22e901d5ce] `editor`: LLM call failed for 49354949: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [8f59701d3445] `editor`: LLM call failed for 49344643: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [23d4715ae12d] `editor`: LLM call failed for 49306207: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [ed648266fc50] `editor`: LLM call failed for 49321298: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [34d31ce88058] `editor`: LLM call failed for 49355105: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [2d42c8795a81] `editor`: LLM call failed for 49355606: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [5931dcc5e252] `editor`: LLM call failed for 49362934: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [a5bb96ce0384] `editor`: LLM call failed for 49360242: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [f50fa3c01731] `editor`: LLM call failed for 49359425: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [f0ba2768bcc2] `editor`: LLM call failed for 49361395: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [ed6c7da3f935] `editor`: LLM call failed for 49361279: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [6b9dda354d96] `editor`: LLM call failed for 49360545: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [8ef6d97ec12c] `editor`: LLM call failed for 49364745: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [25c480b234df] `editor`: LLM call failed for 49360015: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [48f6935743fa] `editor`: LLM call failed for 49365405: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [c716a0b29aec] `editor`: LLM call failed for 49364559: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
+
+- [4df0d3f58f66] `extractor`: bot-blocked (403): https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco (first seen 2026-08-19)
+
+- [4a38f359d29d] `extractor`: bot-blocked (403): https://www.casio.com/uk/watches/casio/product.F-B100W-1A/ (first seen 2026-08-19)
+
 - [212b6f765d38] `editor`: LLM call failed for 49333824: ANTHROPIC_API_KEY is not set (first seen 2026-08-18)
 
 - [e1c3e6f89daf] `editor`: LLM call failed for 49334409: ANTHROPIC_API_KEY is not set (first seen 2026-08-18)
