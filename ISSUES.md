@@ -30,6 +30,56 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [fa4b84dde909] `editor`: LLM call failed for 49362728: ANTHROPIC_API_KEY is not set (first seen 2026-08-20)
+
+- [8a7509bb81ab] `editor`: LLM call failed for 49353339: ANTHROPIC_API_KEY is not set (first seen 2026-08-20)
+
+- [76b7f36950a6] `editor`: LLM call failed for 49365841: ANTHROPIC_API_KEY is not set (first seen 2026-08-20)
+
+- [de2882c42571] `editor`: LLM call failed for 49286258: ANTHROPIC_API_KEY is not set (first seen 2026-08-20)
+
+- [f9ad1430ebc7] `editor`: LLM call failed for 49365443: ANTHROPIC_API_KEY is not set (first seen 2026-08-20)
+
+- [ff0afd18bf3f] `editor`: LLM call failed for 49374738: ANTHROPIC_API_KEY is not set (first seen 2026-08-20)
+
+- [368ed616f3b2] `editor`: LLM call failed for 49362401: ANTHROPIC_API_KEY is not set (first seen 2026-08-20)
+
+- [ac01e9e2d4d5] `editor`: LLM call failed for 49371857: ANTHROPIC_API_KEY is not set (first seen 2026-08-20)
+
+- [aeb05f135829] `editor`: LLM call failed for 49367350: ANTHROPIC_API_KEY is not set (first seen 2026-08-20)
+
+- [46f83a7cd815] `editor`: LLM call failed for 49348189: ANTHROPIC_API_KEY is not set (first seen 2026-08-20)
+
+- [5781de05a295] `editor`: LLM call failed for 49323795: ANTHROPIC_API_KEY is not set (first seen 2026-08-20)
+
+- [4ae385191591] `editor`: LLM call failed for 49374797: ANTHROPIC_API_KEY is not set (first seen 2026-08-20)
+
+- [4ceb6d7f7301] `editor`: LLM call failed for 49369408: ANTHROPIC_API_KEY is not set (first seen 2026-08-20)
+
+- [f7cd37883af8] `editor`: LLM call failed for 49371006: ANTHROPIC_API_KEY is not set (first seen 2026-08-20)
+
+- [26670d428b20] `editor`: LLM call failed for 49348141: ANTHROPIC_API_KEY is not set (first seen 2026-08-20)
+
+- [4f68c0d15e77] `editor`: LLM call failed for 49348079: ANTHROPIC_API_KEY is not set (first seen 2026-08-20)
+
+- [bfd7b0a14508] `editor`: LLM call failed for 49373456: ANTHROPIC_API_KEY is not set (first seen 2026-08-20)
+
+- [ea771fa926fd] `editor`: LLM call failed for 49379550: ANTHROPIC_API_KEY is not set (first seen 2026-08-20)
+
+- [ce13cd5126dd] `editor`: LLM call failed for 49374269: ANTHROPIC_API_KEY is not set (first seen 2026-08-20)
+
+- [c83c7b0a25fd] `editor`: LLM call failed for 49362689: ANTHROPIC_API_KEY is not set (first seen 2026-08-20)
+
+- [0af5b9a2d637] `editor`: LLM call failed for 49347543: ANTHROPIC_API_KEY is not set (first seen 2026-08-20)
+
+- [ec7a71e7bb37] `editor`: LLM call failed for 49378957: ANTHROPIC_API_KEY is not set (first seen 2026-08-20)
+
+- [3277422764c8] `extractor`: bot-blocked (403): https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/ (first seen 2026-08-20)
+
+- [5189ac6b3265] `extractor`: HTTP 429 for https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html (first seen 2026-08-20)
+
+- [fda918d7bf0a] `extractor`: HTTP 401 for https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink (first seen 2026-08-20)
+
 - [64d28e57ee51] `editor`: LLM call failed for 49351330: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)
 
 - [35ce8ec06974] `editor`: LLM call failed for 49355142: ANTHROPIC_API_KEY is not set (first seen 2026-08-19)

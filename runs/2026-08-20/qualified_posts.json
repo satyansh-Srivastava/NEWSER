@@ -1,0 +1,492 @@
+[
+  {
+    "id": "49378957",
+    "source": "hackernews",
+    "title": "The August 17 outage, and the work ahead",
+    "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+    "score": 211,
+    "comments": 248,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:44.717029+00:00"
+  },
+  {
+    "id": "49368886",
+    "source": "hackernews",
+    "title": "CIA funding helped keep NeXT afloat in the 80s",
+    "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
+    "score": 299,
+    "comments": 195,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:44.802176+00:00"
+  },
+  {
+    "id": "49347543",
+    "source": "hackernews",
+    "title": "I like 'em thick: an apology to my English teachers",
+    "url": "https://www.experimental-history.com/p/i-like-em-thick",
+    "score": 499,
+    "comments": 239,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:44.811805+00:00"
+  },
+  {
+    "id": "49362689",
+    "source": "hackernews",
+    "title": "HTML Can Do That",
+    "url": "https://chrisburnell.com/html-can-do-that/",
+    "score": 516,
+    "comments": 147,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:44.814744+00:00"
+  },
+  {
+    "id": "49374269",
+    "source": "hackernews",
+    "title": "Malicious Rust crate Arrayref runs a build-time payload",
+    "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+    "score": 355,
+    "comments": 349,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:44.833733+00:00"
+  },
+  {
+    "id": "49379550",
+    "source": "hackernews",
+    "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+    "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+    "score": 600,
+    "comments": 110,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:44.841860+00:00"
+  },
+  {
+    "id": "49372583",
+    "source": "hackernews",
+    "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+    "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+    "score": 834,
+    "comments": 277,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:44.841879+00:00"
+  },
+  {
+    "id": "49373456",
+    "source": "hackernews",
+    "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+    "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+    "score": 468,
+    "comments": 103,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:44.852265+00:00"
+  },
+  {
+    "id": "49378630",
+    "source": "hackernews",
+    "title": "Watching TikTok and Instagram deactivates the cognitive control network: Study",
+    "url": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
+    "score": 281,
+    "comments": 106,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:44.976689+00:00"
+  },
+  {
+    "id": "49348079",
+    "source": "hackernews",
+    "title": "Mojo is now open source",
+    "url": "https://www.modular.com/blog/mojo-open-source",
+    "score": 321,
+    "comments": 68,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:45.084593+00:00"
+  },
+  {
+    "id": "49348141",
+    "source": "hackernews",
+    "title": "Git at any scale",
+    "url": "https://cursor.com/blog/git-at-any-scale",
+    "score": 250,
+    "comments": 72,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:45.138053+00:00"
+  },
+  {
+    "id": "49371006",
+    "source": "hackernews",
+    "title": "Windows brings out the Rorschach test in everyone (2003)",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+    "score": 334,
+    "comments": 127,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:45.166126+00:00"
+  },
+  {
+    "id": "49369408",
+    "source": "hackernews",
+    "title": "Turns are Better than Radians (2022)",
+    "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+    "score": 332,
+    "comments": 198,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:45.347028+00:00"
+  },
+  {
+    "id": "49374797",
+    "source": "hackernews",
+    "title": "Bun 1.4",
+    "url": "https://bun.com/blog/bun-v1.4",
+    "score": 222,
+    "comments": 131,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:45.417217+00:00"
+  },
+  {
+    "id": "49323795",
+    "source": "hackernews",
+    "title": "A faster way to calculate the day of the week",
+    "url": "https://www.benjoffe.com/fast-day-of-week",
+    "score": 243,
+    "comments": 82,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:45.417241+00:00"
+  },
+  {
+    "id": "49348189",
+    "source": "hackernews",
+    "title": "Sol loves to cheat",
+    "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
+    "score": 229,
+    "comments": 185,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:45.427297+00:00"
+  },
+  {
+    "id": "49364559",
+    "source": "hackernews",
+    "title": "OpenRouter is joining Stripe",
+    "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+    "score": 941,
+    "comments": 479,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:45.557101+00:00"
+  },
+  {
+    "id": "49367350",
+    "source": "hackernews",
+    "title": "Feature Request: Support AGENTS.md",
+    "url": "https://github.com/anthropics/claude-code/issues/6235",
+    "score": 350,
+    "comments": 213,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:45.700241+00:00"
+  },
+  {
+    "id": "49364745",
+    "source": "hackernews",
+    "title": "Google has stopped pushing Git tags for some Android source code",
+    "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+    "score": 786,
+    "comments": 300,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:45.708508+00:00"
+  },
+  {
+    "id": "49365405",
+    "source": "hackernews",
+    "title": "Go 1.27",
+    "url": "https://go.dev/blog/go1.27",
+    "score": 736,
+    "comments": 257,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:45.737881+00:00"
+  },
+  {
+    "id": "49371857",
+    "source": "hackernews",
+    "title": "Don't paste the AI, please",
+    "url": "https://dontpastetheai.com/",
+    "score": 981,
+    "comments": 533,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:45.777647+00:00"
+  },
+  {
+    "id": "49359425",
+    "source": "hackernews",
+    "title": "Air Theremin \u2013 A browser theremin you play by waving at your webcam",
+    "url": "https://theremin.bizibah.com/",
+    "score": 294,
+    "comments": 97,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:45.817972+00:00"
+  },
+  {
+    "id": "49355105",
+    "source": "hackernews",
+    "title": "Children's stunted lungs show recovery in ultra low emission zone",
+    "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
+    "score": 408,
+    "comments": 402,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:45.870615+00:00"
+  },
+  {
+    "id": "49355606",
+    "source": "hackernews",
+    "title": "OpenLogi",
+    "url": "https://openlogi.org/en",
+    "score": 1597,
+    "comments": 421,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:45.927141+00:00"
+  },
+  {
+    "id": "49362401",
+    "source": "hackernews",
+    "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+    "url": "https://ornith.ai/ornith_1_5.html",
+    "score": 208,
+    "comments": 73,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:46.056528+00:00"
+  },
+  {
+    "id": "49374738",
+    "source": "hackernews",
+    "title": "Stwipe Acquires OpenWouter",
+    "url": "https://stwipe.com/",
+    "score": 204,
+    "comments": 26,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:46.062904+00:00"
+  },
+  {
+    "id": "49360015",
+    "source": "hackernews",
+    "title": "A joke domain purchase turned in geopolitical warfare",
+    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+    "score": 1002,
+    "comments": 169,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:46.067908+00:00"
+  },
+  {
+    "id": "49358327",
+    "source": "hackernews",
+    "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
+    "url": "https://www.modular.com/blog/modcon-announcements",
+    "score": 224,
+    "comments": 109,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:46.084002+00:00"
+  },
+  {
+    "id": "49344643",
+    "source": "hackernews",
+    "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+    "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+    "score": 336,
+    "comments": 223,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:46.156234+00:00"
+  },
+  {
+    "id": "49362934",
+    "source": "hackernews",
+    "title": "Remote workers report the highest well-being in study of 7,700 employees",
+    "url": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
+    "score": 620,
+    "comments": 334,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:46.183995+00:00"
+  },
+  {
+    "id": "49306207",
+    "source": "hackernews",
+    "title": "Supersonic Trebuchet [video]",
+    "url": "https://www.youtube.com/watch?v=Co57SfcT-h0",
+    "score": 253,
+    "comments": 112,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:46.244892+00:00"
+  },
+  {
+    "id": "49365443",
+    "source": "hackernews",
+    "title": "Unsloth Dynamic 3.0 GGUFs",
+    "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+    "score": 315,
+    "comments": 117,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:46.264911+00:00"
+  },
+  {
+    "id": "49286258",
+    "source": "hackernews",
+    "title": "A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)",
+    "url": "https://kolja.rs/algorithm-d/",
+    "score": 222,
+    "comments": 50,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:46.334178+00:00"
+  },
+  {
+    "id": "49365841",
+    "source": "hackernews",
+    "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+    "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+    "score": 252,
+    "comments": 67,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:46.365520+00:00"
+  },
+  {
+    "id": "49362887",
+    "source": "hackernews",
+    "title": "Casio F-B100W-1A",
+    "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+    "score": 450,
+    "comments": 375,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:46.380635+00:00"
+  },
+  {
+    "id": "49361395",
+    "source": "hackernews",
+    "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
+    "url": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
+    "score": 588,
+    "comments": 281,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:46.441224+00:00"
+  },
+  {
+    "id": "49345263",
+    "source": "hackernews",
+    "title": "The Amazon tax",
+    "url": "https://seths.blog/2026/08/the-amazon-tax/",
+    "score": 1384,
+    "comments": 692,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:46.448124+00:00"
+  },
+  {
+    "id": "49360242",
+    "source": "hackernews",
+    "title": "Devices with GrapheneOS support should be available in 2027",
+    "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+    "score": 628,
+    "comments": 396,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:46.484065+00:00"
+  },
+  {
+    "id": "49353339",
+    "source": "hackernews",
+    "title": "fx :Tiny, open, native coding agent.",
+    "url": "https://fx.sh",
+    "score": 309,
+    "comments": 134,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:46.540526+00:00"
+  },
+  {
+    "id": "49360545",
+    "source": "hackernews",
+    "title": "Geolocating a random island using geometry and CUDA programming",
+    "url": "https://yassa9.github.io/osint/gralhix-004/",
+    "score": 515,
+    "comments": 85,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:46.564918+00:00"
+  },
+  {
+    "id": "49361279",
+    "source": "hackernews",
+    "title": "PostgreSQL for Everything",
+    "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+    "score": 427,
+    "comments": 256,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:46.741970+00:00"
+  },
+  {
+    "id": "49321298",
+    "source": "hackernews",
+    "title": "Being ambitious and being a dad",
+    "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+    "score": 937,
+    "comments": 747,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:46.753013+00:00"
+  },
+  {
+    "id": "49332495",
+    "source": "hackernews",
+    "title": "Ask HN: GitHub employees what's going on? Why?",
+    "url": "https://news.ycombinator.com/item?id=49332495",
+    "score": 319,
+    "comments": 260,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:46.809155+00:00"
+  },
+  {
+    "id": "49362728",
+    "source": "hackernews",
+    "title": "Mathematics in the age of AI",
+    "url": "https://arxiv.org/abs/2608.16753",
+    "score": 204,
+    "comments": 246,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:46.907179+00:00"
+  },
+  {
+    "id": "49349898",
+    "source": "hackernews",
+    "title": "Turbovec \u2013 Google's TurboQuant for vector search in Rust",
+    "url": "https://github.com/RyanCodrai/turbovec",
+    "score": 296,
+    "comments": 33,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:46.923131+00:00"
+  },
+  {
+    "id": "49348055",
+    "source": "hackernews",
+    "title": "Apple announces changes for apps in the European Union",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+    "score": 287,
+    "comments": 440,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:46.965080+00:00"
+  },
+  {
+    "id": "49354949",
+    "source": "hackernews",
+    "title": "Cerebras CS-4",
+    "url": "https://www.cerebras.ai/cs4",
+    "score": 461,
+    "comments": 273,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:47.055603+00:00"
+  },
+  {
+    "id": "49332981",
+    "source": "hackernews",
+    "title": "Universal health coverage could save $1T and 114k lives a year: study",
+    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+    "score": 890,
+    "comments": 960,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:47.135112+00:00"
+  },
+  {
+    "id": "49272631",
+    "source": "hackernews",
+    "title": "Teaching my kid to code with a modern MUD",
+    "url": "https://tau.dev/2026/08/07/canon",
+    "score": 267,
+    "comments": 69,
+    "subreddit": null,
+    "qualified_at": "2026-08-20T23:14:47.191531+00:00"
+  }
+]
