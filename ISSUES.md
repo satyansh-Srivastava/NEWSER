@@ -30,6 +30,34 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [54ec8ae38a77] `editor`: LLM call failed for 49346444: ANTHROPIC_API_KEY is not set (first seen 2026-08-22)
+
+- [49b63d12935e] `editor`: LLM call failed for 49387525: ANTHROPIC_API_KEY is not set (first seen 2026-08-22)
+
+- [0e2a52751c73] `editor`: LLM call failed for 49388752: ANTHROPIC_API_KEY is not set (first seen 2026-08-22)
+
+- [184e18889af7] `editor`: LLM call failed for 49394496: ANTHROPIC_API_KEY is not set (first seen 2026-08-22)
+
+- [e6bc396dc6ec] `editor`: LLM call failed for 49391553: ANTHROPIC_API_KEY is not set (first seen 2026-08-22)
+
+- [1e7fdc904b05] `editor`: LLM call failed for 49395628: ANTHROPIC_API_KEY is not set (first seen 2026-08-22)
+
+- [32e1c061bc60] `editor`: LLM call failed for 49392200: ANTHROPIC_API_KEY is not set (first seen 2026-08-22)
+
+- [6fb397fe993e] `editor`: LLM call failed for 49384210: ANTHROPIC_API_KEY is not set (first seen 2026-08-22)
+
+- [2ac05e2dfed7] `editor`: LLM call failed for 49393052: ANTHROPIC_API_KEY is not set (first seen 2026-08-22)
+
+- [c2094481bf20] `editor`: LLM call failed for 49398152: ANTHROPIC_API_KEY is not set (first seen 2026-08-22)
+
+- [5ca5c3ad8578] `editor`: LLM call failed for 49397074: ANTHROPIC_API_KEY is not set (first seen 2026-08-22)
+
+- [2b398d8a9bc7] `editor`: LLM call failed for 49400408: ANTHROPIC_API_KEY is not set (first seen 2026-08-22)
+
+- [e32bb093c2df] `editor`: LLM call failed for 49402189: ANTHROPIC_API_KEY is not set (first seen 2026-08-22)
+
+- [149a5d3664e4] `extractor`: HTTP 429 for https://www.felonybench.com/ (first seen 2026-08-22)
+
 - [7f8a4a8f548a] `editor`: LLM call failed for 49375996: ANTHROPIC_API_KEY is not set (first seen 2026-08-21)
 
 - [9d0f768112a0] `editor`: LLM call failed for 49378446: ANTHROPIC_API_KEY is not set (first seen 2026-08-21)
