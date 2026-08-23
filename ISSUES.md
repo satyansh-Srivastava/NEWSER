@@ -30,6 +30,48 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [a69844161e8a] `editor`: LLM call failed for 49401549: ANTHROPIC_API_KEY is not set (first seen 2026-08-23)
+
+- [ff6521bf208e] `editor`: LLM call failed for 49393051: ANTHROPIC_API_KEY is not set (first seen 2026-08-23)
+
+- [81597b531ed3] `editor`: LLM call failed for 49355659: ANTHROPIC_API_KEY is not set (first seen 2026-08-23)
+
+- [992872593c54] `editor`: LLM call failed for 49399591: ANTHROPIC_API_KEY is not set (first seen 2026-08-23)
+
+- [8b6463bce7ed] `editor`: LLM call failed for 49402202: ANTHROPIC_API_KEY is not set (first seen 2026-08-23)
+
+- [c5928caf8aa4] `editor`: LLM call failed for 49346854: ANTHROPIC_API_KEY is not set (first seen 2026-08-23)
+
+- [28e0dd3944da] `editor`: LLM call failed for 49399898: ANTHROPIC_API_KEY is not set (first seen 2026-08-23)
+
+- [3f95b1c1a82a] `editor`: LLM call failed for 49351802: ANTHROPIC_API_KEY is not set (first seen 2026-08-23)
+
+- [f9360d281c09] `editor`: LLM call failed for 49402232: ANTHROPIC_API_KEY is not set (first seen 2026-08-23)
+
+- [dd11b3f5a5b7] `editor`: LLM call failed for 49409200: ANTHROPIC_API_KEY is not set (first seen 2026-08-23)
+
+- [6a8339a6ee2c] `editor`: LLM call failed for 49409073: ANTHROPIC_API_KEY is not set (first seen 2026-08-23)
+
+- [4a69eb84a3d8] `editor`: LLM call failed for 49407507: ANTHROPIC_API_KEY is not set (first seen 2026-08-23)
+
+- [4bd8b2206b68] `editor`: LLM call failed for 49405816: ANTHROPIC_API_KEY is not set (first seen 2026-08-23)
+
+- [16f976568b4c] `editor`: LLM call failed for 49405870: ANTHROPIC_API_KEY is not set (first seen 2026-08-23)
+
+- [f15e875fe2d3] `editor`: LLM call failed for 49409473: ANTHROPIC_API_KEY is not set (first seen 2026-08-23)
+
+- [7a399b34e1a1] `editor`: LLM call failed for 49406539: ANTHROPIC_API_KEY is not set (first seen 2026-08-23)
+
+- [fc7fff4d0780] `editor`: LLM call failed for 49409092: ANTHROPIC_API_KEY is not set (first seen 2026-08-23)
+
+- [0a0b594394d0] `editor`: LLM call failed for 49410362: ANTHROPIC_API_KEY is not set (first seen 2026-08-23)
+
+- [ac5646e36401] `editor`: LLM call failed for 49411643: ANTHROPIC_API_KEY is not set (first seen 2026-08-23)
+
+- [db07961e0018] `extractor`: HTTP 401 for https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/ (first seen 2026-08-23)
+
+- [67a6ce1bd654] `extractor`: bot-blocked (403): https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/ (first seen 2026-08-23)
+
 - [54ec8ae38a77] `editor`: LLM call failed for 49346444: ANTHROPIC_API_KEY is not set (first seen 2026-08-22)
 
 - [49b63d12935e] `editor`: LLM call failed for 49387525: ANTHROPIC_API_KEY is not set (first seen 2026-08-22)

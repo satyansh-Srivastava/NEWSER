@@ -1,0 +1,602 @@
+[
+  {
+    "id": "49411643",
+    "source": "hackernews",
+    "title": "How I find problems to solve as a staff engineer",
+    "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+    "score": 202,
+    "comments": 73,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:55.676071+00:00"
+  },
+  {
+    "id": "49410362",
+    "source": "hackernews",
+    "title": "A website for debloated open source alternatives",
+    "url": "https://debloat.dev/",
+    "score": 223,
+    "comments": 78,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:55.750568+00:00"
+  },
+  {
+    "id": "49409092",
+    "source": "hackernews",
+    "title": "What Is a Harness?",
+    "url": "https://earendil.com/posts/what-is-a-harness/",
+    "score": 251,
+    "comments": 122,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:55.799629+00:00"
+  },
+  {
+    "id": "49406539",
+    "source": "hackernews",
+    "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+    "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+    "score": 277,
+    "comments": 223,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:55.817839+00:00"
+  },
+  {
+    "id": "49409473",
+    "source": "hackernews",
+    "title": "How Complex Systems Fail (1998)",
+    "url": "https://how.complexsystems.fail/",
+    "score": 212,
+    "comments": 58,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:55.817862+00:00"
+  },
+  {
+    "id": "49405870",
+    "source": "hackernews",
+    "title": "To become a better writer, read as much as you can",
+    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+    "score": 416,
+    "comments": 247,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:56.021990+00:00"
+  },
+  {
+    "id": "49405816",
+    "source": "hackernews",
+    "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+    "url": "https://martypc.net/",
+    "score": 206,
+    "comments": 88,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:56.031748+00:00"
+  },
+  {
+    "id": "49407507",
+    "source": "hackernews",
+    "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+    "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+    "score": 305,
+    "comments": 133,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:56.092466+00:00"
+  },
+  {
+    "id": "49409073",
+    "source": "hackernews",
+    "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+    "url": "https://ericpardee.github.io/fire-hd-ownership/",
+    "score": 595,
+    "comments": 263,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:56.207014+00:00"
+  },
+  {
+    "id": "49409200",
+    "source": "hackernews",
+    "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+    "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+    "score": 348,
+    "comments": 131,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:56.237408+00:00"
+  },
+  {
+    "id": "49402232",
+    "source": "hackernews",
+    "title": "Why your local LLM feels dumber than it is",
+    "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+    "score": 471,
+    "comments": 194,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:56.304548+00:00"
+  },
+  {
+    "id": "49351802",
+    "source": "hackernews",
+    "title": "Hister \u2013 A private, full content search index that you control",
+    "url": "https://hister.org/",
+    "score": 469,
+    "comments": 97,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:56.517152+00:00"
+  },
+  {
+    "id": "49399898",
+    "source": "hackernews",
+    "title": "A Friendly Introduction to Racket",
+    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+    "score": 260,
+    "comments": 164,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:56.519879+00:00"
+  },
+  {
+    "id": "49402189",
+    "source": "hackernews",
+    "title": "Scrap (2006)",
+    "url": "https://twitter.com/moxie/status/2091218652133732491",
+    "score": 410,
+    "comments": 225,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:56.547815+00:00"
+  },
+  {
+    "id": "49400408",
+    "source": "hackernews",
+    "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+    "url": "https://quantumi.sh/public/labs.html",
+    "score": 480,
+    "comments": 143,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:56.570217+00:00"
+  },
+  {
+    "id": "49397074",
+    "source": "hackernews",
+    "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+    "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+    "score": 681,
+    "comments": 1580,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:56.594236+00:00"
+  },
+  {
+    "id": "49346854",
+    "source": "hackernews",
+    "title": "typ.ing",
+    "url": "https://typ.ing/",
+    "score": 354,
+    "comments": 117,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:56.596391+00:00"
+  },
+  {
+    "id": "49402202",
+    "source": "hackernews",
+    "title": "Thinking in Python",
+    "url": "https://thinkinginpython.com/",
+    "score": 283,
+    "comments": 59,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:56.702305+00:00"
+  },
+  {
+    "id": "49399591",
+    "source": "hackernews",
+    "title": "New MCP Roadmap",
+    "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+    "score": 264,
+    "comments": 154,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:56.734525+00:00"
+  },
+  {
+    "id": "49355659",
+    "source": "hackernews",
+    "title": "RF Cafe",
+    "url": "https://www.rfcafe.com/",
+    "score": 241,
+    "comments": 44,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:56.782574+00:00"
+  },
+  {
+    "id": "49360140",
+    "source": "hackernews",
+    "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025)",
+    "url": "https://arxiv.org/abs/2504.09762",
+    "score": 305,
+    "comments": 256,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:56.791476+00:00"
+  },
+  {
+    "id": "49389430",
+    "source": "hackernews",
+    "title": "Felony Bench",
+    "url": "https://www.felonybench.com/",
+    "score": 839,
+    "comments": 339,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:56.799990+00:00"
+  },
+  {
+    "id": "49399524",
+    "source": "hackernews",
+    "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
+    "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
+    "score": 227,
+    "comments": 99,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:56.813072+00:00"
+  },
+  {
+    "id": "49393051",
+    "source": "hackernews",
+    "title": "A week of using Codex more than Claude",
+    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+    "score": 235,
+    "comments": 271,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:56.817727+00:00"
+  },
+  {
+    "id": "49383026",
+    "source": "hackernews",
+    "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
+    "url": "https://annas-archive.gl/blog/physical-destruction.html",
+    "score": 628,
+    "comments": 901,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:56.874571+00:00"
+  },
+  {
+    "id": "49387959",
+    "source": "hackernews",
+    "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+    "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+    "score": 204,
+    "comments": 116,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:56.893937+00:00"
+  },
+  {
+    "id": "49386895",
+    "source": "hackernews",
+    "title": "Felony charges for citizen deleting phone data at US Border",
+    "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+    "score": 1082,
+    "comments": 1333,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:56.893961+00:00"
+  },
+  {
+    "id": "49390427",
+    "source": "hackernews",
+    "title": "Kobo can run apps now",
+    "url": "https://bandarlabs.github.io/Cobalt/",
+    "score": 651,
+    "comments": 205,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:56.982654+00:00"
+  },
+  {
+    "id": "49398152",
+    "source": "hackernews",
+    "title": "Munder Difflin \u2013 Agent harness to run an office of your clones",
+    "url": "https://munderdiffl.in/",
+    "score": 303,
+    "comments": 137,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.086361+00:00"
+  },
+  {
+    "id": "49387570",
+    "source": "hackernews",
+    "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+    "url": "https://lina.sh/blog/hijacking-e164-arpa",
+    "score": 671,
+    "comments": 83,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.086389+00:00"
+  },
+  {
+    "id": "49393052",
+    "source": "hackernews",
+    "title": "Rust Glancer: Rust LSP using 100x less RAM",
+    "url": "https://rust-glancer.github.io/blog/hello-world/",
+    "score": 417,
+    "comments": 109,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.107115+00:00"
+  },
+  {
+    "id": "49384210",
+    "source": "hackernews",
+    "title": "Stop Making TUIs",
+    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+    "score": 418,
+    "comments": 537,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.112790+00:00"
+  },
+  {
+    "id": "49385860",
+    "source": "hackernews",
+    "title": "Small, native web tricks worth remembering",
+    "url": "https://htmlcat.net/",
+    "score": 242,
+    "comments": 59,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.216120+00:00"
+  },
+  {
+    "id": "49372583",
+    "source": "hackernews",
+    "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+    "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+    "score": 1039,
+    "comments": 333,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.234813+00:00"
+  },
+  {
+    "id": "49384896",
+    "source": "hackernews",
+    "title": "The Lost Treasure of Sid Meier's Pirates",
+    "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+    "score": 273,
+    "comments": 146,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.234841+00:00"
+  },
+  {
+    "id": "49401549",
+    "source": "hackernews",
+    "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+    "url": "https://twitter.com/argofowl/status/2091150597374537729",
+    "score": 203,
+    "comments": 184,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.249930+00:00"
+  },
+  {
+    "id": "49394496",
+    "source": "hackernews",
+    "title": "Three important steps in my maturation process",
+    "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+    "score": 222,
+    "comments": 124,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.301540+00:00"
+  },
+  {
+    "id": "49388154",
+    "source": "hackernews",
+    "title": "Kagi added a setting for removing paywalled links from search results",
+    "url": "https://kagi.com/changelog#11296",
+    "score": 1253,
+    "comments": 394,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.349576+00:00"
+  },
+  {
+    "id": "49386163",
+    "source": "hackernews",
+    "title": "DeepSeek-v4-flash-vision-exp",
+    "url": "https://api-docs.deepseek.com/guides/vision/",
+    "score": 496,
+    "comments": 154,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.373851+00:00"
+  },
+  {
+    "id": "49381896",
+    "source": "hackernews",
+    "title": "Ox Alpha",
+    "url": "https://openrouter.ai/stealth/ox-alpha",
+    "score": 252,
+    "comments": 197,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.448589+00:00"
+  },
+  {
+    "id": "49362689",
+    "source": "hackernews",
+    "title": "HTML Can Do That",
+    "url": "https://chrisburnell.com/html-can-do-that/",
+    "score": 1010,
+    "comments": 230,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.483868+00:00"
+  },
+  {
+    "id": "49375719",
+    "source": "hackernews",
+    "title": "Anti-AI fonts are useless and harmful",
+    "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+    "score": 212,
+    "comments": 165,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.493527+00:00"
+  },
+  {
+    "id": "49369408",
+    "source": "hackernews",
+    "title": "Turns are Better than Radians (2022)",
+    "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+    "score": 349,
+    "comments": 215,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.555116+00:00"
+  },
+  {
+    "id": "49347543",
+    "source": "hackernews",
+    "title": "I like 'em thick: an apology to my English teachers",
+    "url": "https://www.experimental-history.com/p/i-like-em-thick",
+    "score": 861,
+    "comments": 340,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.697794+00:00"
+  },
+  {
+    "id": "49376265",
+    "source": "hackernews",
+    "title": "Linux 7.2",
+    "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+    "score": 297,
+    "comments": 127,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.697820+00:00"
+  },
+  {
+    "id": "49392200",
+    "source": "hackernews",
+    "title": "Scientists release biggest 2D map of the universe",
+    "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+    "score": 261,
+    "comments": 71,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.758581+00:00"
+  },
+  {
+    "id": "49357530",
+    "source": "hackernews",
+    "title": "AI boosted homework scores, then exam scores dropped: study",
+    "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+    "score": 378,
+    "comments": 379,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.833568+00:00"
+  },
+  {
+    "id": "49348189",
+    "source": "hackernews",
+    "title": "Sol loves to cheat",
+    "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
+    "score": 243,
+    "comments": 202,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.866397+00:00"
+  },
+  {
+    "id": "49386699",
+    "source": "hackernews",
+    "title": "I'm becoming AI-blind",
+    "url": "https://cymerys.com/w/im-becoming-ai-blind",
+    "score": 493,
+    "comments": 499,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.906916+00:00"
+  },
+  {
+    "id": "49371006",
+    "source": "hackernews",
+    "title": "Windows brings out the Rorschach test in everyone (2003)",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+    "score": 354,
+    "comments": 137,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.933479+00:00"
+  },
+  {
+    "id": "49388752",
+    "source": "hackernews",
+    "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+    "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+    "score": 352,
+    "comments": 236,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.943724+00:00"
+  },
+  {
+    "id": "49355105",
+    "source": "hackernews",
+    "title": "Children's stunted lungs show recovery in ultra low emission zone",
+    "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
+    "score": 416,
+    "comments": 410,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.943753+00:00"
+  },
+  {
+    "id": "49378957",
+    "source": "hackernews",
+    "title": "The August 17 outage",
+    "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+    "score": 637,
+    "comments": 753,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.951068+00:00"
+  },
+  {
+    "id": "49364559",
+    "source": "hackernews",
+    "title": "OpenRouter is joining Stripe",
+    "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+    "score": 958,
+    "comments": 497,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.955605+00:00"
+  },
+  {
+    "id": "49391553",
+    "source": "hackernews",
+    "title": "OTel isn\u2019t going well",
+    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+    "score": 231,
+    "comments": 118,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.971571+00:00"
+  },
+  {
+    "id": "49355606",
+    "source": "hackernews",
+    "title": "OpenLogi",
+    "url": "https://openlogi.org/en",
+    "score": 1628,
+    "comments": 429,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:57.978584+00:00"
+  },
+  {
+    "id": "49374269",
+    "source": "hackernews",
+    "title": "Malicious Rust crate Arrayref runs a build-time payload",
+    "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+    "score": 549,
+    "comments": 503,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:58.028227+00:00"
+  },
+  {
+    "id": "49387525",
+    "source": "hackernews",
+    "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
+    "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+    "score": 280,
+    "comments": 183,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:58.032469+00:00"
+  },
+  {
+    "id": "49395628",
+    "source": "hackernews",
+    "title": "There's no reason for software to be slow anymore",
+    "url": "https://danluu.com/perf-opt/",
+    "score": 647,
+    "comments": 488,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:58.078966+00:00"
+  },
+  {
+    "id": "49346444",
+    "source": "hackernews",
+    "title": "The coolest anti-surveillance tools at Defcon [video]",
+    "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
+    "score": 243,
+    "comments": 46,
+    "subreddit": null,
+    "qualified_at": "2026-08-23T23:09:58.099788+00:00"
+  }
+]
