@@ -30,6 +30,50 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [a6be78191ba1] `editor`: LLM call failed for 49411395: ANTHROPIC_API_KEY is not set (first seen 2026-08-24)
+
+- [5b0dd60691dd] `editor`: LLM call failed for 49410932: ANTHROPIC_API_KEY is not set (first seen 2026-08-24)
+
+- [3afd6996eb93] `editor`: LLM call failed for 49411717: ANTHROPIC_API_KEY is not set (first seen 2026-08-24)
+
+- [dbb639b31afa] `editor`: LLM call failed for 49415621: ANTHROPIC_API_KEY is not set (first seen 2026-08-24)
+
+- [2a342dbef967] `editor`: LLM call failed for 49411468: ANTHROPIC_API_KEY is not set (first seen 2026-08-24)
+
+- [4e405e116c9e] `editor`: LLM call failed for 49420902: ANTHROPIC_API_KEY is not set (first seen 2026-08-24)
+
+- [bc2d1cdd7f0d] `editor`: LLM call failed for 49416055: ANTHROPIC_API_KEY is not set (first seen 2026-08-24)
+
+- [effb7f39776a] `editor`: LLM call failed for 49411102: ANTHROPIC_API_KEY is not set (first seen 2026-08-24)
+
+- [f4795e6fd2b5] `editor`: LLM call failed for 49413561: ANTHROPIC_API_KEY is not set (first seen 2026-08-24)
+
+- [27e6576473c2] `editor`: LLM call failed for 49413320: ANTHROPIC_API_KEY is not set (first seen 2026-08-24)
+
+- [bd20a2528e80] `editor`: LLM call failed for 49412396: ANTHROPIC_API_KEY is not set (first seen 2026-08-24)
+
+- [9996904e9de8] `editor`: LLM call failed for 49421554: ANTHROPIC_API_KEY is not set (first seen 2026-08-24)
+
+- [8649f0b6afb1] `editor`: LLM call failed for 49415271: ANTHROPIC_API_KEY is not set (first seen 2026-08-24)
+
+- [eef48105ed51] `editor`: LLM call failed for 49421074: ANTHROPIC_API_KEY is not set (first seen 2026-08-24)
+
+- [b316e382182d] `editor`: LLM call failed for 49424606: ANTHROPIC_API_KEY is not set (first seen 2026-08-24)
+
+- [1657e674a1c1] `editor`: LLM call failed for 49421489: ANTHROPIC_API_KEY is not set (first seen 2026-08-24)
+
+- [8fce54bd6814] `editor`: LLM call failed for 49422784: ANTHROPIC_API_KEY is not set (first seen 2026-08-24)
+
+- [cb47fbbea878] `editor`: LLM call failed for 49419237: ANTHROPIC_API_KEY is not set (first seen 2026-08-24)
+
+- [e4e14e4fdab0] `editor`: LLM call failed for 49420873: ANTHROPIC_API_KEY is not set (first seen 2026-08-24)
+
+- [e1c707455b44] `editor`: LLM call failed for 49421158: ANTHROPIC_API_KEY is not set (first seen 2026-08-24)
+
+- [a498cd9f75ae] `extractor`: bot-blocked (403): https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes (first seen 2026-08-24)
+
+- [8eb3f329251a] `extractor`: bot-block page detected: https://securelist.com/android-head-unit-malware/121106/ (first seen 2026-08-24)
+
 - [a69844161e8a] `editor`: LLM call failed for 49401549: ANTHROPIC_API_KEY is not set (first seen 2026-08-23)
 
 - [ff6521bf208e] `editor`: LLM call failed for 49393051: ANTHROPIC_API_KEY is not set (first seen 2026-08-23)

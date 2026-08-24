@@ -1,0 +1,412 @@
+[
+  {
+    "id": "49421158",
+    "source": "hackernews",
+    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+    "score": 503,
+    "comments": 203,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:44.332019+00:00"
+  },
+  {
+    "id": "49420873",
+    "source": "hackernews",
+    "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+    "url": "https://twitter.com/lemire/status/2091894299289874926",
+    "score": 679,
+    "comments": 464,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:44.335055+00:00"
+  },
+  {
+    "id": "49419237",
+    "source": "hackernews",
+    "title": "How Europe is killing makers and micro-entrepreneurs",
+    "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+    "score": 997,
+    "comments": 626,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:44.336817+00:00"
+  },
+  {
+    "id": "49422784",
+    "source": "hackernews",
+    "title": "The entire city of San Francisco as a video game",
+    "url": "https://sf.thijs.gg/",
+    "score": 297,
+    "comments": 105,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:44.344562+00:00"
+  },
+  {
+    "id": "49421489",
+    "source": "hackernews",
+    "title": "IPFS Maintainers Winding Down",
+    "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+    "score": 305,
+    "comments": 152,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:44.376201+00:00"
+  },
+  {
+    "id": "49424606",
+    "source": "hackernews",
+    "title": "Oceans hit highest temperature on record",
+    "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+    "score": 340,
+    "comments": 202,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:44.388330+00:00"
+  },
+  {
+    "id": "49421074",
+    "source": "hackernews",
+    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "score": 269,
+    "comments": 244,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:44.482571+00:00"
+  },
+  {
+    "id": "49415271",
+    "source": "hackernews",
+    "title": "Executable Is a SQLite Database",
+    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+    "score": 480,
+    "comments": 90,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:44.604293+00:00"
+  },
+  {
+    "id": "49421554",
+    "source": "hackernews",
+    "title": "Coding expertise is going to collapse from AI reliance",
+    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+    "score": 403,
+    "comments": 412,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:44.636506+00:00"
+  },
+  {
+    "id": "49412396",
+    "source": "hackernews",
+    "title": "I were 17, I'd learn how to build LLMs from scratch",
+    "url": "https://twitter.com/paulg/status/2091544343589060625",
+    "score": 498,
+    "comments": 601,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:44.651198+00:00"
+  },
+  {
+    "id": "49413320",
+    "source": "hackernews",
+    "title": "Everything I own, owned",
+    "url": "https://schlarp.com/posts/everything-i-own-owned/",
+    "score": 1345,
+    "comments": 335,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:44.673505+00:00"
+  },
+  {
+    "id": "49413561",
+    "source": "hackernews",
+    "title": "I built a low-latency AI companion that plays Skyrim with me",
+    "url": "https://pantel.is/projects/ai-gaming-companion/",
+    "score": 332,
+    "comments": 69,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:44.731498+00:00"
+  },
+  {
+    "id": "49411102",
+    "source": "hackernews",
+    "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+    "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+    "score": 759,
+    "comments": 665,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:45.029548+00:00"
+  },
+  {
+    "id": "49416055",
+    "source": "hackernews",
+    "title": "Andreessen Horowitz is investing billions into a bleak future",
+    "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
+    "score": 638,
+    "comments": 341,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:45.043789+00:00"
+  },
+  {
+    "id": "49408550",
+    "source": "hackernews",
+    "title": "Malware infects Android-based automotive head unit firmware",
+    "url": "https://securelist.com/android-head-unit-malware/121106/",
+    "score": 261,
+    "comments": 140,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:45.142560+00:00"
+  },
+  {
+    "id": "49420902",
+    "source": "hackernews",
+    "title": "Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",
+    "url": "https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/",
+    "score": 236,
+    "comments": 156,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:45.146998+00:00"
+  },
+  {
+    "id": "49408858",
+    "source": "hackernews",
+    "title": "My favorite nonfiction books about cults, scams, and schemes",
+    "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+    "score": 272,
+    "comments": 122,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:45.149839+00:00"
+  },
+  {
+    "id": "49411468",
+    "source": "hackernews",
+    "title": "Fable and the end of the free lunch",
+    "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+    "score": 215,
+    "comments": 224,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:45.253699+00:00"
+  },
+  {
+    "id": "49411643",
+    "source": "hackernews",
+    "title": "How I find problems to solve as a staff engineer",
+    "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+    "score": 549,
+    "comments": 161,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:45.294739+00:00"
+  },
+  {
+    "id": "49415621",
+    "source": "hackernews",
+    "title": "New EU-wide product repair rules come into force",
+    "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
+    "score": 241,
+    "comments": 134,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:45.374425+00:00"
+  },
+  {
+    "id": "49411717",
+    "source": "hackernews",
+    "title": "Google Workspace thinks my domain is an email provider (2025)",
+    "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+    "score": 380,
+    "comments": 148,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:45.479225+00:00"
+  },
+  {
+    "id": "49410362",
+    "source": "hackernews",
+    "title": "A website for debloated open source alternatives",
+    "url": "https://debloat.dev/",
+    "score": 386,
+    "comments": 124,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:45.547209+00:00"
+  },
+  {
+    "id": "49410932",
+    "source": "hackernews",
+    "title": "My agent.md to improve LLM-assisted code quality",
+    "url": "https://fabiensanglard.net/agent.md/index.html",
+    "score": 392,
+    "comments": 170,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:45.556890+00:00"
+  },
+  {
+    "id": "49409092",
+    "source": "hackernews",
+    "title": "What Is a Harness?",
+    "url": "https://earendil.com/posts/what-is-a-harness/",
+    "score": 542,
+    "comments": 175,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:45.588418+00:00"
+  },
+  {
+    "id": "49409473",
+    "source": "hackernews",
+    "title": "How Complex Systems Fail (1998)",
+    "url": "https://how.complexsystems.fail/",
+    "score": 371,
+    "comments": 76,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:45.707186+00:00"
+  },
+  {
+    "id": "49405870",
+    "source": "hackernews",
+    "title": "To become a better writer, read as much as you can",
+    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+    "score": 467,
+    "comments": 261,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:45.895679+00:00"
+  },
+  {
+    "id": "49411395",
+    "source": "hackernews",
+    "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
+    "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
+    "score": 289,
+    "comments": 152,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:45.925850+00:00"
+  },
+  {
+    "id": "49406539",
+    "source": "hackernews",
+    "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+    "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+    "score": 341,
+    "comments": 284,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:46.176330+00:00"
+  },
+  {
+    "id": "49402232",
+    "source": "hackernews",
+    "title": "Why your local LLM feels dumber than it is",
+    "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+    "score": 499,
+    "comments": 202,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:46.375838+00:00"
+  },
+  {
+    "id": "49407507",
+    "source": "hackernews",
+    "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+    "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+    "score": 359,
+    "comments": 147,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:46.401853+00:00"
+  },
+  {
+    "id": "49397074",
+    "source": "hackernews",
+    "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+    "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+    "score": 718,
+    "comments": 1656,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:46.447167+00:00"
+  },
+  {
+    "id": "49383026",
+    "source": "hackernews",
+    "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
+    "url": "https://annas-archive.gl/blog/physical-destruction.html",
+    "score": 642,
+    "comments": 910,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:46.458164+00:00"
+  },
+  {
+    "id": "49389430",
+    "source": "hackernews",
+    "title": "Felony Bench",
+    "url": "https://www.felonybench.com/",
+    "score": 845,
+    "comments": 345,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:46.486936+00:00"
+  },
+  {
+    "id": "49402189",
+    "source": "hackernews",
+    "title": "Scrap (2006)",
+    "url": "https://twitter.com/moxie/status/2091218652133732491",
+    "score": 417,
+    "comments": 227,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:46.577776+00:00"
+  },
+  {
+    "id": "49386895",
+    "source": "hackernews",
+    "title": "Felony charges for citizen deleting phone data at US Border",
+    "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+    "score": 1103,
+    "comments": 1368,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:46.630854+00:00"
+  },
+  {
+    "id": "49393051",
+    "source": "hackernews",
+    "title": "A week of using Codex more than Claude",
+    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+    "score": 242,
+    "comments": 280,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:46.670643+00:00"
+  },
+  {
+    "id": "49400408",
+    "source": "hackernews",
+    "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+    "url": "https://quantumi.sh/public/labs.html",
+    "score": 494,
+    "comments": 148,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:46.683565+00:00"
+  },
+  {
+    "id": "49390427",
+    "source": "hackernews",
+    "title": "Kobo can run apps now",
+    "url": "https://bandarlabs.github.io/Cobalt/",
+    "score": 655,
+    "comments": 206,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:46.720358+00:00"
+  },
+  {
+    "id": "49399591",
+    "source": "hackernews",
+    "title": "New MCP Roadmap",
+    "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+    "score": 269,
+    "comments": 160,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:46.722416+00:00"
+  },
+  {
+    "id": "49399898",
+    "source": "hackernews",
+    "title": "A Friendly Introduction to Racket",
+    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+    "score": 268,
+    "comments": 183,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:46.769484+00:00"
+  },
+  {
+    "id": "49372583",
+    "source": "hackernews",
+    "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+    "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+    "score": 1051,
+    "comments": 337,
+    "subreddit": null,
+    "qualified_at": "2026-08-24T23:12:46.782112+00:00"
+  }
+]
