@@ -1,0 +1,432 @@
+[
+  {
+    "id": "49452990",
+    "source": "hackernews",
+    "title": "Tailcat \u2013 Like netcat, but over Tailscale\u2019s data plane",
+    "url": "https://github.com/tailscale/tailcat",
+    "score": 505,
+    "comments": 93,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:29.948052+00:00"
+  },
+  {
+    "id": "49448321",
+    "source": "hackernews",
+    "title": "AWS Acquires DuckLabs",
+    "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+    "score": 1003,
+    "comments": 295,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:29.961524+00:00"
+  },
+  {
+    "id": "49449507",
+    "source": "hackernews",
+    "title": "GLM-5.3-Flash",
+    "url": "https://z.ai/blog/glm-5.3-flash",
+    "score": 926,
+    "comments": 464,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:29.980631+00:00"
+  },
+  {
+    "id": "49452980",
+    "source": "hackernews",
+    "title": "An ongoing 3D-printer AGPL violation",
+    "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
+    "score": 342,
+    "comments": 150,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:29.983561+00:00"
+  },
+  {
+    "id": "49448210",
+    "source": "hackernews",
+    "title": "Qwen3.8-Flash-Next",
+    "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+    "score": 646,
+    "comments": 209,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:29.994601+00:00"
+  },
+  {
+    "id": "49458161",
+    "source": "hackernews",
+    "title": "Nvidia agrees to acquire Hugging Face for $13B",
+    "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+    "score": 471,
+    "comments": 217,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:30.011340+00:00"
+  },
+  {
+    "id": "49452709",
+    "source": "hackernews",
+    "title": "U.S. State Department pauses immigrant visa applications",
+    "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
+    "score": 348,
+    "comments": 506,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:30.011364+00:00"
+  },
+  {
+    "id": "49449576",
+    "source": "hackernews",
+    "title": "Twitter Viewer \u2013 View Twitter Without Account",
+    "url": "https://twitterwebviewer.com/",
+    "score": 348,
+    "comments": 168,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:30.079763+00:00"
+  },
+  {
+    "id": "49454314",
+    "source": "hackernews",
+    "title": "The Hugging Face incident and the road ahead",
+    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+    "score": 202,
+    "comments": 250,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:30.113867+00:00"
+  },
+  {
+    "id": "49452671",
+    "source": "hackernews",
+    "title": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela",
+    "url": "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/",
+    "score": 211,
+    "comments": 47,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:30.157080+00:00"
+  },
+  {
+    "id": "49454728",
+    "source": "hackernews",
+    "title": "GitHub Outage Tracker: Is GitHub Cooked?",
+    "url": "https://isgithubcooked.com/",
+    "score": 201,
+    "comments": 129,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:30.175399+00:00"
+  },
+  {
+    "id": "49449749",
+    "source": "hackernews",
+    "title": "Taylor Farms: How One Company's Reach Became a National Risk",
+    "url": "https://farmaction.us/taylorfarmsreport/",
+    "score": 253,
+    "comments": 167,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:30.236462+00:00"
+  },
+  {
+    "id": "49450448",
+    "source": "hackernews",
+    "title": "Nebula Sans",
+    "url": "https://www.nebulasans.com",
+    "score": 365,
+    "comments": 134,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:30.261796+00:00"
+  },
+  {
+    "id": "49451448",
+    "source": "hackernews",
+    "title": "Tim Curry has died",
+    "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
+    "score": 606,
+    "comments": 200,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:30.308755+00:00"
+  },
+  {
+    "id": "49445727",
+    "source": "hackernews",
+    "title": "RAG Is Simpler Than You Think",
+    "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+    "score": 442,
+    "comments": 179,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:30.340895+00:00"
+  },
+  {
+    "id": "49448819",
+    "source": "hackernews",
+    "title": "Meta reaches $17B settlement over social media harms to children",
+    "url": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
+    "score": 491,
+    "comments": 465,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:30.587636+00:00"
+  },
+  {
+    "id": "49450722",
+    "source": "hackernews",
+    "title": "Disruption with Some GitHub Services \u2013 Resolved",
+    "url": "https://www.githubstatus.com/incidents/hcbtzksccj2f",
+    "score": 258,
+    "comments": 156,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:30.602203+00:00"
+  },
+  {
+    "id": "49442589",
+    "source": "hackernews",
+    "title": "Queryable Executables",
+    "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+    "score": 313,
+    "comments": 79,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:30.621743+00:00"
+  },
+  {
+    "id": "49446422",
+    "source": "hackernews",
+    "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+    "score": 421,
+    "comments": 142,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:30.843490+00:00"
+  },
+  {
+    "id": "49433292",
+    "source": "hackernews",
+    "title": "Apple introduces M6 and M5 Ultra",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+    "score": 1290,
+    "comments": 1255,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:30.843514+00:00"
+  },
+  {
+    "id": "49439017",
+    "source": "hackernews",
+    "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+    "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+    "score": 481,
+    "comments": 235,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:31.141432+00:00"
+  },
+  {
+    "id": "49434820",
+    "source": "hackernews",
+    "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+    "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+    "score": 354,
+    "comments": 198,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:31.146057+00:00"
+  },
+  {
+    "id": "49432201",
+    "source": "hackernews",
+    "title": "How credit card rewards became a $9.2B wealth transfer",
+    "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
+    "score": 245,
+    "comments": 434,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:31.152058+00:00"
+  },
+  {
+    "id": "49433316",
+    "source": "hackernews",
+    "title": "New Mac Studio with M5 Max and M5 Ultra",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+    "score": 816,
+    "comments": 546,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:31.155401+00:00"
+  },
+  {
+    "id": "49432319",
+    "source": "hackernews",
+    "title": "Don't Wordle",
+    "url": "https://dontwordle.com/",
+    "score": 382,
+    "comments": 129,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:31.185601+00:00"
+  },
+  {
+    "id": "49434378",
+    "source": "hackernews",
+    "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
+    "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+    "score": 577,
+    "comments": 369,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:31.185622+00:00"
+  },
+  {
+    "id": "49411800",
+    "source": "hackernews",
+    "title": "Training AI to Paint with Code",
+    "url": "https://surya.website/rling-qwen-to-paint-with-code",
+    "score": 218,
+    "comments": 28,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:31.484442+00:00"
+  },
+  {
+    "id": "49437069",
+    "source": "hackernews",
+    "title": "My Friend Aaron",
+    "url": "https://rorz.io/writing/my-friend-aaron",
+    "score": 646,
+    "comments": 180,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:31.523609+00:00"
+  },
+  {
+    "id": "49419252",
+    "source": "hackernews",
+    "title": "What's new in Emacs 31.1",
+    "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
+    "score": 340,
+    "comments": 116,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:31.667247+00:00"
+  },
+  {
+    "id": "49438052",
+    "source": "hackernews",
+    "title": "Dolly Parton has died",
+    "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+    "score": 1561,
+    "comments": 240,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:31.667264+00:00"
+  },
+  {
+    "id": "49433450",
+    "source": "hackernews",
+    "title": "New Mac mini, featuring M6 and M5 Pro",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+    "score": 540,
+    "comments": 340,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:31.688497+00:00"
+  },
+  {
+    "id": "49437946",
+    "source": "hackernews",
+    "title": "Firefox 157 will include JPEG XL by default on all platforms",
+    "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
+    "score": 429,
+    "comments": 131,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:31.742896+00:00"
+  },
+  {
+    "id": "49437210",
+    "source": "hackernews",
+    "title": "Black hole singularity is a surface not a point",
+    "url": "https://arxiv.org/abs/2608.21590",
+    "score": 294,
+    "comments": 205,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:31.767064+00:00"
+  },
+  {
+    "id": "49421158",
+    "source": "hackernews",
+    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+    "score": 851,
+    "comments": 432,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:31.901831+00:00"
+  },
+  {
+    "id": "49412396",
+    "source": "hackernews",
+    "title": "I were 17, I'd learn how to build LLMs from scratch",
+    "url": "https://twitter.com/paulg/status/2091544343589060625",
+    "score": 605,
+    "comments": 681,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:31.958267+00:00"
+  },
+  {
+    "id": "49434645",
+    "source": "hackernews",
+    "title": "Building a backyard office, the build and cost breakdown",
+    "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
+    "score": 416,
+    "comments": 268,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:31.968343+00:00"
+  },
+  {
+    "id": "49437283",
+    "source": "hackernews",
+    "title": "Nitter and XCancel receive cease and desist notices",
+    "url": "https://github.com/zedeus/nitter/issues/1442",
+    "score": 1151,
+    "comments": 1103,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:32.118314+00:00"
+  },
+  {
+    "id": "49413320",
+    "source": "hackernews",
+    "title": "Everything I own, owned",
+    "url": "https://schlarp.com/posts/everything-i-own-owned/",
+    "score": 1432,
+    "comments": 348,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:32.200917+00:00"
+  },
+  {
+    "id": "49420873",
+    "source": "hackernews",
+    "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+    "url": "https://twitter.com/lemire/status/2091894299289874926",
+    "score": 997,
+    "comments": 733,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:32.273450+00:00"
+  },
+  {
+    "id": "49436786",
+    "source": "hackernews",
+    "title": "Tooltips need a delay, and then they need to skip it",
+    "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+    "score": 224,
+    "comments": 84,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:32.418510+00:00"
+  },
+  {
+    "id": "49437483",
+    "source": "hackernews",
+    "title": "Run OpenBSD on DigitalOcean for $4/month",
+    "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+    "score": 201,
+    "comments": 93,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:32.479635+00:00"
+  },
+  {
+    "id": "49413561",
+    "source": "hackernews",
+    "title": "I built a low-latency AI companion that plays Skyrim with me",
+    "url": "https://pantel.is/projects/ai-gaming-companion/",
+    "score": 394,
+    "comments": 76,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:32.490171+00:00"
+  },
+  {
+    "id": "49426564",
+    "source": "hackernews",
+    "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+    "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+    "score": 603,
+    "comments": 207,
+    "subreddit": null,
+    "qualified_at": "2026-08-27T04:07:32.685963+00:00"
+  }
+]

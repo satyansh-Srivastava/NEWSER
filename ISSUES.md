@@ -30,6 +30,56 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [315984f81eac] `editor`: LLM call failed for 49437483: ANTHROPIC_API_KEY is not set (first seen 2026-08-27)
+
+- [8929a5dd84c7] `editor`: LLM call failed for 49436786: ANTHROPIC_API_KEY is not set (first seen 2026-08-27)
+
+- [3a47597b6626] `editor`: LLM call failed for 49437210: ANTHROPIC_API_KEY is not set (first seen 2026-08-27)
+
+- [2c33c4eed8c0] `editor`: LLM call failed for 49411800: ANTHROPIC_API_KEY is not set (first seen 2026-08-27)
+
+- [da370bab8cc7] `editor`: LLM call failed for 49432201: ANTHROPIC_API_KEY is not set (first seen 2026-08-27)
+
+- [b09b76c137a7] `editor`: LLM call failed for 49439017: ANTHROPIC_API_KEY is not set (first seen 2026-08-27)
+
+- [43dd23f60c94] `editor`: LLM call failed for 49442589: ANTHROPIC_API_KEY is not set (first seen 2026-08-27)
+
+- [7f7da7a397df] `editor`: LLM call failed for 49445727: ANTHROPIC_API_KEY is not set (first seen 2026-08-27)
+
+- [adde6a90d772] `editor`: LLM call failed for 49451448: ANTHROPIC_API_KEY is not set (first seen 2026-08-27)
+
+- [83c263061543] `editor`: LLM call failed for 49450448: ANTHROPIC_API_KEY is not set (first seen 2026-08-27)
+
+- [31c42fda0862] `editor`: LLM call failed for 49449749: ANTHROPIC_API_KEY is not set (first seen 2026-08-27)
+
+- [3fb3d3c5a858] `editor`: LLM call failed for 49454728: ANTHROPIC_API_KEY is not set (first seen 2026-08-27)
+
+- [4b13d7d537b6] `editor`: LLM call failed for 49452671: ANTHROPIC_API_KEY is not set (first seen 2026-08-27)
+
+- [b217db5c337d] `editor`: LLM call failed for 49454314: ANTHROPIC_API_KEY is not set (first seen 2026-08-27)
+
+- [a59bf55a926d] `editor`: LLM call failed for 49449576: ANTHROPIC_API_KEY is not set (first seen 2026-08-27)
+
+- [fef051b32889] `editor`: LLM call failed for 49458161: ANTHROPIC_API_KEY is not set (first seen 2026-08-27)
+
+- [ae4aead61f2d] `editor`: LLM call failed for 49448210: ANTHROPIC_API_KEY is not set (first seen 2026-08-27)
+
+- [2291a48e82ae] `editor`: LLM call failed for 49452980: ANTHROPIC_API_KEY is not set (first seen 2026-08-27)
+
+- [b07c0c511999] `editor`: LLM call failed for 49448321: ANTHROPIC_API_KEY is not set (first seen 2026-08-27)
+
+- [a128d6006ec5] `editor`: LLM call failed for 49452990: ANTHROPIC_API_KEY is not set (first seen 2026-08-27)
+
+- [5004b4d46ddd] `extractor`: bot-blocked (403): https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek (first seen 2026-08-27)
+
+- [f6f501eccaf9] `extractor`: bot-block page detected: https://www.githubstatus.com/incidents/hcbtzksccj2f (first seen 2026-08-27)
+
+- [39c081572e6b] `extractor`: HTTP 401 for https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/ (first seen 2026-08-27)
+
+- [94105de5ed34] `extractor`: HTTP 401 for https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23 (first seen 2026-08-27)
+
+- [70bc445798e5] `extractor`: empty body extracted: https://z.ai/blog/glm-5.3-flash (first seen 2026-08-27)
+
 - [94ae203e68b3] `editor`: LLM call failed for 49399722: ANTHROPIC_API_KEY is not set (first seen 2026-08-25)
 
 - [bee32f6263a2] `editor`: LLM call failed for 49420530: ANTHROPIC_API_KEY is not set (first seen 2026-08-25)
