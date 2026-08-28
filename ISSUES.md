@@ -30,6 +30,60 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [c8607ad35d8b] `editor`: LLM call failed for 49464391: ANTHROPIC_API_KEY is not set (first seen 2026-08-28)
+
+- [1a477ac6d692] `editor`: LLM call failed for 49456929: ANTHROPIC_API_KEY is not set (first seen 2026-08-28)
+
+- [73db791d6a89] `editor`: LLM call failed for 49452346: ANTHROPIC_API_KEY is not set (first seen 2026-08-28)
+
+- [64467423f2fd] `editor`: LLM call failed for 49451675: ANTHROPIC_API_KEY is not set (first seen 2026-08-28)
+
+- [b090e4d516f5] `editor`: LLM call failed for 49455956: ANTHROPIC_API_KEY is not set (first seen 2026-08-28)
+
+- [7421497d996c] `editor`: LLM call failed for 49462253: ANTHROPIC_API_KEY is not set (first seen 2026-08-28)
+
+- [5e1ed02cf047] `editor`: LLM call failed for 49453161: ANTHROPIC_API_KEY is not set (first seen 2026-08-28)
+
+- [0041a899398e] `editor`: LLM call failed for 49456851: ANTHROPIC_API_KEY is not set (first seen 2026-08-28)
+
+- [a4bc2373c26c] `editor`: LLM call failed for 49450898: ANTHROPIC_API_KEY is not set (first seen 2026-08-28)
+
+- [0440da4133b3] `editor`: LLM call failed for 49457545: ANTHROPIC_API_KEY is not set (first seen 2026-08-28)
+
+- [983afefb83b2] `editor`: LLM call failed for 49458418: ANTHROPIC_API_KEY is not set (first seen 2026-08-28)
+
+- [2488cec7a933] `editor`: LLM call failed for 49464896: ANTHROPIC_API_KEY is not set (first seen 2026-08-28)
+
+- [b6955b2b0249] `editor`: LLM call failed for 49457512: ANTHROPIC_API_KEY is not set (first seen 2026-08-28)
+
+- [7af872c674df] `editor`: LLM call failed for 49467922: ANTHROPIC_API_KEY is not set (first seen 2026-08-28)
+
+- [409174aea83e] `editor`: LLM call failed for 49466894: ANTHROPIC_API_KEY is not set (first seen 2026-08-28)
+
+- [6d186e871254] `editor`: LLM call failed for 49466006: ANTHROPIC_API_KEY is not set (first seen 2026-08-28)
+
+- [cb6f4fbdd689] `editor`: LLM call failed for 49468642: ANTHROPIC_API_KEY is not set (first seen 2026-08-28)
+
+- [dcea7e9eb279] `editor`: LLM call failed for 49461817: ANTHROPIC_API_KEY is not set (first seen 2026-08-28)
+
+- [c0814eabd911] `editor`: LLM call failed for 49468818: ANTHROPIC_API_KEY is not set (first seen 2026-08-28)
+
+- [081f59973dc9] `editor`: LLM call failed for 49465169: ANTHROPIC_API_KEY is not set (first seen 2026-08-28)
+
+- [7692fc83d808] `editor`: LLM call failed for 49466917: ANTHROPIC_API_KEY is not set (first seen 2026-08-28)
+
+- [cb4bac0f0385] `editor`: LLM call failed for 49462763: ANTHROPIC_API_KEY is not set (first seen 2026-08-28)
+
+- [feeae3fd0cde] `extractor`: bot-blocked (403): https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html (first seen 2026-08-28)
+
+- [332e1d5ea2f1] `extractor`: bot-blocked (403): https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make (first seen 2026-08-28)
+
+- [5ffe33d026d1] `extractor`: bot-blocked (403): https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med (first seen 2026-08-28)
+
+- [1df4bde2f5e1] `extractor`: bot-blocked (403): https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html (first seen 2026-08-28)
+
+- [c9282f4ae630] `extractor`: bot-block page detected: https://blog.cloudflare.com/dns-cache-memory-optimization-1111/ (first seen 2026-08-28)
+
 - [315984f81eac] `editor`: LLM call failed for 49437483: ANTHROPIC_API_KEY is not set (first seen 2026-08-27)
 
 - [8929a5dd84c7] `editor`: LLM call failed for 49436786: ANTHROPIC_API_KEY is not set (first seen 2026-08-27)
