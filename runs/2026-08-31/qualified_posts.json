@@ -1,0 +1,632 @@
+[
+  {
+    "id": "49497810",
+    "source": "hackernews",
+    "title": "Hacking IKEA Furniture",
+    "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+    "score": 262,
+    "comments": 174,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:00.005835+00:00"
+  },
+  {
+    "id": "49491791",
+    "source": "hackernews",
+    "title": "Creepy Crawlies",
+    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+    "score": 902,
+    "comments": 417,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:00.045129+00:00"
+  },
+  {
+    "id": "49499867",
+    "source": "hackernews",
+    "title": "Haiku R1/beta6 has been released",
+    "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+    "score": 245,
+    "comments": 75,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:00.093785+00:00"
+  },
+  {
+    "id": "49496918",
+    "source": "hackernews",
+    "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+    "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+    "score": 202,
+    "comments": 83,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:00.110260+00:00"
+  },
+  {
+    "id": "49499394",
+    "source": "hackernews",
+    "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+    "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+    "score": 351,
+    "comments": 144,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:00.198336+00:00"
+  },
+  {
+    "id": "49499854",
+    "source": "hackernews",
+    "title": "Omarchy: Any User Process Can Escalate to Root",
+    "url": "https://0xcc.io/posts/omarchy-root-creds/",
+    "score": 394,
+    "comments": 398,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:00.281624+00:00"
+  },
+  {
+    "id": "49498978",
+    "source": "hackernews",
+    "title": "Europe's summer drought is so extreme that desertification is a growing threat",
+    "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
+    "score": 253,
+    "comments": 302,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:00.293117+00:00"
+  },
+  {
+    "id": "49498787",
+    "source": "hackernews",
+    "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+    "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
+    "score": 223,
+    "comments": 179,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:00.335189+00:00"
+  },
+  {
+    "id": "49495372",
+    "source": "hackernews",
+    "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+    "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+    "score": 695,
+    "comments": 342,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:00.415136+00:00"
+  },
+  {
+    "id": "49463888",
+    "source": "hackernews",
+    "title": "Casey Muratori \u2013 The Root of the Root of All Evil \u2013 BSC 2026 [video]",
+    "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
+    "score": 298,
+    "comments": 170,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:00.417649+00:00"
+  },
+  {
+    "id": "49494301",
+    "source": "hackernews",
+    "title": "The Rise and Fall of Agent Civilizations",
+    "url": "https://www.dwarkesh.com/p/openai-huggingface",
+    "score": 218,
+    "comments": 127,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:00.475415+00:00"
+  },
+  {
+    "id": "49494520",
+    "source": "hackernews",
+    "title": "Bug Blindness",
+    "url": "https://danluu.com/bug-blind/",
+    "score": 382,
+    "comments": 251,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:00.658772+00:00"
+  },
+  {
+    "id": "49425252",
+    "source": "hackernews",
+    "title": "RISC-V is now officially supported by CPython",
+    "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+    "score": 294,
+    "comments": 53,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:00.671979+00:00"
+  },
+  {
+    "id": "49492632",
+    "source": "hackernews",
+    "title": "Hy4 preview",
+    "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+    "score": 380,
+    "comments": 239,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:00.741748+00:00"
+  },
+  {
+    "id": "49415386",
+    "source": "hackernews",
+    "title": "Tether: iMessage, SMS, etc. on Linux",
+    "url": "https://zackbartel.com/blog/2026/08/tether/",
+    "score": 527,
+    "comments": 212,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:00.928140+00:00"
+  },
+  {
+    "id": "49494182",
+    "source": "hackernews",
+    "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+    "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+    "score": 411,
+    "comments": 319,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:00.935219+00:00"
+  },
+  {
+    "id": "49491568",
+    "source": "hackernews",
+    "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+    "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+    "score": 445,
+    "comments": 113,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:00.968494+00:00"
+  },
+  {
+    "id": "49490870",
+    "source": "hackernews",
+    "title": "Nancy Grace Roman Space Telescope",
+    "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+    "score": 282,
+    "comments": 99,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:00.987879+00:00"
+  },
+  {
+    "id": "49478178",
+    "source": "hackernews",
+    "title": "Htmx 4.0",
+    "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+    "score": 815,
+    "comments": 227,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:01.167243+00:00"
+  },
+  {
+    "id": "49433328",
+    "source": "hackernews",
+    "title": "EVE Online moves to Python 3",
+    "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+    "score": 394,
+    "comments": 218,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:01.173000+00:00"
+  },
+  {
+    "id": "49492219",
+    "source": "hackernews",
+    "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+    "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
+    "score": 437,
+    "comments": 106,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:01.240757+00:00"
+  },
+  {
+    "id": "49472216",
+    "source": "hackernews",
+    "title": "The Twelve-Factor App (2025)",
+    "url": "https://12factor.net/",
+    "score": 310,
+    "comments": 170,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:01.244066+00:00"
+  },
+  {
+    "id": "49458161",
+    "source": "hackernews",
+    "title": "Nvidia agrees to acquire Hugging Face for $13B",
+    "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+    "score": 1970,
+    "comments": 908,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:01.289767+00:00"
+  },
+  {
+    "id": "49479837",
+    "source": "hackernews",
+    "title": "GUIs should be fully keyboard-driven",
+    "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+    "score": 1038,
+    "comments": 513,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:01.296992+00:00"
+  },
+  {
+    "id": "49473522",
+    "source": "hackernews",
+    "title": "Judge rules Trump administration\u2019s blacklisting of Anthropic was illegal",
+    "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+    "score": 629,
+    "comments": 431,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:01.311709+00:00"
+  },
+  {
+    "id": "49426995",
+    "source": "hackernews",
+    "title": "SQLite as a Document Database (2020)",
+    "url": "https://dgl.cx/2020/06/sqlite-json-support",
+    "score": 250,
+    "comments": 56,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:01.361850+00:00"
+  },
+  {
+    "id": "49479924",
+    "source": "hackernews",
+    "title": "EasyEffects can improve laptop speaker sound quality",
+    "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
+    "score": 220,
+    "comments": 91,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:01.523743+00:00"
+  },
+  {
+    "id": "49472090",
+    "source": "hackernews",
+    "title": "Doctors are finally learning to manage antidepressant withdrawal",
+    "url": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
+    "score": 291,
+    "comments": 356,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:01.566840+00:00"
+  },
+  {
+    "id": "49424320",
+    "source": "hackernews",
+    "title": "Glacier Mice",
+    "url": "https://en.wikipedia.org/wiki/Glacier_mice",
+    "score": 326,
+    "comments": 70,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:01.586195+00:00"
+  },
+  {
+    "id": "49477564",
+    "source": "hackernews",
+    "title": "Inception-style curved map for turn-by-turn directions",
+    "url": "https://www.orbify.eu/demo/",
+    "score": 618,
+    "comments": 190,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:01.610448+00:00"
+  },
+  {
+    "id": "49479878",
+    "source": "hackernews",
+    "title": "GLM-5.3 is now open-weight",
+    "url": "https://huggingface.co/zai-org/GLM-5.3",
+    "score": 797,
+    "comments": 279,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:01.623045+00:00"
+  },
+  {
+    "id": "49485267",
+    "source": "hackernews",
+    "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+    "url": "https://github.com/Lakr233/vphone-cli",
+    "score": 406,
+    "comments": 111,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:01.661823+00:00"
+  },
+  {
+    "id": "49487341",
+    "source": "hackernews",
+    "title": "Samsung's Processing-in-Memory (PIM)",
+    "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+    "score": 276,
+    "comments": 106,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:01.680570+00:00"
+  },
+  {
+    "id": "49477854",
+    "source": "hackernews",
+    "title": "U.S. sanctions against the A/I Collective",
+    "url": "https://www.inventati.org/",
+    "score": 704,
+    "comments": 766,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:01.869649+00:00"
+  },
+  {
+    "id": "49486172",
+    "source": "hackernews",
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+    "score": 832,
+    "comments": 525,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:01.891251+00:00"
+  },
+  {
+    "id": "49468083",
+    "source": "hackernews",
+    "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+    "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+    "score": 916,
+    "comments": 283,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:01.933732+00:00"
+  },
+  {
+    "id": "49480466",
+    "source": "hackernews",
+    "title": "Just the rumour of a bug is enough to find an exploit these days",
+    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+    "score": 393,
+    "comments": 128,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:01.944577+00:00"
+  },
+  {
+    "id": "49485416",
+    "source": "hackernews",
+    "title": "I accidentally turned LLM memory into program analysis",
+    "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+    "score": 300,
+    "comments": 83,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:01.959763+00:00"
+  },
+  {
+    "id": "49497063",
+    "source": "hackernews",
+    "title": "Brits would quite like their private messages to stay private",
+    "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+    "score": 326,
+    "comments": 263,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:01.973450+00:00"
+  },
+  {
+    "id": "49457512",
+    "source": "hackernews",
+    "title": "Zohran and the Short Link",
+    "url": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
+    "score": 331,
+    "comments": 215,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:02.020287+00:00"
+  },
+  {
+    "id": "49486081",
+    "source": "hackernews",
+    "title": "StemDeck, a free, open-source and local AI stem separator",
+    "url": "https://github.com/stemdeckapp/stemdeck",
+    "score": 239,
+    "comments": 63,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:02.053758+00:00"
+  },
+  {
+    "id": "49466917",
+    "source": "hackernews",
+    "title": "Small Models Have Arrived",
+    "url": "https://calv.info/small-models-have-arrived",
+    "score": 795,
+    "comments": 348,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:02.053776+00:00"
+  },
+  {
+    "id": "49475079",
+    "source": "hackernews",
+    "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+    "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+    "score": 521,
+    "comments": 151,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:02.107755+00:00"
+  },
+  {
+    "id": "49478340",
+    "source": "hackernews",
+    "title": "Get your Windows license refund",
+    "url": "https://en.refund4freedom.org/",
+    "score": 729,
+    "comments": 331,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:02.126087+00:00"
+  },
+  {
+    "id": "49462763",
+    "source": "hackernews",
+    "title": "Microduck",
+    "url": "https://pollen-robotics.com/microduck/",
+    "score": 774,
+    "comments": 247,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:02.172086+00:00"
+  },
+  {
+    "id": "49465169",
+    "source": "hackernews",
+    "title": "507 Mechanical Movements",
+    "url": "https://507movements.com/",
+    "score": 671,
+    "comments": 80,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:02.242659+00:00"
+  },
+  {
+    "id": "49498095",
+    "source": "hackernews",
+    "title": "No AI Fridays",
+    "url": "https://noaifridays.com/",
+    "score": 261,
+    "comments": 185,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:02.289237+00:00"
+  },
+  {
+    "id": "49477600",
+    "source": "hackernews",
+    "title": "\u201cIt works better in the app\u201d",
+    "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
+    "score": 703,
+    "comments": 477,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:02.346751+00:00"
+  },
+  {
+    "id": "49445727",
+    "source": "hackernews",
+    "title": "RAG Is Simpler Than You Think",
+    "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+    "score": 510,
+    "comments": 216,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:02.376835+00:00"
+  },
+  {
+    "id": "49449507",
+    "source": "hackernews",
+    "title": "GLM-5.3-Flash",
+    "url": "https://z.ai/blog/glm-5.3-flash",
+    "score": 1129,
+    "comments": 575,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:02.434416+00:00"
+  },
+  {
+    "id": "49461817",
+    "source": "hackernews",
+    "title": "Show HN: The load-bearing vocabulary of Claude",
+    "url": "https://louisabraham.github.io/load-bearing/",
+    "score": 694,
+    "comments": 322,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:02.477973+00:00"
+  },
+  {
+    "id": "49452709",
+    "source": "hackernews",
+    "title": "U.S. State Department pauses immigrant visa applications",
+    "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
+    "score": 835,
+    "comments": 1431,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:02.593124+00:00"
+  },
+  {
+    "id": "49454728",
+    "source": "hackernews",
+    "title": "GitHub Outage Tracker: Is GitHub Cooked?",
+    "url": "https://isgithubcooked.com/",
+    "score": 274,
+    "comments": 189,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:02.611151+00:00"
+  },
+  {
+    "id": "49448321",
+    "source": "hackernews",
+    "title": "AWS Acquires DuckLabs",
+    "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+    "score": 1102,
+    "comments": 316,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:02.661813+00:00"
+  },
+  {
+    "id": "49476143",
+    "source": "hackernews",
+    "title": "Hilariously fast volume computation with the divergence theorem (2018)",
+    "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
+    "score": 264,
+    "comments": 67,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:02.663474+00:00"
+  },
+  {
+    "id": "49466894",
+    "source": "hackernews",
+    "title": "Suica, Japan's First IC Transit Card",
+    "url": "https://www.tokyodev.com/articles/the-story-of-suica",
+    "score": 284,
+    "comments": 267,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:02.719006+00:00"
+  },
+  {
+    "id": "49458418",
+    "source": "hackernews",
+    "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+    "url": "https://github.com/SenteLabsAI/OpenExecutive",
+    "score": 1027,
+    "comments": 714,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:02.742310+00:00"
+  },
+  {
+    "id": "49468818",
+    "source": "hackernews",
+    "title": "Gemini-3.5-Transcribe",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+    "score": 361,
+    "comments": 127,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:02.791070+00:00"
+  },
+  {
+    "id": "49474786",
+    "source": "hackernews",
+    "title": "Sovereign Tech Agency invests \u20ac500k in Flatpak",
+    "url": "https://modal.cx/blog/announcing-flatpak-sta/",
+    "score": 271,
+    "comments": 137,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:02.804991+00:00"
+  },
+  {
+    "id": "49433292",
+    "source": "hackernews",
+    "title": "Apple introduces M6 and M5 Ultra",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+    "score": 1310,
+    "comments": 1296,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:02.902233+00:00"
+  },
+  {
+    "id": "49490702",
+    "source": "hackernews",
+    "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+    "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
+    "score": 311,
+    "comments": 185,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:02.935911+00:00"
+  },
+  {
+    "id": "49442589",
+    "source": "hackernews",
+    "title": "Actually Queryable Executables",
+    "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+    "score": 339,
+    "comments": 86,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:02.953793+00:00"
+  },
+  {
+    "id": "49450898",
+    "source": "hackernews",
+    "title": "It\u2019s so hard to finish an idea that is not yours and is just suggested by AI",
+    "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+    "score": 261,
+    "comments": 189,
+    "subreddit": null,
+    "qualified_at": "2026-08-31T00:58:02.954620+00:00"
+  }
+]
