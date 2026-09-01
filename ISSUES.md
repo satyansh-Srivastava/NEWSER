@@ -30,6 +30,42 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [5548bcf3b610] `editor`: LLM call failed for 49498201: ANTHROPIC_API_KEY is not set (first seen 2026-09-01)
+
+- [f58c058146dc] `editor`: LLM call failed for 49496782: ANTHROPIC_API_KEY is not set (first seen 2026-09-01)
+
+- [eab1e2d2481e] `editor`: LLM call failed for 49478426: ANTHROPIC_API_KEY is not set (first seen 2026-09-01)
+
+- [218cf3c9eace] `editor`: LLM call failed for 49480091: ANTHROPIC_API_KEY is not set (first seen 2026-09-01)
+
+- [788d3f204b8c] `editor`: LLM call failed for 49504625: ANTHROPIC_API_KEY is not set (first seen 2026-09-01)
+
+- [16d624a04062] `editor`: LLM call failed for 49505219: ANTHROPIC_API_KEY is not set (first seen 2026-09-01)
+
+- [9b8e8f785053] `editor`: LLM call failed for 49503601: ANTHROPIC_API_KEY is not set (first seen 2026-09-01)
+
+- [93efd71d4aeb] `editor`: LLM call failed for 49506142: ANTHROPIC_API_KEY is not set (first seen 2026-09-01)
+
+- [379a166488eb] `editor`: LLM call failed for 49481141: ANTHROPIC_API_KEY is not set (first seen 2026-09-01)
+
+- [2d3df125c489] `editor`: LLM call failed for 49506819: ANTHROPIC_API_KEY is not set (first seen 2026-09-01)
+
+- [2b2834699559] `editor`: LLM call failed for 49507822: ANTHROPIC_API_KEY is not set (first seen 2026-09-01)
+
+- [e7b6583c2325] `editor`: LLM call failed for 49467636: ANTHROPIC_API_KEY is not set (first seen 2026-09-01)
+
+- [7a0f9440a89d] `editor`: LLM call failed for 49508982: ANTHROPIC_API_KEY is not set (first seen 2026-09-01)
+
+- [187e0260d31d] `editor`: LLM call failed for 49510514: ANTHROPIC_API_KEY is not set (first seen 2026-09-01)
+
+- [facf7890df73] `editor`: LLM call failed for 49511856: ANTHROPIC_API_KEY is not set (first seen 2026-09-01)
+
+- [046e6ddbec82] `extractor`: bot-blocked (403): https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/ (first seen 2026-09-01)
+
+- [68e5564046e8] `extractor`: bot-blocked (403): https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary (first seen 2026-09-01)
+
+- [85ff90d6eb76] `extractor`: bot-blocked (403): https://webiterate.dev/google-removed-extensions-ublock-origin-108/ (first seen 2026-09-01)
+
 - [2cef10abac7c] `editor`: LLM call failed for 49498095: ANTHROPIC_API_KEY is not set (first seen 2026-08-31)
 
 - [3716d2340c77] `editor`: LLM call failed for 49497063: ANTHROPIC_API_KEY is not set (first seen 2026-08-31)
