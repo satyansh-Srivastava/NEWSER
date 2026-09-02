@@ -30,6 +30,58 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [9b5f55fcee03] `editor`: LLM call failed for 49506182: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
+
+- [0d3fb5057b22] `editor`: LLM call failed for 49510000: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
+
+- [afb1a291584e] `editor`: LLM call failed for 49504905: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
+
+- [8b4c79821c55] `editor`: LLM call failed for 49489376: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
+
+- [15bed3992350] `editor`: LLM call failed for 49476239: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
+
+- [9bc342f54616] `editor`: LLM call failed for 49515830: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
+
+- [4295ab93c9a5] `editor`: LLM call failed for 49512975: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
+
+- [3cf6ce5b18b1] `editor`: LLM call failed for 49516199: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
+
+- [fa718f4f1140] `editor`: LLM call failed for 49503521: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
+
+- [8fad3296b43d] `editor`: LLM call failed for 49517584: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
+
+- [efdc987f85df] `editor`: LLM call failed for 49496292: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
+
+- [ccc0db9a3234] `editor`: LLM call failed for 49511534: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
+
+- [7d4b120486d6] `editor`: LLM call failed for 49467700: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
+
+- [0d3de8bca6c5] `editor`: LLM call failed for 49517448: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
+
+- [fe0116425e63] `editor`: LLM call failed for 49517624: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
+
+- [8144481d1b6f] `editor`: LLM call failed for 49523754: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
+
+- [6b70b231dbf5] `editor`: LLM call failed for 49493468: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
+
+- [d67626884ecd] `editor`: LLM call failed for 49519939: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
+
+- [f43b1799608f] `editor`: LLM call failed for 49526069: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
+
+- [8bd32ec0ff63] `editor`: LLM call failed for 49520022: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
+
+- [6cd6cdb9cb82] `editor`: LLM call failed for 49527396: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
+
+- [36e9471761ed] `editor`: LLM call failed for 49521973: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
+
+- [1d3b5bb14e1e] `editor`: LLM call failed for 49525378: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
+
+- [e263c234a849] `editor`: LLM call failed for 49527748: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
+
+- [fba0dd8e1f36] `extractor`: HTTP 401 for https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261 (first seen 2026-09-02)
+
+- [d6a2af2eba0f] `extractor`: bot-blocked (403): https://garvvee.substack.com/p/no-country-for-mediocre-mathematicians (first seen 2026-09-02)
+
 - [5548bcf3b610] `editor`: LLM call failed for 49498201: ANTHROPIC_API_KEY is not set (first seen 2026-09-01)
 
 - [f58c058146dc] `editor`: LLM call failed for 49496782: ANTHROPIC_API_KEY is not set (first seen 2026-09-01)

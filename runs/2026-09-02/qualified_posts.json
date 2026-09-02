@@ -1,0 +1,452 @@
+[
+  {
+    "id": "49527748",
+    "source": "hackernews",
+    "title": "Hang on to Your Firefox",
+    "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+    "score": 326,
+    "comments": 183,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:29.331596+00:00"
+  },
+  {
+    "id": "49525378",
+    "source": "hackernews",
+    "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "score": 889,
+    "comments": 839,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:29.331625+00:00"
+  },
+  {
+    "id": "49521973",
+    "source": "hackernews",
+    "title": "Introducing Ad Blocker for Firefox on iOS",
+    "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+    "score": 284,
+    "comments": 102,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:29.338179+00:00"
+  },
+  {
+    "id": "49527396",
+    "source": "hackernews",
+    "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+    "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+    "score": 227,
+    "comments": 110,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:29.338207+00:00"
+  },
+  {
+    "id": "49520022",
+    "source": "hackernews",
+    "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+    "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+    "score": 823,
+    "comments": 244,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:29.354303+00:00"
+  },
+  {
+    "id": "49526069",
+    "source": "hackernews",
+    "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+    "url": "https://danluu.com/zitron/",
+    "score": 362,
+    "comments": 442,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:29.354332+00:00"
+  },
+  {
+    "id": "49519939",
+    "source": "hackernews",
+    "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+    "score": 562,
+    "comments": 149,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:29.354351+00:00"
+  },
+  {
+    "id": "49493468",
+    "source": "hackernews",
+    "title": "American Airlines mechanic Azriel \u201cAl\u201d Blackman has died",
+    "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+    "score": 369,
+    "comments": 149,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:29.646145+00:00"
+  },
+  {
+    "id": "49523754",
+    "source": "hackernews",
+    "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+    "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
+    "score": 458,
+    "comments": 198,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:29.651541+00:00"
+  },
+  {
+    "id": "49517624",
+    "source": "hackernews",
+    "title": "Restroom Archive",
+    "url": "https://restroomarchive.com",
+    "score": 363,
+    "comments": 83,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:29.736610+00:00"
+  },
+  {
+    "id": "49517448",
+    "source": "hackernews",
+    "title": "Fastpotify",
+    "url": "https://fastpotify.rocks/",
+    "score": 803,
+    "comments": 534,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:29.879484+00:00"
+  },
+  {
+    "id": "49467700",
+    "source": "hackernews",
+    "title": "Reverse engineering my ADHD test",
+    "url": "https://nullpt.rs/reverse-engineering-adhd-test",
+    "score": 314,
+    "comments": 219,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:30.088234+00:00"
+  },
+  {
+    "id": "49511534",
+    "source": "hackernews",
+    "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+    "url": "https://ravynos.com/",
+    "score": 231,
+    "comments": 137,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:30.088288+00:00"
+  },
+  {
+    "id": "49496292",
+    "source": "hackernews",
+    "title": "Smartphone LED detects hidden cameras with AI",
+    "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+    "score": 270,
+    "comments": 80,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:30.094046+00:00"
+  },
+  {
+    "id": "49517584",
+    "source": "hackernews",
+    "title": "GPU World",
+    "url": "https://www.gpuworld.org/",
+    "score": 392,
+    "comments": 268,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:30.106973+00:00"
+  },
+  {
+    "id": "49511856",
+    "source": "hackernews",
+    "title": "I turned my security cameras into an automatic bird identification system",
+    "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+    "score": 614,
+    "comments": 167,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:30.137794+00:00"
+  },
+  {
+    "id": "49510514",
+    "source": "hackernews",
+    "title": "Playa Phone",
+    "url": "https://playaphone.com/",
+    "score": 736,
+    "comments": 225,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:30.166769+00:00"
+  },
+  {
+    "id": "49506819",
+    "source": "hackernews",
+    "title": "Breaking Claude Code Opus 5 Auto Mode",
+    "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+    "score": 393,
+    "comments": 119,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:30.191646+00:00"
+  },
+  {
+    "id": "49481141",
+    "source": "hackernews",
+    "title": "Damn fine tiny cafe",
+    "url": "https://sandyuraz.com/blogs/tiny-cafe/",
+    "score": 390,
+    "comments": 63,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:30.193197+00:00"
+  },
+  {
+    "id": "49495171",
+    "source": "hackernews",
+    "title": "No country for mediocre mathematicians",
+    "url": "https://garvvee.substack.com/p/no-country-for-mediocre-mathematicians",
+    "score": 238,
+    "comments": 138,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:30.228295+00:00"
+  },
+  {
+    "id": "49503521",
+    "source": "hackernews",
+    "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+    "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+    "score": 604,
+    "comments": 82,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:30.286313+00:00"
+  },
+  {
+    "id": "49516199",
+    "source": "hackernews",
+    "title": "Evidence of Fraud in an Influential Study About Procrastination",
+    "url": "https://datacolada.org/138",
+    "score": 347,
+    "comments": 257,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:30.291846+00:00"
+  },
+  {
+    "id": "49467636",
+    "source": "hackernews",
+    "title": "Dwarf Fortress is getting the mother of all magic updates",
+    "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
+    "score": 500,
+    "comments": 246,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:30.337664+00:00"
+  },
+  {
+    "id": "49506142",
+    "source": "hackernews",
+    "title": "uv: Deduplicate all files in the wheel cache",
+    "url": "https://github.com/astral-sh/uv/pull/21327",
+    "score": 230,
+    "comments": 118,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:30.352782+00:00"
+  },
+  {
+    "id": "49508982",
+    "source": "hackernews",
+    "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+    "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+    "score": 491,
+    "comments": 582,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:30.398447+00:00"
+  },
+  {
+    "id": "49503601",
+    "source": "hackernews",
+    "title": "\u201cI just chose words carefully\u201d",
+    "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+    "score": 1236,
+    "comments": 353,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:30.417698+00:00"
+  },
+  {
+    "id": "49512975",
+    "source": "hackernews",
+    "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+    "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+    "score": 388,
+    "comments": 59,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:30.417718+00:00"
+  },
+  {
+    "id": "49507822",
+    "source": "hackernews",
+    "title": "OpenShot 4.0 \u2013 Open-source video editor",
+    "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+    "score": 588,
+    "comments": 137,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:30.417729+00:00"
+  },
+  {
+    "id": "49515830",
+    "source": "hackernews",
+    "title": "Run macOS Software on Linux",
+    "url": "https://www.darlinghq.org/",
+    "score": 277,
+    "comments": 85,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:30.471373+00:00"
+  },
+  {
+    "id": "49476239",
+    "source": "hackernews",
+    "title": "'Mad honey' that can stop your heart is being sold online",
+    "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
+    "score": 211,
+    "comments": 120,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:30.490442+00:00"
+  },
+  {
+    "id": "49491791",
+    "source": "hackernews",
+    "title": "Creepy Crawlies",
+    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+    "score": 1355,
+    "comments": 702,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:30.494882+00:00"
+  },
+  {
+    "id": "49489376",
+    "source": "hackernews",
+    "title": "Show HN: Laser Graffiti",
+    "url": "https://laser.consti.de",
+    "score": 247,
+    "comments": 59,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:30.748456+00:00"
+  },
+  {
+    "id": "49508506",
+    "source": "hackernews",
+    "title": "I think the military commissary's freezers were hacked",
+    "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+    "score": 391,
+    "comments": 234,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:30.800304+00:00"
+  },
+  {
+    "id": "49500504",
+    "source": "hackernews",
+    "title": "Cheap GPS jammers are filling the world with navigation dead zones",
+    "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
+    "score": 212,
+    "comments": 220,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:30.800354+00:00"
+  },
+  {
+    "id": "49504905",
+    "source": "hackernews",
+    "title": "Internet centralization and the original sin of NAT",
+    "url": "https://dreamstation.systems/personal/ntppost.html",
+    "score": 225,
+    "comments": 173,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:30.895297+00:00"
+  },
+  {
+    "id": "49505219",
+    "source": "hackernews",
+    "title": "P99 0 ms* autocomplete for 240M domain names",
+    "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+    "score": 220,
+    "comments": 86,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:30.966499+00:00"
+  },
+  {
+    "id": "49514878",
+    "source": "hackernews",
+    "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+    "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+    "score": 740,
+    "comments": 591,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:31.222454+00:00"
+  },
+  {
+    "id": "49504625",
+    "source": "hackernews",
+    "title": "Understanding ChatGPT Work",
+    "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+    "score": 346,
+    "comments": 194,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:31.257018+00:00"
+  },
+  {
+    "id": "49510000",
+    "source": "hackernews",
+    "title": "ChatGPT Work Tool and Skill Reference",
+    "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+    "score": 238,
+    "comments": 61,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:31.262310+00:00"
+  },
+  {
+    "id": "49506182",
+    "source": "hackernews",
+    "title": "A 12TB Steam \u201cteraleak\u201d spills more than a decade of lost PC gaming history",
+    "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+    "score": 387,
+    "comments": 88,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:31.369849+00:00"
+  },
+  {
+    "id": "49494301",
+    "source": "hackernews",
+    "title": "The Rise and Fall of Agent Civilizations",
+    "url": "https://www.dwarkesh.com/p/openai-huggingface",
+    "score": 269,
+    "comments": 194,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:31.578945+00:00"
+  },
+  {
+    "id": "49499867",
+    "source": "hackernews",
+    "title": "Haiku R1/beta6 has been released",
+    "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+    "score": 357,
+    "comments": 101,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:31.644068+00:00"
+  },
+  {
+    "id": "49495372",
+    "source": "hackernews",
+    "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+    "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+    "score": 800,
+    "comments": 402,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:31.689325+00:00"
+  },
+  {
+    "id": "49458161",
+    "source": "hackernews",
+    "title": "Nvidia agrees to acquire Hugging Face for $13B",
+    "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+    "score": 1981,
+    "comments": 922,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:31.767520+00:00"
+  },
+  {
+    "id": "49497810",
+    "source": "hackernews",
+    "title": "Hacking IKEA Furniture",
+    "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+    "score": 353,
+    "comments": 272,
+    "subreddit": null,
+    "qualified_at": "2026-09-02T00:38:31.897957+00:00"
+  }
+]
