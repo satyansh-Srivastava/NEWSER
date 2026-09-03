@@ -1,0 +1,522 @@
+[
+  {
+    "id": "49537553",
+    "source": "hackernews",
+    "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "score": 804,
+    "comments": 477,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:15.463780+00:00"
+  },
+  {
+    "id": "49536375",
+    "source": "hackernews",
+    "title": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
+    "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+    "score": 295,
+    "comments": 136,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:15.466380+00:00"
+  },
+  {
+    "id": "49535284",
+    "source": "hackernews",
+    "title": "Can I opt out of my input or output data being used for training?",
+    "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+    "score": 362,
+    "comments": 160,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:15.496215+00:00"
+  },
+  {
+    "id": "49541256",
+    "source": "hackernews",
+    "title": "Muse Spark 1.3",
+    "url": "https://developer.meta.com/ai/models/muse-spark/",
+    "score": 358,
+    "comments": 244,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:15.540704+00:00"
+  },
+  {
+    "id": "49537131",
+    "source": "hackernews",
+    "title": "Google avoids a breakup of its ad tech business",
+    "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+    "score": 246,
+    "comments": 161,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:15.586732+00:00"
+  },
+  {
+    "id": "49536079",
+    "source": "hackernews",
+    "title": "Biggest dark matter detector spots a single weird particle",
+    "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+    "score": 242,
+    "comments": 81,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:15.663715+00:00"
+  },
+  {
+    "id": "49535548",
+    "source": "hackernews",
+    "title": "Aging brains blend memories together instead of just forgetting them",
+    "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+    "score": 203,
+    "comments": 90,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:15.783731+00:00"
+  },
+  {
+    "id": "49536606",
+    "source": "hackernews",
+    "title": "Exit the Cave",
+    "url": "https://turtlespace.blog/p/exit-the-cave",
+    "score": 205,
+    "comments": 71,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:15.821147+00:00"
+  },
+  {
+    "id": "49531651",
+    "source": "hackernews",
+    "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+    "url": "https://arxiv.org/abs/2608.29530",
+    "score": 271,
+    "comments": 101,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:15.885678+00:00"
+  },
+  {
+    "id": "49535752",
+    "source": "hackernews",
+    "title": "A note on subscription prices from LWN",
+    "url": "https://lwn.net/Articles/1090585/",
+    "score": 673,
+    "comments": 133,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:15.947736+00:00"
+  },
+  {
+    "id": "49539872",
+    "source": "hackernews",
+    "title": "I Don't Have a Smartphone",
+    "url": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
+    "score": 200,
+    "comments": 193,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:16.136728+00:00"
+  },
+  {
+    "id": "49533497",
+    "source": "hackernews",
+    "title": "Commodore 64 released September 1, 1982",
+    "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+    "score": 330,
+    "comments": 173,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:16.150603+00:00"
+  },
+  {
+    "id": "49524863",
+    "source": "hackernews",
+    "title": "Fine, I'll build my own text editor",
+    "url": "https://dbushell.com/2026/09/01/text-editor/",
+    "score": 233,
+    "comments": 232,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:16.266709+00:00"
+  },
+  {
+    "id": "49525378",
+    "source": "hackernews",
+    "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "score": 1375,
+    "comments": 1333,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:16.285344+00:00"
+  },
+  {
+    "id": "49529132",
+    "source": "hackernews",
+    "title": "My local model setup on an M4 Pro Mac Mini",
+    "url": "https://lws.io/blog/my-local-model-setup/",
+    "score": 292,
+    "comments": 178,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:16.326015+00:00"
+  },
+  {
+    "id": "49482099",
+    "source": "hackernews",
+    "title": "Sonic Pi",
+    "url": "https://sonic-pi.net/",
+    "score": 234,
+    "comments": 54,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:16.369429+00:00"
+  },
+  {
+    "id": "49529621",
+    "source": "hackernews",
+    "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+    "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+    "score": 379,
+    "comments": 255,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:16.477611+00:00"
+  },
+  {
+    "id": "49526069",
+    "source": "hackernews",
+    "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+    "url": "https://danluu.com/zitron/",
+    "score": 840,
+    "comments": 995,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:16.688992+00:00"
+  },
+  {
+    "id": "49521973",
+    "source": "hackernews",
+    "title": "Introducing Ad Blocker for Firefox on iOS",
+    "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+    "score": 567,
+    "comments": 184,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:16.769814+00:00"
+  },
+  {
+    "id": "49525160",
+    "source": "hackernews",
+    "title": "Atlas: A World Model for Spatial Intelligence",
+    "url": "https://www.worldlabs.ai/blog/atlas",
+    "score": 258,
+    "comments": 59,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:16.845610+00:00"
+  },
+  {
+    "id": "49520022",
+    "source": "hackernews",
+    "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+    "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+    "score": 908,
+    "comments": 273,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:16.885340+00:00"
+  },
+  {
+    "id": "49535526",
+    "source": "hackernews",
+    "title": "Dutch central bank moves share of gold from U.S., Canada to London",
+    "url": "https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability",
+    "score": 219,
+    "comments": 217,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:16.906731+00:00"
+  },
+  {
+    "id": "49519939",
+    "source": "hackernews",
+    "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+    "score": 651,
+    "comments": 162,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:17.070055+00:00"
+  },
+  {
+    "id": "49523754",
+    "source": "hackernews",
+    "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+    "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
+    "score": 546,
+    "comments": 253,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:17.086598+00:00"
+  },
+  {
+    "id": "49530989",
+    "source": "hackernews",
+    "title": "True Rate of Unemployment",
+    "url": "https://www.lisep.org/tru",
+    "score": 298,
+    "comments": 338,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:17.101777+00:00"
+  },
+  {
+    "id": "49516059",
+    "source": "hackernews",
+    "title": "Tmp.0ut Volume 5",
+    "url": "https://tmpout.sh/5/",
+    "score": 211,
+    "comments": 42,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:17.411594+00:00"
+  },
+  {
+    "id": "49524320",
+    "source": "hackernews",
+    "title": "Movie Scene Map \u2013 13,312 films, series, games, anime and manga",
+    "url": "https://moviescenemap.com/",
+    "score": 326,
+    "comments": 46,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:17.479329+00:00"
+  },
+  {
+    "id": "49517448",
+    "source": "hackernews",
+    "title": "Fastpotify",
+    "url": "https://fastpotify.rocks/",
+    "score": 835,
+    "comments": 555,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:17.494238+00:00"
+  },
+  {
+    "id": "49523387",
+    "source": "hackernews",
+    "title": "Ambient CSS v3 \u2013 Blender meets CSS",
+    "url": "https://ambientcss.vercel.app/",
+    "score": 298,
+    "comments": 96,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:17.533166+00:00"
+  },
+  {
+    "id": "49493468",
+    "source": "hackernews",
+    "title": "American Airlines mechanic Azriel \u201cAl\u201d Blackman has died",
+    "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+    "score": 382,
+    "comments": 162,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:17.564708+00:00"
+  },
+  {
+    "id": "49525297",
+    "source": "hackernews",
+    "title": "The creator of Jujutsu has joined ERSC",
+    "url": "https://ersc.io/blog/martin-joins-ersc",
+    "score": 260,
+    "comments": 251,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:17.693269+00:00"
+  },
+  {
+    "id": "49496292",
+    "source": "hackernews",
+    "title": "Smartphone LED detects hidden cameras with AI",
+    "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+    "score": 278,
+    "comments": 84,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:17.841039+00:00"
+  },
+  {
+    "id": "49527396",
+    "source": "hackernews",
+    "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+    "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+    "score": 480,
+    "comments": 238,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:17.860020+00:00"
+  },
+  {
+    "id": "49506819",
+    "source": "hackernews",
+    "title": "Breaking Claude Code Opus 5 Auto Mode",
+    "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+    "score": 397,
+    "comments": 120,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:17.932722+00:00"
+  },
+  {
+    "id": "49522897",
+    "source": "hackernews",
+    "title": "Ask HN: Who is hiring? (September 2026)",
+    "url": "https://news.ycombinator.com/item?id=49522897",
+    "score": 236,
+    "comments": 283,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:17.938265+00:00"
+  },
+  {
+    "id": "49511534",
+    "source": "hackernews",
+    "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+    "url": "https://ravynos.com/",
+    "score": 235,
+    "comments": 138,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:17.985257+00:00"
+  },
+  {
+    "id": "49481141",
+    "source": "hackernews",
+    "title": "Damn fine tiny cafe",
+    "url": "https://sandyuraz.com/blogs/tiny-cafe/",
+    "score": 396,
+    "comments": 63,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:17.992623+00:00"
+  },
+  {
+    "id": "49527573",
+    "source": "hackernews",
+    "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+    "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+    "score": 241,
+    "comments": 186,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:18.002139+00:00"
+  },
+  {
+    "id": "49527748",
+    "source": "hackernews",
+    "title": "Hang on to Your Firefox",
+    "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+    "score": 936,
+    "comments": 509,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:18.020600+00:00"
+  },
+  {
+    "id": "49510514",
+    "source": "hackernews",
+    "title": "Playa Phone",
+    "url": "https://playaphone.com/",
+    "score": 748,
+    "comments": 230,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:18.071623+00:00"
+  },
+  {
+    "id": "49524447",
+    "source": "hackernews",
+    "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+    "url": "https://github.com/carloslfu/slotstream",
+    "score": 225,
+    "comments": 106,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:18.147114+00:00"
+  },
+  {
+    "id": "49503601",
+    "source": "hackernews",
+    "title": "\u201cI just chose words carefully\u201d",
+    "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+    "score": 1244,
+    "comments": 353,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:18.159673+00:00"
+  },
+  {
+    "id": "49511856",
+    "source": "hackernews",
+    "title": "I turned my security cameras into an automatic bird identification system",
+    "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+    "score": 625,
+    "comments": 171,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:18.233177+00:00"
+  },
+  {
+    "id": "49506142",
+    "source": "hackernews",
+    "title": "uv: Deduplicate all files in the wheel cache",
+    "url": "https://github.com/astral-sh/uv/pull/21327",
+    "score": 231,
+    "comments": 118,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:18.313637+00:00"
+  },
+  {
+    "id": "49507822",
+    "source": "hackernews",
+    "title": "OpenShot 4.0 \u2013 Open-source video editor",
+    "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+    "score": 597,
+    "comments": 138,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:18.349621+00:00"
+  },
+  {
+    "id": "49495171",
+    "source": "hackernews",
+    "title": "No country for mediocre mathematicians",
+    "url": "https://garvvee.substack.com/p/no-country-for-mediocre-mathematicians",
+    "score": 246,
+    "comments": 148,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:18.354294+00:00"
+  },
+  {
+    "id": "49503521",
+    "source": "hackernews",
+    "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+    "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+    "score": 625,
+    "comments": 85,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:18.387603+00:00"
+  },
+  {
+    "id": "49491791",
+    "source": "hackernews",
+    "title": "Creepy Crawlies",
+    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+    "score": 1367,
+    "comments": 705,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:18.404600+00:00"
+  },
+  {
+    "id": "49517624",
+    "source": "hackernews",
+    "title": "Restroom Archive",
+    "url": "https://restroomarchive.com",
+    "score": 379,
+    "comments": 86,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:18.531385+00:00"
+  },
+  {
+    "id": "49523720",
+    "source": "hackernews",
+    "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+    "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+    "score": 236,
+    "comments": 245,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:18.596544+00:00"
+  },
+  {
+    "id": "49508982",
+    "source": "hackernews",
+    "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+    "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+    "score": 495,
+    "comments": 590,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:18.633109+00:00"
+  },
+  {
+    "id": "49517584",
+    "source": "hackernews",
+    "title": "GPU World",
+    "url": "https://www.gpuworld.org/",
+    "score": 401,
+    "comments": 282,
+    "subreddit": null,
+    "qualified_at": "2026-09-03T00:48:18.657831+00:00"
+  }
+]

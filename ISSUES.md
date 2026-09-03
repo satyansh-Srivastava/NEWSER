@@ -30,6 +30,60 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [6fe8ea9f4b2f] `editor`: LLM call failed for 49523720: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
+
+- [a74ee1b6ff3b] `editor`: LLM call failed for 49524447: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
+
+- [8a3da313d8fd] `editor`: LLM call failed for 49527573: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
+
+- [cf07092d7ecb] `editor`: LLM call failed for 49522897: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
+
+- [d9530dc68d2b] `editor`: LLM call failed for 49525297: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
+
+- [60e5bf422844] `editor`: LLM call failed for 49523387: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
+
+- [fe288fbb0f4d] `editor`: LLM call failed for 49524320: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
+
+- [1e2ac6e06215] `editor`: LLM call failed for 49516059: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
+
+- [2b362eb71e2f] `editor`: LLM call failed for 49530989: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
+
+- [bd19c04cc8dc] `editor`: LLM call failed for 49535526: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
+
+- [04564d90a753] `editor`: LLM call failed for 49525160: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
+
+- [54de52fa600f] `editor`: LLM call failed for 49529621: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
+
+- [c03a0c5751e2] `editor`: LLM call failed for 49482099: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
+
+- [a4e6ba06b343] `editor`: LLM call failed for 49529132: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
+
+- [4bb4da625b7c] `editor`: LLM call failed for 49524863: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
+
+- [7683364f3ac0] `editor`: LLM call failed for 49533497: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
+
+- [60dfd2c56b39] `editor`: LLM call failed for 49539872: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
+
+- [61dba92c948a] `editor`: LLM call failed for 49535752: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
+
+- [b57317b9f510] `editor`: LLM call failed for 49531651: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
+
+- [5bad7c037f95] `editor`: LLM call failed for 49536606: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
+
+- [468ba2f849a7] `editor`: LLM call failed for 49535548: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
+
+- [ccbac87d532c] `editor`: LLM call failed for 49541256: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
+
+- [cf9a4d9e56ae] `editor`: LLM call failed for 49535284: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
+
+- [09666e11a7fd] `editor`: LLM call failed for 49536375: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
+
+- [f4aaeed52d50] `editor`: LLM call failed for 49537553: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
+
+- [0daad3d6c915] `extractor`: bot-blocked (403): https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle (first seen 2026-09-03)
+
+- [3e79d52f2010] `extractor`: bot-blocked (403): https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html (first seen 2026-09-03)
+
 - [9b5f55fcee03] `editor`: LLM call failed for 49506182: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
 
 - [0d3fb5057b22] `editor`: LLM call failed for 49510000: ANTHROPIC_API_KEY is not set (first seen 2026-09-02)
