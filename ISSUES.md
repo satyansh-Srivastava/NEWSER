@@ -30,6 +30,56 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [8d8c7d5e9967] `editor`: LLM call failed for 49513856: ANTHROPIC_API_KEY is not set (first seen 2026-09-04)
+
+- [46c1e132bc43] `editor`: LLM call failed for 49541519: ANTHROPIC_API_KEY is not set (first seen 2026-09-04)
+
+- [0c507a2c4498] `editor`: LLM call failed for 49541458: ANTHROPIC_API_KEY is not set (first seen 2026-09-04)
+
+- [041f2442e1db] `editor`: LLM call failed for 49508405: ANTHROPIC_API_KEY is not set (first seen 2026-09-04)
+
+- [8767574ab809] `editor`: LLM call failed for 49554273: ANTHROPIC_API_KEY is not set (first seen 2026-09-04)
+
+- [376474b7e902] `editor`: LLM call failed for 49549919: ANTHROPIC_API_KEY is not set (first seen 2026-09-04)
+
+- [c15c42a6f90f] `editor`: LLM call failed for 49546753: ANTHROPIC_API_KEY is not set (first seen 2026-09-04)
+
+- [a0e3e6b5e03c] `editor`: LLM call failed for 49548952: ANTHROPIC_API_KEY is not set (first seen 2026-09-04)
+
+- [859bba442f8c] `editor`: LLM call failed for 49551096: ANTHROPIC_API_KEY is not set (first seen 2026-09-04)
+
+- [93b41a482cf7] `editor`: LLM call failed for 49548452: ANTHROPIC_API_KEY is not set (first seen 2026-09-04)
+
+- [c10a5692c0f9] `editor`: LLM call failed for 49522137: ANTHROPIC_API_KEY is not set (first seen 2026-09-04)
+
+- [29b0a915dfa2] `editor`: LLM call failed for 49543220: ANTHROPIC_API_KEY is not set (first seen 2026-09-04)
+
+- [89434b686539] `editor`: LLM call failed for 49548395: ANTHROPIC_API_KEY is not set (first seen 2026-09-04)
+
+- [a1320a6ad868] `editor`: LLM call failed for 49551760: ANTHROPIC_API_KEY is not set (first seen 2026-09-04)
+
+- [dbd521f725e9] `editor`: LLM call failed for 49550698: ANTHROPIC_API_KEY is not set (first seen 2026-09-04)
+
+- [c4f1da7367b9] `editor`: LLM call failed for 49554520: ANTHROPIC_API_KEY is not set (first seen 2026-09-04)
+
+- [d8c5bd6dbe6a] `editor`: LLM call failed for 49550772: ANTHROPIC_API_KEY is not set (first seen 2026-09-04)
+
+- [46930dcfc666] `editor`: LLM call failed for 49554643: ANTHROPIC_API_KEY is not set (first seen 2026-09-04)
+
+- [11abedbad1ac] `extractor`: bot-block page detected: https://status.claude.com/incidents/461yvfrzpwtt (first seen 2026-09-04)
+
+- [00a2803ba9e4] `extractor`: bot-blocked (403): https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/ (first seen 2026-09-04)
+
+- [d0201d4e3bd2] `extractor`: bot-blocked (403): https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html (first seen 2026-09-04)
+
+- [1a09f5654062] `extractor`: bot-blocked (403): https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html (first seen 2026-09-04)
+
+- [9f44004f5f6f] `extractor`: bot-blocked (403): https://werwolv.net/posts/file_format_reverse_engineering/ (first seen 2026-09-04)
+
+- [2d85881b6023] `extractor`: bot-block page detected: https://reason.com/2026/09/02/virginia-mom-gets-6-month-suspended-jail-sentence-for-letting-5-year-old-walk-to-the-pond/ (first seen 2026-09-04)
+
+- [320af26a7382] `extractor`: bot-blocked (403): https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026 (first seen 2026-09-04)
+
 - [6fe8ea9f4b2f] `editor`: LLM call failed for 49523720: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
 
 - [a74ee1b6ff3b] `editor`: LLM call failed for 49524447: ANTHROPIC_API_KEY is not set (first seen 2026-09-03)
