@@ -30,6 +30,44 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [a8b79a12e346] `editor`: LLM call failed for 49576124: ANTHROPIC_API_KEY is not set (first seen 2026-09-06)
+
+- [abcc0b4f531e] `editor`: LLM call failed for 49575034: ANTHROPIC_API_KEY is not set (first seen 2026-09-06)
+
+- [b2cfa98de28f] `editor`: LLM call failed for 49576986: ANTHROPIC_API_KEY is not set (first seen 2026-09-06)
+
+- [0ee4607f0baf] `editor`: LLM call failed for 49571465: ANTHROPIC_API_KEY is not set (first seen 2026-09-06)
+
+- [0918d7f62440] `editor`: LLM call failed for 49570545: ANTHROPIC_API_KEY is not set (first seen 2026-09-06)
+
+- [7ddb450f048e] `editor`: LLM call failed for 49533840: ANTHROPIC_API_KEY is not set (first seen 2026-09-06)
+
+- [d30303dac596] `editor`: LLM call failed for 49574167: ANTHROPIC_API_KEY is not set (first seen 2026-09-06)
+
+- [0eeb054e1f5e] `editor`: LLM call failed for 49578866: ANTHROPIC_API_KEY is not set (first seen 2026-09-06)
+
+- [cb4be65fa5e4] `editor`: LLM call failed for 49577975: ANTHROPIC_API_KEY is not set (first seen 2026-09-06)
+
+- [c4ff58a9e9fe] `editor`: LLM call failed for 49573680: ANTHROPIC_API_KEY is not set (first seen 2026-09-06)
+
+- [06d9e2420ce9] `editor`: LLM call failed for 49569366: ANTHROPIC_API_KEY is not set (first seen 2026-09-06)
+
+- [7bcab4f27ba2] `editor`: LLM call failed for 49569896: ANTHROPIC_API_KEY is not set (first seen 2026-09-06)
+
+- [ef7171205fe9] `editor`: LLM call failed for 49571634: ANTHROPIC_API_KEY is not set (first seen 2026-09-06)
+
+- [095b15e58d7f] `editor`: LLM call failed for 49570669: ANTHROPIC_API_KEY is not set (first seen 2026-09-06)
+
+- [17540e96f135] `editor`: LLM call failed for 49576386: ANTHROPIC_API_KEY is not set (first seen 2026-09-06)
+
+- [d8ef3f3d2264] `editor`: LLM call failed for 49580369: ANTHROPIC_API_KEY is not set (first seen 2026-09-06)
+
+- [0025cd715375] `extractor`: bot-block page detected: https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/ (first seen 2026-09-06)
+
+- [12e827684af3] `extractor`: bot-blocked (403): https://neal.fun/unusual-suspects/ (first seen 2026-09-06)
+
+- [86e8e5588b1f] `extractor`: bot-block page detected: https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx (first seen 2026-09-06)
+
 - [564c4e91b1c7] `editor`: LLM call failed for 49525153: ANTHROPIC_API_KEY is not set (first seen 2026-09-05)
 
 - [a08157f1dcf0] `editor`: LLM call failed for 49555691: ANTHROPIC_API_KEY is not set (first seen 2026-09-05)
