@@ -30,6 +30,42 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [7735982f12b5] `editor`: LLM call failed for 49590512: ANTHROPIC_API_KEY is not set (first seen 2026-09-08)
+
+- [3929c2a9c71c] `editor`: LLM call failed for 49590611: ANTHROPIC_API_KEY is not set (first seen 2026-09-08)
+
+- [4438b8ecaf0b] `editor`: LLM call failed for 49594251: ANTHROPIC_API_KEY is not set (first seen 2026-09-08)
+
+- [77929d3a647e] `editor`: LLM call failed for 49587217: ANTHROPIC_API_KEY is not set (first seen 2026-09-08)
+
+- [69ddaf409c3a] `editor`: LLM call failed for 49597189: ANTHROPIC_API_KEY is not set (first seen 2026-09-08)
+
+- [4654ecad004e] `editor`: LLM call failed for 49589914: ANTHROPIC_API_KEY is not set (first seen 2026-09-08)
+
+- [e520cb9abd80] `editor`: LLM call failed for 49597907: ANTHROPIC_API_KEY is not set (first seen 2026-09-08)
+
+- [86fe2b3c7df1] `editor`: LLM call failed for 49591876: ANTHROPIC_API_KEY is not set (first seen 2026-09-08)
+
+- [438bc9861e5a] `editor`: LLM call failed for 49599481: ANTHROPIC_API_KEY is not set (first seen 2026-09-08)
+
+- [e2c18c74ac79] `editor`: LLM call failed for 49598291: ANTHROPIC_API_KEY is not set (first seen 2026-09-08)
+
+- [6a00edf77272] `editor`: LLM call failed for 49593563: ANTHROPIC_API_KEY is not set (first seen 2026-09-08)
+
+- [b89aa48ae7b6] `editor`: LLM call failed for 49596055: ANTHROPIC_API_KEY is not set (first seen 2026-09-08)
+
+- [8a0e8e459938] `editor`: LLM call failed for 49592375: ANTHROPIC_API_KEY is not set (first seen 2026-09-08)
+
+- [2ea12c75ec5c] `editor`: LLM call failed for 49552299: ANTHROPIC_API_KEY is not set (first seen 2026-09-08)
+
+- [3e66f4185581] `extractor`: bot-block page detected: https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/ (first seen 2026-09-08)
+
+- [1806c59a7e7b] `extractor`: bot-block page detected: https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/ (first seen 2026-09-08)
+
+- [4b8356c1b3cf] `extractor`: bot-blocked (403): https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false (first seen 2026-09-08)
+
+- [bc6f74c3c4d3] `extractor`: bot-block page detected: https://news.ycombinator.com/item?id=49577129 (first seen 2026-09-08)
+
 - [a10c5534b7d5] `editor`: LLM call failed for 49521264: ANTHROPIC_API_KEY is not set (first seen 2026-09-07)
 
 - [80e8cc681b47] `editor`: LLM call failed for 49586171: ANTHROPIC_API_KEY is not set (first seen 2026-09-07)

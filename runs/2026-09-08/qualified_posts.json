@@ -1,0 +1,572 @@
+[
+  {
+    "id": "49552299",
+    "source": "hackernews",
+    "title": "WeatherNext 3",
+    "url": "https://deepmind.google/science/weathernext/",
+    "score": 212,
+    "comments": 44,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:01.226731+00:00"
+  },
+  {
+    "id": "49592375",
+    "source": "hackernews",
+    "title": "216M Spy TVs \u2013 The LG Smart TV Problem [video]",
+    "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+    "score": 473,
+    "comments": 705,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:01.226753+00:00"
+  },
+  {
+    "id": "49596055",
+    "source": "hackernews",
+    "title": "Caltech Mathathon \u2013 first hackathon ever devoted to research level mathematics",
+    "url": "https://mathathonchallenge.com/index.html",
+    "score": 219,
+    "comments": 77,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:01.234153+00:00"
+  },
+  {
+    "id": "49593563",
+    "source": "hackernews",
+    "title": "Keep Our Servers Running",
+    "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+    "score": 945,
+    "comments": 244,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:01.348800+00:00"
+  },
+  {
+    "id": "49598291",
+    "source": "hackernews",
+    "title": "bzip3",
+    "url": "https://github.com/iczelia/bzip3",
+    "score": 369,
+    "comments": 105,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:01.400206+00:00"
+  },
+  {
+    "id": "49577129",
+    "source": "hackernews",
+    "title": "Ask HN: Fable hacked my piano, can I release the results?",
+    "url": "https://news.ycombinator.com/item?id=49577129",
+    "score": 284,
+    "comments": 153,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:01.429728+00:00"
+  },
+  {
+    "id": "49599481",
+    "source": "hackernews",
+    "title": "Bill Gates tries to install MovieMaker (2003)",
+    "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+    "score": 342,
+    "comments": 231,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:01.466194+00:00"
+  },
+  {
+    "id": "49591876",
+    "source": "hackernews",
+    "title": "Making a Python interpreter in 1024 bytes",
+    "url": "https://austinhenley.com/blog/python1024.html",
+    "score": 307,
+    "comments": 103,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:01.526028+00:00"
+  },
+  {
+    "id": "49597907",
+    "source": "hackernews",
+    "title": "De-Brainrot Vacations",
+    "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+    "score": 463,
+    "comments": 188,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:01.563295+00:00"
+  },
+  {
+    "id": "49589914",
+    "source": "hackernews",
+    "title": "Ask HN: How do you manage skills files?",
+    "url": "https://news.ycombinator.com/item?id=49589914",
+    "score": 290,
+    "comments": 260,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:01.563316+00:00"
+  },
+  {
+    "id": "49597189",
+    "source": "hackernews",
+    "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+    "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+    "score": 270,
+    "comments": 151,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:01.566921+00:00"
+  },
+  {
+    "id": "49597895",
+    "source": "hackernews",
+    "title": "Splash-free urinals (2025)",
+    "url": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
+    "score": 218,
+    "comments": 119,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:01.601190+00:00"
+  },
+  {
+    "id": "49585644",
+    "source": "hackernews",
+    "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+    "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+    "score": 706,
+    "comments": 432,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:01.734472+00:00"
+  },
+  {
+    "id": "49587217",
+    "source": "hackernews",
+    "title": "Research acceleration: The view inside OpenAI",
+    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "score": 205,
+    "comments": 176,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:01.759172+00:00"
+  },
+  {
+    "id": "49588080",
+    "source": "hackernews",
+    "title": "An Alien Mind",
+    "url": "https://openai.com/index/an-alien-mind/",
+    "score": 462,
+    "comments": 451,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:01.827236+00:00"
+  },
+  {
+    "id": "49584083",
+    "source": "hackernews",
+    "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+    "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+    "score": 607,
+    "comments": 194,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:01.840408+00:00"
+  },
+  {
+    "id": "49594251",
+    "source": "hackernews",
+    "title": "Switzerland's Federal Government Is Replacing Microsoft on 3k Computers",
+    "url": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
+    "score": 335,
+    "comments": 262,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:01.844190+00:00"
+  },
+  {
+    "id": "49590611",
+    "source": "hackernews",
+    "title": "It took a year to ship WebAssembly in Anubis",
+    "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+    "score": 349,
+    "comments": 187,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:01.904068+00:00"
+  },
+  {
+    "id": "49586898",
+    "source": "hackernews",
+    "title": "A/I shuts down",
+    "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+    "score": 620,
+    "comments": 529,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:01.919946+00:00"
+  },
+  {
+    "id": "49590512",
+    "source": "hackernews",
+    "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+    "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+    "score": 394,
+    "comments": 253,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.000013+00:00"
+  },
+  {
+    "id": "49563355",
+    "source": "hackernews",
+    "title": "Discovery of a new OpenAI agent message board",
+    "url": "https://collusion.wiki/",
+    "score": 2287,
+    "comments": 1590,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.015622+00:00"
+  },
+  {
+    "id": "49580939",
+    "source": "hackernews",
+    "title": "The revolt of the reader",
+    "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+    "score": 598,
+    "comments": 295,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.065497+00:00"
+  },
+  {
+    "id": "49588988",
+    "source": "hackernews",
+    "title": "Nitter and XCancel resume service after legal advice",
+    "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+    "score": 894,
+    "comments": 380,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.079799+00:00"
+  },
+  {
+    "id": "49596119",
+    "source": "hackernews",
+    "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
+    "url": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
+    "score": 301,
+    "comments": 255,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.123747+00:00"
+  },
+  {
+    "id": "49554643",
+    "source": "hackernews",
+    "title": "GPT-6 Astra",
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "score": 2261,
+    "comments": 2069,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.153221+00:00"
+  },
+  {
+    "id": "49586698",
+    "source": "hackernews",
+    "title": "Asahi Linux on M3",
+    "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+    "score": 550,
+    "comments": 341,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.155408+00:00"
+  },
+  {
+    "id": "49582000",
+    "source": "hackernews",
+    "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+    "url": "https://cloudinabottle.org/blog/launch-post",
+    "score": 633,
+    "comments": 311,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.161195+00:00"
+  },
+  {
+    "id": "49585627",
+    "source": "hackernews",
+    "title": "Doomscrolling ourselves to death",
+    "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
+    "score": 416,
+    "comments": 316,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.168857+00:00"
+  },
+  {
+    "id": "49581870",
+    "source": "hackernews",
+    "title": "Chrome again exempts Google from user site data settings",
+    "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+    "score": 609,
+    "comments": 118,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.170268+00:00"
+  },
+  {
+    "id": "49541888",
+    "source": "hackernews",
+    "title": "Music Theory for Programmers",
+    "url": "https://runjs.app/blog/music-theory-for-programmers",
+    "score": 396,
+    "comments": 242,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.204457+00:00"
+  },
+  {
+    "id": "49550772",
+    "source": "hackernews",
+    "title": ".name Termination",
+    "url": "https://neil.fraser.name/news/2026/09/03/",
+    "score": 2221,
+    "comments": 539,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.221738+00:00"
+  },
+  {
+    "id": "49570669",
+    "source": "hackernews",
+    "title": "Actively exploited sandbox RCE in all Chromium versions",
+    "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+    "score": 801,
+    "comments": 504,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.261717+00:00"
+  },
+  {
+    "id": "49571634",
+    "source": "hackernews",
+    "title": "Nitter has more working instances than before the takedowns",
+    "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+    "score": 726,
+    "comments": 397,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.289948+00:00"
+  },
+  {
+    "id": "49568506",
+    "source": "hackernews",
+    "title": "Formalizing Fermat's Last Theorem",
+    "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+    "score": 766,
+    "comments": 509,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.309923+00:00"
+  },
+  {
+    "id": "49576386",
+    "source": "hackernews",
+    "title": "The \"$60 Gaming PC\" \u2013 AMD BC-250 (2025)",
+    "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+    "score": 375,
+    "comments": 111,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.360543+00:00"
+  },
+  {
+    "id": "49570545",
+    "source": "hackernews",
+    "title": "GPT-6 Astra on OpenRouter",
+    "url": "https://openrouter.ai/openai/gpt-6-astra",
+    "score": 319,
+    "comments": 233,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.386145+00:00"
+  },
+  {
+    "id": "49578280",
+    "source": "hackernews",
+    "title": "Learn Programming with OCaml",
+    "url": "https://usr.lmf.cnrs.fr/lpo/",
+    "score": 312,
+    "comments": 139,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.400211+00:00"
+  },
+  {
+    "id": "49562219",
+    "source": "hackernews",
+    "title": "Show HN: TERMy \u2013 A fast terminal assistant that does not use LLMs",
+    "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+    "score": 216,
+    "comments": 45,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.400236+00:00"
+  },
+  {
+    "id": "49569896",
+    "source": "hackernews",
+    "title": "Statichost.eu \u2013 European static site hosting",
+    "url": "https://www.statichost.eu/",
+    "score": 502,
+    "comments": 244,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.518709+00:00"
+  },
+  {
+    "id": "49568579",
+    "source": "hackernews",
+    "title": "Shutting down our public encrypted DNS",
+    "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+    "score": 482,
+    "comments": 258,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.537320+00:00"
+  },
+  {
+    "id": "49580164",
+    "source": "hackernews",
+    "title": "LLMs as a Cognitive Virus",
+    "url": "https://arxiv.org/abs/2609.03344",
+    "score": 391,
+    "comments": 252,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.547724+00:00"
+  },
+  {
+    "id": "49573680",
+    "source": "hackernews",
+    "title": "Git hosting that never leaves Europe",
+    "url": "https://pushin.eu",
+    "score": 370,
+    "comments": 169,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.550770+00:00"
+  },
+  {
+    "id": "49574167",
+    "source": "hackernews",
+    "title": "AI handles incidents, engineers lose touch with their systems",
+    "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+    "score": 412,
+    "comments": 342,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.640550+00:00"
+  },
+  {
+    "id": "49576343",
+    "source": "hackernews",
+    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+    "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+    "score": 213,
+    "comments": 52,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.702652+00:00"
+  },
+  {
+    "id": "49554520",
+    "source": "hackernews",
+    "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+    "url": "https://inference-docs.cerebras.ai/models/overview",
+    "score": 690,
+    "comments": 228,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.712847+00:00"
+  },
+  {
+    "id": "49571465",
+    "source": "hackernews",
+    "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+    "score": 274,
+    "comments": 174,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.717964+00:00"
+  },
+  {
+    "id": "49569366",
+    "source": "hackernews",
+    "title": "Can AI design circuit boards yet?",
+    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+    "score": 420,
+    "comments": 239,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.732131+00:00"
+  },
+  {
+    "id": "49580369",
+    "source": "hackernews",
+    "title": "Private German rocket makes history, reaches orbit from European soil",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+    "score": 740,
+    "comments": 433,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.766408+00:00"
+  },
+  {
+    "id": "49567437",
+    "source": "hackernews",
+    "title": "Show HN: Open-Source eInk Bike Computer",
+    "url": "https://opentrailpaper.com",
+    "score": 417,
+    "comments": 132,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.902737+00:00"
+  },
+  {
+    "id": "49584637",
+    "source": "hackernews",
+    "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules",
+    "url": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
+    "score": 229,
+    "comments": 175,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.907342+00:00"
+  },
+  {
+    "id": "49582582",
+    "source": "hackernews",
+    "title": "GPT-6 Astra on robot arms",
+    "url": "https://openai.robocurve.org/gpt-6-astra/",
+    "score": 240,
+    "comments": 189,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.910316+00:00"
+  },
+  {
+    "id": "49555233",
+    "source": "hackernews",
+    "title": "The asteroid currently hitting front end web development",
+    "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+    "score": 229,
+    "comments": 277,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.912103+00:00"
+  },
+  {
+    "id": "49544762",
+    "source": "hackernews",
+    "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+    "score": 467,
+    "comments": 187,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.916384+00:00"
+  },
+  {
+    "id": "49552572",
+    "source": "hackernews",
+    "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+    "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+    "score": 376,
+    "comments": 123,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.919557+00:00"
+  },
+  {
+    "id": "49562657",
+    "source": "hackernews",
+    "title": "Solving the Jane Street reverse engineering challenge",
+    "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+    "score": 437,
+    "comments": 99,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.975398+00:00"
+  },
+  {
+    "id": "49563851",
+    "source": "hackernews",
+    "title": "IBM Bob",
+    "url": "https://bob.ibm.com/",
+    "score": 336,
+    "comments": 328,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.985445+00:00"
+  },
+  {
+    "id": "49567053",
+    "source": "hackernews",
+    "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
+    "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
+    "score": 438,
+    "comments": 245,
+    "subreddit": null,
+    "qualified_at": "2026-09-08T00:47:02.994269+00:00"
+  }
+]
