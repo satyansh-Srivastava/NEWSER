@@ -30,6 +30,76 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [585e7fc1f08b] `editor`: LLM call failed for 49605691: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [17c11899c18f] `editor`: LLM call failed for 49610229: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [44128ab63897] `editor`: LLM call failed for 49575515: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [9ef0cce73e74] `editor`: LLM call failed for 49601655: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [38d1a42f8836] `editor`: LLM call failed for 49607443: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [2c1c25c270d7] `editor`: LLM call failed for 49604150: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [99c57ed5c26b] `editor`: LLM call failed for 49610538: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [a87c9bf62744] `editor`: LLM call failed for 49558685: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [67773367b8ed] `editor`: LLM call failed for 49571096: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [20e99211d84d] `editor`: LLM call failed for 49604861: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [7eb8c09f856c] `editor`: LLM call failed for 49604637: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [c65334705217] `editor`: LLM call failed for 49604870: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [01539acb1f0c] `editor`: LLM call failed for 49614720: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [99d776f0c0a5] `editor`: LLM call failed for 49610988: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [ef4d9cd1243d] `editor`: LLM call failed for 49605767: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [ab3ab243af1a] `editor`: LLM call failed for 49610900: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [4f37f14c9354] `editor`: LLM call failed for 49607991: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [e96813f35ff2] `editor`: LLM call failed for 49608023: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [070c2f82ccab] `editor`: LLM call failed for 49579443: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [8ab8f1ae4711] `editor`: LLM call failed for 49611051: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [f738927e40f9] `editor`: LLM call failed for 49610059: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [af4c8721ed5a] `editor`: LLM call failed for 49611128: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [e6cc11d17c42] `editor`: LLM call failed for 49613262: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [5805db07adb0] `editor`: LLM call failed for 49611251: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [b42738c4c1f5] `editor`: LLM call failed for 49605915: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [8f1d08846f3a] `editor`: LLM call failed for 49610181: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [d388e1df0f4f] `editor`: LLM call failed for 49610631: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [43ae3762d71b] `editor`: LLM call failed for 49616257: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [a21be9a67763] `editor`: LLM call failed for 49615537: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
+
+- [df7422125da5] `extractor`: bot-block page detected: https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/ (first seen 2026-09-09)
+
+- [7ce10a1b70db] `extractor`: bot-blocked (403): https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds (first seen 2026-09-09)
+
+- [d0e6a59681c8] `extractor`: bot-blocked (403): https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world (first seen 2026-09-09)
+
+- [bb8343d5712d] `extractor`: bot-block page detected: https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/ (first seen 2026-09-09)
+
+- [3aa48d527cd9] `extractor`: bot-block page detected: https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus (first seen 2026-09-09)
+
+- [cd497102c9c6] `extractor`: bot-block page detected: https://news.ycombinator.com/item?id=49555592 (first seen 2026-09-09)
+
 - [7735982f12b5] `editor`: LLM call failed for 49590512: ANTHROPIC_API_KEY is not set (first seen 2026-09-08)
 
 - [3929c2a9c71c] `editor`: LLM call failed for 49590611: ANTHROPIC_API_KEY is not set (first seen 2026-09-08)

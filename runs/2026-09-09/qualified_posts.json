@@ -1,0 +1,582 @@
+[
+  {
+    "id": "49615537",
+    "source": "hackernews",
+    "title": "Muse \u2013 Meta\u2019s personal AI agent",
+    "url": "https://ai.meta.com/muse/",
+    "score": 265,
+    "comments": 248,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:34.790636+00:00"
+  },
+  {
+    "id": "49616257",
+    "source": "hackernews",
+    "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+    "url": "https://github.com/argonautlabsai/deltafin",
+    "score": 200,
+    "comments": 102,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:34.868962+00:00"
+  },
+  {
+    "id": "49610631",
+    "source": "hackernews",
+    "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "score": 303,
+    "comments": 241,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:34.870220+00:00"
+  },
+  {
+    "id": "49610181",
+    "source": "hackernews",
+    "title": "DaVinci Resolve 21.1",
+    "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+    "score": 345,
+    "comments": 154,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:34.876805+00:00"
+  },
+  {
+    "id": "49605915",
+    "source": "hackernews",
+    "title": "Navier-Stokes \u2013 Tristan Buckmaster [pdf]",
+    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+    "score": 1204,
+    "comments": 530,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:34.879918+00:00"
+  },
+  {
+    "id": "49611251",
+    "source": "hackernews",
+    "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+    "score": 482,
+    "comments": 115,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:34.904919+00:00"
+  },
+  {
+    "id": "49613262",
+    "source": "hackernews",
+    "title": "On the Navier\u2013Stokes Millennium Prize Problem",
+    "url": "https://openai.com/index/navier-stokes-solution/",
+    "score": 1080,
+    "comments": 939,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:34.904954+00:00"
+  },
+  {
+    "id": "49611128",
+    "source": "hackernews",
+    "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+    "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+    "score": 206,
+    "comments": 104,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:34.904965+00:00"
+  },
+  {
+    "id": "49610059",
+    "source": "hackernews",
+    "title": "Show HN: Copperhead \u2013 Cursor for circuit boards",
+    "url": "https://copperhead.sh/",
+    "score": 203,
+    "comments": 78,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:35.054986+00:00"
+  },
+  {
+    "id": "49611051",
+    "source": "hackernews",
+    "title": "The two Christian saints who are the Buddha",
+    "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
+    "score": 215,
+    "comments": 149,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:35.163675+00:00"
+  },
+  {
+    "id": "49579443",
+    "source": "hackernews",
+    "title": "We built our house for LAN parties (2024)",
+    "url": "https://lanparty.house/",
+    "score": 404,
+    "comments": 306,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:35.169519+00:00"
+  },
+  {
+    "id": "49608023",
+    "source": "hackernews",
+    "title": "Getting your hands dirty is good for you",
+    "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
+    "score": 211,
+    "comments": 176,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:35.308103+00:00"
+  },
+  {
+    "id": "49607991",
+    "source": "hackernews",
+    "title": "Antiquated HTML Snippets and Artefacts",
+    "url": "https://vale.rocks/posts/html-relics",
+    "score": 223,
+    "comments": 79,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:35.316975+00:00"
+  },
+  {
+    "id": "49610900",
+    "source": "hackernews",
+    "title": "Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger",
+    "url": "https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/",
+    "score": 326,
+    "comments": 112,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:35.319651+00:00"
+  },
+  {
+    "id": "49605767",
+    "source": "hackernews",
+    "title": "Mistral raises \u20ac3B",
+    "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+    "score": 804,
+    "comments": 563,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:35.377417+00:00"
+  },
+  {
+    "id": "49610988",
+    "source": "hackernews",
+    "title": "DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits",
+    "url": "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/",
+    "score": 312,
+    "comments": 190,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:35.450911+00:00"
+  },
+  {
+    "id": "49614720",
+    "source": "hackernews",
+    "title": "ChatGPT Images 2.5",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+    "score": 268,
+    "comments": 358,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:35.468769+00:00"
+  },
+  {
+    "id": "49604870",
+    "source": "hackernews",
+    "title": "There's a new \"Google Jail\" for independent wikis",
+    "url": "https://weirdgloop.org/blog/google-jail",
+    "score": 518,
+    "comments": 218,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:35.574604+00:00"
+  },
+  {
+    "id": "49555592",
+    "source": "hackernews",
+    "title": "Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
+    "url": "https://news.ycombinator.com/item?id=49555592",
+    "score": 237,
+    "comments": 116,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:35.589896+00:00"
+  },
+  {
+    "id": "49612329",
+    "source": "hackernews",
+    "title": "LG TVs caught spying even when offline or on standby",
+    "url": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
+    "score": 477,
+    "comments": 278,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:35.658512+00:00"
+  },
+  {
+    "id": "49604637",
+    "source": "hackernews",
+    "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+    "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+    "score": 481,
+    "comments": 121,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:35.671559+00:00"
+  },
+  {
+    "id": "49604861",
+    "source": "hackernews",
+    "title": "Jellyfin 12.0",
+    "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+    "score": 586,
+    "comments": 322,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:35.788292+00:00"
+  },
+  {
+    "id": "49593563",
+    "source": "hackernews",
+    "title": "Keep Our Servers Running",
+    "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+    "score": 1027,
+    "comments": 271,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:35.895935+00:00"
+  },
+  {
+    "id": "49571096",
+    "source": "hackernews",
+    "title": "This Month in Ladybird \u2013 August 2026",
+    "url": "https://ladybird.org/newsletter/2026-08-31/",
+    "score": 275,
+    "comments": 79,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:35.919377+00:00"
+  },
+  {
+    "id": "49558685",
+    "source": "hackernews",
+    "title": "Simple Is Not Small",
+    "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+    "score": 257,
+    "comments": 88,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:35.988873+00:00"
+  },
+  {
+    "id": "49592375",
+    "source": "hackernews",
+    "title": "216M Spy TVs \u2013 The LG Smart TV Problem [video]",
+    "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+    "score": 874,
+    "comments": 981,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:36.010257+00:00"
+  },
+  {
+    "id": "49610538",
+    "source": "hackernews",
+    "title": "LibreOffice breaks download records after declaring it has no AI features",
+    "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+    "score": 646,
+    "comments": 217,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:36.022897+00:00"
+  },
+  {
+    "id": "49604150",
+    "source": "hackernews",
+    "title": "TALA Is Open-Source",
+    "url": "https://d2lang.com/blog/tala-is-open-source/",
+    "score": 301,
+    "comments": 23,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:36.034146+00:00"
+  },
+  {
+    "id": "49602699",
+    "source": "hackernews",
+    "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+    "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+    "score": 262,
+    "comments": 149,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:36.413245+00:00"
+  },
+  {
+    "id": "49607443",
+    "source": "hackernews",
+    "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+    "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+    "score": 373,
+    "comments": 340,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:36.422947+00:00"
+  },
+  {
+    "id": "49601655",
+    "source": "hackernews",
+    "title": "Watch Los Angeles get built, one building at a time (1880\u20132026)",
+    "url": "https://lax-skyline.parcelscope.net/",
+    "score": 332,
+    "comments": 180,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:36.422971+00:00"
+  },
+  {
+    "id": "49552299",
+    "source": "hackernews",
+    "title": "WeatherNext 3",
+    "url": "https://deepmind.google/science/weathernext/",
+    "score": 402,
+    "comments": 106,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:36.438043+00:00"
+  },
+  {
+    "id": "49569838",
+    "source": "hackernews",
+    "title": "Scientists observe Einstein's gravity in the quantum world",
+    "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
+    "score": 259,
+    "comments": 91,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:36.778377+00:00"
+  },
+  {
+    "id": "49598291",
+    "source": "hackernews",
+    "title": "bzip3",
+    "url": "https://github.com/iczelia/bzip3",
+    "score": 422,
+    "comments": 122,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:36.781917+00:00"
+  },
+  {
+    "id": "49586207",
+    "source": "hackernews",
+    "title": "Icy Moons Are Ocean Worlds",
+    "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
+    "score": 215,
+    "comments": 48,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:36.983134+00:00"
+  },
+  {
+    "id": "49596055",
+    "source": "hackernews",
+    "title": "Caltech Mathathon \u2013 first hackathon ever devoted to research level mathematics",
+    "url": "https://mathathonchallenge.com/index.html",
+    "score": 266,
+    "comments": 95,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:37.172355+00:00"
+  },
+  {
+    "id": "49575515",
+    "source": "hackernews",
+    "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+    "url": "https://arxiv.org/abs/2607.24888",
+    "score": 236,
+    "comments": 58,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:37.181237+00:00"
+  },
+  {
+    "id": "49610229",
+    "source": "hackernews",
+    "title": "We Must Return to the Office to Use AI in Person",
+    "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+    "score": 365,
+    "comments": 62,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:37.213590+00:00"
+  },
+  {
+    "id": "49585644",
+    "source": "hackernews",
+    "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+    "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+    "score": 725,
+    "comments": 433,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:37.279479+00:00"
+  },
+  {
+    "id": "49597189",
+    "source": "hackernews",
+    "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+    "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+    "score": 304,
+    "comments": 200,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:37.320961+00:00"
+  },
+  {
+    "id": "49584083",
+    "source": "hackernews",
+    "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+    "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+    "score": 616,
+    "comments": 203,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:37.496014+00:00"
+  },
+  {
+    "id": "49563355",
+    "source": "hackernews",
+    "title": "Discovery of a new OpenAI agent message board",
+    "url": "https://collusion.wiki/",
+    "score": 2292,
+    "comments": 1595,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:37.500867+00:00"
+  },
+  {
+    "id": "49588080",
+    "source": "hackernews",
+    "title": "An Alien Mind",
+    "url": "https://openai.com/index/an-alien-mind/",
+    "score": 485,
+    "comments": 462,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:37.587404+00:00"
+  },
+  {
+    "id": "49597907",
+    "source": "hackernews",
+    "title": "De-Brainrot Vacations",
+    "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+    "score": 504,
+    "comments": 207,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:37.606426+00:00"
+  },
+  {
+    "id": "49599481",
+    "source": "hackernews",
+    "title": "Bill Gates tries to install MovieMaker (2003)",
+    "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+    "score": 419,
+    "comments": 284,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:37.639164+00:00"
+  },
+  {
+    "id": "49554643",
+    "source": "hackernews",
+    "title": "GPT-6 Astra",
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "score": 2270,
+    "comments": 2075,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:37.728622+00:00"
+  },
+  {
+    "id": "49596119",
+    "source": "hackernews",
+    "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
+    "url": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
+    "score": 315,
+    "comments": 290,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:37.758033+00:00"
+  },
+  {
+    "id": "49605691",
+    "source": "hackernews",
+    "title": "We have a year to fix security everywhere",
+    "url": "https://jyn.dev/a-year-to-fix-security/",
+    "score": 296,
+    "comments": 335,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:37.769898+00:00"
+  },
+  {
+    "id": "49586898",
+    "source": "hackernews",
+    "title": "A/I shuts down",
+    "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+    "score": 634,
+    "comments": 550,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:37.836901+00:00"
+  },
+  {
+    "id": "49577129",
+    "source": "hackernews",
+    "title": "Ask HN: Fable hacked my piano, can I release the results?",
+    "url": "https://news.ycombinator.com/item?id=49577129",
+    "score": 295,
+    "comments": 160,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:37.958103+00:00"
+  },
+  {
+    "id": "49590611",
+    "source": "hackernews",
+    "title": "It took a year to ship WebAssembly in Anubis",
+    "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+    "score": 358,
+    "comments": 200,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:38.029898+00:00"
+  },
+  {
+    "id": "49580939",
+    "source": "hackernews",
+    "title": "The revolt of the reader",
+    "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+    "score": 603,
+    "comments": 297,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:38.066994+00:00"
+  },
+  {
+    "id": "49591876",
+    "source": "hackernews",
+    "title": "Making a Python interpreter in 1024 bytes",
+    "url": "https://austinhenley.com/blog/python1024.html",
+    "score": 321,
+    "comments": 111,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:38.083974+00:00"
+  },
+  {
+    "id": "49550772",
+    "source": "hackernews",
+    "title": ".name Termination",
+    "url": "https://neil.fraser.name/news/2026/09/03/",
+    "score": 2223,
+    "comments": 546,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:38.106224+00:00"
+  },
+  {
+    "id": "49596629",
+    "source": "hackernews",
+    "title": "Tiny $70 Xteink X3 e-reader",
+    "url": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
+    "score": 211,
+    "comments": 211,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:38.287919+00:00"
+  },
+  {
+    "id": "49589914",
+    "source": "hackernews",
+    "title": "Ask HN: How do you manage skills files?",
+    "url": "https://news.ycombinator.com/item?id=49589914",
+    "score": 307,
+    "comments": 280,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:38.309992+00:00"
+  },
+  {
+    "id": "49590512",
+    "source": "hackernews",
+    "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+    "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+    "score": 406,
+    "comments": 258,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:38.312352+00:00"
+  },
+  {
+    "id": "49582000",
+    "source": "hackernews",
+    "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+    "url": "https://cloudinabottle.org/blog/launch-post",
+    "score": 646,
+    "comments": 317,
+    "subreddit": null,
+    "qualified_at": "2026-09-09T00:48:38.364173+00:00"
+  }
+]
