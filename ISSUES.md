@@ -30,6 +30,40 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [412b21caf287] `editor`: LLM call failed for 49619227: ANTHROPIC_API_KEY is not set (first seen 2026-09-10)
+
+- [07991cbde9b2] `editor`: LLM call failed for 49628704: ANTHROPIC_API_KEY is not set (first seen 2026-09-10)
+
+- [7c714c12647c] `editor`: LLM call failed for 49616354: ANTHROPIC_API_KEY is not set (first seen 2026-09-10)
+
+- [7528b1c74b04] `editor`: LLM call failed for 49617255: ANTHROPIC_API_KEY is not set (first seen 2026-09-10)
+
+- [aeb7b9371d55] `editor`: LLM call failed for 49621751: ANTHROPIC_API_KEY is not set (first seen 2026-09-10)
+
+- [e8705f1fdcd2] `editor`: LLM call failed for 49616968: ANTHROPIC_API_KEY is not set (first seen 2026-09-10)
+
+- [15e45b75cd0a] `editor`: LLM call failed for 49623754: ANTHROPIC_API_KEY is not set (first seen 2026-09-10)
+
+- [200911090964] `editor`: LLM call failed for 49624823: ANTHROPIC_API_KEY is not set (first seen 2026-09-10)
+
+- [d0b0ffd00fc3] `editor`: LLM call failed for 49630151: ANTHROPIC_API_KEY is not set (first seen 2026-09-10)
+
+- [3b838bf48f25] `editor`: LLM call failed for 49630253: ANTHROPIC_API_KEY is not set (first seen 2026-09-10)
+
+- [fe370aef90b3] `editor`: LLM call failed for 49628493: ANTHROPIC_API_KEY is not set (first seen 2026-09-10)
+
+- [a92d982937ed] `editor`: LLM call failed for 49626190: ANTHROPIC_API_KEY is not set (first seen 2026-09-10)
+
+- [413ef948a2ff] `editor`: LLM call failed for 49614280: ANTHROPIC_API_KEY is not set (first seen 2026-09-10)
+
+- [7ee539e6078f] `editor`: LLM call failed for 49630931: ANTHROPIC_API_KEY is not set (first seen 2026-09-10)
+
+- [3043ced32d9f] `editor`: LLM call failed for 49627370: ANTHROPIC_API_KEY is not set (first seen 2026-09-10)
+
+- [b141688f1354] `extractor`: bot-blocked (403): https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy (first seen 2026-09-10)
+
+- [7fa2fda7a386] `extractor`: bot-blocked (403): https://xlii.space/eng/malicious-software-on-google-ads/ (first seen 2026-09-10)
+
 - [585e7fc1f08b] `editor`: LLM call failed for 49605691: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
 
 - [17c11899c18f] `editor`: LLM call failed for 49610229: ANTHROPIC_API_KEY is not set (first seen 2026-09-09)
