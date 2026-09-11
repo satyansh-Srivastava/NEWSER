@@ -1,0 +1,532 @@
+[
+  {
+    "id": "49643982",
+    "source": "hackernews",
+    "title": "Shopify is moving from React Native back to Swift and Kotlin",
+    "url": "https://shopify.engineering/back-to-native",
+    "score": 735,
+    "comments": 490,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:18.065912+00:00"
+  },
+  {
+    "id": "49645437",
+    "source": "hackernews",
+    "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+    "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+    "score": 260,
+    "comments": 39,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:18.084460+00:00"
+  },
+  {
+    "id": "49645443",
+    "source": "hackernews",
+    "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+    "url": "https://cognition.com/blog/swe-2",
+    "score": 343,
+    "comments": 140,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:18.084488+00:00"
+  },
+  {
+    "id": "49645393",
+    "source": "hackernews",
+    "title": "Don't let anyone take away your big box of cables",
+    "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+    "score": 298,
+    "comments": 231,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:18.084500+00:00"
+  },
+  {
+    "id": "49627634",
+    "source": "hackernews",
+    "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+    "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+    "score": 282,
+    "comments": 222,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:18.095511+00:00"
+  },
+  {
+    "id": "49639408",
+    "source": "hackernews",
+    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+    "score": 627,
+    "comments": 610,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:18.120228+00:00"
+  },
+  {
+    "id": "49643546",
+    "source": "hackernews",
+    "title": "Rust is tier-1 language at Microsoft",
+    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+    "score": 590,
+    "comments": 329,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:18.139363+00:00"
+  },
+  {
+    "id": "49599992",
+    "source": "hackernews",
+    "title": "Stockfish 19",
+    "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
+    "score": 269,
+    "comments": 155,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:18.385663+00:00"
+  },
+  {
+    "id": "49630931",
+    "source": "hackernews",
+    "title": "iPhone Duo",
+    "url": "https://www.apple.com/iphone-duo/",
+    "score": 1411,
+    "comments": 2427,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:18.395345+00:00"
+  },
+  {
+    "id": "49640646",
+    "source": "hackernews",
+    "title": "What algorithm did Windows XP use to choose your initial user picture?",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+    "score": 337,
+    "comments": 165,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:18.422868+00:00"
+  },
+  {
+    "id": "49642531",
+    "source": "hackernews",
+    "title": "List of references on Sony websites to players \"owning\" their digital games",
+    "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
+    "score": 356,
+    "comments": 120,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:18.422888+00:00"
+  },
+  {
+    "id": "49639090",
+    "source": "hackernews",
+    "title": "DeepSeek v4.1 Flash",
+    "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+    "score": 939,
+    "comments": 518,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:18.502947+00:00"
+  },
+  {
+    "id": "49646181",
+    "source": "hackernews",
+    "title": "I have a theory that software drives people insane",
+    "url": "https://graybeard.ing/software-drives-people-insane/",
+    "score": 407,
+    "comments": 167,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:18.742648+00:00"
+  },
+  {
+    "id": "49626190",
+    "source": "hackernews",
+    "title": "Shopify acquires Tailwind",
+    "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+    "score": 1123,
+    "comments": 438,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:18.746907+00:00"
+  },
+  {
+    "id": "49637385",
+    "source": "hackernews",
+    "title": "Show HN: What if the speed of light was 5 km/h?",
+    "url": "https://rivendell.dmitrybrant.com/relativity/",
+    "score": 566,
+    "comments": 257,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:18.758925+00:00"
+  },
+  {
+    "id": "49636283",
+    "source": "hackernews",
+    "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
+    "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+    "score": 429,
+    "comments": 320,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:18.758952+00:00"
+  },
+  {
+    "id": "49614280",
+    "source": "hackernews",
+    "title": "What do Visa and Mastercard do? An intro to card networks",
+    "url": "https://tautology.town/2026/06/01/card-networks.html",
+    "score": 653,
+    "comments": 391,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:18.936168+00:00"
+  },
+  {
+    "id": "49630566",
+    "source": "hackernews",
+    "title": "Apple Watch Series 12",
+    "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+    "score": 271,
+    "comments": 374,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:18.961585+00:00"
+  },
+  {
+    "id": "49628576",
+    "source": "hackernews",
+    "title": "GNU Radio in the browser",
+    "url": "https://gnuradioworld.com/",
+    "score": 216,
+    "comments": 33,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:19.038330+00:00"
+  },
+  {
+    "id": "49629886",
+    "source": "hackernews",
+    "title": "Growing proof that autonomous cars save lives",
+    "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+    "score": 434,
+    "comments": 819,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:19.046147+00:00"
+  },
+  {
+    "id": "49628614",
+    "source": "hackernews",
+    "title": "Understanding the recent DDoS attack against Read the Docs",
+    "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
+    "score": 209,
+    "comments": 67,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:19.184757+00:00"
+  },
+  {
+    "id": "49627370",
+    "source": "hackernews",
+    "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+    "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "score": 503,
+    "comments": 160,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:19.195561+00:00"
+  },
+  {
+    "id": "49628493",
+    "source": "hackernews",
+    "title": "No Man's Sky Cosmos",
+    "url": "https://www.nomanssky.com/cosmos-update/",
+    "score": 439,
+    "comments": 456,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:19.260722+00:00"
+  },
+  {
+    "id": "49630253",
+    "source": "hackernews",
+    "title": "AirPods 5",
+    "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+    "score": 503,
+    "comments": 446,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:19.355153+00:00"
+  },
+  {
+    "id": "49643556",
+    "source": "hackernews",
+    "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+    "url": "https://news.ycombinator.com/item?id=49643556",
+    "score": 424,
+    "comments": 174,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:19.380986+00:00"
+  },
+  {
+    "id": "49615537",
+    "source": "hackernews",
+    "title": "Muse \u2013 Meta\u2019s personal AI agent",
+    "url": "https://ai.meta.com/muse/",
+    "score": 652,
+    "comments": 733,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:19.405421+00:00"
+  },
+  {
+    "id": "49626373",
+    "source": "hackernews",
+    "title": "What will our economic future look like?",
+    "url": "https://www.anthropic.com/institute/econ-scenarios",
+    "score": 229,
+    "comments": 450,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:19.407486+00:00"
+  },
+  {
+    "id": "49630151",
+    "source": "hackernews",
+    "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+    "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+    "score": 400,
+    "comments": 477,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:19.415717+00:00"
+  },
+  {
+    "id": "49605915",
+    "source": "hackernews",
+    "title": "Navier-Stokes \u2013 Tristan Buckmaster [pdf]",
+    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+    "score": 2028,
+    "comments": 819,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:19.421576+00:00"
+  },
+  {
+    "id": "49624823",
+    "source": "hackernews",
+    "title": "Desert Ant Labs: local, fast models that run on device",
+    "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+    "score": 481,
+    "comments": 102,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:19.468532+00:00"
+  },
+  {
+    "id": "49638280",
+    "source": "hackernews",
+    "title": "All grown-ups were once children, but only few of them remember it",
+    "url": "https://mathstodon.xyz/@tao/117244102901892965",
+    "score": 253,
+    "comments": 210,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:19.608561+00:00"
+  },
+  {
+    "id": "49635384",
+    "source": "hackernews",
+    "title": "Blizzard Workers Win Historic Union Contract",
+    "url": "https://www.latimes.com/entertainment-arts/business/story/2026-09-09/blizzard-video-game-workers-ratify-union-contract",
+    "score": 238,
+    "comments": 105,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:19.622388+00:00"
+  },
+  {
+    "id": "49624856",
+    "source": "hackernews",
+    "title": "How I advertise malicious software on Google Ads",
+    "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
+    "score": 425,
+    "comments": 258,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:19.638589+00:00"
+  },
+  {
+    "id": "49630026",
+    "source": "hackernews",
+    "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+    "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+    "score": 233,
+    "comments": 93,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:19.656543+00:00"
+  },
+  {
+    "id": "49616968",
+    "source": "hackernews",
+    "title": "Tao: Open math problems being non-renewably mined by AI",
+    "url": "https://mathstodon.xyz/@tao/117237320796901560",
+    "score": 484,
+    "comments": 417,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:19.794420+00:00"
+  },
+  {
+    "id": "49623754",
+    "source": "hackernews",
+    "title": "Claude, change the \u201cAdd to Cart\u201d button to blue",
+    "url": "https://opusfived.dev/",
+    "score": 1160,
+    "comments": 447,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:19.802988+00:00"
+  },
+  {
+    "id": "49611251",
+    "source": "hackernews",
+    "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+    "score": 598,
+    "comments": 132,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:19.914963+00:00"
+  },
+  {
+    "id": "49608023",
+    "source": "hackernews",
+    "title": "Getting your hands dirty is good for you",
+    "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
+    "score": 252,
+    "comments": 213,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:20.060885+00:00"
+  },
+  {
+    "id": "49593563",
+    "source": "hackernews",
+    "title": "Keep Our Servers Running",
+    "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+    "score": 1047,
+    "comments": 279,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:20.114691+00:00"
+  },
+  {
+    "id": "49610059",
+    "source": "hackernews",
+    "title": "Show HN: Copperhead \u2013 Cursor for circuit boards",
+    "url": "https://copperhead.sh/",
+    "score": 244,
+    "comments": 114,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:20.184767+00:00"
+  },
+  {
+    "id": "49617255",
+    "source": "hackernews",
+    "title": "How to build a printer",
+    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+    "score": 441,
+    "comments": 106,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:20.198458+00:00"
+  },
+  {
+    "id": "49605767",
+    "source": "hackernews",
+    "title": "Mistral raises \u20ac3B",
+    "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+    "score": 843,
+    "comments": 598,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:20.226637+00:00"
+  },
+  {
+    "id": "49614720",
+    "source": "hackernews",
+    "title": "ChatGPT Images 2.5",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+    "score": 380,
+    "comments": 447,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:20.263489+00:00"
+  },
+  {
+    "id": "49610181",
+    "source": "hackernews",
+    "title": "DaVinci Resolve 21.1",
+    "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+    "score": 436,
+    "comments": 206,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:20.297463+00:00"
+  },
+  {
+    "id": "49607991",
+    "source": "hackernews",
+    "title": "Antiquated HTML Snippets and Artefacts",
+    "url": "https://vale.rocks/posts/html-relics",
+    "score": 243,
+    "comments": 85,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:20.364847+00:00"
+  },
+  {
+    "id": "49610631",
+    "source": "hackernews",
+    "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "score": 535,
+    "comments": 370,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:20.394166+00:00"
+  },
+  {
+    "id": "49592375",
+    "source": "hackernews",
+    "title": "216M Spy TVs \u2013 The LG Smart TV Problem [video]",
+    "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+    "score": 921,
+    "comments": 1007,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:20.458315+00:00"
+  },
+  {
+    "id": "49604870",
+    "source": "hackernews",
+    "title": "There's a new \"Google Jail\" for independent wikis",
+    "url": "https://weirdgloop.org/blog/google-jail",
+    "score": 567,
+    "comments": 236,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:20.472721+00:00"
+  },
+  {
+    "id": "49616354",
+    "source": "hackernews",
+    "title": "Mercury 2.5",
+    "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+    "score": 247,
+    "comments": 53,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:20.586319+00:00"
+  },
+  {
+    "id": "49604637",
+    "source": "hackernews",
+    "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+    "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+    "score": 511,
+    "comments": 129,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:20.591363+00:00"
+  },
+  {
+    "id": "49621751",
+    "source": "hackernews",
+    "title": "\u201cTweet\u201d and the bird logo apparently enter the public domain",
+    "url": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
+    "score": 225,
+    "comments": 132,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:20.618063+00:00"
+  },
+  {
+    "id": "49616257",
+    "source": "hackernews",
+    "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+    "url": "https://github.com/argonautlabsai/deltafin",
+    "score": 277,
+    "comments": 155,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:20.676962+00:00"
+  },
+  {
+    "id": "49611128",
+    "source": "hackernews",
+    "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+    "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+    "score": 284,
+    "comments": 137,
+    "subreddit": null,
+    "qualified_at": "2026-09-11T00:38:20.677965+00:00"
+  }
+]
