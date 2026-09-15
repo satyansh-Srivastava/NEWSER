@@ -30,6 +30,102 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [9fdc9fcd1beb] `editor`: LLM call failed for 49677577: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [1cf83ea04c5e] `editor`: LLM call failed for 49676820: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [f2c4e9a8e5fb] `editor`: LLM call failed for 49649789: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [88bcf52156ee] `editor`: LLM call failed for 49665502: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [383d6d8fa804] `editor`: LLM call failed for 49688157: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [841f3bbe8c04] `editor`: LLM call failed for 49675902: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [93bad83e4c34] `editor`: LLM call failed for 49689460: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [05338e0249ec] `editor`: LLM call failed for 49662990: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [15b6d83d4c4d] `editor`: LLM call failed for 49668386: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [853853ae9bf3] `editor`: LLM call failed for 49639647: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [902356a7906b] `editor`: LLM call failed for 49636479: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [a360a3c42872] `editor`: LLM call failed for 49678683: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [cf26f0ccb294] `editor`: LLM call failed for 49685991: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [37208fdfc7e6] `editor`: LLM call failed for 49674050: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [77c613d37c37] `editor`: LLM call failed for 49684196: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [c70332515ba5] `editor`: LLM call failed for 49683262: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [8f47218ba266] `editor`: LLM call failed for 49681545: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [8e1f95ed4a35] `editor`: LLM call failed for 49685253: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [b1c5a62fcaa5] `editor`: LLM call failed for 49638071: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [f64c608a20b8] `editor`: LLM call failed for 49686445: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [c4f3dd8fca46] `editor`: LLM call failed for 49642645: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [a322f964c47d] `editor`: LLM call failed for 49678969: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [a2e865867f58] `editor`: LLM call failed for 49681152: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [8ca60da1ef6c] `editor`: LLM call failed for 49688259: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [1fa4346b8179] `editor`: LLM call failed for 49695409: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [93d10d65550a] `editor`: LLM call failed for 49676324: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [bd18c60c846c] `editor`: LLM call failed for 49691343: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [124a2dc4bdba] `editor`: LLM call failed for 49689048: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [249271be9f28] `editor`: LLM call failed for 49693610: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [aff08afed242] `editor`: LLM call failed for 49690554: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [178f2b91553c] `editor`: LLM call failed for 49696125: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [f938cb90f1a7] `editor`: LLM call failed for 49638510: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [a26edcf22634] `editor`: LLM call failed for 49690174: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [ee6efc80e0d4] `editor`: LLM call failed for 49688695: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [38c6adb81658] `editor`: LLM call failed for 49693613: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [74f007c663cd] `editor`: LLM call failed for 49697893: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [b1eb56a6dfac] `editor`: LLM call failed for 49670852: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [758dd3f0d6c4] `editor`: LLM call failed for 49700661: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [a75f0e9bf292] `editor`: LLM call failed for 49700477: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [141d61167603] `editor`: LLM call failed for 49695876: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [e217da1b9962] `editor`: LLM call failed for 49699158: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [4cc26f56676d] `editor`: LLM call failed for 49701004: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
+
+- [3cebceadd861] `extractor`: bot-blocked (403): https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai (first seen 2026-09-15)
+
+- [e488d2ae527a] `extractor`: bot-blocked (403): https://mathandai.org/ (first seen 2026-09-15)
+
+- [44069e9757dd] `extractor`: bot-block page detected: https://www.theverge.com/column/994172/your-car-is-selling-your-data (first seen 2026-09-15)
+
+- [36078589f93b] `extractor`: HTTP 429 for https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment (first seen 2026-09-15)
+
+- [3653ca7701e1] `extractor`: bot-block page detected: https://news.ycombinator.com/item?id=49686380 (first seen 2026-09-15)
+
+- [b6f15399c2c4] `extractor`: HTTP 451 for https://xcancel.com/# (first seen 2026-09-15)
+
 - [165ed4fad889] `editor`: LLM call failed for 49630026: ANTHROPIC_API_KEY is not set (first seen 2026-09-11)
 
 - [229c2c74353f] `editor`: LLM call failed for 49635384: ANTHROPIC_API_KEY is not set (first seen 2026-09-11)
