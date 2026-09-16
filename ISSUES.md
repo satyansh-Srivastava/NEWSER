@@ -30,6 +30,66 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [2e6369dfecdc] `editor`: LLM call failed for 49699297: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [4ab817ecacdc] `editor`: LLM call failed for 49706223: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [51a8e0472ef3] `editor`: LLM call failed for 49698607: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [cbbfff3a1ed1] `editor`: LLM call failed for 49715113: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [bf70347f441e] `editor`: LLM call failed for 49698699: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [c9f9db3aeab9] `editor`: LLM call failed for 49704246: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [c6288f668a62] `editor`: LLM call failed for 49699489: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [643e8e70e5ff] `editor`: LLM call failed for 49707627: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [f60b74387a70] `editor`: LLM call failed for 49696697: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [16b53720c39d] `editor`: LLM call failed for 49684289: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [7ebbfa136aae] `editor`: LLM call failed for 49709381: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [fea6b5dde58b] `editor`: LLM call failed for 49708993: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [1fc1135f1d4a] `editor`: LLM call failed for 49714547: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [1ea5158633ab] `editor`: LLM call failed for 49712041: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [481fbc73bab5] `editor`: LLM call failed for 49710883: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [bb35fc1fd9a5] `editor`: LLM call failed for 49697496: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [bc89dc11de80] `editor`: LLM call failed for 49707473: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [568d700fa083] `editor`: LLM call failed for 49704132: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [5f1c94adfd5b] `editor`: LLM call failed for 49710253: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [d6dad05a4d7b] `editor`: LLM call failed for 49710109: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [514b0b44a82a] `editor`: LLM call failed for 49711544: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [6275f4fbce54] `editor`: LLM call failed for 49717558: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [40b53d9c1160] `editor`: LLM call failed for 49715947: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [800f1a7c8b70] `editor`: LLM call failed for 49716476: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [bf2e0c154bfb] `editor`: LLM call failed for 49712278: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [f76595cd5aab] `editor`: LLM call failed for 49716176: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
+
+- [5fe243450963] `extractor`: bot-blocked (403): https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html (first seen 2026-09-16)
+
+- [e52b8c025792] `extractor`: bot-blocked (403): https://www.reutersconnect.com/item/israeli-minister-threatens-filmmakers-citizenship-over-gaza-documentary/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XQ1ZNQzQ0NjcxMC1WSURFTw (first seen 2026-09-16)
+
+- [0384a99d5b9f] `extractor`: bot-blocked (403): https://dailyneuron.com/aphantasia-mental-imagery-brain-network/ (first seen 2026-09-16)
+
+- [6907251f81bc] `extractor`: bot-blocked (403): https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua (first seen 2026-09-16)
+
 - [9fdc9fcd1beb] `editor`: LLM call failed for 49677577: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
 
 - [1cf83ea04c5e] `editor`: LLM call failed for 49676820: ANTHROPIC_API_KEY is not set (first seen 2026-09-15)
