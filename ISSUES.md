@@ -30,6 +30,52 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [1f117726c554] `editor`: LLM call failed for 49727627: ANTHROPIC_API_KEY is not set (first seen 2026-09-17)
+
+- [4faf9d9f359f] `editor`: LLM call failed for 49716953: ANTHROPIC_API_KEY is not set (first seen 2026-09-17)
+
+- [29eb084a786e] `editor`: LLM call failed for 49717638: ANTHROPIC_API_KEY is not set (first seen 2026-09-17)
+
+- [391f829203f4] `editor`: LLM call failed for 49718928: ANTHROPIC_API_KEY is not set (first seen 2026-09-17)
+
+- [e5e18519f30c] `editor`: LLM call failed for 49712102: ANTHROPIC_API_KEY is not set (first seen 2026-09-17)
+
+- [b0de17b610a2] `editor`: LLM call failed for 49715927: ANTHROPIC_API_KEY is not set (first seen 2026-09-17)
+
+- [b1794629ddad] `editor`: LLM call failed for 49693971: ANTHROPIC_API_KEY is not set (first seen 2026-09-17)
+
+- [9a62079fd0d8] `editor`: LLM call failed for 49723873: ANTHROPIC_API_KEY is not set (first seen 2026-09-17)
+
+- [dc3a8fc1e924] `editor`: LLM call failed for 49725356: ANTHROPIC_API_KEY is not set (first seen 2026-09-17)
+
+- [cdc660153e5d] `editor`: LLM call failed for 49721322: ANTHROPIC_API_KEY is not set (first seen 2026-09-17)
+
+- [620c8b3857e5] `editor`: LLM call failed for 49724927: ANTHROPIC_API_KEY is not set (first seen 2026-09-17)
+
+- [d49899407f79] `editor`: LLM call failed for 49729412: ANTHROPIC_API_KEY is not set (first seen 2026-09-17)
+
+- [923d312a24f1] `editor`: LLM call failed for 49724488: ANTHROPIC_API_KEY is not set (first seen 2026-09-17)
+
+- [9fdecda400a4] `editor`: LLM call failed for 49710903: ANTHROPIC_API_KEY is not set (first seen 2026-09-17)
+
+- [ae2ea012f566] `editor`: LLM call failed for 49726586: ANTHROPIC_API_KEY is not set (first seen 2026-09-17)
+
+- [7177dbdc6e41] `editor`: LLM call failed for 49723408: ANTHROPIC_API_KEY is not set (first seen 2026-09-17)
+
+- [03dcfc6f13a2] `editor`: LLM call failed for 49732270: ANTHROPIC_API_KEY is not set (first seen 2026-09-17)
+
+- [d8af18d6e69a] `editor`: LLM call failed for 49729000: ANTHROPIC_API_KEY is not set (first seen 2026-09-17)
+
+- [b7947ff73878] `editor`: LLM call failed for 49724881: ANTHROPIC_API_KEY is not set (first seen 2026-09-17)
+
+- [9a41cdd1f34e] `editor`: LLM call failed for 49731285: ANTHROPIC_API_KEY is not set (first seen 2026-09-17)
+
+- [e42b67b53c34] `extractor`: bot-blocked (403): https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/ (first seen 2026-09-17)
+
+- [2230a3d01fe8] `extractor`: bot-block page detected: https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html (first seen 2026-09-17)
+
+- [21c4f65875ef] `extractor`: HTTP 401 for https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d (first seen 2026-09-17)
+
 - [2e6369dfecdc] `editor`: LLM call failed for 49699297: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
 
 - [4ab817ecacdc] `editor`: LLM call failed for 49706223: ANTHROPIC_API_KEY is not set (first seen 2026-09-16)
