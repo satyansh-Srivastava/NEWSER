@@ -30,6 +30,56 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [aebbe30a251d] `editor`: LLM call failed for 49726955: ANTHROPIC_API_KEY is not set (first seen 2026-09-18)
+
+- [c3b60484f8c8] `editor`: LLM call failed for 49738879: ANTHROPIC_API_KEY is not set (first seen 2026-09-18)
+
+- [4df19c31d784] `editor`: LLM call failed for 49739018: ANTHROPIC_API_KEY is not set (first seen 2026-09-18)
+
+- [24d861d97cb4] `editor`: LLM call failed for 49711424: ANTHROPIC_API_KEY is not set (first seen 2026-09-18)
+
+- [86fdcf246cc4] `editor`: LLM call failed for 49732513: ANTHROPIC_API_KEY is not set (first seen 2026-09-18)
+
+- [8669bbae8112] `editor`: LLM call failed for 49727580: ANTHROPIC_API_KEY is not set (first seen 2026-09-18)
+
+- [e434c60e18a1] `editor`: LLM call failed for 49719596: ANTHROPIC_API_KEY is not set (first seen 2026-09-18)
+
+- [a4592a494bf8] `editor`: LLM call failed for 49705944: ANTHROPIC_API_KEY is not set (first seen 2026-09-18)
+
+- [bdf7aad8659d] `editor`: LLM call failed for 49732931: ANTHROPIC_API_KEY is not set (first seen 2026-09-18)
+
+- [a8ad206d68ca] `editor`: LLM call failed for 49733726: ANTHROPIC_API_KEY is not set (first seen 2026-09-18)
+
+- [648cefc5b388] `editor`: LLM call failed for 49740834: ANTHROPIC_API_KEY is not set (first seen 2026-09-18)
+
+- [44834f3c773e] `editor`: LLM call failed for 49735930: ANTHROPIC_API_KEY is not set (first seen 2026-09-18)
+
+- [43114e2b49cd] `editor`: LLM call failed for 49674451: ANTHROPIC_API_KEY is not set (first seen 2026-09-18)
+
+- [08b62132cb9c] `editor`: LLM call failed for 49745570: ANTHROPIC_API_KEY is not set (first seen 2026-09-18)
+
+- [24dca76100ba] `editor`: LLM call failed for 49737849: ANTHROPIC_API_KEY is not set (first seen 2026-09-18)
+
+- [cd64deb906ae] `editor`: LLM call failed for 49718773: ANTHROPIC_API_KEY is not set (first seen 2026-09-18)
+
+- [924103b9ff12] `editor`: LLM call failed for 49737787: ANTHROPIC_API_KEY is not set (first seen 2026-09-18)
+
+- [a0f37efd4ee8] `editor`: LLM call failed for 49743097: ANTHROPIC_API_KEY is not set (first seen 2026-09-18)
+
+- [d87021ce3e10] `editor`: LLM call failed for 49726007: ANTHROPIC_API_KEY is not set (first seen 2026-09-18)
+
+- [ffb3c8e61b0a] `editor`: LLM call failed for 49746163: ANTHROPIC_API_KEY is not set (first seen 2026-09-18)
+
+- [54c298c3b5d6] `editor`: LLM call failed for 49745940: ANTHROPIC_API_KEY is not set (first seen 2026-09-18)
+
+- [089e2dc6abcc] `extractor`: bot-blocked (403): https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving (first seen 2026-09-18)
+
+- [fa90fbe2ad93] `extractor`: bot-blocked (403): https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q (first seen 2026-09-18)
+
+- [20fe42852b18] `extractor`: HTTP 429 for https://global.fujitsu/en-global/pr/news/2026/09/14-02 (first seen 2026-09-18)
+
+- [66a51639f36b] `extractor`: empty body extracted: https://z.ai/blog/glm-built-its-inference-infrastructure (first seen 2026-09-18)
+
 - [1f117726c554] `editor`: LLM call failed for 49727627: ANTHROPIC_API_KEY is not set (first seen 2026-09-17)
 
 - [4faf9d9f359f] `editor`: LLM call failed for 49716953: ANTHROPIC_API_KEY is not set (first seen 2026-09-17)
