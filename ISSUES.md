@@ -30,6 +30,56 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [e2eceead238e] `editor`: LLM call failed for 49746117: ANTHROPIC_API_KEY is not set (first seen 2026-09-19)
+
+- [be0451215bcb] `editor`: LLM call failed for 49736466: ANTHROPIC_API_KEY is not set (first seen 2026-09-19)
+
+- [669f42c410c4] `editor`: LLM call failed for 49738091: ANTHROPIC_API_KEY is not set (first seen 2026-09-19)
+
+- [525ba3d43e8a] `editor`: LLM call failed for 49740105: ANTHROPIC_API_KEY is not set (first seen 2026-09-19)
+
+- [636d14b2d0e4] `editor`: LLM call failed for 49740260: ANTHROPIC_API_KEY is not set (first seen 2026-09-19)
+
+- [1054f8f9d188] `editor`: LLM call failed for 49747925: ANTHROPIC_API_KEY is not set (first seen 2026-09-19)
+
+- [bbe5fb319388] `editor`: LLM call failed for 49750094: ANTHROPIC_API_KEY is not set (first seen 2026-09-19)
+
+- [280db368d061] `editor`: LLM call failed for 49752056: ANTHROPIC_API_KEY is not set (first seen 2026-09-19)
+
+- [6e7905c4464f] `editor`: LLM call failed for 49746618: ANTHROPIC_API_KEY is not set (first seen 2026-09-19)
+
+- [acfce90a40df] `editor`: LLM call failed for 49750152: ANTHROPIC_API_KEY is not set (first seen 2026-09-19)
+
+- [0e325bdbbd6f] `editor`: LLM call failed for 49753179: ANTHROPIC_API_KEY is not set (first seen 2026-09-19)
+
+- [e7f4e88cc20d] `editor`: LLM call failed for 49753878: ANTHROPIC_API_KEY is not set (first seen 2026-09-19)
+
+- [f4a1b3bba99a] `editor`: LLM call failed for 49749656: ANTHROPIC_API_KEY is not set (first seen 2026-09-19)
+
+- [fde472f8ca3a] `editor`: LLM call failed for 49753211: ANTHROPIC_API_KEY is not set (first seen 2026-09-19)
+
+- [b367e5c9f703] `editor`: LLM call failed for 49759466: ANTHROPIC_API_KEY is not set (first seen 2026-09-19)
+
+- [4173a827885e] `editor`: LLM call failed for 49757520: ANTHROPIC_API_KEY is not set (first seen 2026-09-19)
+
+- [165f6a51a16d] `editor`: LLM call failed for 49755024: ANTHROPIC_API_KEY is not set (first seen 2026-09-19)
+
+- [532defe77f69] `editor`: LLM call failed for 49750694: ANTHROPIC_API_KEY is not set (first seen 2026-09-19)
+
+- [dfacd6f2c6a9] `editor`: LLM call failed for 49752041: ANTHROPIC_API_KEY is not set (first seen 2026-09-19)
+
+- [16e17d35b3c8] `editor`: LLM call failed for 49754785: ANTHROPIC_API_KEY is not set (first seen 2026-09-19)
+
+- [d1c892913c22] `editor`: LLM call failed for 49760187: ANTHROPIC_API_KEY is not set (first seen 2026-09-19)
+
+- [82d612836527] `editor`: LLM call failed for 49747070: ANTHROPIC_API_KEY is not set (first seen 2026-09-19)
+
+- [c70e169025db] `editor`: LLM call failed for 49758736: ANTHROPIC_API_KEY is not set (first seen 2026-09-19)
+
+- [b2e3eea8a133] `extractor`: bot-block page detected: https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/ (first seen 2026-09-19)
+
+- [6617bca32938] `extractor`: bot-blocked (403): https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html (first seen 2026-09-19)
+
 - [aebbe30a251d] `editor`: LLM call failed for 49726955: ANTHROPIC_API_KEY is not set (first seen 2026-09-18)
 
 - [c3b60484f8c8] `editor`: LLM call failed for 49738879: ANTHROPIC_API_KEY is not set (first seen 2026-09-18)
