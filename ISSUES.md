@@ -30,6 +30,40 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [d4e091b06fed] `editor`: LLM call failed for 49749724: ANTHROPIC_API_KEY is not set (first seen 2026-09-20)
+
+- [2556b7e80d0f] `editor`: LLM call failed for 49748553: ANTHROPIC_API_KEY is not set (first seen 2026-09-20)
+
+- [8c018aa4e8be] `editor`: LLM call failed for 49749369: ANTHROPIC_API_KEY is not set (first seen 2026-09-20)
+
+- [4be2dc9c65a1] `editor`: LLM call failed for 49744704: ANTHROPIC_API_KEY is not set (first seen 2026-09-20)
+
+- [6af7b79a1910] `editor`: LLM call failed for 49746626: ANTHROPIC_API_KEY is not set (first seen 2026-09-20)
+
+- [39c3e6323260] `editor`: LLM call failed for 49757050: ANTHROPIC_API_KEY is not set (first seen 2026-09-20)
+
+- [cde817609c1e] `editor`: LLM call failed for 49763928: ANTHROPIC_API_KEY is not set (first seen 2026-09-20)
+
+- [224a38a58ba8] `editor`: LLM call failed for 49763987: ANTHROPIC_API_KEY is not set (first seen 2026-09-20)
+
+- [a9789d3a0ab8] `editor`: LLM call failed for 49763296: ANTHROPIC_API_KEY is not set (first seen 2026-09-20)
+
+- [dc0e7fc9c39b] `editor`: LLM call failed for 49720143: ANTHROPIC_API_KEY is not set (first seen 2026-09-20)
+
+- [98bf2c03c398] `editor`: LLM call failed for 49764791: ANTHROPIC_API_KEY is not set (first seen 2026-09-20)
+
+- [9d7c60b06d08] `editor`: LLM call failed for 49763697: ANTHROPIC_API_KEY is not set (first seen 2026-09-20)
+
+- [0a3efef45f30] `editor`: LLM call failed for 49765348: ANTHROPIC_API_KEY is not set (first seen 2026-09-20)
+
+- [95669f092771] `extractor`: bot-blocked (403): https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/ (first seen 2026-09-20)
+
+- [2117d0294d57] `extractor`: bot-blocked (403): https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes (first seen 2026-09-20)
+
+- [8cd043a9e493] `extractor`: bot-block page detected: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/ (first seen 2026-09-20)
+
+- [3532de37c618] `extractor`: bot-blocked (403): https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai (first seen 2026-09-20)
+
 - [e2eceead238e] `editor`: LLM call failed for 49746117: ANTHROPIC_API_KEY is not set (first seen 2026-09-19)
 
 - [be0451215bcb] `editor`: LLM call failed for 49736466: ANTHROPIC_API_KEY is not set (first seen 2026-09-19)
