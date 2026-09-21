@@ -30,6 +30,36 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [535915f0b8b2] `editor`: LLM call failed for 49761432: ANTHROPIC_API_KEY is not set (first seen 2026-09-21)
+
+- [7b17ad1b223f] `editor`: LLM call failed for 49766611: ANTHROPIC_API_KEY is not set (first seen 2026-09-21)
+
+- [e837247a0d05] `editor`: LLM call failed for 49766966: ANTHROPIC_API_KEY is not set (first seen 2026-09-21)
+
+- [db6f59483f41] `editor`: LLM call failed for 49769944: ANTHROPIC_API_KEY is not set (first seen 2026-09-21)
+
+- [23cada5dcc65] `editor`: LLM call failed for 49766637: ANTHROPIC_API_KEY is not set (first seen 2026-09-21)
+
+- [5c40db1026b3] `editor`: LLM call failed for 49771966: ANTHROPIC_API_KEY is not set (first seen 2026-09-21)
+
+- [e9b3ee591c35] `editor`: LLM call failed for 49769676: ANTHROPIC_API_KEY is not set (first seen 2026-09-21)
+
+- [be4395fb793f] `editor`: LLM call failed for 49735159: ANTHROPIC_API_KEY is not set (first seen 2026-09-21)
+
+- [e844b2d3d90c] `editor`: LLM call failed for 49771110: ANTHROPIC_API_KEY is not set (first seen 2026-09-21)
+
+- [2a81a876fe33] `editor`: LLM call failed for 49776699: ANTHROPIC_API_KEY is not set (first seen 2026-09-21)
+
+- [4c586b6751e4] `editor`: LLM call failed for 49775499: ANTHROPIC_API_KEY is not set (first seen 2026-09-21)
+
+- [5724bff5696d] `editor`: LLM call failed for 49778029: ANTHROPIC_API_KEY is not set (first seen 2026-09-21)
+
+- [05604bb9affa] `editor`: LLM call failed for 49776729: ANTHROPIC_API_KEY is not set (first seen 2026-09-21)
+
+- [3f29651a301f] `extractor`: bot-blocked (403): https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0 (first seen 2026-09-21)
+
+- [f6ed21e17ee8] `extractor`: bot-blocked (403): https://text.hrw.org/news/2026/09/17/us-revokes-limits-on-power-plants-climate-pollution (first seen 2026-09-21)
+
 - [d4e091b06fed] `editor`: LLM call failed for 49749724: ANTHROPIC_API_KEY is not set (first seen 2026-09-20)
 
 - [2556b7e80d0f] `editor`: LLM call failed for 49748553: ANTHROPIC_API_KEY is not set (first seen 2026-09-20)
