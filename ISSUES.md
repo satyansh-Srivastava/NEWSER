@@ -30,6 +30,66 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [86458656ea6b] `editor`: LLM call failed for 49784706: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [f9d93a08ee36] `editor`: LLM call failed for 49776627: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [861bb29b32c0] `editor`: LLM call failed for 49784336: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [aa88ae2b4b35] `editor`: LLM call failed for 49774521: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [6cc5bf0aa4f5] `editor`: LLM call failed for 49776130: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [b022732122d9] `editor`: LLM call failed for 49768336: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [0cadac2107d9] `editor`: LLM call failed for 49777467: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [73e95c3e219d] `editor`: LLM call failed for 49779329: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [d5dd22c3bac4] `editor`: LLM call failed for 49772961: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [2adef9dbc700] `editor`: LLM call failed for 49775104: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [303a11d3a0b8] `editor`: LLM call failed for 49771218: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [f469cba86023] `editor`: LLM call failed for 49785397: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [7c161a0520de] `editor`: LLM call failed for 49780797: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [baf91c6c7c07] `editor`: LLM call failed for 49776717: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [69f08278f003] `editor`: LLM call failed for 49783495: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [7dfeeccf0192] `editor`: LLM call failed for 49780820: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [bfee5e66a2b2] `editor`: LLM call failed for 49787313: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [7434196b2677] `editor`: LLM call failed for 49783133: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [977004cc8ef0] `editor`: LLM call failed for 49783999: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [57d6e067987f] `editor`: LLM call failed for 49788838: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [bb963ced7094] `editor`: LLM call failed for 49789224: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [2ede685a6de2] `editor`: LLM call failed for 49783101: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [bf2791328d93] `editor`: LLM call failed for 49790409: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [eee06a52f029] `editor`: LLM call failed for 49787726: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [ec59c4377fc2] `editor`: LLM call failed for 49792730: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [6171e6b9dcec] `editor`: LLM call failed for 49787436: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [3e91291880e9] `editor`: LLM call failed for 49794330: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
+
+- [5c47c6a6b15d] `extractor`: bot-blocked (403): https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888 (first seen 2026-09-22)
+
+- [0cbbbc614c46] `extractor`: bot-blocked (403): https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/ (first seen 2026-09-22)
+
+- [3946269ce6d9] `extractor`: bot-blocked (403): https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead (first seen 2026-09-22)
+
 - [535915f0b8b2] `editor`: LLM call failed for 49761432: ANTHROPIC_API_KEY is not set (first seen 2026-09-21)
 
 - [7b17ad1b223f] `editor`: LLM call failed for 49766611: ANTHROPIC_API_KEY is not set (first seen 2026-09-21)
