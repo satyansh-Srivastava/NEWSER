@@ -30,6 +30,46 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [c8760f36e669] `editor`: LLM call failed for 49799965: ANTHROPIC_API_KEY is not set (first seen 2026-09-23)
+
+- [c011ddb6ed3e] `editor`: LLM call failed for 49769561: ANTHROPIC_API_KEY is not set (first seen 2026-09-23)
+
+- [6107bdd3362b] `editor`: LLM call failed for 49792067: ANTHROPIC_API_KEY is not set (first seen 2026-09-23)
+
+- [b001ff650e3e] `editor`: LLM call failed for 49802871: ANTHROPIC_API_KEY is not set (first seen 2026-09-23)
+
+- [0a1bf408a40c] `editor`: LLM call failed for 49792342: ANTHROPIC_API_KEY is not set (first seen 2026-09-23)
+
+- [73e06f44a46b] `editor`: LLM call failed for 49794615: ANTHROPIC_API_KEY is not set (first seen 2026-09-23)
+
+- [d633c7b40576] `editor`: LLM call failed for 49797982: ANTHROPIC_API_KEY is not set (first seen 2026-09-23)
+
+- [0905dd34638e] `editor`: LLM call failed for 49798204: ANTHROPIC_API_KEY is not set (first seen 2026-09-23)
+
+- [77301dcbe99e] `editor`: LLM call failed for 49804683: ANTHROPIC_API_KEY is not set (first seen 2026-09-23)
+
+- [366bce573c6c] `editor`: LLM call failed for 49797323: ANTHROPIC_API_KEY is not set (first seen 2026-09-23)
+
+- [62011cea746f] `editor`: LLM call failed for 49801939: ANTHROPIC_API_KEY is not set (first seen 2026-09-23)
+
+- [1f9a3f735121] `editor`: LLM call failed for 49802161: ANTHROPIC_API_KEY is not set (first seen 2026-09-23)
+
+- [9f4089476321] `editor`: LLM call failed for 49804316: ANTHROPIC_API_KEY is not set (first seen 2026-09-23)
+
+- [11b6d4643227] `editor`: LLM call failed for 49801324: ANTHROPIC_API_KEY is not set (first seen 2026-09-23)
+
+- [7246f618bd8b] `editor`: LLM call failed for 49803892: ANTHROPIC_API_KEY is not set (first seen 2026-09-23)
+
+- [c219c9982506] `editor`: LLM call failed for 49805278: ANTHROPIC_API_KEY is not set (first seen 2026-09-23)
+
+- [3e519fcb6885] `editor`: LLM call failed for 49805509: ANTHROPIC_API_KEY is not set (first seen 2026-09-23)
+
+- [87d0b18da1f6] `extractor`: bot-block page detected: https://blog.cloudflare.com/python-workers-ga/ (first seen 2026-09-23)
+
+- [f77c95af87fb] `extractor`: HTTP 401 for https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/ (first seen 2026-09-23)
+
+- [715b4267638e] `extractor`: bot-blocked (403): https://www.bloomberg.com/graphics/2026-iran-school-attack/ (first seen 2026-09-23)
+
 - [86458656ea6b] `editor`: LLM call failed for 49784706: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
 
 - [f9d93a08ee36] `editor`: LLM call failed for 49776627: ANTHROPIC_API_KEY is not set (first seen 2026-09-22)
