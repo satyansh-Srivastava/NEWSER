@@ -30,6 +30,56 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [ee5cba3b341a] `editor`: LLM call failed for 49814159: ANTHROPIC_API_KEY is not set (first seen 2026-09-24)
+
+- [705c8f17b7be] `editor`: LLM call failed for 49815381: ANTHROPIC_API_KEY is not set (first seen 2026-09-24)
+
+- [0b4f6314a8b2] `editor`: LLM call failed for 49821608: ANTHROPIC_API_KEY is not set (first seen 2026-09-24)
+
+- [73ae6a291aa4] `editor`: LLM call failed for 49780622: ANTHROPIC_API_KEY is not set (first seen 2026-09-24)
+
+- [f57107cd8cc2] `editor`: LLM call failed for 49803959: ANTHROPIC_API_KEY is not set (first seen 2026-09-24)
+
+- [5cb0eafb77f5] `editor`: LLM call failed for 49796379: ANTHROPIC_API_KEY is not set (first seen 2026-09-24)
+
+- [318289e1f134] `editor`: LLM call failed for 49805748: ANTHROPIC_API_KEY is not set (first seen 2026-09-24)
+
+- [43e3a8553d56] `editor`: LLM call failed for 49781862: ANTHROPIC_API_KEY is not set (first seen 2026-09-24)
+
+- [9f14f56e38d7] `editor`: LLM call failed for 49806335: ANTHROPIC_API_KEY is not set (first seen 2026-09-24)
+
+- [ce4b77c65d0b] `editor`: LLM call failed for 49817404: ANTHROPIC_API_KEY is not set (first seen 2026-09-24)
+
+- [ec766badd1c1] `editor`: LLM call failed for 49808023: ANTHROPIC_API_KEY is not set (first seen 2026-09-24)
+
+- [50d78b299d04] `editor`: LLM call failed for 49812769: ANTHROPIC_API_KEY is not set (first seen 2026-09-24)
+
+- [19a3fc01b143] `editor`: LLM call failed for 49811065: ANTHROPIC_API_KEY is not set (first seen 2026-09-24)
+
+- [c3cab608190d] `editor`: LLM call failed for 49814947: ANTHROPIC_API_KEY is not set (first seen 2026-09-24)
+
+- [d5f6b8a5bd1e] `editor`: LLM call failed for 49816374: ANTHROPIC_API_KEY is not set (first seen 2026-09-24)
+
+- [aed3f1b4cd09] `editor`: LLM call failed for 49818698: ANTHROPIC_API_KEY is not set (first seen 2026-09-24)
+
+- [de2bd784797d] `editor`: LLM call failed for 49813482: ANTHROPIC_API_KEY is not set (first seen 2026-09-24)
+
+- [1049787a9771] `editor`: LLM call failed for 49815466: ANTHROPIC_API_KEY is not set (first seen 2026-09-24)
+
+- [1aaeca41a13b] `editor`: LLM call failed for 49820134: ANTHROPIC_API_KEY is not set (first seen 2026-09-24)
+
+- [71db8ac6a113] `editor`: LLM call failed for 49817615: ANTHROPIC_API_KEY is not set (first seen 2026-09-24)
+
+- [c811235fec1e] `editor`: LLM call failed for 49817469: ANTHROPIC_API_KEY is not set (first seen 2026-09-24)
+
+- [03248043fab6] `extractor`: bot-blocked (403): https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke (first seen 2026-09-24)
+
+- [c71a2fea11fe] `extractor`: empty body extracted: https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/ (first seen 2026-09-24)
+
+- [0d1141d18324] `extractor`: bot-blocked (403): https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/ (first seen 2026-09-24)
+
+- [55d7a1a40338] `extractor`: bot-blocked (403): https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567 (first seen 2026-09-24)
+
 - [c8760f36e669] `editor`: LLM call failed for 49799965: ANTHROPIC_API_KEY is not set (first seen 2026-09-23)
 
 - [c011ddb6ed3e] `editor`: LLM call failed for 49769561: ANTHROPIC_API_KEY is not set (first seen 2026-09-23)
