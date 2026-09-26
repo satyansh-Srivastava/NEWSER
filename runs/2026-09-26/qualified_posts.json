@@ -1,0 +1,582 @@
+[
+  {
+    "id": "49848269",
+    "source": "hackernews",
+    "title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
+    "url": "https://ollaya.dev/",
+    "score": 325,
+    "comments": 97,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:57.132653+00:00"
+  },
+  {
+    "id": "49843269",
+    "source": "hackernews",
+    "title": "Platform-independent SIMD in Go",
+    "url": "https://go.dev/blog/simd-experiment",
+    "score": 358,
+    "comments": 133,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:57.175479+00:00"
+  },
+  {
+    "id": "49843174",
+    "source": "hackernews",
+    "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+    "url": "https://github.com/git-bug/git-bug",
+    "score": 302,
+    "comments": 100,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:57.214814+00:00"
+  },
+  {
+    "id": "49845977",
+    "source": "hackernews",
+    "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+    "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+    "score": 375,
+    "comments": 689,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:57.236504+00:00"
+  },
+  {
+    "id": "49844736",
+    "source": "hackernews",
+    "title": "First Principles Thinking",
+    "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+    "score": 209,
+    "comments": 96,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:57.258238+00:00"
+  },
+  {
+    "id": "49842270",
+    "source": "hackernews",
+    "title": "Ink and Switch interactive homepage",
+    "url": "https://www.inkandswitch.com/",
+    "score": 227,
+    "comments": 25,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:57.309870+00:00"
+  },
+  {
+    "id": "49845133",
+    "source": "hackernews",
+    "title": "Factorio that you can touch",
+    "url": "https://factorio.com/blog/post/fff-447",
+    "score": 314,
+    "comments": 101,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:57.466762+00:00"
+  },
+  {
+    "id": "49841285",
+    "source": "hackernews",
+    "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+    "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+    "score": 265,
+    "comments": 115,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:57.655510+00:00"
+  },
+  {
+    "id": "49841563",
+    "source": "hackernews",
+    "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+    "url": "https://www.dawo.community/en/",
+    "score": 931,
+    "comments": 543,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:57.824758+00:00"
+  },
+  {
+    "id": "49839664",
+    "source": "hackernews",
+    "title": "What About Rails?",
+    "url": "https://jardo.dev/what-about-rails",
+    "score": 305,
+    "comments": 201,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:57.824783+00:00"
+  },
+  {
+    "id": "49832938",
+    "source": "hackernews",
+    "title": "Why is the liver so weirdly regenerative?",
+    "url": "https://dynomight.substack.com/p/liver",
+    "score": 550,
+    "comments": 285,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:57.836158+00:00"
+  },
+  {
+    "id": "49817469",
+    "source": "hackernews",
+    "title": "Fixing the Portobello Police Station Clock",
+    "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+    "score": 539,
+    "comments": 115,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:57.957583+00:00"
+  },
+  {
+    "id": "49833867",
+    "source": "hackernews",
+    "title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
+    "url": "https://github.com/devdotfast/whiteboard",
+    "score": 396,
+    "comments": 129,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:58.042145+00:00"
+  },
+  {
+    "id": "49817680",
+    "source": "hackernews",
+    "title": "Rails World 2026 Opening Keynote [video]",
+    "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+    "score": 425,
+    "comments": 474,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:58.047135+00:00"
+  },
+  {
+    "id": "49823568",
+    "source": "hackernews",
+    "title": "Toyota is taking the Corolla electric",
+    "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+    "score": 430,
+    "comments": 808,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:58.084363+00:00"
+  },
+  {
+    "id": "49801436",
+    "source": "hackernews",
+    "title": "2DWillNeverDie",
+    "url": "https://2dwillneverdie.com/",
+    "score": 327,
+    "comments": 85,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:58.095415+00:00"
+  },
+  {
+    "id": "49836419",
+    "source": "hackernews",
+    "title": "California is chasing wealth that has feet",
+    "url": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+    "score": 279,
+    "comments": 811,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:58.114995+00:00"
+  },
+  {
+    "id": "49836374",
+    "source": "hackernews",
+    "title": "Opus 5.5 is good at explainer videos",
+    "url": "https://launchvideo.io",
+    "score": 406,
+    "comments": 214,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:58.147726+00:00"
+  },
+  {
+    "id": "49800085",
+    "source": "hackernews",
+    "title": "Fearless SIMD v1.0",
+    "url": "https://linebender.org/blog/fearless-simd-1-0/",
+    "score": 309,
+    "comments": 49,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:58.147823+00:00"
+  },
+  {
+    "id": "49805344",
+    "source": "hackernews",
+    "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
+    "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
+    "score": 415,
+    "comments": 175,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:58.154666+00:00"
+  },
+  {
+    "id": "49831968",
+    "source": "hackernews",
+    "title": "F-Droid 2.0",
+    "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+    "score": 1436,
+    "comments": 408,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:58.266671+00:00"
+  },
+  {
+    "id": "49823582",
+    "source": "hackernews",
+    "title": "Linux support is coming to Snapdragon X2 series",
+    "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+    "score": 616,
+    "comments": 266,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:58.305088+00:00"
+  },
+  {
+    "id": "49820134",
+    "source": "hackernews",
+    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "score": 774,
+    "comments": 796,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:58.367145+00:00"
+  },
+  {
+    "id": "49826565",
+    "source": "hackernews",
+    "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+    "url": "https://transluce.org/agent-activity",
+    "score": 264,
+    "comments": 303,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:58.397208+00:00"
+  },
+  {
+    "id": "49837006",
+    "source": "hackernews",
+    "title": "Show HN: Koi.rest \u2013 watch some fish and regain your balance",
+    "url": "https://koi.rest",
+    "score": 213,
+    "comments": 60,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:58.430660+00:00"
+  },
+  {
+    "id": "49805509",
+    "source": "hackernews",
+    "title": "GPT-6 Sol and Luna",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+    "score": 1772,
+    "comments": 849,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:58.479591+00:00"
+  },
+  {
+    "id": "49830606",
+    "source": "hackernews",
+    "title": "Google\u2019s Project Suncatcher to put ML infrastructure in space",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+    "score": 225,
+    "comments": 512,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:58.575647+00:00"
+  },
+  {
+    "id": "49803892",
+    "source": "hackernews",
+    "title": "Claude Opus 5.5",
+    "url": "https://www.anthropic.com/claude-opus-5-5",
+    "score": 1797,
+    "comments": 1124,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:58.592645+00:00"
+  },
+  {
+    "id": "49825642",
+    "source": "hackernews",
+    "title": "Ideas on modernizing the open-source desktop",
+    "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+    "score": 398,
+    "comments": 523,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:58.671270+00:00"
+  },
+  {
+    "id": "49823738",
+    "source": "hackernews",
+    "title": "Show HN: Make cursed fonts like Times New Bastard",
+    "url": "https://bastardica.mitpit.com",
+    "score": 846,
+    "comments": 123,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:58.686429+00:00"
+  },
+  {
+    "id": "49828385",
+    "source": "hackernews",
+    "title": "Nokia Design Archive (2025)",
+    "url": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
+    "score": 249,
+    "comments": 131,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:58.690669+00:00"
+  },
+  {
+    "id": "49829960",
+    "source": "hackernews",
+    "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+    "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
+    "score": 315,
+    "comments": 326,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:58.713406+00:00"
+  },
+  {
+    "id": "49824268",
+    "source": "hackernews",
+    "title": "Meta VR Glasses",
+    "url": "https://www.meta.com/vr-glasses/",
+    "score": 491,
+    "comments": 473,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:58.773382+00:00"
+  },
+  {
+    "id": "49823664",
+    "source": "hackernews",
+    "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+    "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+    "score": 307,
+    "comments": 39,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:58.904712+00:00"
+  },
+  {
+    "id": "49822555",
+    "source": "hackernews",
+    "title": "VSCode's SSH Agent Is Bananas (2025)",
+    "url": "https://fly.io/blog/vscode-ssh-wtf/",
+    "score": 308,
+    "comments": 217,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:58.944434+00:00"
+  },
+  {
+    "id": "49806430",
+    "source": "hackernews",
+    "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+    "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+    "score": 958,
+    "comments": 541,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:58.969364+00:00"
+  },
+  {
+    "id": "49817615",
+    "source": "hackernews",
+    "title": "Gemini 3.8 text-to-speech",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+    "score": 330,
+    "comments": 150,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:59.005866+00:00"
+  },
+  {
+    "id": "49828969",
+    "source": "hackernews",
+    "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
+    "url": "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/",
+    "score": 233,
+    "comments": 120,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:59.005885+00:00"
+  },
+  {
+    "id": "49781862",
+    "source": "hackernews",
+    "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
+    "url": "https://github.com/xCuri0/ReBarUEFI",
+    "score": 242,
+    "comments": 77,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:59.095653+00:00"
+  },
+  {
+    "id": "49815466",
+    "source": "hackernews",
+    "title": "I don't want the details",
+    "url": "https://michaelheap.com/i-dont-want-the-details/",
+    "score": 458,
+    "comments": 226,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:59.143929+00:00"
+  },
+  {
+    "id": "49832406",
+    "source": "hackernews",
+    "title": "GitHub has not removed malicious imitation software after 3 weeks",
+    "url": "https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/",
+    "score": 270,
+    "comments": 119,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:59.173669+00:00"
+  },
+  {
+    "id": "49814947",
+    "source": "hackernews",
+    "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+    "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+    "score": 481,
+    "comments": 282,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:59.185983+00:00"
+  },
+  {
+    "id": "49801324",
+    "source": "hackernews",
+    "title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
+    "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+    "score": 734,
+    "comments": 444,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:59.186002+00:00"
+  },
+  {
+    "id": "49812769",
+    "source": "hackernews",
+    "title": "Jev in 25 Lines of Python",
+    "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+    "score": 682,
+    "comments": 212,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:59.221343+00:00"
+  },
+  {
+    "id": "49796372",
+    "source": "hackernews",
+    "title": "The \"Windows XP Box\" (2003)",
+    "url": "https://www.mini-itx.com/projects/windowsxpbox/",
+    "score": 224,
+    "comments": 53,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:59.221365+00:00"
+  },
+  {
+    "id": "49792730",
+    "source": "hackernews",
+    "title": "MiMo v2.6",
+    "url": "https://mimo.xiaomi.com/mimo-v2-6",
+    "score": 1129,
+    "comments": 478,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:59.283543+00:00"
+  },
+  {
+    "id": "49798204",
+    "source": "hackernews",
+    "title": "AMD's random number generator can't generate a 0?",
+    "url": "https://board.flatassembler.net/topic.php?t=24261",
+    "score": 287,
+    "comments": 220,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:59.323657+00:00"
+  },
+  {
+    "id": "49805748",
+    "source": "hackernews",
+    "title": "Unreal Agent",
+    "url": "https://unreallabs.ai/blog/unreal-agent/",
+    "score": 246,
+    "comments": 124,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:59.336330+00:00"
+  },
+  {
+    "id": "49813482",
+    "source": "hackernews",
+    "title": "Tokens too cheap to meter",
+    "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
+    "score": 349,
+    "comments": 227,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:59.406675+00:00"
+  },
+  {
+    "id": "49819880",
+    "source": "hackernews",
+    "title": "Making Tailscale Faster",
+    "url": "https://tailscale.com/blog/making-tailscale-faster",
+    "score": 245,
+    "comments": 106,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:59.440758+00:00"
+  },
+  {
+    "id": "49819221",
+    "source": "hackernews",
+    "title": "Italian parliament votes for return to nuclear energy",
+    "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+    "score": 897,
+    "comments": 804,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:59.451238+00:00"
+  },
+  {
+    "id": "49817404",
+    "source": "hackernews",
+    "title": "GPT-6 Astra has gained the ability to drive a car",
+    "url": "https://drivingbench.com/",
+    "score": 312,
+    "comments": 248,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:59.497122+00:00"
+  },
+  {
+    "id": "49802161",
+    "source": "hackernews",
+    "title": "OpenAI is well positioned to fast-follow Jev",
+    "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+    "score": 325,
+    "comments": 227,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:59.503758+00:00"
+  },
+  {
+    "id": "49801939",
+    "source": "hackernews",
+    "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+    "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+    "score": 811,
+    "comments": 598,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:59.589212+00:00"
+  },
+  {
+    "id": "49816374",
+    "source": "hackernews",
+    "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
+    "url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
+    "score": 390,
+    "comments": 227,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:59.596406+00:00"
+  },
+  {
+    "id": "49828731",
+    "source": "hackernews",
+    "title": "Two-tier encryption in the UK",
+    "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+    "score": 501,
+    "comments": 459,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:59.600271+00:00"
+  },
+  {
+    "id": "49822556",
+    "source": "hackernews",
+    "title": "OpenAI breaches Medicare, Albanese reveals",
+    "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+    "score": 254,
+    "comments": 256,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:59.614882+00:00"
+  },
+  {
+    "id": "49807003",
+    "source": "hackernews",
+    "title": "Obscura: VPN that can't log your activity",
+    "url": "https://obscura.com/#faq-technical",
+    "score": 231,
+    "comments": 139,
+    "subreddit": null,
+    "qualified_at": "2026-09-26T01:01:59.621900+00:00"
+  }
+]
