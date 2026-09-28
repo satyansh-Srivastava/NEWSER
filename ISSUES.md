@@ -30,6 +30,48 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [7a561eb1e562] `editor`: LLM call failed for 49863062: ANTHROPIC_API_KEY is not set (first seen 2026-09-28)
+
+- [07803139260b] `editor`: LLM call failed for 49854875: ANTHROPIC_API_KEY is not set (first seen 2026-09-28)
+
+- [1f4c295145a9] `editor`: LLM call failed for 49854416: ANTHROPIC_API_KEY is not set (first seen 2026-09-28)
+
+- [c014ae5e6865] `editor`: LLM call failed for 49867038: ANTHROPIC_API_KEY is not set (first seen 2026-09-28)
+
+- [3a5bcf5be08f] `editor`: LLM call failed for 49844663: ANTHROPIC_API_KEY is not set (first seen 2026-09-28)
+
+- [5f46126d046b] `editor`: LLM call failed for 49844657: ANTHROPIC_API_KEY is not set (first seen 2026-09-28)
+
+- [1e349c4ad01c] `editor`: LLM call failed for 49832768: ANTHROPIC_API_KEY is not set (first seen 2026-09-28)
+
+- [ed3f8afaadef] `editor`: LLM call failed for 49863864: ANTHROPIC_API_KEY is not set (first seen 2026-09-28)
+
+- [ba719f11c421] `editor`: LLM call failed for 49858513: ANTHROPIC_API_KEY is not set (first seen 2026-09-28)
+
+- [5b60cad068aa] `editor`: LLM call failed for 49859112: ANTHROPIC_API_KEY is not set (first seen 2026-09-28)
+
+- [291ecf6db7c5] `editor`: LLM call failed for 49867067: ANTHROPIC_API_KEY is not set (first seen 2026-09-28)
+
+- [5de155926b4f] `editor`: LLM call failed for 49856988: ANTHROPIC_API_KEY is not set (first seen 2026-09-28)
+
+- [5418f69cb3a1] `editor`: LLM call failed for 49854219: ANTHROPIC_API_KEY is not set (first seen 2026-09-28)
+
+- [db9c942999fa] `editor`: LLM call failed for 49867486: ANTHROPIC_API_KEY is not set (first seen 2026-09-28)
+
+- [7e46c952bfe6] `editor`: LLM call failed for 49868830: ANTHROPIC_API_KEY is not set (first seen 2026-09-28)
+
+- [de927e5ebd07] `editor`: LLM call failed for 49870367: ANTHROPIC_API_KEY is not set (first seen 2026-09-28)
+
+- [30b1a0c10ea3] `extractor`: bot-blocked (403): https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed (first seen 2026-09-28)
+
+- [a6600b22ded5] `extractor`: bot-blocked (403): https://theborys.substack.com/p/what-is-the-size-of-yemen (first seen 2026-09-28)
+
+- [fe89b618215a] `extractor`: bot-blocked (403): https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/ (first seen 2026-09-28)
+
+- [499ead163861] `extractor`: bot-blocked (403): https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents (first seen 2026-09-28)
+
+- [0ac6b4526be9] `extractor`: bot-blocked (403): https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html (first seen 2026-09-28)
+
 - [16163d9a0663] `editor`: LLM call failed for 49829650: ANTHROPIC_API_KEY is not set (first seen 2026-09-27)
 
 - [d34df61fb674] `editor`: LLM call failed for 49849141: ANTHROPIC_API_KEY is not set (first seen 2026-09-27)
