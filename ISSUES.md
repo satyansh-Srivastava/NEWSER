@@ -30,6 +30,44 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [bc5490cdb359] `editor`: LLM call failed for 49868404: ANTHROPIC_API_KEY is not set (first seen 2026-09-29)
+
+- [1eb53df8d903] `editor`: LLM call failed for 49866515: ANTHROPIC_API_KEY is not set (first seen 2026-09-29)
+
+- [be6498015948] `editor`: LLM call failed for 49844629: ANTHROPIC_API_KEY is not set (first seen 2026-09-29)
+
+- [cfe8e595140d] `editor`: LLM call failed for 49870295: ANTHROPIC_API_KEY is not set (first seen 2026-09-29)
+
+- [bfe22c9e52bb] `editor`: LLM call failed for 49869574: ANTHROPIC_API_KEY is not set (first seen 2026-09-29)
+
+- [d8615546c516] `editor`: LLM call failed for 49872723: ANTHROPIC_API_KEY is not set (first seen 2026-09-29)
+
+- [fea80aa2cfb0] `editor`: LLM call failed for 49880312: ANTHROPIC_API_KEY is not set (first seen 2026-09-29)
+
+- [df87ebca69c4] `editor`: LLM call failed for 49881747: ANTHROPIC_API_KEY is not set (first seen 2026-09-29)
+
+- [a495ffa83424] `editor`: LLM call failed for 49881951: ANTHROPIC_API_KEY is not set (first seen 2026-09-29)
+
+- [9ba7606c6123] `editor`: LLM call failed for 49879645: ANTHROPIC_API_KEY is not set (first seen 2026-09-29)
+
+- [3368800a8ec0] `editor`: LLM call failed for 49877988: ANTHROPIC_API_KEY is not set (first seen 2026-09-29)
+
+- [9e9a07418a85] `editor`: LLM call failed for 49883471: ANTHROPIC_API_KEY is not set (first seen 2026-09-29)
+
+- [251369e39734] `editor`: LLM call failed for 49879697: ANTHROPIC_API_KEY is not set (first seen 2026-09-29)
+
+- [9ef07729a5da] `editor`: LLM call failed for 49875913: ANTHROPIC_API_KEY is not set (first seen 2026-09-29)
+
+- [f0b5e41a379c] `editor`: LLM call failed for 49881850: ANTHROPIC_API_KEY is not set (first seen 2026-09-29)
+
+- [01935eb1b2c0] `editor`: LLM call failed for 49883844: ANTHROPIC_API_KEY is not set (first seen 2026-09-29)
+
+- [55f19a7dc5f6] `editor`: LLM call failed for 49880036: ANTHROPIC_API_KEY is not set (first seen 2026-09-29)
+
+- [141ee9bf9c5b] `extractor`: HTTP 429 for https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html (first seen 2026-09-29)
+
+- [fdf25d69e539] `extractor`: HTTP 401 for https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/ (first seen 2026-09-29)
+
 - [7a561eb1e562] `editor`: LLM call failed for 49863062: ANTHROPIC_API_KEY is not set (first seen 2026-09-28)
 
 - [07803139260b] `editor`: LLM call failed for 49854875: ANTHROPIC_API_KEY is not set (first seen 2026-09-28)
