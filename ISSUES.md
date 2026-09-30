@@ -30,6 +30,56 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [e8240c4fc9c2] `editor`: LLM call failed for 49891550: ANTHROPIC_API_KEY is not set (first seen 2026-09-30)
+
+- [1b319adc7e9a] `editor`: LLM call failed for 49866951: ANTHROPIC_API_KEY is not set (first seen 2026-09-30)
+
+- [f3898c20d6fa] `editor`: LLM call failed for 49829202: ANTHROPIC_API_KEY is not set (first seen 2026-09-30)
+
+- [76105389efd4] `editor`: LLM call failed for 49879883: ANTHROPIC_API_KEY is not set (first seen 2026-09-30)
+
+- [8afd3c32c007] `editor`: LLM call failed for 49882781: ANTHROPIC_API_KEY is not set (first seen 2026-09-30)
+
+- [ae70527f2bed] `editor`: LLM call failed for 49883760: ANTHROPIC_API_KEY is not set (first seen 2026-09-30)
+
+- [c2062a05fac7] `editor`: LLM call failed for 49879401: ANTHROPIC_API_KEY is not set (first seen 2026-09-30)
+
+- [4654cc3d3121] `editor`: LLM call failed for 49896050: ANTHROPIC_API_KEY is not set (first seen 2026-09-30)
+
+- [ccfc221ea42e] `editor`: LLM call failed for 49894005: ANTHROPIC_API_KEY is not set (first seen 2026-09-30)
+
+- [e08dd31fff4e] `editor`: LLM call failed for 49883539: ANTHROPIC_API_KEY is not set (first seen 2026-09-30)
+
+- [6f85dee147cd] `editor`: LLM call failed for 49877678: ANTHROPIC_API_KEY is not set (first seen 2026-09-30)
+
+- [2126b375d0c9] `editor`: LLM call failed for 49891480: ANTHROPIC_API_KEY is not set (first seen 2026-09-30)
+
+- [5b9e173d3e0a] `editor`: LLM call failed for 49879702: ANTHROPIC_API_KEY is not set (first seen 2026-09-30)
+
+- [74aa2e50b87f] `editor`: LLM call failed for 49896604: ANTHROPIC_API_KEY is not set (first seen 2026-09-30)
+
+- [2aba3092c3b7] `editor`: LLM call failed for 49891295: ANTHROPIC_API_KEY is not set (first seen 2026-09-30)
+
+- [fd80e4515bbc] `editor`: LLM call failed for 49891290: ANTHROPIC_API_KEY is not set (first seen 2026-09-30)
+
+- [14b4f61a17d3] `editor`: LLM call failed for 49896712: ANTHROPIC_API_KEY is not set (first seen 2026-09-30)
+
+- [014cead5393b] `editor`: LLM call failed for 49880411: ANTHROPIC_API_KEY is not set (first seen 2026-09-30)
+
+- [d139a123013b] `editor`: LLM call failed for 49890226: ANTHROPIC_API_KEY is not set (first seen 2026-09-30)
+
+- [eb197e2c68f4] `editor`: LLM call failed for 49895304: ANTHROPIC_API_KEY is not set (first seen 2026-09-30)
+
+- [09d3f1a6663b] `editor`: LLM call failed for 49896586: ANTHROPIC_API_KEY is not set (first seen 2026-09-30)
+
+- [ef83d9d84cfa] `editor`: LLM call failed for 49892245: ANTHROPIC_API_KEY is not set (first seen 2026-09-30)
+
+- [d5a4e147cc82] `editor`: LLM call failed for 49901736: ANTHROPIC_API_KEY is not set (first seen 2026-09-30)
+
+- [9b3650f1aaab] `extractor`: failed to fetch https://www.cbc.ca/lite/story/9.7361622: HTTPSConnectionPool(host='www.cbc.ca', port=443): Read timed out. (read timeout=15) (first seen 2026-09-30)
+
+- [4c7924e5c6d5] `extractor`: bot-blocked (403): https://america.gov/ (first seen 2026-09-30)
+
 - [bc5490cdb359] `editor`: LLM call failed for 49868404: ANTHROPIC_API_KEY is not set (first seen 2026-09-29)
 
 - [1eb53df8d903] `editor`: LLM call failed for 49866515: ANTHROPIC_API_KEY is not set (first seen 2026-09-29)
