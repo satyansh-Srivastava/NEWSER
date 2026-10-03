@@ -30,6 +30,42 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [44d4b24df132] `editor`: LLM call failed for 49927100: ANTHROPIC_API_KEY is not set (first seen 2026-10-03)
+
+- [539980ab7643] `editor`: LLM call failed for 49923056: ANTHROPIC_API_KEY is not set (first seen 2026-10-03)
+
+- [9a6cf613e9cd] `editor`: LLM call failed for 49922569: ANTHROPIC_API_KEY is not set (first seen 2026-10-03)
+
+- [0dc481ecc82f] `editor`: LLM call failed for 49926536: ANTHROPIC_API_KEY is not set (first seen 2026-10-03)
+
+- [d5ed071555ee] `editor`: LLM call failed for 49927760: ANTHROPIC_API_KEY is not set (first seen 2026-10-03)
+
+- [7da52226666a] `editor`: LLM call failed for 49928121: ANTHROPIC_API_KEY is not set (first seen 2026-10-03)
+
+- [d18c439a86b2] `editor`: LLM call failed for 49922674: ANTHROPIC_API_KEY is not set (first seen 2026-10-03)
+
+- [4e7026b212a2] `editor`: LLM call failed for 49926628: ANTHROPIC_API_KEY is not set (first seen 2026-10-03)
+
+- [1ee7d7e7bd6a] `editor`: LLM call failed for 49929489: ANTHROPIC_API_KEY is not set (first seen 2026-10-03)
+
+- [bcd98c49e909] `editor`: LLM call failed for 49930047: ANTHROPIC_API_KEY is not set (first seen 2026-10-03)
+
+- [bc1949407e6d] `editor`: LLM call failed for 49938521: ANTHROPIC_API_KEY is not set (first seen 2026-10-03)
+
+- [f25cb6cda728] `editor`: LLM call failed for 49933235: ANTHROPIC_API_KEY is not set (first seen 2026-10-03)
+
+- [4833ab3e87c5] `editor`: LLM call failed for 49927747: ANTHROPIC_API_KEY is not set (first seen 2026-10-03)
+
+- [91080fb4d0d8] `editor`: LLM call failed for 49927754: ANTHROPIC_API_KEY is not set (first seen 2026-10-03)
+
+- [9e35c20e620b] `editor`: LLM call failed for 49937276: ANTHROPIC_API_KEY is not set (first seen 2026-10-03)
+
+- [0d9545686564] `editor`: LLM call failed for 49925974: ANTHROPIC_API_KEY is not set (first seen 2026-10-03)
+
+- [552512c87ec4] `extractor`: bot-blocked (403): https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness (first seen 2026-10-03)
+
+- [a8b16de369d7] `extractor`: bot-blocked (403): https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/ (first seen 2026-10-03)
+
 - [df514ccb8b85] `editor`: LLM call failed for 49898050: ANTHROPIC_API_KEY is not set (first seen 2026-10-02)
 
 - [2b4865eb7606] `editor`: LLM call failed for 49913192: ANTHROPIC_API_KEY is not set (first seen 2026-10-02)
