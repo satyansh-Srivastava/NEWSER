@@ -30,6 +30,48 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [a46c04967884] `editor`: LLM call failed for 49940219: ANTHROPIC_API_KEY is not set (first seen 2026-10-04)
+
+- [04330d1c6c69] `editor`: LLM call failed for 49946403: ANTHROPIC_API_KEY is not set (first seen 2026-10-04)
+
+- [ba786c2afbf3] `editor`: LLM call failed for 49934784: ANTHROPIC_API_KEY is not set (first seen 2026-10-04)
+
+- [bb758aca52f7] `editor`: LLM call failed for 49934620: ANTHROPIC_API_KEY is not set (first seen 2026-10-04)
+
+- [6660a1abfaed] `editor`: LLM call failed for 49921798: ANTHROPIC_API_KEY is not set (first seen 2026-10-04)
+
+- [873192bda034] `editor`: LLM call failed for 49932402: ANTHROPIC_API_KEY is not set (first seen 2026-10-04)
+
+- [eafac1468ad4] `editor`: LLM call failed for 49933740: ANTHROPIC_API_KEY is not set (first seen 2026-10-04)
+
+- [013418a7ce54] `editor`: LLM call failed for 49928566: ANTHROPIC_API_KEY is not set (first seen 2026-10-04)
+
+- [29fe5c70b65f] `editor`: LLM call failed for 49936575: ANTHROPIC_API_KEY is not set (first seen 2026-10-04)
+
+- [b133e9245403] `editor`: LLM call failed for 49929391: ANTHROPIC_API_KEY is not set (first seen 2026-10-04)
+
+- [78eb7082d7fb] `editor`: LLM call failed for 49933869: ANTHROPIC_API_KEY is not set (first seen 2026-10-04)
+
+- [1d1f35d198ae] `editor`: LLM call failed for 49932147: ANTHROPIC_API_KEY is not set (first seen 2026-10-04)
+
+- [14cf5b669694] `editor`: LLM call failed for 49941114: ANTHROPIC_API_KEY is not set (first seen 2026-10-04)
+
+- [a798fb6f9682] `editor`: LLM call failed for 49937504: ANTHROPIC_API_KEY is not set (first seen 2026-10-04)
+
+- [464f8e8ab4f2] `editor`: LLM call failed for 49937631: ANTHROPIC_API_KEY is not set (first seen 2026-10-04)
+
+- [c735ea78bb7e] `editor`: LLM call failed for 49948254: ANTHROPIC_API_KEY is not set (first seen 2026-10-04)
+
+- [2b41ab044f2d] `editor`: LLM call failed for 49942706: ANTHROPIC_API_KEY is not set (first seen 2026-10-04)
+
+- [3b5de05317ed] `editor`: LLM call failed for 49946393: ANTHROPIC_API_KEY is not set (first seen 2026-10-04)
+
+- [3b2335554319] `extractor`: bot-block page detected: https://stoppels.ch/goalposts/ (first seen 2026-10-04)
+
+- [e74aeee11bea] `extractor`: bot-blocked (403): https://erictopol.substack.com/p/loss-of-cell-identity-drives-human (first seen 2026-10-04)
+
+- [1a8813e9e24b] `extractor`: bot-blocked (403): https://www.newgrounds.com/ (first seen 2026-10-04)
+
 - [44d4b24df132] `editor`: LLM call failed for 49927100: ANTHROPIC_API_KEY is not set (first seen 2026-10-03)
 
 - [539980ab7643] `editor`: LLM call failed for 49923056: ANTHROPIC_API_KEY is not set (first seen 2026-10-03)
