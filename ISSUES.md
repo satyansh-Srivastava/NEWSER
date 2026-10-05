@@ -30,6 +30,48 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [130e19c3309b] `editor`: LLM call failed for 49946567: ANTHROPIC_API_KEY is not set (first seen 2026-10-05)
+
+- [09fbd2ee7d6b] `editor`: LLM call failed for 49937540: ANTHROPIC_API_KEY is not set (first seen 2026-10-05)
+
+- [c389d3d1cbdb] `editor`: LLM call failed for 49928192: ANTHROPIC_API_KEY is not set (first seen 2026-10-05)
+
+- [da3785818436] `editor`: LLM call failed for 49923873: ANTHROPIC_API_KEY is not set (first seen 2026-10-05)
+
+- [139c7008fecd] `editor`: LLM call failed for 49910462: ANTHROPIC_API_KEY is not set (first seen 2026-10-05)
+
+- [f0c55b605e39] `editor`: LLM call failed for 49946228: ANTHROPIC_API_KEY is not set (first seen 2026-10-05)
+
+- [73d5dee62b48] `editor`: LLM call failed for 49946895: ANTHROPIC_API_KEY is not set (first seen 2026-10-05)
+
+- [8304da16932f] `editor`: LLM call failed for 49949235: ANTHROPIC_API_KEY is not set (first seen 2026-10-05)
+
+- [7a9032f5f16b] `editor`: LLM call failed for 49947631: ANTHROPIC_API_KEY is not set (first seen 2026-10-05)
+
+- [ece210cd0dce] `editor`: LLM call failed for 49950554: ANTHROPIC_API_KEY is not set (first seen 2026-10-05)
+
+- [310b158966fd] `editor`: LLM call failed for 49917536: ANTHROPIC_API_KEY is not set (first seen 2026-10-05)
+
+- [fab51c3c1c5a] `editor`: LLM call failed for 49953495: ANTHROPIC_API_KEY is not set (first seen 2026-10-05)
+
+- [35b7e0911b27] `editor`: LLM call failed for 49957068: ANTHROPIC_API_KEY is not set (first seen 2026-10-05)
+
+- [68f038176479] `editor`: LLM call failed for 49949438: ANTHROPIC_API_KEY is not set (first seen 2026-10-05)
+
+- [2f2422e1c619] `editor`: LLM call failed for 49957116: ANTHROPIC_API_KEY is not set (first seen 2026-10-05)
+
+- [02f8878a35be] `extractor`: bot-blocked (403): https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/ (first seen 2026-10-05)
+
+- [0b13780badfa] `extractor`: bot-block page detected: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/ (first seen 2026-10-05)
+
+- [7f9f400528ca] `extractor`: bot-blocked (403): https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA (first seen 2026-10-05)
+
+- [685e198508c4] `extractor`: bot-blocked (403): https://liao.gg/blog/agents-dont-need-memory (first seen 2026-10-05)
+
+- [a229b3510df9] `extractor`: bot-block page detected: https://blog.cloudflare.com/next-git-platform-on-cloudflare/ (first seen 2026-10-05)
+
+- [e08b593ae09a] `extractor`: bot-blocked (403): https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict (first seen 2026-10-05)
+
 - [a46c04967884] `editor`: LLM call failed for 49940219: ANTHROPIC_API_KEY is not set (first seen 2026-10-04)
 
 - [04330d1c6c69] `editor`: LLM call failed for 49946403: ANTHROPIC_API_KEY is not set (first seen 2026-10-04)
