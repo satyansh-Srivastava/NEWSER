@@ -30,6 +30,50 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [20458d937bd8] `editor`: LLM call failed for 49960084: ANTHROPIC_API_KEY is not set (first seen 2026-10-06)
+
+- [cd53363d9f6d] `editor`: LLM call failed for 49944912: ANTHROPIC_API_KEY is not set (first seen 2026-10-06)
+
+- [622d391164fe] `editor`: LLM call failed for 49967444: ANTHROPIC_API_KEY is not set (first seen 2026-10-06)
+
+- [62f809c1733f] `editor`: LLM call failed for 49932236: ANTHROPIC_API_KEY is not set (first seen 2026-10-06)
+
+- [8d6f1a47eb7d] `editor`: LLM call failed for 49956681: ANTHROPIC_API_KEY is not set (first seen 2026-10-06)
+
+- [5664a8be3bf3] `editor`: LLM call failed for 49957812: ANTHROPIC_API_KEY is not set (first seen 2026-10-06)
+
+- [cccf2ea86dc2] `editor`: LLM call failed for 49963366: ANTHROPIC_API_KEY is not set (first seen 2026-10-06)
+
+- [8857541f44f7] `editor`: LLM call failed for 49930439: ANTHROPIC_API_KEY is not set (first seen 2026-10-06)
+
+- [b403cae5a972] `editor`: LLM call failed for 49968105: ANTHROPIC_API_KEY is not set (first seen 2026-10-06)
+
+- [fc368b86f0d5] `editor`: LLM call failed for 49963385: ANTHROPIC_API_KEY is not set (first seen 2026-10-06)
+
+- [b60b407a0223] `editor`: LLM call failed for 49964303: ANTHROPIC_API_KEY is not set (first seen 2026-10-06)
+
+- [4bc430d7da38] `editor`: LLM call failed for 49962012: ANTHROPIC_API_KEY is not set (first seen 2026-10-06)
+
+- [b5089ffaebba] `editor`: LLM call failed for 49948300: ANTHROPIC_API_KEY is not set (first seen 2026-10-06)
+
+- [8975f0e45633] `editor`: LLM call failed for 49956290: ANTHROPIC_API_KEY is not set (first seen 2026-10-06)
+
+- [22c0fb92d3ef] `editor`: LLM call failed for 49962857: ANTHROPIC_API_KEY is not set (first seen 2026-10-06)
+
+- [93afedec04e3] `editor`: LLM call failed for 49961057: ANTHROPIC_API_KEY is not set (first seen 2026-10-06)
+
+- [d78cc111a6ca] `editor`: LLM call failed for 49970667: ANTHROPIC_API_KEY is not set (first seen 2026-10-06)
+
+- [caebfb49939b] `editor`: LLM call failed for 49969183: ANTHROPIC_API_KEY is not set (first seen 2026-10-06)
+
+- [0fea10187b67] `editor`: LLM call failed for 49971846: ANTHROPIC_API_KEY is not set (first seen 2026-10-06)
+
+- [b9e614be5f96] `editor`: LLM call failed for 49963171: ANTHROPIC_API_KEY is not set (first seen 2026-10-06)
+
+- [6ea948c7a4fb] `extractor`: bot-blocked (403): https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans (first seen 2026-10-06)
+
+- [3f11ed342a88] `extractor`: bot-blocked (403): https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/ (first seen 2026-10-06)
+
 - [130e19c3309b] `editor`: LLM call failed for 49946567: ANTHROPIC_API_KEY is not set (first seen 2026-10-05)
 
 - [09fbd2ee7d6b] `editor`: LLM call failed for 49937540: ANTHROPIC_API_KEY is not set (first seen 2026-10-05)
