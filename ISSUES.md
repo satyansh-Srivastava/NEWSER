@@ -30,6 +30,46 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [da2ec48d800d] `editor`: LLM call failed for 49958569: ANTHROPIC_API_KEY is not set (first seen 2026-10-07)
+
+- [dee7d6023ec7] `editor`: LLM call failed for 49965152: ANTHROPIC_API_KEY is not set (first seen 2026-10-07)
+
+- [e6aa76ec1879] `editor`: LLM call failed for 49973598: ANTHROPIC_API_KEY is not set (first seen 2026-10-07)
+
+- [fcdc3a910e9b] `editor`: LLM call failed for 49944049: ANTHROPIC_API_KEY is not set (first seen 2026-10-07)
+
+- [f4619e6b70be] `editor`: LLM call failed for 49977588: ANTHROPIC_API_KEY is not set (first seen 2026-10-07)
+
+- [2dfd0b469cde] `editor`: LLM call failed for 49971921: ANTHROPIC_API_KEY is not set (first seen 2026-10-07)
+
+- [0d118acfafb4] `editor`: LLM call failed for 49950653: ANTHROPIC_API_KEY is not set (first seen 2026-10-07)
+
+- [cb6d15754357] `editor`: LLM call failed for 49971719: ANTHROPIC_API_KEY is not set (first seen 2026-10-07)
+
+- [bfe6007542e1] `editor`: LLM call failed for 49971230: ANTHROPIC_API_KEY is not set (first seen 2026-10-07)
+
+- [066ace66cc24] `editor`: LLM call failed for 49976823: ANTHROPIC_API_KEY is not set (first seen 2026-10-07)
+
+- [c0e569413bf8] `editor`: LLM call failed for 49970871: ANTHROPIC_API_KEY is not set (first seen 2026-10-07)
+
+- [ff03849d5d10] `editor`: LLM call failed for 49977177: ANTHROPIC_API_KEY is not set (first seen 2026-10-07)
+
+- [54c3a5c879f1] `editor`: LLM call failed for 49975619: ANTHROPIC_API_KEY is not set (first seen 2026-10-07)
+
+- [55a73fb1aeae] `editor`: LLM call failed for 49980487: ANTHROPIC_API_KEY is not set (first seen 2026-10-07)
+
+- [51e509dc3ac3] `editor`: LLM call failed for 49980715: ANTHROPIC_API_KEY is not set (first seen 2026-10-07)
+
+- [1b8afde6133e] `editor`: LLM call failed for 49976265: ANTHROPIC_API_KEY is not set (first seen 2026-10-07)
+
+- [8159fa42481f] `editor`: LLM call failed for 49984923: ANTHROPIC_API_KEY is not set (first seen 2026-10-07)
+
+- [b41c7ce2dce0] `extractor`: bot-blocked (403): https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech (first seen 2026-10-07)
+
+- [e5ff5124f43c] `extractor`: bot-blocked (403): https://www.helgilibrary.com/companies/jetbrains (first seen 2026-10-07)
+
+- [025cd0671f97] `extractor`: HTTP 404 for https://mistral.ai/news/mistral-large-4/\ (first seen 2026-10-07)
+
 - [20458d937bd8] `editor`: LLM call failed for 49960084: ANTHROPIC_API_KEY is not set (first seen 2026-10-06)
 
 - [cd53363d9f6d] `editor`: LLM call failed for 49944912: ANTHROPIC_API_KEY is not set (first seen 2026-10-06)

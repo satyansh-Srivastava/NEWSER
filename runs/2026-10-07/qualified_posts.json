@@ -1,0 +1,572 @@
+[
+  {
+    "id": "49977979",
+    "source": "hackernews",
+    "title": "Mistral Large 4",
+    "url": "https://mistral.ai/news/mistral-large-4/\\",
+    "score": 1592,
+    "comments": 965,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:56.517890+00:00"
+  },
+  {
+    "id": "49984923",
+    "source": "hackernews",
+    "title": "Sharing AI progress in mathematics",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "score": 422,
+    "comments": 351,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:56.520001+00:00"
+  },
+  {
+    "id": "49976265",
+    "source": "hackernews",
+    "title": "Nobel Prize in Physics 2026: Francis Halzen",
+    "url": "https://www.nobelprize.org/prizes/physics/2026/",
+    "score": 531,
+    "comments": 175,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:56.525277+00:00"
+  },
+  {
+    "id": "49980715",
+    "source": "hackernews",
+    "title": "OpenTPU \u2013 An open-source AI accelerator, developed by AI",
+    "url": "https://github.com/FeSens/openTPU",
+    "score": 234,
+    "comments": 300,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:56.554943+00:00"
+  },
+  {
+    "id": "49980487",
+    "source": "hackernews",
+    "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+    "score": 219,
+    "comments": 29,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:56.573724+00:00"
+  },
+  {
+    "id": "49975619",
+    "source": "hackernews",
+    "title": "Gleam doesn't compile to Erlang source anymore",
+    "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+    "score": 299,
+    "comments": 125,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:56.861524+00:00"
+  },
+  {
+    "id": "49977177",
+    "source": "hackernews",
+    "title": "Polars 2.0",
+    "url": "https://pola.rs/posts/release-polars-2/",
+    "score": 416,
+    "comments": 96,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:56.963790+00:00"
+  },
+  {
+    "id": "49970871",
+    "source": "hackernews",
+    "title": "Dust: Pretraining Transformers Without Backpropagation",
+    "url": "https://qlabs.sh/research/dust",
+    "score": 273,
+    "comments": 79,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:57.126853+00:00"
+  },
+  {
+    "id": "49976823",
+    "source": "hackernews",
+    "title": "Nature's capacity to 'bounce back' when species are lost is overestimated: study",
+    "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
+    "score": 317,
+    "comments": 156,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:57.155744+00:00"
+  },
+  {
+    "id": "49971230",
+    "source": "hackernews",
+    "title": "Find the flattest route between any two points in SF",
+    "url": "https://flattensf.com/",
+    "score": 307,
+    "comments": 114,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:57.189522+00:00"
+  },
+  {
+    "id": "49971719",
+    "source": "hackernews",
+    "title": "Friendship ended with Deno, now Node is my best friend",
+    "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+    "score": 312,
+    "comments": 232,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:57.222775+00:00"
+  },
+  {
+    "id": "49950653",
+    "source": "hackernews",
+    "title": "Best-selling Zigbee temperature sensors tested and compared",
+    "url": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
+    "score": 236,
+    "comments": 119,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:57.282597+00:00"
+  },
+  {
+    "id": "49969183",
+    "source": "hackernews",
+    "title": "Beam: Reflection's 501B open-weight model",
+    "url": "https://reflection.ai/blog/introducing-beam",
+    "score": 541,
+    "comments": 168,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:57.481578+00:00"
+  },
+  {
+    "id": "49971921",
+    "source": "hackernews",
+    "title": "Example.com just launched the biggest redesign in decades",
+    "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+    "score": 342,
+    "comments": 232,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:57.635074+00:00"
+  },
+  {
+    "id": "49970667",
+    "source": "hackernews",
+    "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+    "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+    "score": 482,
+    "comments": 325,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:57.669933+00:00"
+  },
+  {
+    "id": "49961057",
+    "source": "hackernews",
+    "title": "Anthropic reported diary entry to police, woman faces felony charge",
+    "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+    "score": 811,
+    "comments": 651,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:57.681269+00:00"
+  },
+  {
+    "id": "49963171",
+    "source": "hackernews",
+    "title": "Web Search API",
+    "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+    "score": 585,
+    "comments": 281,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:57.703779+00:00"
+  },
+  {
+    "id": "49977072",
+    "source": "hackernews",
+    "title": "JetBrains reports revenue growth, net financial loss for 2025",
+    "url": "https://www.helgilibrary.com/companies/jetbrains",
+    "score": 574,
+    "comments": 532,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:57.831520+00:00"
+  },
+  {
+    "id": "49977588",
+    "source": "hackernews",
+    "title": "Meta\u2019s Muse is an adorable privacy and security dumpster fire",
+    "url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
+    "score": 366,
+    "comments": 258,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:58.113241+00:00"
+  },
+  {
+    "id": "49944049",
+    "source": "hackernews",
+    "title": "Competitive Programmer's Handbook (2018) [pdf]",
+    "url": "https://cses.fi/book/book.pdf",
+    "score": 312,
+    "comments": 82,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:58.133014+00:00"
+  },
+  {
+    "id": "49973598",
+    "source": "hackernews",
+    "title": "Why Common Lisp is now the best programming language",
+    "url": "https://www.vivienhenz.com/common-lisp",
+    "score": 281,
+    "comments": 380,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:58.133034+00:00"
+  },
+  {
+    "id": "49948300",
+    "source": "hackernews",
+    "title": "We ported the original Doom to SQL",
+    "url": "https://cedardb.com/blog/sqldoom/",
+    "score": 327,
+    "comments": 55,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:58.140703+00:00"
+  },
+  {
+    "id": "49971846",
+    "source": "hackernews",
+    "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+    "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+    "score": 541,
+    "comments": 405,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:58.164873+00:00"
+  },
+  {
+    "id": "49965152",
+    "source": "hackernews",
+    "title": "The lamps in my house",
+    "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
+    "score": 333,
+    "comments": 126,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:58.164888+00:00"
+  },
+  {
+    "id": "49956290",
+    "source": "hackernews",
+    "title": "The technology to eradicate mosquito-borne disease exists",
+    "url": "https://worksinprogress.co/issue/mosquitoes-are-a-choice/",
+    "score": 276,
+    "comments": 237,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:58.586440+00:00"
+  },
+  {
+    "id": "49961861",
+    "source": "hackernews",
+    "title": "Qualcomm licenses patents on Huawei\u2019s LogicFolding chip tech",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+    "score": 202,
+    "comments": 127,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:58.586454+00:00"
+  },
+  {
+    "id": "49962857",
+    "source": "hackernews",
+    "title": "Apple and a hacker's future",
+    "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+    "score": 292,
+    "comments": 245,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:58.586458+00:00"
+  },
+  {
+    "id": "49962012",
+    "source": "hackernews",
+    "title": "Denmark data breach exposes 8.8M people's personal data",
+    "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+    "score": 501,
+    "comments": 350,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:58.598519+00:00"
+  },
+  {
+    "id": "49949438",
+    "source": "hackernews",
+    "title": "Tell HN: Bob Cringely has died",
+    "url": "https://news.ycombinator.com/item?id=49949438",
+    "score": 938,
+    "comments": 218,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:59.336921+00:00"
+  },
+  {
+    "id": "49956681",
+    "source": "hackernews",
+    "title": "A browser-native classic Visual Basic VB6 IDE",
+    "url": "https://wieslawsoltes.github.io/VB6/",
+    "score": 414,
+    "comments": 135,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:59.359167+00:00"
+  },
+  {
+    "id": "49947631",
+    "source": "hackernews",
+    "title": "Reasons I didn't become an EMT, ranked",
+    "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+    "score": 251,
+    "comments": 121,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:59.359179+00:00"
+  },
+  {
+    "id": "49957812",
+    "source": "hackernews",
+    "title": "In the wake of Tippett Studios\u2019 closure, a digital archive appears online",
+    "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+    "score": 247,
+    "comments": 33,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:59.364882+00:00"
+  },
+  {
+    "id": "49947051",
+    "source": "hackernews",
+    "title": "We want you to build the next Git platform on Cloudflare",
+    "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+    "score": 228,
+    "comments": 209,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:59.719482+00:00"
+  },
+  {
+    "id": "49946895",
+    "source": "hackernews",
+    "title": "The work by Valve's Timur Krist\u00f3f on improving old AMD GPUs on Linux",
+    "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+    "score": 496,
+    "comments": 109,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:59.782090+00:00"
+  },
+  {
+    "id": "49932236",
+    "source": "hackernews",
+    "title": "The Tao of Backup",
+    "url": "http://www.taobackup.com/index.html",
+    "score": 272,
+    "comments": 115,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:52:59.796873+00:00"
+  },
+  {
+    "id": "49944912",
+    "source": "hackernews",
+    "title": "FTL: A new operating system for clouds",
+    "url": "https://ftl-os.org/",
+    "score": 208,
+    "comments": 79,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:53:00.114230+00:00"
+  },
+  {
+    "id": "49946228",
+    "source": "hackernews",
+    "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+    "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+    "score": 418,
+    "comments": 841,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:53:00.347613+00:00"
+  },
+  {
+    "id": "49928192",
+    "source": "hackernews",
+    "title": "Tiny Brutalism",
+    "url": "https://placeholders.itch.io/tiny-brutalism",
+    "score": 231,
+    "comments": 35,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:53:00.354437+00:00"
+  },
+  {
+    "id": "49949235",
+    "source": "hackernews",
+    "title": "We're going to need default hard budget caps on pretty much everything",
+    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+    "score": 637,
+    "comments": 310,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:53:00.354451+00:00"
+  },
+  {
+    "id": "49958569",
+    "source": "hackernews",
+    "title": "Self-hosted HTTP tunnels with SSH and Nginx",
+    "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+    "score": 200,
+    "comments": 44,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:53:00.358320+00:00"
+  },
+  {
+    "id": "49927754",
+    "source": "hackernews",
+    "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+    "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+    "score": 809,
+    "comments": 416,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:53:00.361120+00:00"
+  },
+  {
+    "id": "49945933",
+    "source": "hackernews",
+    "title": "Agents don't need memory, they need documentation",
+    "url": "https://liao.gg/blog/agents-dont-need-memory",
+    "score": 379,
+    "comments": 299,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:53:00.425942+00:00"
+  },
+  {
+    "id": "49959869",
+    "source": "hackernews",
+    "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+    "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+    "score": 288,
+    "comments": 248,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:53:00.476734+00:00"
+  },
+  {
+    "id": "49963366",
+    "source": "hackernews",
+    "title": "Germany\u2019s RobCo hits $1B valuation",
+    "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+    "score": 343,
+    "comments": 377,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:53:00.483012+00:00"
+  },
+  {
+    "id": "49942706",
+    "source": "hackernews",
+    "title": "Kolibri: A Sovereign Open-Weight Model",
+    "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+    "score": 700,
+    "comments": 336,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:53:00.592852+00:00"
+  },
+  {
+    "id": "49953495",
+    "source": "hackernews",
+    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+    "url": "https://github.com/Niko1221/Strata",
+    "score": 922,
+    "comments": 420,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:53:00.742731+00:00"
+  },
+  {
+    "id": "49930047",
+    "source": "hackernews",
+    "title": "Shimano Bicycle Museum Review",
+    "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+    "score": 310,
+    "comments": 84,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:53:00.742751+00:00"
+  },
+  {
+    "id": "49964303",
+    "source": "hackernews",
+    "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+    "url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
+    "score": 427,
+    "comments": 303,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:53:00.785019+00:00"
+  },
+  {
+    "id": "49946355",
+    "source": "hackernews",
+    "title": "Treachery in the Rodin Museum 3D scan verdict",
+    "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+    "score": 334,
+    "comments": 212,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:53:00.992729+00:00"
+  },
+  {
+    "id": "49963385",
+    "source": "hackernews",
+    "title": "Mold Linker Version 3.0.0 Release \u2013 Rewritten in Rust",
+    "url": "https://github.com/rui314/mold/releases/tag/v3.0.0",
+    "score": 245,
+    "comments": 192,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:53:01.173301+00:00"
+  },
+  {
+    "id": "49944227",
+    "source": "hackernews",
+    "title": "I quit OpenAI because its culture is broken",
+    "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+    "score": 489,
+    "comments": 817,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:53:01.188597+00:00"
+  },
+  {
+    "id": "49937504",
+    "source": "hackernews",
+    "title": "Muse Gadgets",
+    "url": "https://gadgets.muse.ai",
+    "score": 250,
+    "comments": 112,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:53:01.191392+00:00"
+  },
+  {
+    "id": "49950554",
+    "source": "hackernews",
+    "title": "Why don't more developers \u201cuse the platform\u201d?",
+    "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+    "score": 326,
+    "comments": 364,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:53:01.194463+00:00"
+  },
+  {
+    "id": "49957116",
+    "source": "hackernews",
+    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+    "url": "https://github.com/omlahore/RemoveMacAI",
+    "score": 766,
+    "comments": 546,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:53:01.200625+00:00"
+  },
+  {
+    "id": "49937540",
+    "source": "hackernews",
+    "title": "Make Tmux the OS",
+    "url": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
+    "score": 230,
+    "comments": 136,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:53:01.202739+00:00"
+  },
+  {
+    "id": "49930439",
+    "source": "hackernews",
+    "title": "Show HN: Glash\u00fctte Trash Clock \u2013 A 30-minute pendulum clock made from trash",
+    "url": "https://niklasroy.com/gtc/",
+    "score": 233,
+    "comments": 41,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:53:01.205462+00:00"
+  },
+  {
+    "id": "49946393",
+    "source": "hackernews",
+    "title": "Hole Punch: Sling your spaceship around gravitational fields",
+    "url": "https://notoriousbfg.com/hole-punch/",
+    "score": 369,
+    "comments": 91,
+    "subreddit": null,
+    "qualified_at": "2026-10-07T01:53:01.209045+00:00"
+  }
+]
