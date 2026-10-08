@@ -30,6 +30,50 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [de92a74c47c1] `editor`: LLM call failed for 49985643: ANTHROPIC_API_KEY is not set (first seen 2026-10-08)
+
+- [7a6154aaaca8] `editor`: LLM call failed for 49983703: ANTHROPIC_API_KEY is not set (first seen 2026-10-08)
+
+- [9f2dfaa243de] `editor`: LLM call failed for 49977531: ANTHROPIC_API_KEY is not set (first seen 2026-10-08)
+
+- [e16fe5e9c113] `editor`: LLM call failed for 49985664: ANTHROPIC_API_KEY is not set (first seen 2026-10-08)
+
+- [f9133c33af57] `editor`: LLM call failed for 49984716: ANTHROPIC_API_KEY is not set (first seen 2026-10-08)
+
+- [612fc46fec76] `editor`: LLM call failed for 49984025: ANTHROPIC_API_KEY is not set (first seen 2026-10-08)
+
+- [1f2b94b531fd] `editor`: LLM call failed for 49987076: ANTHROPIC_API_KEY is not set (first seen 2026-10-08)
+
+- [846b48e30e35] `editor`: LLM call failed for 49982498: ANTHROPIC_API_KEY is not set (first seen 2026-10-08)
+
+- [b5631b159d10] `editor`: LLM call failed for 49990470: ANTHROPIC_API_KEY is not set (first seen 2026-10-08)
+
+- [338f49781f0c] `editor`: LLM call failed for 49990224: ANTHROPIC_API_KEY is not set (first seen 2026-10-08)
+
+- [ee941a4ea55c] `editor`: LLM call failed for 49992257: ANTHROPIC_API_KEY is not set (first seen 2026-10-08)
+
+- [225eaefd9113] `editor`: LLM call failed for 49994145: ANTHROPIC_API_KEY is not set (first seen 2026-10-08)
+
+- [ff1fb179344f] `editor`: LLM call failed for 49993914: ANTHROPIC_API_KEY is not set (first seen 2026-10-08)
+
+- [068572e0b17a] `editor`: LLM call failed for 49997161: ANTHROPIC_API_KEY is not set (first seen 2026-10-08)
+
+- [d873a278cf9d] `editor`: LLM call failed for 49996425: ANTHROPIC_API_KEY is not set (first seen 2026-10-08)
+
+- [19d04d000f5c] `editor`: LLM call failed for 49993857: ANTHROPIC_API_KEY is not set (first seen 2026-10-08)
+
+- [a5c8a07210dc] `editor`: LLM call failed for 49996437: ANTHROPIC_API_KEY is not set (first seen 2026-10-08)
+
+- [1fa16f1c0ec8] `editor`: LLM call failed for 49998895: ANTHROPIC_API_KEY is not set (first seen 2026-10-08)
+
+- [d8cb2baa7d30] `editor`: LLM call failed for 49991227: ANTHROPIC_API_KEY is not set (first seen 2026-10-08)
+
+- [3fa8d8cf451c] `editor`: LLM call failed for 49994443: ANTHROPIC_API_KEY is not set (first seen 2026-10-08)
+
+- [eaa2d843d333] `extractor`: bot-block page detected: https://www.githubstatus.com/incidents/djlmxz2zd0j7 (first seen 2026-10-08)
+
+- [934b81aca9fb] `extractor`: HTTP 404 for https://www.zohaib.cc/blog/smartest-claude-code-feature (first seen 2026-10-08)
+
 - [da2ec48d800d] `editor`: LLM call failed for 49958569: ANTHROPIC_API_KEY is not set (first seen 2026-10-07)
 
 - [dee7d6023ec7] `editor`: LLM call failed for 49965152: ANTHROPIC_API_KEY is not set (first seen 2026-10-07)
