@@ -30,6 +30,60 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [0c2d8237bbba] `editor`: LLM call failed for 49998066: ANTHROPIC_API_KEY is not set (first seen 2026-10-09)
+
+- [fe7f8e8e7706] `editor`: LLM call failed for 49982445: ANTHROPIC_API_KEY is not set (first seen 2026-10-09)
+
+- [88bf9caea1b4] `editor`: LLM call failed for 49974173: ANTHROPIC_API_KEY is not set (first seen 2026-10-09)
+
+- [362d0fc76ac6] `editor`: LLM call failed for 49991243: ANTHROPIC_API_KEY is not set (first seen 2026-10-09)
+
+- [4607cab9b39c] `editor`: LLM call failed for 49980626: ANTHROPIC_API_KEY is not set (first seen 2026-10-09)
+
+- [2319a2d00c5f] `editor`: LLM call failed for 49970767: ANTHROPIC_API_KEY is not set (first seen 2026-10-09)
+
+- [7705db445928] `editor`: LLM call failed for 49993908: ANTHROPIC_API_KEY is not set (first seen 2026-10-09)
+
+- [b3c257b8ca57] `editor`: LLM call failed for 49992125: ANTHROPIC_API_KEY is not set (first seen 2026-10-09)
+
+- [ddb94e8177b4] `editor`: LLM call failed for 49996259: ANTHROPIC_API_KEY is not set (first seen 2026-10-09)
+
+- [008fa2cdbbaf] `editor`: LLM call failed for 50007519: ANTHROPIC_API_KEY is not set (first seen 2026-10-09)
+
+- [78cfb7d45456] `editor`: LLM call failed for 50002008: ANTHROPIC_API_KEY is not set (first seen 2026-10-09)
+
+- [651a9acfec82] `editor`: LLM call failed for 50008187: ANTHROPIC_API_KEY is not set (first seen 2026-10-09)
+
+- [b9bfa0acccfe] `editor`: LLM call failed for 50006366: ANTHROPIC_API_KEY is not set (first seen 2026-10-09)
+
+- [ed8ac94e3dd1] `editor`: LLM call failed for 49959280: ANTHROPIC_API_KEY is not set (first seen 2026-10-09)
+
+- [021d7956fba1] `editor`: LLM call failed for 49980346: ANTHROPIC_API_KEY is not set (first seen 2026-10-09)
+
+- [cf24b7571c11] `editor`: LLM call failed for 50002650: ANTHROPIC_API_KEY is not set (first seen 2026-10-09)
+
+- [5d6b7654be5b] `editor`: LLM call failed for 50004790: ANTHROPIC_API_KEY is not set (first seen 2026-10-09)
+
+- [d9fb4a4627c7] `editor`: LLM call failed for 50003796: ANTHROPIC_API_KEY is not set (first seen 2026-10-09)
+
+- [7015060a4714] `editor`: LLM call failed for 50005527: ANTHROPIC_API_KEY is not set (first seen 2026-10-09)
+
+- [db9236fd7b5d] `editor`: LLM call failed for 50000488: ANTHROPIC_API_KEY is not set (first seen 2026-10-09)
+
+- [fc17bd572cd7] `editor`: LLM call failed for 49995495: ANTHROPIC_API_KEY is not set (first seen 2026-10-09)
+
+- [7ba2dd887a72] `editor`: LLM call failed for 50009295: ANTHROPIC_API_KEY is not set (first seen 2026-10-09)
+
+- [fbd74079a2fd] `editor`: LLM call failed for 50008427: ANTHROPIC_API_KEY is not set (first seen 2026-10-09)
+
+- [c4ad512203fd] `extractor`: bot-blocked (403): https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t (first seen 2026-10-09)
+
+- [5aae90edfff6] `extractor`: bot-block page detected: https://scottaaronson.blog/?p=10169 (first seen 2026-10-09)
+
+- [a342363bb9d8] `extractor`: bot-blocked (403): https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea (first seen 2026-10-09)
+
+- [83049500762f] `extractor`: bot-blocked (403): https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my (first seen 2026-10-09)
+
 - [de92a74c47c1] `editor`: LLM call failed for 49985643: ANTHROPIC_API_KEY is not set (first seen 2026-10-08)
 
 - [7a6154aaaca8] `editor`: LLM call failed for 49983703: ANTHROPIC_API_KEY is not set (first seen 2026-10-08)

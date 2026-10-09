@@ -1,0 +1,462 @@
+[
+  {
+    "id": "50008427",
+    "source": "hackernews",
+    "title": "Whistle: Speech to Text in 16.9 MB",
+    "url": "https://cactuscompute.com/blog/whistle",
+    "score": 573,
+    "comments": 128,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:26.401876+00:00"
+  },
+  {
+    "id": "50009295",
+    "source": "hackernews",
+    "title": "Theranos.world",
+    "url": "https://www.theranos.world/",
+    "score": 302,
+    "comments": 119,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:26.433475+00:00"
+  },
+  {
+    "id": "49986882",
+    "source": "hackernews",
+    "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+    "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+    "score": 424,
+    "comments": 71,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:26.437857+00:00"
+  },
+  {
+    "id": "49995495",
+    "source": "hackernews",
+    "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+    "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+    "score": 449,
+    "comments": 284,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:26.501517+00:00"
+  },
+  {
+    "id": "50000488",
+    "source": "hackernews",
+    "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+    "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+    "score": 453,
+    "comments": 384,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:26.503792+00:00"
+  },
+  {
+    "id": "50005527",
+    "source": "hackernews",
+    "title": "Beauty in DVD Menus",
+    "url": "https://vale.rocks/posts/dvd-menus",
+    "score": 269,
+    "comments": 149,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:26.512936+00:00"
+  },
+  {
+    "id": "50003796",
+    "source": "hackernews",
+    "title": "Yes, and",
+    "url": "https://htmx.org/essays/yes-and/",
+    "score": 211,
+    "comments": 74,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:26.520426+00:00"
+  },
+  {
+    "id": "50004790",
+    "source": "hackernews",
+    "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+    "url": "https://quesma.com/blog/invisible-cities-one-shot/",
+    "score": 364,
+    "comments": 186,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:26.639319+00:00"
+  },
+  {
+    "id": "50002650",
+    "source": "hackernews",
+    "title": "OpenAI withdraws three mathematical results",
+    "url": "https://twitter.com/danintheory/status/2108065033070789090",
+    "score": 251,
+    "comments": 545,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:26.680630+00:00"
+  },
+  {
+    "id": "49980346",
+    "source": "hackernews",
+    "title": "The Slow Formation of Durable Software",
+    "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
+    "score": 263,
+    "comments": 110,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:26.684378+00:00"
+  },
+  {
+    "id": "50006832",
+    "source": "hackernews",
+    "title": "Trump administration is suspending Microsoft from a green card program",
+    "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+    "score": 833,
+    "comments": 1423,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:26.695712+00:00"
+  },
+  {
+    "id": "49959280",
+    "source": "hackernews",
+    "title": "15-year search for a band that charted once and vanished",
+    "url": "https://shahidhussain.com/writing/search-for-salvage/",
+    "score": 351,
+    "comments": 126,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:26.784521+00:00"
+  },
+  {
+    "id": "50006366",
+    "source": "hackernews",
+    "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
+    "url": "https://news.ycombinator.com/item?id=50006366",
+    "score": 669,
+    "comments": 202,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:26.843996+00:00"
+  },
+  {
+    "id": "50008187",
+    "source": "hackernews",
+    "title": "OpenAI annualised revenues $20B less than previously signalled",
+    "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+    "score": 358,
+    "comments": 246,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:26.872375+00:00"
+  },
+  {
+    "id": "50002008",
+    "source": "hackernews",
+    "title": "\u201cMath 2.0\u201d will need to value mathematical progress more holistically",
+    "url": "https://mathstodon.xyz/@tao/117395269325940185",
+    "score": 592,
+    "comments": 630,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:26.930443+00:00"
+  },
+  {
+    "id": "50007519",
+    "source": "hackernews",
+    "title": "4-hour battery storage is cheaper to install than gas turbines all across globe",
+    "url": "https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/",
+    "score": 226,
+    "comments": 130,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:26.950044+00:00"
+  },
+  {
+    "id": "49984923",
+    "source": "hackernews",
+    "title": "Sharing AI progress in mathematics",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "score": 1321,
+    "comments": 1506,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:27.041512+00:00"
+  },
+  {
+    "id": "49997718",
+    "source": "hackernews",
+    "title": "The Mathocalypse",
+    "url": "https://scottaaronson.blog/?p=10169",
+    "score": 381,
+    "comments": 390,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:27.077434+00:00"
+  },
+  {
+    "id": "49996437",
+    "source": "hackernews",
+    "title": "Claude Haiku 5.5",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "score": 1034,
+    "comments": 482,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:27.152584+00:00"
+  },
+  {
+    "id": "49996259",
+    "source": "hackernews",
+    "title": "Docker Agent",
+    "url": "https://github.com/docker/docker-agent",
+    "score": 296,
+    "comments": 137,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:27.152598+00:00"
+  },
+  {
+    "id": "49993857",
+    "source": "hackernews",
+    "title": "Animated ASCII Art for Web Pages",
+    "url": "https://ascii.rest/",
+    "score": 449,
+    "comments": 75,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:27.271972+00:00"
+  },
+  {
+    "id": "49992125",
+    "source": "hackernews",
+    "title": "House with 15m underground tunnels for sale for 300k",
+    "url": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
+    "score": 231,
+    "comments": 213,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:27.299779+00:00"
+  },
+  {
+    "id": "49993908",
+    "source": "hackernews",
+    "title": "Why were Victorian elites so effective?",
+    "url": "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/",
+    "score": 218,
+    "comments": 383,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:27.301077+00:00"
+  },
+  {
+    "id": "49994145",
+    "source": "hackernews",
+    "title": "Navier\u2013Stokes Lost in Translation",
+    "url": "https://arxiv.org/abs/2610.08144",
+    "score": 337,
+    "comments": 210,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:27.313885+00:00"
+  },
+  {
+    "id": "49970767",
+    "source": "hackernews",
+    "title": "Living off-grid: Hundred Rabbits",
+    "url": "https://100r.ca/site/home.html",
+    "score": 358,
+    "comments": 174,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:27.349687+00:00"
+  },
+  {
+    "id": "49980626",
+    "source": "hackernews",
+    "title": "How machines learned precision",
+    "url": "https://glinscott.github.io/how-machines-learned-precision/",
+    "score": 224,
+    "comments": 68,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:27.353180+00:00"
+  },
+  {
+    "id": "49992257",
+    "source": "hackernews",
+    "title": "Anti-patterns in software blogging",
+    "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+    "score": 320,
+    "comments": 146,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:27.413194+00:00"
+  },
+  {
+    "id": "49991243",
+    "source": "hackernews",
+    "title": "God of War on PSP, recompiled to WebAssembly and running in the browser",
+    "url": "https://github.com/snuri00/psp-web-recomp",
+    "score": 224,
+    "comments": 111,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:27.490804+00:00"
+  },
+  {
+    "id": "49977979",
+    "source": "hackernews",
+    "title": "Mistral Large 4",
+    "url": "https://mistral.ai/news/mistral-large-4/\\",
+    "score": 2028,
+    "comments": 1210,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:27.513383+00:00"
+  },
+  {
+    "id": "49974173",
+    "source": "hackernews",
+    "title": "Wood Tape (2004)",
+    "url": "http://gamesbyemail.com/WoodTape/Default.htm",
+    "score": 202,
+    "comments": 30,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:27.513396+00:00"
+  },
+  {
+    "id": "49996425",
+    "source": "hackernews",
+    "title": "GPT\u20116 and Intelligent UI for everyone",
+    "url": "https://openai.com/index/gpt-6-for-everyone/",
+    "score": 745,
+    "comments": 450,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:27.599363+00:00"
+  },
+  {
+    "id": "49994443",
+    "source": "hackernews",
+    "title": "Show HN: Bigwords.page \u2013 Turn any screen into a sign. The URL is the app",
+    "url": "https://bigwords.page/",
+    "score": 691,
+    "comments": 160,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:27.604057+00:00"
+  },
+  {
+    "id": "49991227",
+    "source": "hackernews",
+    "title": "Shipping JPEG XL in Chrome",
+    "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+    "score": 564,
+    "comments": 387,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:27.643199+00:00"
+  },
+  {
+    "id": "49982498",
+    "source": "hackernews",
+    "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+    "url": "https://news.ycombinator.com/item?id=49982498",
+    "score": 564,
+    "comments": 341,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:27.686927+00:00"
+  },
+  {
+    "id": "49982445",
+    "source": "hackernews",
+    "title": "Cleo (Mathematician)",
+    "url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
+    "score": 250,
+    "comments": 56,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:27.700220+00:00"
+  },
+  {
+    "id": "49998066",
+    "source": "hackernews",
+    "title": "'Jonathan' is the oldest land animal on Earth",
+    "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
+    "score": 270,
+    "comments": 159,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:27.707306+00:00"
+  },
+  {
+    "id": "49998895",
+    "source": "hackernews",
+    "title": "Margaret Hamilton has died",
+    "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+    "score": 2081,
+    "comments": 251,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:27.709308+00:00"
+  },
+  {
+    "id": "49993914",
+    "source": "hackernews",
+    "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
+    "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+    "score": 592,
+    "comments": 432,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:27.726925+00:00"
+  },
+  {
+    "id": "49969073",
+    "source": "hackernews",
+    "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
+    "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
+    "score": 290,
+    "comments": 103,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:27.759427+00:00"
+  },
+  {
+    "id": "49990224",
+    "source": "hackernews",
+    "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+    "url": "https://github.com/szabadkai/c64-keyboard-font/",
+    "score": 399,
+    "comments": 64,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:27.944226+00:00"
+  },
+  {
+    "id": "49997161",
+    "source": "hackernews",
+    "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+    "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+    "score": 367,
+    "comments": 381,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:27.964820+00:00"
+  },
+  {
+    "id": "49990470",
+    "source": "hackernews",
+    "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+    "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+    "score": 300,
+    "comments": 57,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:28.116115+00:00"
+  },
+  {
+    "id": "49980487",
+    "source": "hackernews",
+    "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+    "score": 429,
+    "comments": 46,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:28.297855+00:00"
+  },
+  {
+    "id": "49976265",
+    "source": "hackernews",
+    "title": "Nobel Prize in Physics 2026: Francis Halzen",
+    "url": "https://www.nobelprize.org/prizes/physics/2026/",
+    "score": 578,
+    "comments": 212,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:28.351354+00:00"
+  },
+  {
+    "id": "49987076",
+    "source": "hackernews",
+    "title": "Strands Decider 2B: a small, open-source, decision model",
+    "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+    "score": 283,
+    "comments": 78,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:28.398913+00:00"
+  },
+  {
+    "id": "49961057",
+    "source": "hackernews",
+    "title": "Anthropic reported diary entry to police, woman faces felony charge",
+    "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+    "score": 833,
+    "comments": 674,
+    "subreddit": null,
+    "qualified_at": "2026-10-09T02:38:28.522692+00:00"
+  }
+]
