@@ -30,6 +30,56 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [2b29c5b621ba] `editor`: LLM call failed for 49996149: ANTHROPIC_API_KEY is not set (first seen 2026-10-10)
+
+- [2dcadc42e545] `editor`: LLM call failed for 49992994: ANTHROPIC_API_KEY is not set (first seen 2026-10-10)
+
+- [3e959cb0f68f] `editor`: LLM call failed for 50010470: ANTHROPIC_API_KEY is not set (first seen 2026-10-10)
+
+- [23bb6dcae696] `editor`: LLM call failed for 50021127: ANTHROPIC_API_KEY is not set (first seen 2026-10-10)
+
+- [6d0ecc3ebca3] `editor`: LLM call failed for 50016312: ANTHROPIC_API_KEY is not set (first seen 2026-10-10)
+
+- [b0d42c903bb4] `editor`: LLM call failed for 50013610: ANTHROPIC_API_KEY is not set (first seen 2026-10-10)
+
+- [e45d56888512] `editor`: LLM call failed for 50011928: ANTHROPIC_API_KEY is not set (first seen 2026-10-10)
+
+- [899b3c6a43c9] `editor`: LLM call failed for 50006012: ANTHROPIC_API_KEY is not set (first seen 2026-10-10)
+
+- [2e540a99a702] `editor`: LLM call failed for 50015515: ANTHROPIC_API_KEY is not set (first seen 2026-10-10)
+
+- [c92fac599b59] `editor`: LLM call failed for 50025935: ANTHROPIC_API_KEY is not set (first seen 2026-10-10)
+
+- [1a09aad59a32] `editor`: LLM call failed for 50018420: ANTHROPIC_API_KEY is not set (first seen 2026-10-10)
+
+- [b520d4701641] `editor`: LLM call failed for 50018350: ANTHROPIC_API_KEY is not set (first seen 2026-10-10)
+
+- [e575322b5be2] `editor`: LLM call failed for 50019911: ANTHROPIC_API_KEY is not set (first seen 2026-10-10)
+
+- [0e27b9f048ee] `editor`: LLM call failed for 50023450: ANTHROPIC_API_KEY is not set (first seen 2026-10-10)
+
+- [e1fb36650f44] `editor`: LLM call failed for 50024499: ANTHROPIC_API_KEY is not set (first seen 2026-10-10)
+
+- [00690a6f0ff4] `editor`: LLM call failed for 50022292: ANTHROPIC_API_KEY is not set (first seen 2026-10-10)
+
+- [9ec1032bfb88] `editor`: LLM call failed for 50020014: ANTHROPIC_API_KEY is not set (first seen 2026-10-10)
+
+- [6b3e8abf85c3] `extractor`: HTTP 429 for http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html (first seen 2026-10-10)
+
+- [e3b98309f587] `extractor`: bot-blocked (403): https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/ (first seen 2026-10-10)
+
+- [3f4d3458027a] `extractor`: bot-block page detected: https://news.ycombinator.com/item?id=49985548 (first seen 2026-10-10)
+
+- [13782ffd0895] `extractor`: bot-blocked (403): https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9 (first seen 2026-10-10)
+
+- [f715386ed3ce] `extractor`: bot-block page detected: https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277 (first seen 2026-10-10)
+
+- [4446765bf654] `extractor`: bot-blocked (403): https://iminafleeting.com/ (first seen 2026-10-10)
+
+- [d96888028051] `extractor`: bot-block page detected: https://github.com/franzenzenhofer/big-arrow-on-the-screen (first seen 2026-10-10)
+
+- [6ac30664b7b2] `extractor`: bot-blocked (403): https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 (first seen 2026-10-10)
+
 - [0c2d8237bbba] `editor`: LLM call failed for 49998066: ANTHROPIC_API_KEY is not set (first seen 2026-10-09)
 
 - [fe7f8e8e7706] `editor`: LLM call failed for 49982445: ANTHROPIC_API_KEY is not set (first seen 2026-10-09)
