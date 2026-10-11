@@ -30,6 +30,46 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [0d40348307a0] `editor`: LLM call failed for 50032556: ANTHROPIC_API_KEY is not set (first seen 2026-10-11)
+
+- [4781504e3b75] `editor`: LLM call failed for 50021540: ANTHROPIC_API_KEY is not set (first seen 2026-10-11)
+
+- [5590d80e590d] `editor`: LLM call failed for 50027118: ANTHROPIC_API_KEY is not set (first seen 2026-10-11)
+
+- [0f3fb7225130] `editor`: LLM call failed for 50013902: ANTHROPIC_API_KEY is not set (first seen 2026-10-11)
+
+- [256b05172c71] `editor`: LLM call failed for 50017357: ANTHROPIC_API_KEY is not set (first seen 2026-10-11)
+
+- [7c6d48a67b20] `editor`: LLM call failed for 49998801: ANTHROPIC_API_KEY is not set (first seen 2026-10-11)
+
+- [bc355fde3767] `editor`: LLM call failed for 50031653: ANTHROPIC_API_KEY is not set (first seen 2026-10-11)
+
+- [54f5e43c3a5a] `editor`: LLM call failed for 50032758: ANTHROPIC_API_KEY is not set (first seen 2026-10-11)
+
+- [d21bd041bcd1] `editor`: LLM call failed for 50029123: ANTHROPIC_API_KEY is not set (first seen 2026-10-11)
+
+- [6cbbabeb17db] `editor`: LLM call failed for 50033407: ANTHROPIC_API_KEY is not set (first seen 2026-10-11)
+
+- [69981f6ac32f] `editor`: LLM call failed for 49980880: ANTHROPIC_API_KEY is not set (first seen 2026-10-11)
+
+- [ee9ec3d3e6b9] `editor`: LLM call failed for 50029487: ANTHROPIC_API_KEY is not set (first seen 2026-10-11)
+
+- [f2de5e265e02] `editor`: LLM call failed for 50031614: ANTHROPIC_API_KEY is not set (first seen 2026-10-11)
+
+- [6dfa94dbba66] `editor`: LLM call failed for 50028275: ANTHROPIC_API_KEY is not set (first seen 2026-10-11)
+
+- [5bb396ffbec7] `editor`: LLM call failed for 49991852: ANTHROPIC_API_KEY is not set (first seen 2026-10-11)
+
+- [cd035c0c9579] `extractor`: HTTP 429 for https://news.ycombinator.com/item?id=49985548 (first seen 2026-10-11)
+
+- [f7219ba23ec8] `extractor`: HTTP 429 for https://news.ycombinator.com/item?id=50006366 (first seen 2026-10-11)
+
+- [e6a0c904c008] `extractor`: bot-blocked (403): https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone (first seen 2026-10-11)
+
+- [dd83fd84a4f1] `extractor`: empty body extracted: https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/ (first seen 2026-10-11)
+
+- [e937791171e2] `extractor`: bot-blocked (403): https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo (first seen 2026-10-11)
+
 - [2b29c5b621ba] `editor`: LLM call failed for 49996149: ANTHROPIC_API_KEY is not set (first seen 2026-10-10)
 
 - [2dcadc42e545] `editor`: LLM call failed for 49992994: ANTHROPIC_API_KEY is not set (first seen 2026-10-10)
