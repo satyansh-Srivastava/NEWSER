@@ -30,6 +30,58 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [d4bec6c054b7] `editor`: LLM call failed for 50033638: ANTHROPIC_API_KEY is not set (first seen 2026-10-12)
+
+- [7e513c70ec78] `editor`: LLM call failed for 50029982: ANTHROPIC_API_KEY is not set (first seen 2026-10-12)
+
+- [845b974b7cfd] `editor`: LLM call failed for 50024090: ANTHROPIC_API_KEY is not set (first seen 2026-10-12)
+
+- [a88ea82e0d06] `editor`: LLM call failed for 50035530: ANTHROPIC_API_KEY is not set (first seen 2026-10-12)
+
+- [f3a4dfaeea7f] `editor`: LLM call failed for 50034081: ANTHROPIC_API_KEY is not set (first seen 2026-10-12)
+
+- [cde3af009e84] `editor`: LLM call failed for 50016956: ANTHROPIC_API_KEY is not set (first seen 2026-10-12)
+
+- [88a393d47de8] `editor`: LLM call failed for 50021899: ANTHROPIC_API_KEY is not set (first seen 2026-10-12)
+
+- [9a576bc75d80] `editor`: LLM call failed for 50017247: ANTHROPIC_API_KEY is not set (first seen 2026-10-12)
+
+- [4f363feb6a1d] `editor`: LLM call failed for 50043682: ANTHROPIC_API_KEY is not set (first seen 2026-10-12)
+
+- [9adbb8ca3d59] `editor`: LLM call failed for 50036864: ANTHROPIC_API_KEY is not set (first seen 2026-10-12)
+
+- [c6093631fcb0] `editor`: LLM call failed for 50037949: ANTHROPIC_API_KEY is not set (first seen 2026-10-12)
+
+- [71a57d21bf37] `editor`: LLM call failed for 50041682: ANTHROPIC_API_KEY is not set (first seen 2026-10-12)
+
+- [0ef21324d41f] `editor`: LLM call failed for 50040276: ANTHROPIC_API_KEY is not set (first seen 2026-10-12)
+
+- [f40a4ec91088] `editor`: LLM call failed for 50040547: ANTHROPIC_API_KEY is not set (first seen 2026-10-12)
+
+- [704870172591] `editor`: LLM call failed for 50043689: ANTHROPIC_API_KEY is not set (first seen 2026-10-12)
+
+- [62eb4eeaece0] `editor`: LLM call failed for 50042219: ANTHROPIC_API_KEY is not set (first seen 2026-10-12)
+
+- [aa0d177be9e8] `editor`: LLM call failed for 50041540: ANTHROPIC_API_KEY is not set (first seen 2026-10-12)
+
+- [1f6b1540b4ce] `editor`: LLM call failed for 50042425: ANTHROPIC_API_KEY is not set (first seen 2026-10-12)
+
+- [f5e01150960a] `editor`: LLM call failed for 50047055: ANTHROPIC_API_KEY is not set (first seen 2026-10-12)
+
+- [9e81c7ec9ab2] `editor`: LLM call failed for 50043026: ANTHROPIC_API_KEY is not set (first seen 2026-10-12)
+
+- [ed2df1f8e00a] `editor`: LLM call failed for 50047422: ANTHROPIC_API_KEY is not set (first seen 2026-10-12)
+
+- [5a26dce9097c] `editor`: LLM call failed for 50045984: ANTHROPIC_API_KEY is not set (first seen 2026-10-12)
+
+- [5b27b6d9a2e6] `extractor`: bot-blocked (403): https://radar.cloudflare.com/bots/as13238?dateRange=7d (first seen 2026-10-12)
+
+- [b34d5321110a] `extractor`: bot-block page detected: https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback (first seen 2026-10-12)
+
+- [833cf545b150] `extractor`: bot-blocked (403): https://www.nyc.gov/main/click-to-cancel (first seen 2026-10-12)
+
+- [88c3b5910b90] `extractor`: bot-blocked (403): https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them (first seen 2026-10-12)
+
 - [0d40348307a0] `editor`: LLM call failed for 50032556: ANTHROPIC_API_KEY is not set (first seen 2026-10-11)
 
 - [4781504e3b75] `editor`: LLM call failed for 50021540: ANTHROPIC_API_KEY is not set (first seen 2026-10-11)
