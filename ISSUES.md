@@ -30,6 +30,62 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [d4e32180f1ac] `editor`: LLM call failed for 50048638: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [8b975f6531a6] `editor`: LLM call failed for 50031269: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [a9b0c87a3443] `editor`: LLM call failed for 50042333: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [9782b78b78d1] `editor`: LLM call failed for 50051530: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [1e8da7d4e63f] `editor`: LLM call failed for 50039092: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [d5d1acdf9dd6] `editor`: LLM call failed for 50054207: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [cd450ff0e359] `editor`: LLM call failed for 50047091: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [4bcf3a8cd883] `editor`: LLM call failed for 50034206: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [8f973418f4f4] `editor`: LLM call failed for 50061278: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [ca479070f2e9] `editor`: LLM call failed for 50049872: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [6b64e1972a54] `editor`: LLM call failed for 50048642: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [c8a772e9e660] `editor`: LLM call failed for 50052251: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [4e2c8f3d8802] `editor`: LLM call failed for 50059523: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [655f058f23bb] `editor`: LLM call failed for 50054751: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [06ecb1921ec6] `editor`: LLM call failed for 50060269: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [8b02c93684a4] `editor`: LLM call failed for 50037711: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [fb82742cea5d] `editor`: LLM call failed for 50051573: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [6f46c0126a72] `editor`: LLM call failed for 50059115: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [b77e95f98ba9] `editor`: LLM call failed for 50059204: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [e9da999a9f05] `editor`: LLM call failed for 50036287: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [655944cc298e] `editor`: LLM call failed for 50060694: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [943a55fc881a] `editor`: LLM call failed for 50063427: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [99d45cae6bc0] `editor`: LLM call failed for 50055220: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [754c6fbbc162] `editor`: LLM call failed for 50055304: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [4643f3e70395] `editor`: LLM call failed for 50058528: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [3f5931ac6466] `editor`: LLM call failed for 50055593: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
+
+- [38b654594d61] `extractor`: bot-blocked (403): https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963 (first seen 2026-10-13)
+
+- [9722659419b9] `extractor`: empty body extracted: https://z.ai/blog/glm-legal (first seen 2026-10-13)
+
 - [d4bec6c054b7] `editor`: LLM call failed for 50033638: ANTHROPIC_API_KEY is not set (first seen 2026-10-12)
 
 - [7e513c70ec78] `editor`: LLM call failed for 50029982: ANTHROPIC_API_KEY is not set (first seen 2026-10-12)

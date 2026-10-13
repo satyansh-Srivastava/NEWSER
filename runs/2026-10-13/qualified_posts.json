@@ -1,0 +1,682 @@
+[
+  {
+    "id": "50055593",
+    "source": "hackernews",
+    "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+    "url": "https://github.com/h0m3us3r/w1700k-sdr",
+    "score": 282,
+    "comments": 73,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:30.559885+00:00"
+  },
+  {
+    "id": "50058528",
+    "source": "hackernews",
+    "title": "A Modern Web App in C",
+    "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+    "score": 423,
+    "comments": 173,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:30.565733+00:00"
+  },
+  {
+    "id": "50055304",
+    "source": "hackernews",
+    "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+    "score": 484,
+    "comments": 683,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:30.573111+00:00"
+  },
+  {
+    "id": "50055220",
+    "source": "hackernews",
+    "title": "Citroen revives the 2CV for an electric age",
+    "url": "https://www.bbc.com/news/articles/c620r33plgppo",
+    "score": 274,
+    "comments": 324,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:30.615468+00:00"
+  },
+  {
+    "id": "50058507",
+    "source": "hackernews",
+    "title": "GLM-Legal",
+    "url": "https://z.ai/blog/glm-legal",
+    "score": 467,
+    "comments": 261,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:30.634183+00:00"
+  },
+  {
+    "id": "50063427",
+    "source": "hackernews",
+    "title": "AI is a tool and using it well takes skill",
+    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+    "score": 254,
+    "comments": 218,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:30.849328+00:00"
+  },
+  {
+    "id": "50060694",
+    "source": "hackernews",
+    "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+    "url": "https://github.com/openai/codex/issues/48195",
+    "score": 486,
+    "comments": 248,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:30.857536+00:00"
+  },
+  {
+    "id": "50036287",
+    "source": "hackernews",
+    "title": "The Making Of Super Mario 64 \u2013 full Giles Goddard interview (2001)",
+    "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+    "score": 234,
+    "comments": 88,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:30.884615+00:00"
+  },
+  {
+    "id": "50059204",
+    "source": "hackernews",
+    "title": "Thinking will become a hobby",
+    "url": "https://www.spinellis.gr/blog/20261008/?li261008",
+    "score": 245,
+    "comments": 328,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:30.892539+00:00"
+  },
+  {
+    "id": "50059115",
+    "source": "hackernews",
+    "title": "Muse Wonder",
+    "url": "https://research.meta.ai/blog/muse-wonder",
+    "score": 550,
+    "comments": 303,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:30.978429+00:00"
+  },
+  {
+    "id": "50051573",
+    "source": "hackernews",
+    "title": "Type-safe HTML templating in Zig",
+    "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+    "score": 238,
+    "comments": 85,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:30.978452+00:00"
+  },
+  {
+    "id": "50037711",
+    "source": "hackernews",
+    "title": "Secret of Orange Cats Revealed After 60-Year Search",
+    "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
+    "score": 239,
+    "comments": 176,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:30.978471+00:00"
+  },
+  {
+    "id": "50060269",
+    "source": "hackernews",
+    "title": "'AI' Is Not a Tool by Rich Hickey",
+    "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+    "score": 233,
+    "comments": 117,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:31.072674+00:00"
+  },
+  {
+    "id": "50054751",
+    "source": "hackernews",
+    "title": "QGIS enacts moratorium on AI contributions",
+    "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+    "score": 367,
+    "comments": 398,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:31.082390+00:00"
+  },
+  {
+    "id": "50043026",
+    "source": "hackernews",
+    "title": "Terence Tao: Math 2.0 [pdf]",
+    "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+    "score": 525,
+    "comments": 527,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:31.148858+00:00"
+  },
+  {
+    "id": "50059523",
+    "source": "hackernews",
+    "title": "AI coding agents generate more code, but not more software",
+    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+    "score": 316,
+    "comments": 275,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:31.205877+00:00"
+  },
+  {
+    "id": "50052251",
+    "source": "hackernews",
+    "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+    "url": "https://github.com/snuri00/ps2-web-recomp",
+    "score": 279,
+    "comments": 147,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:31.280541+00:00"
+  },
+  {
+    "id": "50048642",
+    "source": "hackernews",
+    "title": "Fingerprints are the new cookies",
+    "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+    "score": 705,
+    "comments": 347,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:31.299888+00:00"
+  },
+  {
+    "id": "50049872",
+    "source": "hackernews",
+    "title": "Doory \u2013 Open-Source Canva",
+    "url": "https://github.com/shaongitbd/doory",
+    "score": 211,
+    "comments": 73,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:31.321943+00:00"
+  },
+  {
+    "id": "50061278",
+    "source": "hackernews",
+    "title": "OpenFatigue\u2122 \u2013 Open is the new closed",
+    "url": "https://openfatigue.ai/",
+    "score": 202,
+    "comments": 46,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:31.385453+00:00"
+  },
+  {
+    "id": "50047422",
+    "source": "hackernews",
+    "title": "The gap in shared understanding of LLM capability is widening",
+    "url": "https://twitter.com/karpathy/status/2109361546505966046",
+    "score": 681,
+    "comments": 999,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:31.394496+00:00"
+  },
+  {
+    "id": "50045984",
+    "source": "hackernews",
+    "title": "Total Annihilation, rebuilt for modern computers",
+    "url": "https://nanolathe.gg",
+    "score": 670,
+    "comments": 253,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:31.403612+00:00"
+  },
+  {
+    "id": "50048312",
+    "source": "hackernews",
+    "title": "Passkeys are a trap",
+    "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+    "score": 1030,
+    "comments": 541,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:31.481676+00:00"
+  },
+  {
+    "id": "50034206",
+    "source": "hackernews",
+    "title": "Calculus with Julia",
+    "url": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
+    "score": 255,
+    "comments": 51,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:31.652569+00:00"
+  },
+  {
+    "id": "50045946",
+    "source": "hackernews",
+    "title": "NYC's \"Click to Cancel\" rule is now in effect",
+    "url": "https://www.nyc.gov/main/click-to-cancel",
+    "score": 587,
+    "comments": 318,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:31.667449+00:00"
+  },
+  {
+    "id": "50047055",
+    "source": "hackernews",
+    "title": "So, you\u2019d like to sell your print issues of The Onion?",
+    "url": "https://theonion.com/archivehunt/",
+    "score": 371,
+    "comments": 61,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:31.677090+00:00"
+  },
+  {
+    "id": "50041540",
+    "source": "hackernews",
+    "title": "IRCv3",
+    "url": "https://ircv3.net/",
+    "score": 406,
+    "comments": 347,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:31.867692+00:00"
+  },
+  {
+    "id": "50047091",
+    "source": "hackernews",
+    "title": "Cartographers of North Korea (2019)",
+    "url": "https://cartographers-nk.wonyoung.so/",
+    "score": 315,
+    "comments": 66,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:31.886095+00:00"
+  },
+  {
+    "id": "50040547",
+    "source": "hackernews",
+    "title": "3rd Yandex Cloud Data Center Was Hit",
+    "url": "https://status.yandex.cloud/en/incidents/2136",
+    "score": 626,
+    "comments": 773,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:32.004363+00:00"
+  },
+  {
+    "id": "50054207",
+    "source": "hackernews",
+    "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+    "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+    "score": 589,
+    "comments": 198,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:32.058166+00:00"
+  },
+  {
+    "id": "50042219",
+    "source": "hackernews",
+    "title": "I paid people to try and follow my README",
+    "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+    "score": 415,
+    "comments": 203,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:32.158176+00:00"
+  },
+  {
+    "id": "50040276",
+    "source": "hackernews",
+    "title": "LineageOS 24",
+    "url": "https://lineageos.org/Changelog-32/",
+    "score": 447,
+    "comments": 182,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:32.163375+00:00"
+  },
+  {
+    "id": "49991852",
+    "source": "hackernews",
+    "title": "2D Vehicles",
+    "url": "https://patkerr.co.uk/2d-vehicles/",
+    "score": 621,
+    "comments": 118,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:32.266416+00:00"
+  },
+  {
+    "id": "50043689",
+    "source": "hackernews",
+    "title": "I'm sorry, but you still have to think",
+    "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+    "score": 435,
+    "comments": 181,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:32.283074+00:00"
+  },
+  {
+    "id": "50039092",
+    "source": "hackernews",
+    "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
+    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+    "score": 209,
+    "comments": 149,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:32.374589+00:00"
+  },
+  {
+    "id": "50019911",
+    "source": "hackernews",
+    "title": "Cloudflare acquires Deno",
+    "url": "https://deno.com/blog/cloudflare",
+    "score": 1380,
+    "comments": 718,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:32.409256+00:00"
+  },
+  {
+    "id": "50041682",
+    "source": "hackernews",
+    "title": "Nitter: Update Oct 10th seeking funding and legal help",
+    "url": "https://nitter.net",
+    "score": 470,
+    "comments": 247,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:32.433357+00:00"
+  },
+  {
+    "id": "50051530",
+    "source": "hackernews",
+    "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+    "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
+    "score": 261,
+    "comments": 316,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:32.455466+00:00"
+  },
+  {
+    "id": "50047825",
+    "source": "hackernews",
+    "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
+    "url": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
+    "score": 272,
+    "comments": 188,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:32.490001+00:00"
+  },
+  {
+    "id": "50022292",
+    "source": "hackernews",
+    "title": "Triple-A Minesweeper",
+    "url": "https://minesweeper.mikelacher.com/",
+    "score": 1429,
+    "comments": 287,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:32.513233+00:00"
+  },
+  {
+    "id": "50042425",
+    "source": "hackernews",
+    "title": "The tilde in your PATH may not be your HOME",
+    "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+    "score": 247,
+    "comments": 176,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:32.546444+00:00"
+  },
+  {
+    "id": "50028647",
+    "source": "hackernews",
+    "title": "The RAM shortage is bringing back DDR4",
+    "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+    "score": 292,
+    "comments": 314,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:32.561443+00:00"
+  },
+  {
+    "id": "50036864",
+    "source": "hackernews",
+    "title": "A city-building game in which the city would prefer you didn't",
+    "url": "https://housing.over.pizza/",
+    "score": 542,
+    "comments": 195,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:32.582222+00:00"
+  },
+  {
+    "id": "50029487",
+    "source": "hackernews",
+    "title": "The Lightbulb Computer",
+    "url": "https://lightbulbcomputer.com/",
+    "score": 599,
+    "comments": 98,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:32.610382+00:00"
+  },
+  {
+    "id": "50037949",
+    "source": "hackernews",
+    "title": "Build your own decision model",
+    "url": "https://nishtahir.com/build-your-own-decision-model/",
+    "score": 471,
+    "comments": 105,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:32.756697+00:00"
+  },
+  {
+    "id": "49984923",
+    "source": "hackernews",
+    "title": "Sharing AI progress in mathematics",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "score": 1359,
+    "comments": 1535,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:32.854848+00:00"
+  },
+  {
+    "id": "50042333",
+    "source": "hackernews",
+    "title": "Show HN: BetterWispr \u2013 Free, open-source dictation for Mac",
+    "url": "https://betterwispr.com/",
+    "score": 204,
+    "comments": 124,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:32.937687+00:00"
+  },
+  {
+    "id": "50028275",
+    "source": "hackernews",
+    "title": "REA Reverse \u2013 Engineer Anything",
+    "url": "https://rea.tools/",
+    "score": 786,
+    "comments": 331,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:32.949394+00:00"
+  },
+  {
+    "id": "50018088",
+    "source": "hackernews",
+    "title": "Sorry, I'm in a meeting",
+    "url": "https://iminafleeting.com/",
+    "score": 1045,
+    "comments": 287,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:33.026432+00:00"
+  },
+  {
+    "id": "49980880",
+    "source": "hackernews",
+    "title": "Grieving the loss of details",
+    "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+    "score": 497,
+    "comments": 419,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:33.145264+00:00"
+  },
+  {
+    "id": "50000488",
+    "source": "hackernews",
+    "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+    "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+    "score": 1126,
+    "comments": 987,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:33.167786+00:00"
+  },
+  {
+    "id": "49995495",
+    "source": "hackernews",
+    "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+    "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+    "score": 957,
+    "comments": 572,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:33.186193+00:00"
+  },
+  {
+    "id": "50017357",
+    "source": "hackernews",
+    "title": "Programming Isn't Special",
+    "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
+    "score": 278,
+    "comments": 266,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:33.243402+00:00"
+  },
+  {
+    "id": "50002665",
+    "source": "hackernews",
+    "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+    "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+    "score": 301,
+    "comments": 132,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:33.286274+00:00"
+  },
+  {
+    "id": "50008427",
+    "source": "hackernews",
+    "title": "Whistle: Speech to Text in 16.9 MB",
+    "url": "https://cactuscompute.com/blog/whistle",
+    "score": 956,
+    "comments": 184,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:33.382893+00:00"
+  },
+  {
+    "id": "50031653",
+    "source": "hackernews",
+    "title": "Apple/macOS removed from official Unix registry",
+    "url": "https://www.opengroup.org//openbrand/register/",
+    "score": 297,
+    "comments": 246,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:33.403213+00:00"
+  },
+  {
+    "id": "50031614",
+    "source": "hackernews",
+    "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
+    "url": "https://github.com/rociiu/talorys",
+    "score": 327,
+    "comments": 155,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:33.441519+00:00"
+  },
+  {
+    "id": "49986882",
+    "source": "hackernews",
+    "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+    "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+    "score": 933,
+    "comments": 208,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:33.486858+00:00"
+  },
+  {
+    "id": "50031269",
+    "source": "hackernews",
+    "title": "`123456' password used in Danish CPR data breach",
+    "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+    "score": 410,
+    "comments": 227,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:33.491526+00:00"
+  },
+  {
+    "id": "50048638",
+    "source": "hackernews",
+    "title": "Google told to halt work on datacentres in Finland over environmental concerns",
+    "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+    "score": 445,
+    "comments": 170,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:33.500155+00:00"
+  },
+  {
+    "id": "49997718",
+    "source": "hackernews",
+    "title": "The Mathocalypse",
+    "url": "https://scottaaronson.blog/?p=10169",
+    "score": 407,
+    "comments": 426,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:33.528294+00:00"
+  },
+  {
+    "id": "50017247",
+    "source": "hackernews",
+    "title": "Nix wrote half of my debugger",
+    "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+    "score": 238,
+    "comments": 68,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:33.551516+00:00"
+  },
+  {
+    "id": "50032758",
+    "source": "hackernews",
+    "title": "I would like the value of my home to rise, while my property taxes fall",
+    "url": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+    "score": 276,
+    "comments": 702,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:33.560802+00:00"
+  },
+  {
+    "id": "49977979",
+    "source": "hackernews",
+    "title": "Mistral Large 4",
+    "url": "https://mistral.ai/news/mistral-large-4/\\",
+    "score": 2042,
+    "comments": 1213,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:33.589124+00:00"
+  },
+  {
+    "id": "50041619",
+    "source": "hackernews",
+    "title": "Bot traffic from Yandex",
+    "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+    "score": 648,
+    "comments": 256,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:33.653518+00:00"
+  },
+  {
+    "id": "49997481",
+    "source": "hackernews",
+    "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
+    "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+    "score": 344,
+    "comments": 84,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:33.704430+00:00"
+  },
+  {
+    "id": "50016956",
+    "source": "hackernews",
+    "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+    "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+    "score": 226,
+    "comments": 69,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:33.715096+00:00"
+  },
+  {
+    "id": "50003796",
+    "source": "hackernews",
+    "title": "Yes, and",
+    "url": "https://htmx.org/essays/yes-and/",
+    "score": 787,
+    "comments": 308,
+    "subreddit": null,
+    "qualified_at": "2026-10-13T03:15:33.795440+00:00"
+  }
+]
