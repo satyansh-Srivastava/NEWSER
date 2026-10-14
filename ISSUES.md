@@ -30,6 +30,62 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [50f2f5d0be79] `editor`: LLM call failed for 50056822: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [c1b8d9f86d62] `editor`: LLM call failed for 50063138: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [276f5e83f61b] `editor`: LLM call failed for 50063717: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [d283948e7bed] `editor`: LLM call failed for 50065692: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [9d8fedb6f16d] `editor`: LLM call failed for 50052638: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [7767c2ecd4f9] `editor`: LLM call failed for 50061791: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [59c0abb9e74a] `editor`: LLM call failed for 50057668: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [aa0c507c2a2f] `editor`: LLM call failed for 50065932: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [149052311ac8] `editor`: LLM call failed for 50063365: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [103440a7ce64] `editor`: LLM call failed for 50041866: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [8c4c358d09e5] `editor`: LLM call failed for 50074869: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [85ecb0ef90f5] `editor`: LLM call failed for 50068036: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [cd0c929fb355] `editor`: LLM call failed for 50067414: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [7999a6bef63e] `editor`: LLM call failed for 50070593: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [0c7f5a968f06] `editor`: LLM call failed for 50071310: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [f9ecc664730f] `editor`: LLM call failed for 50069971: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [2a9fded3def4] `editor`: LLM call failed for 50069499: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [09ad7e71201a] `editor`: LLM call failed for 50073633: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [25884443aeb9] `editor`: LLM call failed for 50078141: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [d5d2f192458b] `editor`: LLM call failed for 50072994: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [5ec06b6e6af7] `editor`: LLM call failed for 50072913: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [3e23603cbfe1] `editor`: LLM call failed for 50054092: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [aafbd8b42fda] `editor`: LLM call failed for 50073879: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [faae69cbf083] `editor`: LLM call failed for 50073221: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [62661736b1e0] `editor`: LLM call failed for 50070302: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [7252914f17c6] `editor`: LLM call failed for 50077020: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [5efbb989a208] `editor`: LLM call failed for 50071017: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
+
+- [e43af35b9f23] `extractor`: bot-blocked (403): https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran (first seen 2026-10-14)
+
 - [d4e32180f1ac] `editor`: LLM call failed for 50048638: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
 
 - [8b975f6531a6] `editor`: LLM call failed for 50031269: ANTHROPIC_API_KEY is not set (first seen 2026-10-13)
