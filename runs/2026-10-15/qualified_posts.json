@@ -1,0 +1,602 @@
+[
+  {
+    "id": "50094994",
+    "source": "hackernews",
+    "title": "OpenCode 2.0",
+    "url": "https://anoma.ly/notes/opencode-2-0/",
+    "score": 270,
+    "comments": 114,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:43.539546+00:00"
+  },
+  {
+    "id": "50093568",
+    "source": "hackernews",
+    "title": "Things to know when you get cancer \u2013 2026 Edition",
+    "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+    "score": 718,
+    "comments": 192,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:43.573566+00:00"
+  },
+  {
+    "id": "50050553",
+    "source": "hackernews",
+    "title": "Do dentists know what they're doing?",
+    "url": "https://mapwriting.substack.com/p/dentists",
+    "score": 391,
+    "comments": 307,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:43.584650+00:00"
+  },
+  {
+    "id": "50088935",
+    "source": "hackernews",
+    "title": "Passkeys are not a trap",
+    "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+    "score": 464,
+    "comments": 637,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:43.595727+00:00"
+  },
+  {
+    "id": "50091788",
+    "source": "hackernews",
+    "title": "Containment and monitoring failures are to blame for AI hacking reports:\u00a0experts",
+    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+    "score": 826,
+    "comments": 444,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:43.614121+00:00"
+  },
+  {
+    "id": "50092730",
+    "source": "hackernews",
+    "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+    "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+    "score": 277,
+    "comments": 199,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:43.631805+00:00"
+  },
+  {
+    "id": "50094694",
+    "source": "hackernews",
+    "title": "Anthropic's Scion is heavily inspired by Mononoke",
+    "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+    "score": 238,
+    "comments": 105,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:43.639841+00:00"
+  },
+  {
+    "id": "50092664",
+    "source": "hackernews",
+    "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+    "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+    "score": 271,
+    "comments": 210,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:43.693105+00:00"
+  },
+  {
+    "id": "50093180",
+    "source": "hackernews",
+    "title": "Suicide rates highest ever among middle-aged men",
+    "url": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
+    "score": 244,
+    "comments": 324,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:43.729926+00:00"
+  },
+  {
+    "id": "50094673",
+    "source": "hackernews",
+    "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+    "url": "https://blog.cloudflare.com/yandex-outage/",
+    "score": 204,
+    "comments": 66,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:43.775760+00:00"
+  },
+  {
+    "id": "50084757",
+    "source": "hackernews",
+    "title": "How Amazon pushes up prices all across the Internet",
+    "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+    "score": 706,
+    "comments": 591,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:43.872491+00:00"
+  },
+  {
+    "id": "50090349",
+    "source": "hackernews",
+    "title": "Google is silently linking your phone number across all signed-in accounts",
+    "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+    "score": 366,
+    "comments": 96,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:43.896582+00:00"
+  },
+  {
+    "id": "50084240",
+    "source": "hackernews",
+    "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+    "url": "https://typeof.net/Iosevka/",
+    "score": 702,
+    "comments": 287,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:43.935066+00:00"
+  },
+  {
+    "id": "50073879",
+    "source": "hackernews",
+    "title": "Gemini 4 Argon",
+    "url": "https://deepmind.google/models/gemini/",
+    "score": 1433,
+    "comments": 1027,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:44.099953+00:00"
+  },
+  {
+    "id": "50080007",
+    "source": "hackernews",
+    "title": "Grace Hopper Celebration Cancelled",
+    "url": "https://anitab.org/press-release",
+    "score": 239,
+    "comments": 244,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:44.146835+00:00"
+  },
+  {
+    "id": "50063427",
+    "source": "hackernews",
+    "title": "AI is a tool and using it well takes skill",
+    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+    "score": 758,
+    "comments": 588,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:44.243911+00:00"
+  },
+  {
+    "id": "50054092",
+    "source": "hackernews",
+    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+    "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+    "score": 779,
+    "comments": 492,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:44.265863+00:00"
+  },
+  {
+    "id": "50083130",
+    "source": "hackernews",
+    "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+    "url": "https://github.com/android/ndk/issues/2260",
+    "score": 482,
+    "comments": 236,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:44.299952+00:00"
+  },
+  {
+    "id": "50073633",
+    "source": "hackernews",
+    "title": "Redesigning source control at Anthropic",
+    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+    "score": 866,
+    "comments": 963,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:44.417819+00:00"
+  },
+  {
+    "id": "50045147",
+    "source": "hackernews",
+    "title": "Sound (2022)",
+    "url": "https://ciechanow.ski/sound/",
+    "score": 263,
+    "comments": 32,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:44.441857+00:00"
+  },
+  {
+    "id": "50082470",
+    "source": "hackernews",
+    "title": "Felix Rieseberg Homepage",
+    "url": "https://felixrieseberg.com/",
+    "score": 272,
+    "comments": 104,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:44.441878+00:00"
+  },
+  {
+    "id": "50077020",
+    "source": "hackernews",
+    "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+    "url": "https://guitoro.com/",
+    "score": 552,
+    "comments": 154,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:44.452253+00:00"
+  },
+  {
+    "id": "50069499",
+    "source": "hackernews",
+    "title": "11 year old unsoundness bugs found in Rust borrow checker",
+    "url": "https://github.com/rust-lang/rust/issues/164250",
+    "score": 741,
+    "comments": 425,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:44.510169+00:00"
+  },
+  {
+    "id": "50070302",
+    "source": "hackernews",
+    "title": "Firefox Enterprise",
+    "url": "https://www.firefox.com/en-US/enterprise/",
+    "score": 757,
+    "comments": 325,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:44.514734+00:00"
+  },
+  {
+    "id": "50071017",
+    "source": "hackernews",
+    "title": "Apple HomeView",
+    "url": "https://www.apple.com/apple-homeview/",
+    "score": 751,
+    "comments": 895,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:44.526168+00:00"
+  },
+  {
+    "id": "50053487",
+    "source": "hackernews",
+    "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+    "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+    "score": 261,
+    "comments": 45,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:44.549772+00:00"
+  },
+  {
+    "id": "50072994",
+    "source": "hackernews",
+    "title": "The United Kingdom generates less electricity per person than in the 1970s",
+    "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+    "score": 400,
+    "comments": 698,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:44.632853+00:00"
+  },
+  {
+    "id": "50072913",
+    "source": "hackernews",
+    "title": "Thunderbird for iOS",
+    "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+    "score": 457,
+    "comments": 205,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:44.666050+00:00"
+  },
+  {
+    "id": "50078141",
+    "source": "hackernews",
+    "title": "OpenAI engineer arrested in bugging of executive conference room",
+    "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+    "score": 643,
+    "comments": 528,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:44.743297+00:00"
+  },
+  {
+    "id": "50074869",
+    "source": "hackernews",
+    "title": "Gemini 4 Argon for Robotics",
+    "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+    "score": 230,
+    "comments": 55,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:44.945573+00:00"
+  },
+  {
+    "id": "50069971",
+    "source": "hackernews",
+    "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+    "url": "https://eg2.haku.sh/",
+    "score": 425,
+    "comments": 94,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:44.951329+00:00"
+  },
+  {
+    "id": "50073221",
+    "source": "hackernews",
+    "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+    "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+    "score": 342,
+    "comments": 183,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:44.970170+00:00"
+  },
+  {
+    "id": "50072286",
+    "source": "hackernews",
+    "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+    "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+    "score": 289,
+    "comments": 526,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:44.978429+00:00"
+  },
+  {
+    "id": "50061659",
+    "source": "hackernews",
+    "title": "MIT class project turns into an FDA-cleared treatment for tremors",
+    "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
+    "score": 268,
+    "comments": 63,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:44.984106+00:00"
+  },
+  {
+    "id": "50071310",
+    "source": "hackernews",
+    "title": "New Apple TV 4K",
+    "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+    "score": 344,
+    "comments": 640,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:45.026631+00:00"
+  },
+  {
+    "id": "50068036",
+    "source": "hackernews",
+    "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+    "url": "https://blog.character.ai/an-update-on-character-ai/",
+    "score": 331,
+    "comments": 288,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:45.045630+00:00"
+  },
+  {
+    "id": "50079865",
+    "source": "hackernews",
+    "title": "Recreational Programming",
+    "url": "https://www.cphiri.dev/presentations/recreational-programming",
+    "score": 305,
+    "comments": 152,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:45.103895+00:00"
+  },
+  {
+    "id": "50074909",
+    "source": "hackernews",
+    "title": "Show HN: How random are you?",
+    "url": "https://lab.specr.net/rigged-draw/",
+    "score": 209,
+    "comments": 116,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:45.103918+00:00"
+  },
+  {
+    "id": "50055304",
+    "source": "hackernews",
+    "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+    "score": 902,
+    "comments": 997,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:45.139573+00:00"
+  },
+  {
+    "id": "50058507",
+    "source": "hackernews",
+    "title": "GLM-Legal",
+    "url": "https://z.ai/blog/glm-legal",
+    "score": 670,
+    "comments": 363,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:45.171214+00:00"
+  },
+  {
+    "id": "50067414",
+    "source": "hackernews",
+    "title": "Hittite royal archive found in Turkey",
+    "url": "https://www.thehistoryblog.com/archives/77107",
+    "score": 381,
+    "comments": 97,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:45.176728+00:00"
+  },
+  {
+    "id": "50043026",
+    "source": "hackernews",
+    "title": "Terence Tao: Math 2.0 [pdf]",
+    "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+    "score": 560,
+    "comments": 542,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:45.202027+00:00"
+  },
+  {
+    "id": "50070593",
+    "source": "hackernews",
+    "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+    "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+    "score": 246,
+    "comments": 98,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:45.269260+00:00"
+  },
+  {
+    "id": "50058528",
+    "source": "hackernews",
+    "title": "A Modern Web App in C",
+    "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+    "score": 707,
+    "comments": 324,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:45.474844+00:00"
+  },
+  {
+    "id": "50052638",
+    "source": "hackernews",
+    "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
+    "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+    "score": 238,
+    "comments": 119,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:45.482939+00:00"
+  },
+  {
+    "id": "50041866",
+    "source": "hackernews",
+    "title": "The baffling intelligence of a single cell (2024)",
+    "url": "https://jsomers.net/e-coli-chemotaxis/",
+    "score": 414,
+    "comments": 142,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:45.495114+00:00"
+  },
+  {
+    "id": "50063365",
+    "source": "hackernews",
+    "title": "Intel D270 GPU AI Accelerator\u2013Up to 480 GB LPDDR5X",
+    "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+    "score": 306,
+    "comments": 177,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:45.510903+00:00"
+  },
+  {
+    "id": "50055593",
+    "source": "hackernews",
+    "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+    "url": "https://github.com/h0m3us3r/w1700k-sdr",
+    "score": 423,
+    "comments": 124,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:45.762451+00:00"
+  },
+  {
+    "id": "50057668",
+    "source": "hackernews",
+    "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+    "url": "https://taylor.town/kk-ai-2026",
+    "score": 219,
+    "comments": 88,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:45.775835+00:00"
+  },
+  {
+    "id": "50048642",
+    "source": "hackernews",
+    "title": "Fingerprints are the new cookies",
+    "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+    "score": 749,
+    "comments": 372,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:45.820397+00:00"
+  },
+  {
+    "id": "50087328",
+    "source": "hackernews",
+    "title": "Switzerland proposes banning profiling-based ads to minors",
+    "url": "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ",
+    "score": 238,
+    "comments": 145,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:45.876701+00:00"
+  },
+  {
+    "id": "50045984",
+    "source": "hackernews",
+    "title": "Total Annihilation, rebuilt for modern computers",
+    "url": "https://nanolathe.gg",
+    "score": 691,
+    "comments": 268,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:45.970798+00:00"
+  },
+  {
+    "id": "50055220",
+    "source": "hackernews",
+    "title": "Citroen revives the 2CV for an electric age",
+    "url": "https://www.bbc.com/news/articles/c620r33plgppo",
+    "score": 416,
+    "comments": 476,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:45.975983+00:00"
+  },
+  {
+    "id": "50061791",
+    "source": "hackernews",
+    "title": "Making big downloads resumable in Firefox",
+    "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+    "score": 285,
+    "comments": 136,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:46.021935+00:00"
+  },
+  {
+    "id": "50065932",
+    "source": "hackernews",
+    "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+    "url": "https://www.argmin.net/p/faster-fourier-transforms",
+    "score": 244,
+    "comments": 164,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:46.066853+00:00"
+  },
+  {
+    "id": "50059115",
+    "source": "hackernews",
+    "title": "Muse Wonder",
+    "url": "https://research.meta.ai/blog/muse-wonder",
+    "score": 668,
+    "comments": 380,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:46.066886+00:00"
+  },
+  {
+    "id": "50047422",
+    "source": "hackernews",
+    "title": "The gap in shared understanding of LLM capability is widening",
+    "url": "https://twitter.com/karpathy/status/2109361546505966046",
+    "score": 721,
+    "comments": 1057,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:46.072266+00:00"
+  },
+  {
+    "id": "50060694",
+    "source": "hackernews",
+    "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+    "url": "https://github.com/openai/codex/issues/48195",
+    "score": 606,
+    "comments": 292,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:46.105266+00:00"
+  },
+  {
+    "id": "50059204",
+    "source": "hackernews",
+    "title": "Thinking will become a hobby",
+    "url": "https://www.spinellis.gr/blog/20261008/?li261008",
+    "score": 348,
+    "comments": 485,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:46.118047+00:00"
+  },
+  {
+    "id": "50063138",
+    "source": "hackernews",
+    "title": "Who is vfmaddrnd231pd?",
+    "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+    "score": 252,
+    "comments": 25,
+    "subreddit": null,
+    "qualified_at": "2026-10-15T01:02:46.126419+00:00"
+  }
+]

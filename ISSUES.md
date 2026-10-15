@@ -30,6 +30,52 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [ab3d369f9b0c] `editor`: LLM call failed for 50087328: ANTHROPIC_API_KEY is not set (first seen 2026-10-15)
+
+- [ef0f3434509c] `editor`: LLM call failed for 50074909: ANTHROPIC_API_KEY is not set (first seen 2026-10-15)
+
+- [deafd9bb92b6] `editor`: LLM call failed for 50079865: ANTHROPIC_API_KEY is not set (first seen 2026-10-15)
+
+- [1f8be0f91d6a] `editor`: LLM call failed for 50061659: ANTHROPIC_API_KEY is not set (first seen 2026-10-15)
+
+- [fd58fa44250a] `editor`: LLM call failed for 50072286: ANTHROPIC_API_KEY is not set (first seen 2026-10-15)
+
+- [57e78d47b40e] `editor`: LLM call failed for 50053487: ANTHROPIC_API_KEY is not set (first seen 2026-10-15)
+
+- [00189c84cdec] `editor`: LLM call failed for 50082470: ANTHROPIC_API_KEY is not set (first seen 2026-10-15)
+
+- [f0978548634c] `editor`: LLM call failed for 50045147: ANTHROPIC_API_KEY is not set (first seen 2026-10-15)
+
+- [c6c43dda5368] `editor`: LLM call failed for 50083130: ANTHROPIC_API_KEY is not set (first seen 2026-10-15)
+
+- [5e89226b9b54] `editor`: LLM call failed for 50080007: ANTHROPIC_API_KEY is not set (first seen 2026-10-15)
+
+- [c696c1949e50] `editor`: LLM call failed for 50084240: ANTHROPIC_API_KEY is not set (first seen 2026-10-15)
+
+- [e9558e0bad72] `editor`: LLM call failed for 50084757: ANTHROPIC_API_KEY is not set (first seen 2026-10-15)
+
+- [f2a37026ce4c] `editor`: LLM call failed for 50093180: ANTHROPIC_API_KEY is not set (first seen 2026-10-15)
+
+- [221139738f1b] `editor`: LLM call failed for 50092664: ANTHROPIC_API_KEY is not set (first seen 2026-10-15)
+
+- [76bed383a11d] `editor`: LLM call failed for 50094694: ANTHROPIC_API_KEY is not set (first seen 2026-10-15)
+
+- [e76a3c82aae3] `editor`: LLM call failed for 50092730: ANTHROPIC_API_KEY is not set (first seen 2026-10-15)
+
+- [fbba6425d2a7] `editor`: LLM call failed for 50091788: ANTHROPIC_API_KEY is not set (first seen 2026-10-15)
+
+- [81ee896a830c] `editor`: LLM call failed for 50088935: ANTHROPIC_API_KEY is not set (first seen 2026-10-15)
+
+- [244b26ba84b6] `editor`: LLM call failed for 50093568: ANTHROPIC_API_KEY is not set (first seen 2026-10-15)
+
+- [6e211ac73b54] `editor`: LLM call failed for 50094994: ANTHROPIC_API_KEY is not set (first seen 2026-10-15)
+
+- [0b71184c342c] `extractor`: bot-blocked (403): https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/ (first seen 2026-10-15)
+
+- [93636df8923f] `extractor`: bot-block page detected: https://blog.cloudflare.com/yandex-outage/ (first seen 2026-10-15)
+
+- [2f0e0c717368] `extractor`: bot-blocked (403): https://mapwriting.substack.com/p/dentists (first seen 2026-10-15)
+
 - [50f2f5d0be79] `editor`: LLM call failed for 50056822: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
 
 - [c1b8d9f86d62] `editor`: LLM call failed for 50063138: ANTHROPIC_API_KEY is not set (first seen 2026-10-14)
