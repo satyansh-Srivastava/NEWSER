@@ -30,6 +30,60 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [d84783e4db60] `editor`: LLM call failed for 50108131: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
+
+- [51a2ab1e706b] `editor`: LLM call failed for 50090369: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
+
+- [ff75305ded7f] `editor`: LLM call failed for 50083028: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
+
+- [f3a70ea4e386] `editor`: LLM call failed for 50064673: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
+
+- [97c278955976] `editor`: LLM call failed for 50086165: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
+
+- [3fb927e8f8d3] `editor`: LLM call failed for 50095353: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
+
+- [034a0d087ebc] `editor`: LLM call failed for 50089921: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
+
+- [88fee9fdcb4c] `editor`: LLM call failed for 50092470: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
+
+- [c3b629401247] `editor`: LLM call failed for 50096142: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
+
+- [77693fc5314a] `editor`: LLM call failed for 50106738: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
+
+- [e59df2e1ad3c] `editor`: LLM call failed for 50097369: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
+
+- [1d21c0eb803f] `editor`: LLM call failed for 50104654: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
+
+- [44a7d8d8f6cc] `editor`: LLM call failed for 50105635: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
+
+- [12f7946c600d] `editor`: LLM call failed for 50053384: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
+
+- [73fb70d20c85] `editor`: LLM call failed for 50103630: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
+
+- [299d342596bd] `editor`: LLM call failed for 50070625: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
+
+- [acc9d737f037] `editor`: LLM call failed for 50102247: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
+
+- [28f704cc41ac] `editor`: LLM call failed for 50102923: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
+
+- [f873e853f64a] `editor`: LLM call failed for 50106023: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
+
+- [a573a0323757] `editor`: LLM call failed for 50107379: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
+
+- [4b44bd62bcbc] `editor`: LLM call failed for 50105648: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
+
+- [fb449594add5] `editor`: LLM call failed for 50101813: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
+
+- [ae0f8b142566] `editor`: LLM call failed for 50103338: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
+
+- [5c9626bb74c7] `editor`: LLM call failed for 50104726: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
+
+- [e176b41aefc2] `editor`: LLM call failed for 50105647: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
+
+- [743ac9e0c3a1] `extractor`: bot-blocked (403): https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup (first seen 2026-10-16)
+
+- [dc95fdea8190] `extractor`: bot-blocked (403): https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/ (first seen 2026-10-16)
+
 - [ab3d369f9b0c] `editor`: LLM call failed for 50087328: ANTHROPIC_API_KEY is not set (first seen 2026-10-15)
 
 - [ef0f3434509c] `editor`: LLM call failed for 50074909: ANTHROPIC_API_KEY is not set (first seen 2026-10-15)
