@@ -30,6 +30,42 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [ef3d5400767c] `editor`: LLM call failed for 50080155: ANTHROPIC_API_KEY is not set (first seen 2026-10-17)
+
+- [4ecd5f65d3c9] `editor`: LLM call failed for 50109375: ANTHROPIC_API_KEY is not set (first seen 2026-10-17)
+
+- [11cb101b4d49] `editor`: LLM call failed for 50104299: ANTHROPIC_API_KEY is not set (first seen 2026-10-17)
+
+- [72f755b7466b] `editor`: LLM call failed for 50105777: ANTHROPIC_API_KEY is not set (first seen 2026-10-17)
+
+- [f6d702a21ff6] `editor`: LLM call failed for 50112330: ANTHROPIC_API_KEY is not set (first seen 2026-10-17)
+
+- [1f1703d687e2] `editor`: LLM call failed for 50112739: ANTHROPIC_API_KEY is not set (first seen 2026-10-17)
+
+- [628c0a46959c] `editor`: LLM call failed for 50111852: ANTHROPIC_API_KEY is not set (first seen 2026-10-17)
+
+- [121372229e9f] `editor`: LLM call failed for 50065859: ANTHROPIC_API_KEY is not set (first seen 2026-10-17)
+
+- [99ba6cc03677] `editor`: LLM call failed for 50117746: ANTHROPIC_API_KEY is not set (first seen 2026-10-17)
+
+- [deff60cb8b52] `editor`: LLM call failed for 50077225: ANTHROPIC_API_KEY is not set (first seen 2026-10-17)
+
+- [de173af97149] `editor`: LLM call failed for 50121179: ANTHROPIC_API_KEY is not set (first seen 2026-10-17)
+
+- [8899fd4d6503] `editor`: LLM call failed for 50118320: ANTHROPIC_API_KEY is not set (first seen 2026-10-17)
+
+- [4f307e85f4af] `editor`: LLM call failed for 50118981: ANTHROPIC_API_KEY is not set (first seen 2026-10-17)
+
+- [a17830f2e33b] `editor`: LLM call failed for 50122951: ANTHROPIC_API_KEY is not set (first seen 2026-10-17)
+
+- [ba4b5dfb458f] `editor`: LLM call failed for 50122800: ANTHROPIC_API_KEY is not set (first seen 2026-10-17)
+
+- [d1f07b683c88] `extractor`: bot-blocked (403): https://danieltemkin.com/esolangs/folders (first seen 2026-10-17)
+
+- [6e10550625f0] `extractor`: bot-blocked (403): https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d (first seen 2026-10-17)
+
+- [a58cc51001cd] `extractor`: bot-blocked (403): https://www.tesla.com/roadster (first seen 2026-10-17)
+
 - [d84783e4db60] `editor`: LLM call failed for 50108131: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
 
 - [51a2ab1e706b] `editor`: LLM call failed for 50090369: ANTHROPIC_API_KEY is not set (first seen 2026-10-16)
