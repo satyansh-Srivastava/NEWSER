@@ -30,6 +30,48 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [34f6c812bb9e] `editor`: LLM call failed for 50119991: ANTHROPIC_API_KEY is not set (first seen 2026-10-18)
+
+- [c5dbfbf38512] `editor`: LLM call failed for 50120101: ANTHROPIC_API_KEY is not set (first seen 2026-10-18)
+
+- [09043b602e9c] `editor`: LLM call failed for 50124251: ANTHROPIC_API_KEY is not set (first seen 2026-10-18)
+
+- [757808f16d03] `editor`: LLM call failed for 50118688: ANTHROPIC_API_KEY is not set (first seen 2026-10-18)
+
+- [1b2adb944121] `editor`: LLM call failed for 50120224: ANTHROPIC_API_KEY is not set (first seen 2026-10-18)
+
+- [5272eae4d8ad] `editor`: LLM call failed for 50123580: ANTHROPIC_API_KEY is not set (first seen 2026-10-18)
+
+- [967264146abf] `editor`: LLM call failed for 50106747: ANTHROPIC_API_KEY is not set (first seen 2026-10-18)
+
+- [90206885546a] `editor`: LLM call failed for 50122034: ANTHROPIC_API_KEY is not set (first seen 2026-10-18)
+
+- [4a803a25baf5] `editor`: LLM call failed for 50129947: ANTHROPIC_API_KEY is not set (first seen 2026-10-18)
+
+- [496f6db3789f] `editor`: LLM call failed for 50127979: ANTHROPIC_API_KEY is not set (first seen 2026-10-18)
+
+- [75da0f525e50] `editor`: LLM call failed for 50122431: ANTHROPIC_API_KEY is not set (first seen 2026-10-18)
+
+- [24d29e220bae] `editor`: LLM call failed for 50133401: ANTHROPIC_API_KEY is not set (first seen 2026-10-18)
+
+- [19dc640170a1] `editor`: LLM call failed for 50122878: ANTHROPIC_API_KEY is not set (first seen 2026-10-18)
+
+- [834c6e0080e4] `editor`: LLM call failed for 50126253: ANTHROPIC_API_KEY is not set (first seen 2026-10-18)
+
+- [52b73dda6cbf] `editor`: LLM call failed for 50100994: ANTHROPIC_API_KEY is not set (first seen 2026-10-18)
+
+- [ff872d9910c3] `editor`: LLM call failed for 50132870: ANTHROPIC_API_KEY is not set (first seen 2026-10-18)
+
+- [2747a5794ac5] `editor`: LLM call failed for 50132193: ANTHROPIC_API_KEY is not set (first seen 2026-10-18)
+
+- [6389810ec28e] `editor`: LLM call failed for 50129045: ANTHROPIC_API_KEY is not set (first seen 2026-10-18)
+
+- [868c650fd5fa] `extractor`: bot-blocked (403): https://dune.fandom.com/wiki/Butlerian_Jihad (first seen 2026-10-18)
+
+- [1df597788b72] `extractor`: HTTP 503 for https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ (first seen 2026-10-18)
+
+- [20a8fc0ec38d] `extractor`: bot-blocked (403): https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using (first seen 2026-10-18)
+
 - [ef3d5400767c] `editor`: LLM call failed for 50080155: ANTHROPIC_API_KEY is not set (first seen 2026-10-17)
 
 - [4ecd5f65d3c9] `editor`: LLM call failed for 50109375: ANTHROPIC_API_KEY is not set (first seen 2026-10-17)
