@@ -1,0 +1,502 @@
+[
+  {
+    "id": "50141076",
+    "source": "hackernews",
+    "title": "RepRapMicron",
+    "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+    "score": 324,
+    "comments": 51,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:44.493818+00:00"
+  },
+  {
+    "id": "50138531",
+    "source": "hackernews",
+    "title": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
+    "url": "https://api-docs.deepseek.com/guides/search/",
+    "score": 534,
+    "comments": 256,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:44.546562+00:00"
+  },
+  {
+    "id": "50142573",
+    "source": "hackernews",
+    "title": "Someone behind the software",
+    "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+    "score": 298,
+    "comments": 119,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:44.546587+00:00"
+  },
+  {
+    "id": "50142866",
+    "source": "hackernews",
+    "title": "Namecheap just seized and disabled all my domains",
+    "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+    "score": 410,
+    "comments": 192,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:44.711205+00:00"
+  },
+  {
+    "id": "50137620",
+    "source": "hackernews",
+    "title": "The Elizabeth Holmes documentary \u201cYou Can See Everything\u201d is deceiving",
+    "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+    "score": 358,
+    "comments": 508,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:44.779776+00:00"
+  },
+  {
+    "id": "50139067",
+    "source": "hackernews",
+    "title": "Parser Combinators",
+    "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+    "score": 220,
+    "comments": 77,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:44.840969+00:00"
+  },
+  {
+    "id": "50137950",
+    "source": "hackernews",
+    "title": "Show HN: Sphinx \u2013 A hook that quizzes you on your AI's code before shipping",
+    "url": "https://sphinx-six-theta.vercel.app/",
+    "score": 241,
+    "comments": 84,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:44.852200+00:00"
+  },
+  {
+    "id": "50139692",
+    "source": "hackernews",
+    "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+    "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+    "score": 216,
+    "comments": 60,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:44.877444+00:00"
+  },
+  {
+    "id": "50126253",
+    "source": "hackernews",
+    "title": "Bleached corals thrive within days when touching healthy neighbour",
+    "url": "https://www.nature.com/articles/d41586-026-03266-x",
+    "score": 540,
+    "comments": 115,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:45.264623+00:00"
+  },
+  {
+    "id": "50122878",
+    "source": "hackernews",
+    "title": "You could have invented transformers from memory",
+    "url": "https://alexwang.ai/posts/associative-memory/",
+    "score": 622,
+    "comments": 141,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:45.264652+00:00"
+  },
+  {
+    "id": "50100366",
+    "source": "hackernews",
+    "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+    "url": "https://github.com/antirez/c64-hw-simulator",
+    "score": 230,
+    "comments": 34,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:45.264670+00:00"
+  },
+  {
+    "id": "50141909",
+    "source": "hackernews",
+    "title": "macOS 15.8.2 Breaks OpenGL",
+    "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+    "score": 233,
+    "comments": 243,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:45.545282+00:00"
+  },
+  {
+    "id": "50129045",
+    "source": "hackernews",
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "score": 936,
+    "comments": 704,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:45.556609+00:00"
+  },
+  {
+    "id": "50132870",
+    "source": "hackernews",
+    "title": "Gold is now the top U.S. export",
+    "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+    "score": 406,
+    "comments": 224,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:45.572419+00:00"
+  },
+  {
+    "id": "50136536",
+    "source": "hackernews",
+    "title": "NY announces game ownership bill requiring ownership rather than licensing",
+    "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+    "score": 426,
+    "comments": 197,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:45.754183+00:00"
+  },
+  {
+    "id": "50112657",
+    "source": "hackernews",
+    "title": "Tesla Roadster",
+    "url": "https://www.tesla.com/roadster",
+    "score": 1629,
+    "comments": 3082,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:45.810188+00:00"
+  },
+  {
+    "id": "50131213",
+    "source": "hackernews",
+    "title": "Making chicken transparent using Dorito dust",
+    "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+    "score": 345,
+    "comments": 87,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:45.845199+00:00"
+  },
+  {
+    "id": "50131256",
+    "source": "hackernews",
+    "title": "Solar surpasses nuclear power globally for first time",
+    "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+    "score": 674,
+    "comments": 431,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:45.845226+00:00"
+  },
+  {
+    "id": "50132193",
+    "source": "hackernews",
+    "title": "Pele \u2013 Mermaid diagrams as themeable SVG",
+    "url": "https://pele.run/",
+    "score": 564,
+    "comments": 58,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:45.845235+00:00"
+  },
+  {
+    "id": "50100994",
+    "source": "hackernews",
+    "title": "Furifont, a Japanese font that shows furigana",
+    "url": "https://furifont.antfu.me/",
+    "score": 392,
+    "comments": 83,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:45.861789+00:00"
+  },
+  {
+    "id": "50126312",
+    "source": "hackernews",
+    "title": "Dam removals are bringing fish back across the northeastern United States",
+    "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+    "score": 349,
+    "comments": 91,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:45.861818+00:00"
+  },
+  {
+    "id": "50122800",
+    "source": "hackernews",
+    "title": "Claude reveals ECDSA curve origins",
+    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "score": 1050,
+    "comments": 388,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:45.861832+00:00"
+  },
+  {
+    "id": "50117746",
+    "source": "hackernews",
+    "title": "I love software rendering",
+    "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+    "score": 380,
+    "comments": 233,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:46.133763+00:00"
+  },
+  {
+    "id": "50106747",
+    "source": "hackernews",
+    "title": "Ultramarine 1\u00a0Flash",
+    "url": "https://www.paperinstruments.com/ultramarine",
+    "score": 379,
+    "comments": 110,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:46.157531+00:00"
+  },
+  {
+    "id": "50129947",
+    "source": "hackernews",
+    "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
+    "url": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
+    "score": 326,
+    "comments": 50,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:46.157554+00:00"
+  },
+  {
+    "id": "50127979",
+    "source": "hackernews",
+    "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
+    "url": "https://llmspeed.dev/",
+    "score": 321,
+    "comments": 86,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:46.233923+00:00"
+  },
+  {
+    "id": "50133401",
+    "source": "hackernews",
+    "title": "OpenCode Hacked: User credentials leaked",
+    "url": "https://twitter.com/opencode/status/2111516673953935833",
+    "score": 941,
+    "comments": 174,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:46.266987+00:00"
+  },
+  {
+    "id": "50121179",
+    "source": "hackernews",
+    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+    "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+    "score": 614,
+    "comments": 568,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:46.277623+00:00"
+  },
+  {
+    "id": "50077225",
+    "source": "hackernews",
+    "title": "Yet another way to invoke functions in JavaScript without parentheses",
+    "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
+    "score": 268,
+    "comments": 106,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:46.388901+00:00"
+  },
+  {
+    "id": "50122951",
+    "source": "hackernews",
+    "title": "How the Claude Code team does code review",
+    "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+    "score": 472,
+    "comments": 468,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:46.447324+00:00"
+  },
+  {
+    "id": "50122431",
+    "source": "hackernews",
+    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+    "url": "https://github.com/cobanov/PS5LM",
+    "score": 372,
+    "comments": 85,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:46.470318+00:00"
+  },
+  {
+    "id": "50093568",
+    "source": "hackernews",
+    "title": "Things to know when you get cancer",
+    "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+    "score": 1955,
+    "comments": 480,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:46.484341+00:00"
+  },
+  {
+    "id": "50118688",
+    "source": "hackernews",
+    "title": "Show HN: Gemini 4 Argon plays StarCraft",
+    "url": "https://starskirmish.com/bench/v0-2/",
+    "score": 248,
+    "comments": 111,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:46.499306+00:00"
+  },
+  {
+    "id": "50127586",
+    "source": "hackernews",
+    "title": "Source code of the Estonian online voting system",
+    "url": "https://github.com/valimised/ivxv",
+    "score": 231,
+    "comments": 219,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:46.516624+00:00"
+  },
+  {
+    "id": "50107379",
+    "source": "hackernews",
+    "title": "Muse Spark Open",
+    "url": "https://research.meta.ai/blog/muse-spark-open",
+    "score": 916,
+    "comments": 477,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:46.605528+00:00"
+  },
+  {
+    "id": "50118981",
+    "source": "hackernews",
+    "title": "Waymo in Toronto",
+    "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+    "score": 326,
+    "comments": 446,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:46.713508+00:00"
+  },
+  {
+    "id": "50111852",
+    "source": "hackernews",
+    "title": "Meta\u2019s new commercial terms will allow the scraping of news sites: experts",
+    "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+    "score": 466,
+    "comments": 169,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:46.810317+00:00"
+  },
+  {
+    "id": "50118320",
+    "source": "hackernews",
+    "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+    "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+    "score": 365,
+    "comments": 206,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:46.825416+00:00"
+  },
+  {
+    "id": "50112739",
+    "source": "hackernews",
+    "title": "Any window from your Mac, on your iPhone and iPad",
+    "url": "https://github.com/Saffsanity/sill",
+    "score": 270,
+    "comments": 76,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:46.921556+00:00"
+  },
+  {
+    "id": "50122034",
+    "source": "hackernews",
+    "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+    "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+    "score": 278,
+    "comments": 251,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:46.942339+00:00"
+  },
+  {
+    "id": "50105647",
+    "source": "hackernews",
+    "title": "Neural networks are clean",
+    "url": "https://already-clean.goodfire.com/",
+    "score": 821,
+    "comments": 336,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:46.942372+00:00"
+  },
+  {
+    "id": "50101813",
+    "source": "hackernews",
+    "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+    "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+    "score": 526,
+    "comments": 688,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:46.949187+00:00"
+  },
+  {
+    "id": "50123580",
+    "source": "hackernews",
+    "title": "FLUX 3 Image Klein",
+    "url": "https://bfl.ai/blog/flux-3-image-klein",
+    "score": 213,
+    "comments": 58,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:46.997800+00:00"
+  },
+  {
+    "id": "50114342",
+    "source": "hackernews",
+    "title": "The Folders Programming Language",
+    "url": "https://danieltemkin.com/esolangs/folders",
+    "score": 217,
+    "comments": 38,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:47.018449+00:00"
+  },
+  {
+    "id": "50103338",
+    "source": "hackernews",
+    "title": "Wayland desktop for Linux with skeuomorphic design",
+    "url": "https://github.com/fyzugx/DEsk",
+    "score": 694,
+    "comments": 279,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:47.096632+00:00"
+  },
+  {
+    "id": "50106023",
+    "source": "hackernews",
+    "title": "Jev meets the Trolley Problem",
+    "url": "https://zachlandes.com/trolley-problem/",
+    "score": 646,
+    "comments": 258,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:47.148433+00:00"
+  },
+  {
+    "id": "50120224",
+    "source": "hackernews",
+    "title": "JPEG XL vs. AVIF for web use-cases",
+    "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+    "score": 326,
+    "comments": 216,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:47.162473+00:00"
+  },
+  {
+    "id": "50133150",
+    "source": "hackernews",
+    "title": "I Became a Citizen of Japan",
+    "url": "https://www.derekwessman.com/blog-1/natural",
+    "score": 222,
+    "comments": 169,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:47.193650+00:00"
+  },
+  {
+    "id": "50094994",
+    "source": "hackernews",
+    "title": "OpenCode 2.0",
+    "url": "https://anoma.ly/notes/opencode-2-0/",
+    "score": 886,
+    "comments": 393,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:47.201113+00:00"
+  },
+  {
+    "id": "50122112",
+    "source": "hackernews",
+    "title": "Anthropic assigned highest junk credit rating in June",
+    "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+    "score": 297,
+    "comments": 87,
+    "subreddit": null,
+    "qualified_at": "2026-10-19T00:34:47.219316+00:00"
+  }
+]

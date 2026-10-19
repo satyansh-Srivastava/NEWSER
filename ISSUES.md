@@ -30,6 +30,36 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [c75086d3f257] `editor`: LLM call failed for 50133150: ANTHROPIC_API_KEY is not set (first seen 2026-10-19)
+
+- [0ed800817596] `editor`: LLM call failed for 50127586: ANTHROPIC_API_KEY is not set (first seen 2026-10-19)
+
+- [50e5ccb9d27b] `editor`: LLM call failed for 50126312: ANTHROPIC_API_KEY is not set (first seen 2026-10-19)
+
+- [013b322334c7] `editor`: LLM call failed for 50131256: ANTHROPIC_API_KEY is not set (first seen 2026-10-19)
+
+- [84a88a064843] `editor`: LLM call failed for 50136536: ANTHROPIC_API_KEY is not set (first seen 2026-10-19)
+
+- [7b78a02318af] `editor`: LLM call failed for 50141909: ANTHROPIC_API_KEY is not set (first seen 2026-10-19)
+
+- [0172ebb1a697] `editor`: LLM call failed for 50100366: ANTHROPIC_API_KEY is not set (first seen 2026-10-19)
+
+- [a8cf1470a602] `editor`: LLM call failed for 50139692: ANTHROPIC_API_KEY is not set (first seen 2026-10-19)
+
+- [698c76bee450] `editor`: LLM call failed for 50137950: ANTHROPIC_API_KEY is not set (first seen 2026-10-19)
+
+- [ad1eb8cac89b] `editor`: LLM call failed for 50139067: ANTHROPIC_API_KEY is not set (first seen 2026-10-19)
+
+- [e7ae4dd92723] `editor`: LLM call failed for 50137620: ANTHROPIC_API_KEY is not set (first seen 2026-10-19)
+
+- [769c38d7240f] `editor`: LLM call failed for 50142573: ANTHROPIC_API_KEY is not set (first seen 2026-10-19)
+
+- [2b68f8b04740] `editor`: LLM call failed for 50138531: ANTHROPIC_API_KEY is not set (first seen 2026-10-19)
+
+- [0a0f8007ac8b] `editor`: LLM call failed for 50141076: ANTHROPIC_API_KEY is not set (first seen 2026-10-19)
+
+- [7c87ffbcb23e] `extractor`: bot-blocked (403): https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ (first seen 2026-10-19)
+
 - [34f6c812bb9e] `editor`: LLM call failed for 50119991: ANTHROPIC_API_KEY is not set (first seen 2026-10-18)
 
 - [c5dbfbf38512] `editor`: LLM call failed for 50120101: ANTHROPIC_API_KEY is not set (first seen 2026-10-18)
