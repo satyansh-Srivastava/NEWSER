@@ -1,0 +1,502 @@
+[
+  {
+    "id": "50150089",
+    "source": "hackernews",
+    "title": "I built a drone with only one motor [video]",
+    "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+    "score": 379,
+    "comments": 79,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:21.327027+00:00"
+  },
+  {
+    "id": "50150927",
+    "source": "hackernews",
+    "title": "Alternatives to animal testing are finally taking off",
+    "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+    "score": 318,
+    "comments": 94,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:21.338503+00:00"
+  },
+  {
+    "id": "50154624",
+    "source": "hackernews",
+    "title": "Android apps running native on macOS",
+    "url": "https://github.com/kksimp/Mac.apk",
+    "score": 257,
+    "comments": 130,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:21.393821+00:00"
+  },
+  {
+    "id": "50152307",
+    "source": "hackernews",
+    "title": "Wine ported to OpenBSD",
+    "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+    "score": 497,
+    "comments": 168,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:21.417819+00:00"
+  },
+  {
+    "id": "50147233",
+    "source": "hackernews",
+    "title": "Starcraft: Ashfall",
+    "url": "https://starcraft-shooter-2026.pages.dev/",
+    "score": 312,
+    "comments": 106,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:21.417846+00:00"
+  },
+  {
+    "id": "50134472",
+    "source": "hackernews",
+    "title": "It's still ok to enjoy programming",
+    "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+    "score": 435,
+    "comments": 408,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:21.426023+00:00"
+  },
+  {
+    "id": "50150434",
+    "source": "hackernews",
+    "title": "Timestral: Mistral's time-series foundation models",
+    "url": "https://mistral.ai/news/timestral/",
+    "score": 543,
+    "comments": 104,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:21.426048+00:00"
+  },
+  {
+    "id": "50154540",
+    "source": "hackernews",
+    "title": "MiniMax M3.1 Flash",
+    "url": "https://www.minimax.io/blog/minimax-m31f",
+    "score": 377,
+    "comments": 163,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:21.449823+00:00"
+  },
+  {
+    "id": "50151036",
+    "source": "hackernews",
+    "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+    "url": "https://news.ycombinator.com/item?id=50151036",
+    "score": 251,
+    "comments": 396,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:21.497823+00:00"
+  },
+  {
+    "id": "50150809",
+    "source": "hackernews",
+    "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+    "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+    "score": 242,
+    "comments": 77,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:21.877163+00:00"
+  },
+  {
+    "id": "50153630",
+    "source": "hackernews",
+    "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+    "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+    "score": 317,
+    "comments": 57,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:21.887140+00:00"
+  },
+  {
+    "id": "50155245",
+    "source": "hackernews",
+    "title": "Mercury 3: Diffusion at scale",
+    "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+    "score": 222,
+    "comments": 85,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:21.887165+00:00"
+  },
+  {
+    "id": "50154518",
+    "source": "hackernews",
+    "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
+    "url": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
+    "score": 424,
+    "comments": 400,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:21.984008+00:00"
+  },
+  {
+    "id": "50149392",
+    "source": "hackernews",
+    "title": "Linux 7.3",
+    "url": "https://lwn.net/Articles/1101143/",
+    "score": 587,
+    "comments": 276,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:22.241593+00:00"
+  },
+  {
+    "id": "50146625",
+    "source": "hackernews",
+    "title": "William Gibson and the trademarking of cyberspace",
+    "url": "https://colo.to/cyberspace.html",
+    "score": 277,
+    "comments": 121,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:22.358813+00:00"
+  },
+  {
+    "id": "50152970",
+    "source": "hackernews",
+    "title": "Maybe There Was an Egg Cartel After All",
+    "url": "https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411",
+    "score": 203,
+    "comments": 126,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:22.513690+00:00"
+  },
+  {
+    "id": "50145337",
+    "source": "hackernews",
+    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+    "url": "https://arxiv.org/abs/2610.18861",
+    "score": 502,
+    "comments": 236,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:22.658645+00:00"
+  },
+  {
+    "id": "50135762",
+    "source": "hackernews",
+    "title": "I built a programming language that LLMs can't use",
+    "url": "https://blog.picheta.me/post/killswitch-lang/",
+    "score": 270,
+    "comments": 210,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:22.678770+00:00"
+  },
+  {
+    "id": "50136150",
+    "source": "hackernews",
+    "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+    "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+    "score": 544,
+    "comments": 767,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:22.802959+00:00"
+  },
+  {
+    "id": "50122878",
+    "source": "hackernews",
+    "title": "You could have invented transformers from memory",
+    "url": "https://alexwang.ai/posts/associative-memory/",
+    "score": 649,
+    "comments": 146,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:22.913566+00:00"
+  },
+  {
+    "id": "50145507",
+    "source": "hackernews",
+    "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+    "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+    "score": 292,
+    "comments": 209,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:22.913624+00:00"
+  },
+  {
+    "id": "50142573",
+    "source": "hackernews",
+    "title": "Someone behind the software",
+    "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+    "score": 542,
+    "comments": 194,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:22.916543+00:00"
+  },
+  {
+    "id": "50141909",
+    "source": "hackernews",
+    "title": "macOS 15.8.2 Breaks OpenGL",
+    "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+    "score": 288,
+    "comments": 320,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:22.944629+00:00"
+  },
+  {
+    "id": "50136979",
+    "source": "hackernews",
+    "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+    "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+    "score": 342,
+    "comments": 211,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:22.973356+00:00"
+  },
+  {
+    "id": "50139067",
+    "source": "hackernews",
+    "title": "Parser Combinators",
+    "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+    "score": 247,
+    "comments": 88,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:22.991170+00:00"
+  },
+  {
+    "id": "50140769",
+    "source": "hackernews",
+    "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+    "url": "https://legendofhyrule.com/",
+    "score": 213,
+    "comments": 126,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:22.991192+00:00"
+  },
+  {
+    "id": "50138531",
+    "source": "hackernews",
+    "title": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
+    "url": "https://api-docs.deepseek.com/guides/search/",
+    "score": 598,
+    "comments": 280,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:23.039882+00:00"
+  },
+  {
+    "id": "50142866",
+    "source": "hackernews",
+    "title": "Namecheap just seized and disabled all my domains",
+    "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+    "score": 671,
+    "comments": 348,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:23.056944+00:00"
+  },
+  {
+    "id": "50141076",
+    "source": "hackernews",
+    "title": "RepRapMicron",
+    "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+    "score": 441,
+    "comments": 73,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:23.132800+00:00"
+  },
+  {
+    "id": "50118165",
+    "source": "hackernews",
+    "title": "\"I'm on a war footing\": Terry Tao and the crisis in math",
+    "url": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
+    "score": 222,
+    "comments": 515,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:23.192648+00:00"
+  },
+  {
+    "id": "50126253",
+    "source": "hackernews",
+    "title": "Bleached corals thrive within days when touching healthy neighbour",
+    "url": "https://www.nature.com/articles/d41586-026-03266-x",
+    "score": 556,
+    "comments": 118,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:23.394417+00:00"
+  },
+  {
+    "id": "50112657",
+    "source": "hackernews",
+    "title": "Tesla Roadster",
+    "url": "https://www.tesla.com/roadster",
+    "score": 1639,
+    "comments": 3136,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:23.413802+00:00"
+  },
+  {
+    "id": "50139692",
+    "source": "hackernews",
+    "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+    "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+    "score": 231,
+    "comments": 63,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:23.485873+00:00"
+  },
+  {
+    "id": "50137620",
+    "source": "hackernews",
+    "title": "The Elizabeth Holmes documentary \u201cYou Can See Everything\u201d is deceiving",
+    "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+    "score": 405,
+    "comments": 574,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:23.579964+00:00"
+  },
+  {
+    "id": "50129045",
+    "source": "hackernews",
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "score": 953,
+    "comments": 716,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:23.593476+00:00"
+  },
+  {
+    "id": "50131189",
+    "source": "hackernews",
+    "title": "Show HN: Esp32sim \u2013 Run ESP32 firmware in the browser",
+    "url": "https://github.com/mikroverk/esp32sim",
+    "score": 205,
+    "comments": 46,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:23.845846+00:00"
+  },
+  {
+    "id": "50140001",
+    "source": "hackernews",
+    "title": "Open MicroManipulator \u2013 A sub-micrometer 3D motion control plattform",
+    "url": "https://github.com/0x23/MicroManipulatorStepper",
+    "score": 218,
+    "comments": 17,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:23.851621+00:00"
+  },
+  {
+    "id": "50132193",
+    "source": "hackernews",
+    "title": "Pele \u2013 Mermaid diagrams as themeable SVG",
+    "url": "https://pele.run/",
+    "score": 588,
+    "comments": 60,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:23.905107+00:00"
+  },
+  {
+    "id": "50132870",
+    "source": "hackernews",
+    "title": "Gold is now the top U.S. export",
+    "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+    "score": 422,
+    "comments": 233,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:23.911837+00:00"
+  },
+  {
+    "id": "50131256",
+    "source": "hackernews",
+    "title": "Solar surpasses nuclear power globally for first time",
+    "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+    "score": 694,
+    "comments": 445,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:23.949816+00:00"
+  },
+  {
+    "id": "50137950",
+    "source": "hackernews",
+    "title": "Show HN: Sphinx \u2013 A hook that quizzes you on your AI's code before shipping",
+    "url": "https://sphinx-six-theta.vercel.app/",
+    "score": 252,
+    "comments": 89,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:24.011353+00:00"
+  },
+  {
+    "id": "50126312",
+    "source": "hackernews",
+    "title": "Dam removals are bringing fish back across the northeastern United States",
+    "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+    "score": 354,
+    "comments": 92,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:24.036055+00:00"
+  },
+  {
+    "id": "50122800",
+    "source": "hackernews",
+    "title": "Claude reveals ECDSA curve origins",
+    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "score": 1060,
+    "comments": 389,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:24.050544+00:00"
+  },
+  {
+    "id": "50136536",
+    "source": "hackernews",
+    "title": "NY announces game ownership bill requiring ownership rather than licensing",
+    "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+    "score": 455,
+    "comments": 218,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:24.142952+00:00"
+  },
+  {
+    "id": "50150750",
+    "source": "hackernews",
+    "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
+    "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+    "score": 625,
+    "comments": 360,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:24.188515+00:00"
+  },
+  {
+    "id": "50131213",
+    "source": "hackernews",
+    "title": "Making chicken transparent using Dorito dust",
+    "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+    "score": 350,
+    "comments": 87,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:24.450156+00:00"
+  },
+  {
+    "id": "50114758",
+    "source": "hackernews",
+    "title": "Lean now ships with verified kernels",
+    "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+    "score": 204,
+    "comments": 79,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:24.565577+00:00"
+  },
+  {
+    "id": "50100994",
+    "source": "hackernews",
+    "title": "Furifont, a Japanese font that shows furigana",
+    "url": "https://furifont.antfu.me/",
+    "score": 403,
+    "comments": 83,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:24.565600+00:00"
+  },
+  {
+    "id": "50117746",
+    "source": "hackernews",
+    "title": "I love software rendering",
+    "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+    "score": 385,
+    "comments": 236,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:24.569614+00:00"
+  },
+  {
+    "id": "50106747",
+    "source": "hackernews",
+    "title": "Ultramarine 1\u00a0Flash",
+    "url": "https://www.paperinstruments.com/ultramarine",
+    "score": 381,
+    "comments": 110,
+    "subreddit": null,
+    "qualified_at": "2026-10-20T01:20:24.620495+00:00"
+  }
+]

@@ -30,6 +30,60 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [e7b81cf170e1] `editor`: LLM call failed for 50114758: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
+
+- [8e5b695ae430] `editor`: LLM call failed for 50150750: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
+
+- [11842bda36ee] `editor`: LLM call failed for 50140001: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
+
+- [9cc8931718f2] `editor`: LLM call failed for 50131189: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
+
+- [06f147006129] `editor`: LLM call failed for 50140769: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
+
+- [701f4916b265] `editor`: LLM call failed for 50136979: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
+
+- [a7d20fbb1fde] `editor`: LLM call failed for 50136150: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
+
+- [2098387ad618] `editor`: LLM call failed for 50135762: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
+
+- [748bcd5ac339] `editor`: LLM call failed for 50145337: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
+
+- [ec6e831d634b] `editor`: LLM call failed for 50146625: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
+
+- [c7ffdff0d66d] `editor`: LLM call failed for 50149392: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
+
+- [28989d0fc691] `editor`: LLM call failed for 50154518: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
+
+- [09e854eb8299] `editor`: LLM call failed for 50155245: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
+
+- [edb0eabed693] `editor`: LLM call failed for 50153630: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
+
+- [20fee130064b] `editor`: LLM call failed for 50150809: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
+
+- [c14e53bb270a] `editor`: LLM call failed for 50151036: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
+
+- [79d3d7f64958] `editor`: LLM call failed for 50154540: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
+
+- [38510cdfcf73] `editor`: LLM call failed for 50150434: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
+
+- [ddddc274bf3d] `editor`: LLM call failed for 50134472: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
+
+- [adcb8503e10c] `editor`: LLM call failed for 50147233: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
+
+- [7a5ff717becb] `editor`: LLM call failed for 50152307: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
+
+- [528df3d31051] `editor`: LLM call failed for 50154624: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
+
+- [72890aa17b55] `editor`: LLM call failed for 50150927: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
+
+- [1717cffcad84] `editor`: LLM call failed for 50150089: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
+
+- [b079bece84e3] `extractor`: bot-blocked (403): https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html (first seen 2026-10-20)
+
+- [1d6d39770422] `extractor`: bot-blocked (403): https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ (first seen 2026-10-20)
+
+- [2544c3dacfff] `extractor`: bot-blocked (403): https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411 (first seen 2026-10-20)
+
 - [c75086d3f257] `editor`: LLM call failed for 50133150: ANTHROPIC_API_KEY is not set (first seen 2026-10-19)
 
 - [0ed800817596] `editor`: LLM call failed for 50127586: ANTHROPIC_API_KEY is not set (first seen 2026-10-19)
