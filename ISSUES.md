@@ -30,6 +30,62 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [6665dcec1360] `editor`: LLM call failed for 50144066: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
+
+- [62ac7a894676] `editor`: LLM call failed for 50156206: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
+
+- [9c9e7b39d60d] `editor`: LLM call failed for 50140584: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
+
+- [05f4f48dcc5c] `editor`: LLM call failed for 50153664: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
+
+- [db8f0d28c073] `editor`: LLM call failed for 50158100: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
+
+- [e0278854e879] `editor`: LLM call failed for 50152321: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
+
+- [11734624f8c8] `editor`: LLM call failed for 50160494: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
+
+- [5791328c0a35] `editor`: LLM call failed for 50159245: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
+
+- [3b116f815cd5] `editor`: LLM call failed for 50159616: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
+
+- [2e8b0df33bec] `editor`: LLM call failed for 50136126: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
+
+- [3c3f2dd3e65c] `editor`: LLM call failed for 50159341: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
+
+- [7ee7445a9a47] `editor`: LLM call failed for 50141581: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
+
+- [04816387afad] `editor`: LLM call failed for 50162177: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
+
+- [e86b4e5299a5] `editor`: LLM call failed for 50158942: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
+
+- [cecb01e8a9dd] `editor`: LLM call failed for 50165801: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
+
+- [a7e2d4710a84] `editor`: LLM call failed for 50167536: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
+
+- [51c150fe65d7] `editor`: LLM call failed for 50166257: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
+
+- [9825b8727234] `editor`: LLM call failed for 50167028: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
+
+- [0ec3f643cf24] `editor`: LLM call failed for 50165208: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
+
+- [0754d3c2f93b] `editor`: LLM call failed for 50169053: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
+
+- [2a317f43011a] `editor`: LLM call failed for 50163277: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
+
+- [9be936fd1732] `editor`: LLM call failed for 50166579: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
+
+- [e3d8100b7e98] `editor`: LLM call failed for 50168396: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
+
+- [4fddf1fb218a] `editor`: LLM call failed for 50169707: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
+
+- [07a2195530ba] `editor`: LLM call failed for 50170593: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
+
+- [155cb792fb78] `extractor`: HTTP 401 for https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/ (first seen 2026-10-21)
+
+- [9ed6c161ed63] `extractor`: bot-blocked (403): https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/ (first seen 2026-10-21)
+
+- [71d10e3e0315] `extractor`: bot-block page detected: https://blog.cloudflare.com/typescript-rust-port/ (first seen 2026-10-21)
+
 - [e7b81cf170e1] `editor`: LLM call failed for 50114758: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
 
 - [8e5b695ae430] `editor`: LLM call failed for 50150750: ANTHROPIC_API_KEY is not set (first seen 2026-10-20)
