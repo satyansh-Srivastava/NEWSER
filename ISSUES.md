@@ -30,6 +30,58 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [f7dd80bec37a] `editor`: LLM call failed for 50167754: ANTHROPIC_API_KEY is not set (first seen 2026-10-22)
+
+- [890a80641042] `editor`: LLM call failed for 50181137: ANTHROPIC_API_KEY is not set (first seen 2026-10-22)
+
+- [b3347f845639] `editor`: LLM call failed for 50168357: ANTHROPIC_API_KEY is not set (first seen 2026-10-22)
+
+- [b66483a87fa9] `editor`: LLM call failed for 50170917: ANTHROPIC_API_KEY is not set (first seen 2026-10-22)
+
+- [41cace880914] `editor`: LLM call failed for 50108717: ANTHROPIC_API_KEY is not set (first seen 2026-10-22)
+
+- [61b697cf5a10] `editor`: LLM call failed for 50166794: ANTHROPIC_API_KEY is not set (first seen 2026-10-22)
+
+- [06f5f35623d2] `editor`: LLM call failed for 50173487: ANTHROPIC_API_KEY is not set (first seen 2026-10-22)
+
+- [824dce82dabb] `editor`: LLM call failed for 50179828: ANTHROPIC_API_KEY is not set (first seen 2026-10-22)
+
+- [6edc91c92f0c] `editor`: LLM call failed for 50172041: ANTHROPIC_API_KEY is not set (first seen 2026-10-22)
+
+- [5151fdeffc49] `editor`: LLM call failed for 50180836: ANTHROPIC_API_KEY is not set (first seen 2026-10-22)
+
+- [28530105eb61] `editor`: LLM call failed for 50174687: ANTHROPIC_API_KEY is not set (first seen 2026-10-22)
+
+- [afc6d1f19c94] `editor`: LLM call failed for 50175070: ANTHROPIC_API_KEY is not set (first seen 2026-10-22)
+
+- [27fa2a25de87] `editor`: LLM call failed for 50150214: ANTHROPIC_API_KEY is not set (first seen 2026-10-22)
+
+- [7a6c95dfebd7] `editor`: LLM call failed for 50177916: ANTHROPIC_API_KEY is not set (first seen 2026-10-22)
+
+- [6a08d907392e] `editor`: LLM call failed for 50186037: ANTHROPIC_API_KEY is not set (first seen 2026-10-22)
+
+- [4d51824897ff] `editor`: LLM call failed for 50180873: ANTHROPIC_API_KEY is not set (first seen 2026-10-22)
+
+- [3b1e8aafa6c2] `editor`: LLM call failed for 50181175: ANTHROPIC_API_KEY is not set (first seen 2026-10-22)
+
+- [dd362e3fc622] `editor`: LLM call failed for 50181136: ANTHROPIC_API_KEY is not set (first seen 2026-10-22)
+
+- [48d9f785201d] `editor`: LLM call failed for 50182987: ANTHROPIC_API_KEY is not set (first seen 2026-10-22)
+
+- [e9309f568416] `editor`: LLM call failed for 50180079: ANTHROPIC_API_KEY is not set (first seen 2026-10-22)
+
+- [4d5d53b4c842] `editor`: LLM call failed for 50181114: ANTHROPIC_API_KEY is not set (first seen 2026-10-22)
+
+- [e8025071cb8e] `editor`: LLM call failed for 50185869: ANTHROPIC_API_KEY is not set (first seen 2026-10-22)
+
+- [f2ebbaf5831f] `editor`: LLM call failed for 50184820: ANTHROPIC_API_KEY is not set (first seen 2026-10-22)
+
+- [8804849b01df] `editor`: LLM call failed for 50188228: ANTHROPIC_API_KEY is not set (first seen 2026-10-22)
+
+- [b752fac665e9] `extractor`: bot-blocked (403): https://www.thebeliever.net/the-other-epidemic/ (first seen 2026-10-22)
+
+- [0234460337f8] `extractor`: bot-block page detected: https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware (first seen 2026-10-22)
+
 - [6665dcec1360] `editor`: LLM call failed for 50144066: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
 
 - [62ac7a894676] `editor`: LLM call failed for 50156206: ANTHROPIC_API_KEY is not set (first seen 2026-10-21)
