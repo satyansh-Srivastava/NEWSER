@@ -30,6 +30,58 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [189ac4225e03] `editor`: LLM call failed for 50257325: ANTHROPIC_API_KEY is not set (first seen 2026-10-28)
+
+- [09bad5a9d644] `editor`: LLM call failed for 50256738: ANTHROPIC_API_KEY is not set (first seen 2026-10-28)
+
+- [16bd032ceac0] `editor`: LLM call failed for 50236681: ANTHROPIC_API_KEY is not set (first seen 2026-10-28)
+
+- [ff614884acc7] `editor`: LLM call failed for 50209278: ANTHROPIC_API_KEY is not set (first seen 2026-10-28)
+
+- [2c49ba4967a6] `editor`: LLM call failed for 50243061: ANTHROPIC_API_KEY is not set (first seen 2026-10-28)
+
+- [e737bc5eca26] `editor`: LLM call failed for 50248371: ANTHROPIC_API_KEY is not set (first seen 2026-10-28)
+
+- [fed0b6733541] `editor`: LLM call failed for 50245385: ANTHROPIC_API_KEY is not set (first seen 2026-10-28)
+
+- [e57095578ce5] `editor`: LLM call failed for 50247493: ANTHROPIC_API_KEY is not set (first seen 2026-10-28)
+
+- [6f3287e05bcc] `editor`: LLM call failed for 50259406: ANTHROPIC_API_KEY is not set (first seen 2026-10-28)
+
+- [3808bf756103] `editor`: LLM call failed for 50261784: ANTHROPIC_API_KEY is not set (first seen 2026-10-28)
+
+- [f8c6ecce190f] `editor`: LLM call failed for 50256985: ANTHROPIC_API_KEY is not set (first seen 2026-10-28)
+
+- [78ecd65e0d94] `editor`: LLM call failed for 50257548: ANTHROPIC_API_KEY is not set (first seen 2026-10-28)
+
+- [66ebabbc1fff] `editor`: LLM call failed for 50255298: ANTHROPIC_API_KEY is not set (first seen 2026-10-28)
+
+- [2b30096f3c1d] `editor`: LLM call failed for 50263854: ANTHROPIC_API_KEY is not set (first seen 2026-10-28)
+
+- [ff7fe1ce0dd5] `editor`: LLM call failed for 50261589: ANTHROPIC_API_KEY is not set (first seen 2026-10-28)
+
+- [6558aec6d28c] `editor`: LLM call failed for 50260814: ANTHROPIC_API_KEY is not set (first seen 2026-10-28)
+
+- [14818803e7a1] `editor`: LLM call failed for 50259604: ANTHROPIC_API_KEY is not set (first seen 2026-10-28)
+
+- [77a82505fcd6] `editor`: LLM call failed for 50258538: ANTHROPIC_API_KEY is not set (first seen 2026-10-28)
+
+- [3871eb8767fa] `editor`: LLM call failed for 50257326: ANTHROPIC_API_KEY is not set (first seen 2026-10-28)
+
+- [752b01da2e47] `editor`: LLM call failed for 50261352: ANTHROPIC_API_KEY is not set (first seen 2026-10-28)
+
+- [2904519454bf] `editor`: LLM call failed for 50257419: ANTHROPIC_API_KEY is not set (first seen 2026-10-28)
+
+- [206aac723965] `editor`: LLM call failed for 50261998: ANTHROPIC_API_KEY is not set (first seen 2026-10-28)
+
+- [bb787629e192] `editor`: LLM call failed for 50261319: ANTHROPIC_API_KEY is not set (first seen 2026-10-28)
+
+- [f5c92f3da07c] `extractor`: bot-blocked (403): https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c (first seen 2026-10-28)
+
+- [5d02519aacaa] `extractor`: HTTP 429 for http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html (first seen 2026-10-28)
+
+- [8cde2d992e8a] `extractor`: bot-blocked (403): https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 (first seen 2026-10-28)
+
 - [7a95fdd103b3] `editor`: LLM call failed for 50200997: ANTHROPIC_API_KEY is not set (first seen 2026-10-27)
 
 - [1286ccc9d340] `editor`: LLM call failed for 50192536: ANTHROPIC_API_KEY is not set (first seen 2026-10-27)
