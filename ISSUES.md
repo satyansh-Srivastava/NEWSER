@@ -30,6 +30,50 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [9dfbb038ea21] `editor`: LLM call failed for 50247928: ANTHROPIC_API_KEY is not set (first seen 2026-10-29)
+
+- [3085608fa0b2] `editor`: LLM call failed for 50265393: ANTHROPIC_API_KEY is not set (first seen 2026-10-29)
+
+- [b7fc6b37643b] `editor`: LLM call failed for 50261647: ANTHROPIC_API_KEY is not set (first seen 2026-10-29)
+
+- [bbeef4065061] `editor`: LLM call failed for 50272749: ANTHROPIC_API_KEY is not set (first seen 2026-10-29)
+
+- [945142297394] `editor`: LLM call failed for 50265609: ANTHROPIC_API_KEY is not set (first seen 2026-10-29)
+
+- [b0a021bcf7da] `editor`: LLM call failed for 50264857: ANTHROPIC_API_KEY is not set (first seen 2026-10-29)
+
+- [2593b4f31efb] `editor`: LLM call failed for 50265594: ANTHROPIC_API_KEY is not set (first seen 2026-10-29)
+
+- [79310e880219] `editor`: LLM call failed for 50280864: ANTHROPIC_API_KEY is not set (first seen 2026-10-29)
+
+- [a4719f849027] `editor`: LLM call failed for 50264853: ANTHROPIC_API_KEY is not set (first seen 2026-10-29)
+
+- [49eda408a912] `editor`: LLM call failed for 50234796: ANTHROPIC_API_KEY is not set (first seen 2026-10-29)
+
+- [159f9bac3a2e] `editor`: LLM call failed for 50268380: ANTHROPIC_API_KEY is not set (first seen 2026-10-29)
+
+- [ea01acfd2ede] `editor`: LLM call failed for 50273171: ANTHROPIC_API_KEY is not set (first seen 2026-10-29)
+
+- [a5a3ce7d4c8f] `editor`: LLM call failed for 50271640: ANTHROPIC_API_KEY is not set (first seen 2026-10-29)
+
+- [c3fde497a750] `editor`: LLM call failed for 50274409: ANTHROPIC_API_KEY is not set (first seen 2026-10-29)
+
+- [c830e89a3c37] `editor`: LLM call failed for 50208960: ANTHROPIC_API_KEY is not set (first seen 2026-10-29)
+
+- [61e0f6a2d3a5] `editor`: LLM call failed for 50275626: ANTHROPIC_API_KEY is not set (first seen 2026-10-29)
+
+- [a3fd42cfc5be] `editor`: LLM call failed for 50276940: ANTHROPIC_API_KEY is not set (first seen 2026-10-29)
+
+- [2d58efa13820] `editor`: LLM call failed for 50243060: ANTHROPIC_API_KEY is not set (first seen 2026-10-29)
+
+- [7c2bdefcb396] `editor`: LLM call failed for 50276792: ANTHROPIC_API_KEY is not set (first seen 2026-10-29)
+
+- [2b1e2781a18d] `editor`: LLM call failed for 50276998: ANTHROPIC_API_KEY is not set (first seen 2026-10-29)
+
+- [7fed3e019acf] `extractor`: HTTP 401 for https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/ (first seen 2026-10-29)
+
+- [75b226218dbd] `extractor`: bot-blocked (403): https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ (first seen 2026-10-29)
+
 - [189ac4225e03] `editor`: LLM call failed for 50257325: ANTHROPIC_API_KEY is not set (first seen 2026-10-28)
 
 - [09bad5a9d644] `editor`: LLM call failed for 50256738: ANTHROPIC_API_KEY is not set (first seen 2026-10-28)
