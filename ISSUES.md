@@ -30,6 +30,62 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [3aa27f750961] `editor`: LLM call failed for 50258868: ANTHROPIC_API_KEY is not set (first seen 2026-10-30)
+
+- [0c7af8cfa7d6] `editor`: LLM call failed for 50251200: ANTHROPIC_API_KEY is not set (first seen 2026-10-30)
+
+- [b4b7d81fe285] `editor`: LLM call failed for 50280974: ANTHROPIC_API_KEY is not set (first seen 2026-10-30)
+
+- [28675ebfbb1c] `editor`: LLM call failed for 50274251: ANTHROPIC_API_KEY is not set (first seen 2026-10-30)
+
+- [da919ba5df45] `editor`: LLM call failed for 50284255: ANTHROPIC_API_KEY is not set (first seen 2026-10-30)
+
+- [59556ac5ed25] `editor`: LLM call failed for 50281044: ANTHROPIC_API_KEY is not set (first seen 2026-10-30)
+
+- [bf5bdba9b18f] `editor`: LLM call failed for 50282544: ANTHROPIC_API_KEY is not set (first seen 2026-10-30)
+
+- [8bb4f933023b] `editor`: LLM call failed for 50220975: ANTHROPIC_API_KEY is not set (first seen 2026-10-30)
+
+- [2900fb24de99] `editor`: LLM call failed for 50288019: ANTHROPIC_API_KEY is not set (first seen 2026-10-30)
+
+- [387b699410dc] `editor`: LLM call failed for 50287898: ANTHROPIC_API_KEY is not set (first seen 2026-10-30)
+
+- [288cbc49d96a] `editor`: LLM call failed for 50287001: ANTHROPIC_API_KEY is not set (first seen 2026-10-30)
+
+- [1d8f14690f81] `editor`: LLM call failed for 50285319: ANTHROPIC_API_KEY is not set (first seen 2026-10-30)
+
+- [871d271b3654] `editor`: LLM call failed for 50282838: ANTHROPIC_API_KEY is not set (first seen 2026-10-30)
+
+- [39ce1ef071eb] `editor`: LLM call failed for 50291945: ANTHROPIC_API_KEY is not set (first seen 2026-10-30)
+
+- [ac6765aa99ea] `editor`: LLM call failed for 50285452: ANTHROPIC_API_KEY is not set (first seen 2026-10-30)
+
+- [6de1fcebc129] `editor`: LLM call failed for 50287448: ANTHROPIC_API_KEY is not set (first seen 2026-10-30)
+
+- [11bb27109b54] `editor`: LLM call failed for 50293047: ANTHROPIC_API_KEY is not set (first seen 2026-10-30)
+
+- [83a99402edde] `editor`: LLM call failed for 50286987: ANTHROPIC_API_KEY is not set (first seen 2026-10-30)
+
+- [8c1c414a6841] `editor`: LLM call failed for 50287919: ANTHROPIC_API_KEY is not set (first seen 2026-10-30)
+
+- [09cd8d50102d] `editor`: LLM call failed for 50291054: ANTHROPIC_API_KEY is not set (first seen 2026-10-30)
+
+- [6b5f2258587a] `editor`: LLM call failed for 50289418: ANTHROPIC_API_KEY is not set (first seen 2026-10-30)
+
+- [1747824718c7] `editor`: LLM call failed for 50290177: ANTHROPIC_API_KEY is not set (first seen 2026-10-30)
+
+- [d66fdc2d8d9f] `extractor`: bot-blocked (403): https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html (first seen 2026-10-30)
+
+- [2d452747d081] `extractor`: bot-blocked (403): https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1 (first seen 2026-10-30)
+
+- [e368de02410b] `extractor`: failed to fetch https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/: HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Read timed out. (read timeout=15) (first seen 2026-10-30)
+
+- [c94e3716cbd0] `extractor`: bot-block page detected: https://iptrust.co/blog/if-ipv4-were-land (first seen 2026-10-30)
+
+- [dd09cb0d6f5c] `extractor`: bot-blocked (403): https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html (first seen 2026-10-30)
+
+- [41b99b96be62] `extractor`: bot-blocked (403): https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8 (first seen 2026-10-30)
+
 - [9dfbb038ea21] `editor`: LLM call failed for 50247928: ANTHROPIC_API_KEY is not set (first seen 2026-10-29)
 
 - [3085608fa0b2] `editor`: LLM call failed for 50265393: ANTHROPIC_API_KEY is not set (first seen 2026-10-29)
