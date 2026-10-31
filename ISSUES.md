@@ -30,6 +30,52 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [a3ecadbe43b6] `editor`: LLM call failed for 50307183: ANTHROPIC_API_KEY is not set (first seen 2026-10-31)
+
+- [6d4fc0e3037e] `editor`: LLM call failed for 50286197: ANTHROPIC_API_KEY is not set (first seen 2026-10-31)
+
+- [cf817b63cd2c] `editor`: LLM call failed for 50301462: ANTHROPIC_API_KEY is not set (first seen 2026-10-31)
+
+- [fc9adf17de61] `editor`: LLM call failed for 50295450: ANTHROPIC_API_KEY is not set (first seen 2026-10-31)
+
+- [25003550a9f5] `editor`: LLM call failed for 50306008: ANTHROPIC_API_KEY is not set (first seen 2026-10-31)
+
+- [da0b8688b351] `editor`: LLM call failed for 50285154: ANTHROPIC_API_KEY is not set (first seen 2026-10-31)
+
+- [991c4d418565] `editor`: LLM call failed for 50302814: ANTHROPIC_API_KEY is not set (first seen 2026-10-31)
+
+- [41c984e7a6c1] `editor`: LLM call failed for 50298436: ANTHROPIC_API_KEY is not set (first seen 2026-10-31)
+
+- [173fc6fa3886] `editor`: LLM call failed for 50304419: ANTHROPIC_API_KEY is not set (first seen 2026-10-31)
+
+- [3bd1ed9603e5] `editor`: LLM call failed for 50270651: ANTHROPIC_API_KEY is not set (first seen 2026-10-31)
+
+- [6c0fdd4706de] `editor`: LLM call failed for 50273104: ANTHROPIC_API_KEY is not set (first seen 2026-10-31)
+
+- [dff6a89a264f] `editor`: LLM call failed for 50296486: ANTHROPIC_API_KEY is not set (first seen 2026-10-31)
+
+- [ad7d586d3271] `editor`: LLM call failed for 50305693: ANTHROPIC_API_KEY is not set (first seen 2026-10-31)
+
+- [22ee019566ed] `editor`: LLM call failed for 50303172: ANTHROPIC_API_KEY is not set (first seen 2026-10-31)
+
+- [250d1ae14171] `editor`: LLM call failed for 50301854: ANTHROPIC_API_KEY is not set (first seen 2026-10-31)
+
+- [97560058a0fb] `editor`: LLM call failed for 50305637: ANTHROPIC_API_KEY is not set (first seen 2026-10-31)
+
+- [a14bb1f6f2da] `editor`: LLM call failed for 50309647: ANTHROPIC_API_KEY is not set (first seen 2026-10-31)
+
+- [b45af61087b0] `editor`: LLM call failed for 50305573: ANTHROPIC_API_KEY is not set (first seen 2026-10-31)
+
+- [7db9221f8bd6] `editor`: LLM call failed for 50305025: ANTHROPIC_API_KEY is not set (first seen 2026-10-31)
+
+- [9c4409610353] `editor`: LLM call failed for 50300683: ANTHROPIC_API_KEY is not set (first seen 2026-10-31)
+
+- [a932c641290e] `extractor`: bot-blocked (403): https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f (first seen 2026-10-31)
+
+- [bb600b357768] `extractor`: bot-block page detected: https://status.bunny.net/incidents/p6gf1by9kr7m (first seen 2026-10-31)
+
+- [317b3ef16e95] `extractor`: bot-blocked (403): https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/ (first seen 2026-10-31)
+
 - [3aa27f750961] `editor`: LLM call failed for 50258868: ANTHROPIC_API_KEY is not set (first seen 2026-10-30)
 
 - [0c7af8cfa7d6] `editor`: LLM call failed for 50251200: ANTHROPIC_API_KEY is not set (first seen 2026-10-30)

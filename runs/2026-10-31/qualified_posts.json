@@ -1,0 +1,612 @@
+[
+  {
+    "id": "50307190",
+    "source": "hackernews",
+    "title": "My favourite PowerMac is a Nintendo Wii",
+    "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+    "score": 246,
+    "comments": 65,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:00.316691+00:00"
+  },
+  {
+    "id": "50300683",
+    "source": "hackernews",
+    "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+    "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+    "score": 779,
+    "comments": 488,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:00.327756+00:00"
+  },
+  {
+    "id": "50305025",
+    "source": "hackernews",
+    "title": "Northflank Breached",
+    "url": "https://status.northflank.com",
+    "score": 362,
+    "comments": 274,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:00.327775+00:00"
+  },
+  {
+    "id": "50305573",
+    "source": "hackernews",
+    "title": "The federated code forge",
+    "url": "https://tangled.org/blog/forge/",
+    "score": 235,
+    "comments": 77,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:00.338479+00:00"
+  },
+  {
+    "id": "50309647",
+    "source": "hackernews",
+    "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+    "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+    "score": 208,
+    "comments": 123,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:00.355677+00:00"
+  },
+  {
+    "id": "50305637",
+    "source": "hackernews",
+    "title": "Florilegium: Procedural Flowers in LaTeX",
+    "url": "https://github.com/kevinraymond/florilegium",
+    "score": 219,
+    "comments": 36,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:00.355692+00:00"
+  },
+  {
+    "id": "50301854",
+    "source": "hackernews",
+    "title": "Azure's Weakest Link \u2013 Five Full Cross-Tenant Compromises",
+    "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+    "score": 264,
+    "comments": 53,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:00.413560+00:00"
+  },
+  {
+    "id": "50303172",
+    "source": "hackernews",
+    "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+    "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+    "score": 319,
+    "comments": 217,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:00.415056+00:00"
+  },
+  {
+    "id": "50305693",
+    "source": "hackernews",
+    "title": "AI isn't replacing SREs, it's deskilling them",
+    "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+    "score": 510,
+    "comments": 382,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:00.656682+00:00"
+  },
+  {
+    "id": "50308697",
+    "source": "hackernews",
+    "title": "Bunny CDN Security Incident",
+    "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+    "score": 200,
+    "comments": 40,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:00.666562+00:00"
+  },
+  {
+    "id": "50289418",
+    "source": "hackernews",
+    "title": "We're releasing the weights of Mistral Large 4",
+    "url": "https://mistral.ai/news/mistral-large-4-oss/",
+    "score": 1679,
+    "comments": 435,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:00.700095+00:00"
+  },
+  {
+    "id": "50296486",
+    "source": "hackernews",
+    "title": "We ran AI agent swarms in Minecraft and Mindustry",
+    "url": "https://labs.ycombinator.com/projects/games/index.html",
+    "score": 395,
+    "comments": 163,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:00.700116+00:00"
+  },
+  {
+    "id": "50273104",
+    "source": "hackernews",
+    "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
+    "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
+    "score": 238,
+    "comments": 37,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:00.893970+00:00"
+  },
+  {
+    "id": "50307219",
+    "source": "hackernews",
+    "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+    "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+    "score": 280,
+    "comments": 227,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:00.948935+00:00"
+  },
+  {
+    "id": "50270651",
+    "source": "hackernews",
+    "title": "Astroterm: A Planetarium for Your Terminal",
+    "url": "https://github.com/da-luce/astroterm",
+    "score": 227,
+    "comments": 26,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:00.953058+00:00"
+  },
+  {
+    "id": "50304419",
+    "source": "hackernews",
+    "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
+    "url": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
+    "score": 272,
+    "comments": 261,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:01.102903+00:00"
+  },
+  {
+    "id": "50296470",
+    "source": "hackernews",
+    "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
+    "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+    "score": 1727,
+    "comments": 1215,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:01.114911+00:00"
+  },
+  {
+    "id": "50294702",
+    "source": "hackernews",
+    "title": "Patrick Stewart has died",
+    "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+    "score": 3249,
+    "comments": 741,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:01.282493+00:00"
+  },
+  {
+    "id": "50298436",
+    "source": "hackernews",
+    "title": "Herdr has released native app",
+    "url": "https://github.com/herdrdev/herdr-app",
+    "score": 349,
+    "comments": 239,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:01.285370+00:00"
+  },
+  {
+    "id": "50302814",
+    "source": "hackernews",
+    "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+    "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+    "score": 625,
+    "comments": 471,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:01.319803+00:00"
+  },
+  {
+    "id": "50276998",
+    "source": "hackernews",
+    "title": "Why is this fingerprinting script creating bioweapons?",
+    "url": "https://nullpt.rs/fingerprinting-bioweapons",
+    "score": 1573,
+    "comments": 302,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:01.345067+00:00"
+  },
+  {
+    "id": "50285154",
+    "source": "hackernews",
+    "title": "We won't \"just hang out\"",
+    "url": "https://borretti.me/article/we-wont-just-hang-out",
+    "score": 208,
+    "comments": 349,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:01.438139+00:00"
+  },
+  {
+    "id": "50280864",
+    "source": "hackernews",
+    "title": "Leak Exposes 41,000 Homeland Security Workers\u2013Including Undercover ICE Agents",
+    "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+    "score": 447,
+    "comments": 283,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:01.567614+00:00"
+  },
+  {
+    "id": "50306008",
+    "source": "hackernews",
+    "title": "US tech stocks see sharp falls over AI cost fears",
+    "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+    "score": 239,
+    "comments": 265,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:01.567632+00:00"
+  },
+  {
+    "id": "50291054",
+    "source": "hackernews",
+    "title": "H.264 Is Magic (2016)",
+    "url": "https://sidbala.com/h-264-is-magic/",
+    "score": 505,
+    "comments": 166,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:01.572001+00:00"
+  },
+  {
+    "id": "50295450",
+    "source": "hackernews",
+    "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+    "url": "https://github.com/SheepSeb/tinyworldformer",
+    "score": 269,
+    "comments": 18,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:01.572015+00:00"
+  },
+  {
+    "id": "50285452",
+    "source": "hackernews",
+    "title": "Zero click, silent, remote Android DoS",
+    "url": "https://smsofdeath.com/",
+    "score": 325,
+    "comments": 186,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:01.595253+00:00"
+  },
+  {
+    "id": "50287919",
+    "source": "hackernews",
+    "title": "DoorDash to acquire Instacart",
+    "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+    "score": 483,
+    "comments": 646,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:01.595272+00:00"
+  },
+  {
+    "id": "50282454",
+    "source": "hackernews",
+    "title": "StackOverflow now gets fewer than 1000 questions a month",
+    "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+    "score": 820,
+    "comments": 739,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:01.595284+00:00"
+  },
+  {
+    "id": "50282838",
+    "source": "hackernews",
+    "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+    "url": "https://divagr.com/blog/qwenputer",
+    "score": 696,
+    "comments": 145,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:01.640946+00:00"
+  },
+  {
+    "id": "50290177",
+    "source": "hackernews",
+    "title": "LLM Voice",
+    "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+    "score": 588,
+    "comments": 327,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:01.657558+00:00"
+  },
+  {
+    "id": "50301462",
+    "source": "hackernews",
+    "title": "elect.horse",
+    "url": "https://elect.horse/",
+    "score": 534,
+    "comments": 150,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:01.831075+00:00"
+  },
+  {
+    "id": "50287448",
+    "source": "hackernews",
+    "title": "How Google determines the names for bodies of water in Google Earth (2008)",
+    "url": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
+    "score": 239,
+    "comments": 192,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:01.839499+00:00"
+  },
+  {
+    "id": "50286987",
+    "source": "hackernews",
+    "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+    "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+    "score": 322,
+    "comments": 163,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:01.842961+00:00"
+  },
+  {
+    "id": "50293047",
+    "source": "hackernews",
+    "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+    "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+    "score": 354,
+    "comments": 234,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:01.856602+00:00"
+  },
+  {
+    "id": "50276792",
+    "source": "hackernews",
+    "title": "Gemini 4 Carbon",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+    "score": 1011,
+    "comments": 801,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:01.892477+00:00"
+  },
+  {
+    "id": "50287775",
+    "source": "hackernews",
+    "title": "If IPv4 were land",
+    "url": "https://iptrust.co/blog/if-ipv4-were-land",
+    "score": 320,
+    "comments": 484,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:01.892498+00:00"
+  },
+  {
+    "id": "50285319",
+    "source": "hackernews",
+    "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+    "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+    "score": 246,
+    "comments": 40,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:01.901075+00:00"
+  },
+  {
+    "id": "50282544",
+    "source": "hackernews",
+    "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+    "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+    "score": 255,
+    "comments": 122,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:02.048690+00:00"
+  },
+  {
+    "id": "50275626",
+    "source": "hackernews",
+    "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
+    "url": "https://surgehq.ai/blog/dayjob-tax",
+    "score": 261,
+    "comments": 174,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:02.090397+00:00"
+  },
+  {
+    "id": "50290668",
+    "source": "hackernews",
+    "title": "I went to Mexico to test-drive the cars Americans can\u2019t buy",
+    "url": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+    "score": 320,
+    "comments": 385,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:02.122987+00:00"
+  },
+  {
+    "id": "50286197",
+    "source": "hackernews",
+    "title": "What we know so far about Spain train crash",
+    "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+    "score": 238,
+    "comments": 436,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:02.146670+00:00"
+  },
+  {
+    "id": "50281044",
+    "source": "hackernews",
+    "title": "Formlabs Studio 1 $699 Resin Printer",
+    "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+    "score": 225,
+    "comments": 187,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:02.151415+00:00"
+  },
+  {
+    "id": "50307183",
+    "source": "hackernews",
+    "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+    "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+    "score": 262,
+    "comments": 220,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:02.207549+00:00"
+  },
+  {
+    "id": "50274251",
+    "source": "hackernews",
+    "title": "AlpineBSD",
+    "url": "https://wiki.alpinebsd.org",
+    "score": 249,
+    "comments": 246,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:02.289057+00:00"
+  },
+  {
+    "id": "50287001",
+    "source": "hackernews",
+    "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+    "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+    "score": 281,
+    "comments": 206,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:02.327214+00:00"
+  },
+  {
+    "id": "50261998",
+    "source": "hackernews",
+    "title": "Ghostty 1.4",
+    "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+    "score": 1349,
+    "comments": 439,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:02.331734+00:00"
+  },
+  {
+    "id": "50243060",
+    "source": "hackernews",
+    "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+    "url": "https://www.circuithub.com/post/unveiling-the-grid",
+    "score": 563,
+    "comments": 261,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:02.369685+00:00"
+  },
+  {
+    "id": "50271640",
+    "source": "hackernews",
+    "title": "Apple's git still trusts the compromised eMudhra certificates",
+    "url": "https://emudhra.we-have-a-problem.com/apple.html",
+    "score": 1192,
+    "comments": 409,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:02.429585+00:00"
+  },
+  {
+    "id": "50261319",
+    "source": "hackernews",
+    "title": "Genie 4",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "score": 1041,
+    "comments": 591,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:02.429606+00:00"
+  },
+  {
+    "id": "50274409",
+    "source": "hackernews",
+    "title": "CNC Stone Carving",
+    "url": "https://carmelitegothic.com/cnc-stone-carving/",
+    "score": 529,
+    "comments": 142,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:02.451007+00:00"
+  },
+  {
+    "id": "50291945",
+    "source": "hackernews",
+    "title": "Google Search is now less than half of Alphabet\u2019s revenue",
+    "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+    "score": 427,
+    "comments": 355,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:02.469985+00:00"
+  },
+  {
+    "id": "50276940",
+    "source": "hackernews",
+    "title": "MacBook Pro with PROLED XDR Display and Touch",
+    "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+    "score": 619,
+    "comments": 1087,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:02.478949+00:00"
+  },
+  {
+    "id": "50284255",
+    "source": "hackernews",
+    "title": "Claude Code regularly sends each background agent\u2019s transcript to its model",
+    "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+    "score": 581,
+    "comments": 235,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:02.580750+00:00"
+  },
+  {
+    "id": "50288019",
+    "source": "hackernews",
+    "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+    "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+    "score": 336,
+    "comments": 245,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:02.629508+00:00"
+  },
+  {
+    "id": "50280974",
+    "source": "hackernews",
+    "title": "A Health Update",
+    "url": "https://furbo.org/2026/10/28/a-health-update/",
+    "score": 350,
+    "comments": 62,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:02.710995+00:00"
+  },
+  {
+    "id": "50287898",
+    "source": "hackernews",
+    "title": "Hackers expose the identities of more than 40k DHS employees",
+    "url": "https://text.npr.org/nx-s1-6021497",
+    "score": 274,
+    "comments": 76,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:02.722392+00:00"
+  },
+  {
+    "id": "50251344",
+    "source": "hackernews",
+    "title": "Three new discoveries in mathematics, computer science, and physics",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+    "score": 1158,
+    "comments": 709,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:02.735209+00:00"
+  },
+  {
+    "id": "50264853",
+    "source": "hackernews",
+    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "url": "https://www.brangus.io/survival-llm",
+    "score": 540,
+    "comments": 203,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:02.899660+00:00"
+  },
+  {
+    "id": "50288867",
+    "source": "hackernews",
+    "title": "\u2018You Are Done\u2019: The letter sent to King by the F.B.I (2014)",
+    "url": "https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html",
+    "score": 435,
+    "comments": 436,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:02.901842+00:00"
+  },
+  {
+    "id": "50273171",
+    "source": "hackernews",
+    "title": "Emacs Turns 50",
+    "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+    "score": 518,
+    "comments": 244,
+    "subreddit": null,
+    "qualified_at": "2026-10-31T01:55:02.921258+00:00"
+  }
+]
