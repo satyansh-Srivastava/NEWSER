@@ -30,6 +30,46 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [78a9df8da799] `editor`: LLM call failed for 50318189: ANTHROPIC_API_KEY is not set (first seen 2026-11-01)
+
+- [d8068a3a5a88] `editor`: LLM call failed for 50306442: ANTHROPIC_API_KEY is not set (first seen 2026-11-01)
+
+- [9b3cb7b4ea41] `editor`: LLM call failed for 50263127: ANTHROPIC_API_KEY is not set (first seen 2026-11-01)
+
+- [233e7900a1e3] `editor`: LLM call failed for 50304122: ANTHROPIC_API_KEY is not set (first seen 2026-11-01)
+
+- [5049859f75bb] `editor`: LLM call failed for 50277379: ANTHROPIC_API_KEY is not set (first seen 2026-11-01)
+
+- [ef55187f32c7] `editor`: LLM call failed for 50263837: ANTHROPIC_API_KEY is not set (first seen 2026-11-01)
+
+- [753bec3c9d7e] `editor`: LLM call failed for 50311686: ANTHROPIC_API_KEY is not set (first seen 2026-11-01)
+
+- [d316e75ac49d] `editor`: LLM call failed for 50307190: ANTHROPIC_API_KEY is not set (first seen 2026-11-01)
+
+- [14d533d08b46] `editor`: LLM call failed for 50272479: ANTHROPIC_API_KEY is not set (first seen 2026-11-01)
+
+- [7067c3b76512] `editor`: LLM call failed for 50312756: ANTHROPIC_API_KEY is not set (first seen 2026-11-01)
+
+- [2b344a07e6fd] `editor`: LLM call failed for 50316531: ANTHROPIC_API_KEY is not set (first seen 2026-11-01)
+
+- [8141e60cf655] `editor`: LLM call failed for 50309266: ANTHROPIC_API_KEY is not set (first seen 2026-11-01)
+
+- [956d4053d780] `editor`: LLM call failed for 50313661: ANTHROPIC_API_KEY is not set (first seen 2026-11-01)
+
+- [7ce2433e8a86] `editor`: LLM call failed for 50314699: ANTHROPIC_API_KEY is not set (first seen 2026-11-01)
+
+- [38f7b4fc9a48] `editor`: LLM call failed for 50261253: ANTHROPIC_API_KEY is not set (first seen 2026-11-01)
+
+- [ae040e685697] `editor`: LLM call failed for 50314666: ANTHROPIC_API_KEY is not set (first seen 2026-11-01)
+
+- [768acfe60d70] `editor`: LLM call failed for 50319143: ANTHROPIC_API_KEY is not set (first seen 2026-11-01)
+
+- [b37bd26ecccd] `editor`: LLM call failed for 50319510: ANTHROPIC_API_KEY is not set (first seen 2026-11-01)
+
+- [cd46bf26a74d] `extractor`: bot-blocked (403): https://www.casio.com/us/watches/50th/Heritage/1980s/ (first seen 2026-11-01)
+
+- [f9d9caf3e4b0] `extractor`: bot-blocked (403): https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament (first seen 2026-11-01)
+
 - [a3ecadbe43b6] `editor`: LLM call failed for 50307183: ANTHROPIC_API_KEY is not set (first seen 2026-10-31)
 
 - [6d4fc0e3037e] `editor`: LLM call failed for 50286197: ANTHROPIC_API_KEY is not set (first seen 2026-10-31)
