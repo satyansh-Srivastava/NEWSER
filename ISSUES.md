@@ -30,6 +30,46 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [a942f3411ab4] `editor`: LLM call failed for 50315226: ANTHROPIC_API_KEY is not set (first seen 2026-11-02)
+
+- [b8f51650b3aa] `editor`: LLM call failed for 50314085: ANTHROPIC_API_KEY is not set (first seen 2026-11-02)
+
+- [66b8a18423e6] `editor`: LLM call failed for 50319110: ANTHROPIC_API_KEY is not set (first seen 2026-11-02)
+
+- [8952244ac5a6] `editor`: LLM call failed for 50316100: ANTHROPIC_API_KEY is not set (first seen 2026-11-02)
+
+- [fc3431213d91] `editor`: LLM call failed for 50290652: ANTHROPIC_API_KEY is not set (first seen 2026-11-02)
+
+- [387a6478be1c] `editor`: LLM call failed for 50319358: ANTHROPIC_API_KEY is not set (first seen 2026-11-02)
+
+- [7cdb31dfc162] `editor`: LLM call failed for 50326118: ANTHROPIC_API_KEY is not set (first seen 2026-11-02)
+
+- [c0ff5e7e3333] `editor`: LLM call failed for 50318720: ANTHROPIC_API_KEY is not set (first seen 2026-11-02)
+
+- [42dbfe8148a1] `editor`: LLM call failed for 50320995: ANTHROPIC_API_KEY is not set (first seen 2026-11-02)
+
+- [dacc5bac2e6f] `editor`: LLM call failed for 50322173: ANTHROPIC_API_KEY is not set (first seen 2026-11-02)
+
+- [cf86c05319b7] `editor`: LLM call failed for 50330939: ANTHROPIC_API_KEY is not set (first seen 2026-11-02)
+
+- [a61a0ae3458e] `editor`: LLM call failed for 50303984: ANTHROPIC_API_KEY is not set (first seen 2026-11-02)
+
+- [27e29a4075d4] `editor`: LLM call failed for 50320963: ANTHROPIC_API_KEY is not set (first seen 2026-11-02)
+
+- [0718161a78cf] `editor`: LLM call failed for 50323088: ANTHROPIC_API_KEY is not set (first seen 2026-11-02)
+
+- [7ce4c0ac6081] `editor`: LLM call failed for 50328251: ANTHROPIC_API_KEY is not set (first seen 2026-11-02)
+
+- [a5d21153fdf5] `editor`: LLM call failed for 50326821: ANTHROPIC_API_KEY is not set (first seen 2026-11-02)
+
+- [3fb2a448f9d1] `extractor`: bot-blocked (403): https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits (first seen 2026-11-02)
+
+- [2c48903b60fe] `extractor`: bot-blocked (403): https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/ (first seen 2026-11-02)
+
+- [053742be228f] `extractor`: bot-block page detected: https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism (first seen 2026-11-02)
+
+- [ca7f72ad2f52] `extractor`: bot-blocked (403): https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/ (first seen 2026-11-02)
+
 - [78a9df8da799] `editor`: LLM call failed for 50318189: ANTHROPIC_API_KEY is not set (first seen 2026-11-01)
 
 - [d8068a3a5a88] `editor`: LLM call failed for 50306442: ANTHROPIC_API_KEY is not set (first seen 2026-11-01)
