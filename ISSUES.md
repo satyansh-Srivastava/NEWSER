@@ -30,6 +30,58 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [442688f31dc3] `editor`: LLM call failed for 50308754: ANTHROPIC_API_KEY is not set (first seen 2026-11-03)
+
+- [051f2de814f9] `editor`: LLM call failed for 50290533: ANTHROPIC_API_KEY is not set (first seen 2026-11-03)
+
+- [687717cbbb5f] `editor`: LLM call failed for 50325253: ANTHROPIC_API_KEY is not set (first seen 2026-11-03)
+
+- [aced218834b2] `editor`: LLM call failed for 50331402: ANTHROPIC_API_KEY is not set (first seen 2026-11-03)
+
+- [b17635a56016] `editor`: LLM call failed for 50322022: ANTHROPIC_API_KEY is not set (first seen 2026-11-03)
+
+- [f18b2529c5f6] `editor`: LLM call failed for 50280131: ANTHROPIC_API_KEY is not set (first seen 2026-11-03)
+
+- [9b1831134aa3] `editor`: LLM call failed for 50315217: ANTHROPIC_API_KEY is not set (first seen 2026-11-03)
+
+- [38ded03c6838] `editor`: LLM call failed for 50332163: ANTHROPIC_API_KEY is not set (first seen 2026-11-03)
+
+- [b2347ad32446] `editor`: LLM call failed for 50344181: ANTHROPIC_API_KEY is not set (first seen 2026-11-03)
+
+- [2e8d132e6cf6] `editor`: LLM call failed for 50328896: ANTHROPIC_API_KEY is not set (first seen 2026-11-03)
+
+- [e82457bcde38] `editor`: LLM call failed for 50339494: ANTHROPIC_API_KEY is not set (first seen 2026-11-03)
+
+- [4f35fabe3077] `editor`: LLM call failed for 50312408: ANTHROPIC_API_KEY is not set (first seen 2026-11-03)
+
+- [306281a800b1] `editor`: LLM call failed for 50334704: ANTHROPIC_API_KEY is not set (first seen 2026-11-03)
+
+- [aede396dc1cc] `editor`: LLM call failed for 50335615: ANTHROPIC_API_KEY is not set (first seen 2026-11-03)
+
+- [1a78e9441d0d] `editor`: LLM call failed for 50337608: ANTHROPIC_API_KEY is not set (first seen 2026-11-03)
+
+- [b726e92dad99] `editor`: LLM call failed for 50341462: ANTHROPIC_API_KEY is not set (first seen 2026-11-03)
+
+- [a2beb3690ee1] `editor`: LLM call failed for 50344919: ANTHROPIC_API_KEY is not set (first seen 2026-11-03)
+
+- [be8bc655be55] `editor`: LLM call failed for 50339221: ANTHROPIC_API_KEY is not set (first seen 2026-11-03)
+
+- [b1d55594b8f0] `editor`: LLM call failed for 50336518: ANTHROPIC_API_KEY is not set (first seen 2026-11-03)
+
+- [d9f1d37974e3] `editor`: LLM call failed for 50341174: ANTHROPIC_API_KEY is not set (first seen 2026-11-03)
+
+- [7630b2419f73] `editor`: LLM call failed for 50340088: ANTHROPIC_API_KEY is not set (first seen 2026-11-03)
+
+- [551b565a5a86] `extractor`: HTTP 429 for https://www.youtube.com/watch?v=kL9BTbIGxLg (first seen 2026-11-03)
+
+- [855ba781d141] `extractor`: failed to fetch https://piefed.world/post/1503394: HTTPSConnectionPool(host='piefed.world', port=443): Read timed out. (read timeout=15) (first seen 2026-11-03)
+
+- [126822aa7777] `extractor`: bot-blocked (403): https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/ (first seen 2026-11-03)
+
+- [dec1b2af4f1f] `extractor`: bot-blocked (403): https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span (first seen 2026-11-03)
+
+- [76e4a21917e2] `extractor`: HTTP 429 for https://namedaisy.com/blog/boy-names-that-became-girl-names (first seen 2026-11-03)
+
 - [a942f3411ab4] `editor`: LLM call failed for 50315226: ANTHROPIC_API_KEY is not set (first seen 2026-11-02)
 
 - [b8f51650b3aa] `editor`: LLM call failed for 50314085: ANTHROPIC_API_KEY is not set (first seen 2026-11-02)
