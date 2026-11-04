@@ -30,6 +30,56 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [886ce2827572] `editor`: LLM call failed for 50339815: ANTHROPIC_API_KEY is not set (first seen 2026-11-04)
+
+- [d408a35ae941] `editor`: LLM call failed for 50338728: ANTHROPIC_API_KEY is not set (first seen 2026-11-04)
+
+- [6e2eb9588a89] `editor`: LLM call failed for 50340619: ANTHROPIC_API_KEY is not set (first seen 2026-11-04)
+
+- [cfd19b27da0a] `editor`: LLM call failed for 50346981: ANTHROPIC_API_KEY is not set (first seen 2026-11-04)
+
+- [a6cef01520d8] `editor`: LLM call failed for 50346849: ANTHROPIC_API_KEY is not set (first seen 2026-11-04)
+
+- [703b1d5fa8b7] `editor`: LLM call failed for 50353335: ANTHROPIC_API_KEY is not set (first seen 2026-11-04)
+
+- [111599219637] `editor`: LLM call failed for 50323123: ANTHROPIC_API_KEY is not set (first seen 2026-11-04)
+
+- [3413e628cc77] `editor`: LLM call failed for 50353229: ANTHROPIC_API_KEY is not set (first seen 2026-11-04)
+
+- [c3b5d0c52dc0] `editor`: LLM call failed for 50348962: ANTHROPIC_API_KEY is not set (first seen 2026-11-04)
+
+- [ec8ed2d9e8bc] `editor`: LLM call failed for 50352757: ANTHROPIC_API_KEY is not set (first seen 2026-11-04)
+
+- [0fa17725206e] `editor`: LLM call failed for 50321605: ANTHROPIC_API_KEY is not set (first seen 2026-11-04)
+
+- [a9b891e5e23f] `editor`: LLM call failed for 50352758: ANTHROPIC_API_KEY is not set (first seen 2026-11-04)
+
+- [f402085163d3] `editor`: LLM call failed for 50349276: ANTHROPIC_API_KEY is not set (first seen 2026-11-04)
+
+- [592f3507fa52] `editor`: LLM call failed for 50351111: ANTHROPIC_API_KEY is not set (first seen 2026-11-04)
+
+- [e242a572beea] `editor`: LLM call failed for 50358422: ANTHROPIC_API_KEY is not set (first seen 2026-11-04)
+
+- [b78f6b8c7f2e] `editor`: LLM call failed for 50354960: ANTHROPIC_API_KEY is not set (first seen 2026-11-04)
+
+- [82ce1a7b293b] `editor`: LLM call failed for 50358582: ANTHROPIC_API_KEY is not set (first seen 2026-11-04)
+
+- [88b02d051c7d] `editor`: LLM call failed for 50336918: ANTHROPIC_API_KEY is not set (first seen 2026-11-04)
+
+- [58de31a73bd2] `editor`: LLM call failed for 50339288: ANTHROPIC_API_KEY is not set (first seen 2026-11-04)
+
+- [da0ab04ba25f] `editor`: LLM call failed for 50355251: ANTHROPIC_API_KEY is not set (first seen 2026-11-04)
+
+- [defe5fca514f] `editor`: LLM call failed for 50354358: ANTHROPIC_API_KEY is not set (first seen 2026-11-04)
+
+- [9e921d54b912] `editor`: LLM call failed for 50358562: ANTHROPIC_API_KEY is not set (first seen 2026-11-04)
+
+- [634810dbad3e] `extractor`: HTTP 429 for http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html (first seen 2026-11-04)
+
+- [f782dba35f23] `extractor`: bot-blocked (403): https://openai.com/index/scaling-git-at-openai/ (first seen 2026-11-04)
+
+- [7f9b151e407a] `extractor`: bot-blocked (403): https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html (first seen 2026-11-04)
+
 - [442688f31dc3] `editor`: LLM call failed for 50308754: ANTHROPIC_API_KEY is not set (first seen 2026-11-03)
 
 - [051f2de814f9] `editor`: LLM call failed for 50290533: ANTHROPIC_API_KEY is not set (first seen 2026-11-03)
