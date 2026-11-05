@@ -30,6 +30,52 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [7d45884d14e2] `editor`: LLM call failed for 50363554: ANTHROPIC_API_KEY is not set (first seen 2026-11-05)
+
+- [cab7106fa643] `editor`: LLM call failed for 50356994: ANTHROPIC_API_KEY is not set (first seen 2026-11-05)
+
+- [7b1dcc69895f] `editor`: LLM call failed for 50355767: ANTHROPIC_API_KEY is not set (first seen 2026-11-05)
+
+- [1e936ac76da9] `editor`: LLM call failed for 50334523: ANTHROPIC_API_KEY is not set (first seen 2026-11-05)
+
+- [2657aaabfd63] `editor`: LLM call failed for 50333131: ANTHROPIC_API_KEY is not set (first seen 2026-11-05)
+
+- [80e4f80861c9] `editor`: LLM call failed for 50346755: ANTHROPIC_API_KEY is not set (first seen 2026-11-05)
+
+- [b3167048fc98] `editor`: LLM call failed for 50360164: ANTHROPIC_API_KEY is not set (first seen 2026-11-05)
+
+- [4bcd5b29860e] `editor`: LLM call failed for 50358702: ANTHROPIC_API_KEY is not set (first seen 2026-11-05)
+
+- [c135fb2c4049] `editor`: LLM call failed for 50363968: ANTHROPIC_API_KEY is not set (first seen 2026-11-05)
+
+- [49407e3edd09] `editor`: LLM call failed for 50361268: ANTHROPIC_API_KEY is not set (first seen 2026-11-05)
+
+- [780fb673db28] `editor`: LLM call failed for 50363019: ANTHROPIC_API_KEY is not set (first seen 2026-11-05)
+
+- [f7f91a62ad87] `editor`: LLM call failed for 50362980: ANTHROPIC_API_KEY is not set (first seen 2026-11-05)
+
+- [733f9df452bb] `editor`: LLM call failed for 50362905: ANTHROPIC_API_KEY is not set (first seen 2026-11-05)
+
+- [73dea7e6d106] `editor`: LLM call failed for 50363461: ANTHROPIC_API_KEY is not set (first seen 2026-11-05)
+
+- [2b1435160b1c] `editor`: LLM call failed for 50365755: ANTHROPIC_API_KEY is not set (first seen 2026-11-05)
+
+- [6ab98e6c9ab0] `editor`: LLM call failed for 50367125: ANTHROPIC_API_KEY is not set (first seen 2026-11-05)
+
+- [cc3f846bde23] `editor`: LLM call failed for 50366522: ANTHROPIC_API_KEY is not set (first seen 2026-11-05)
+
+- [3a50548f29a7] `editor`: LLM call failed for 50366999: ANTHROPIC_API_KEY is not set (first seen 2026-11-05)
+
+- [1312b17d318e] `editor`: LLM call failed for 50364336: ANTHROPIC_API_KEY is not set (first seen 2026-11-05)
+
+- [e21270978fbe] `editor`: LLM call failed for 50369106: ANTHROPIC_API_KEY is not set (first seen 2026-11-05)
+
+- [9a9fd8d7ad8c] `editor`: LLM call failed for 50369925: ANTHROPIC_API_KEY is not set (first seen 2026-11-05)
+
+- [29a25e74aec1] `extractor`: bot-block page detected: https://www.githubstatus.com/incidents/smtdswd1h2w4 (first seen 2026-11-05)
+
+- [4df9963f8817] `extractor`: failed to fetch https://layer3intel.com/blog/residential-proxies-white-house-network: HTTPSConnectionPool(host='layer3intel.com', port=443): Read timed out. (read timeout=15) (first seen 2026-11-05)
+
 - [886ce2827572] `editor`: LLM call failed for 50339815: ANTHROPIC_API_KEY is not set (first seen 2026-11-04)
 
 - [d408a35ae941] `editor`: LLM call failed for 50338728: ANTHROPIC_API_KEY is not set (first seen 2026-11-04)
