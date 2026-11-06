@@ -30,6 +30,70 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [e8a9f381018b] `editor`: LLM call failed for 50365780: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [a4b6e8fc4746] `editor`: LLM call failed for 50368626: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [8831febd01b7] `editor`: LLM call failed for 50369895: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [e6049ba84ca3] `editor`: LLM call failed for 50369503: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [90be06785678] `editor`: LLM call failed for 50370610: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [8b6c7379b98d] `editor`: LLM call failed for 50371246: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [94d683da7d63] `editor`: LLM call failed for 50366117: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [d5874e3c4e04] `editor`: LLM call failed for 50375354: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [c2dcbe6dc643] `editor`: LLM call failed for 50381623: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [37a07045c9c0] `editor`: LLM call failed for 50341576: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [b05fa80cbe4a] `editor`: LLM call failed for 50373308: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [5d25212f790c] `editor`: LLM call failed for 50377821: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [c7229d5058df] `editor`: LLM call failed for 50349667: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [4a692bc958ac] `editor`: LLM call failed for 50377976: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [f63062191677] `editor`: LLM call failed for 50379249: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [80b16d443ca5] `editor`: LLM call failed for 50378508: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [6fabb5a0e902] `editor`: LLM call failed for 50376313: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [f7bf56a5c5c8] `editor`: LLM call failed for 50380810: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [65c6f91095d2] `editor`: LLM call failed for 50378942: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [10e49b8da87d] `editor`: LLM call failed for 50378571: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [262f1acd0b16] `editor`: LLM call failed for 50385272: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [d21a2d57cbc1] `editor`: LLM call failed for 50383739: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [82f359322d37] `editor`: LLM call failed for 50383740: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [5a9164e47c29] `editor`: LLM call failed for 50383057: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [98374b1aa2ef] `editor`: LLM call failed for 50384233: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [d83d677ed2bc] `editor`: LLM call failed for 50378228: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [1e23091cff25] `editor`: LLM call failed for 50381383: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [a83ae2c82cb4] `editor`: LLM call failed for 50379704: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
+
+- [a89e57c7b0c2] `extractor`: bot-blocked (403): https://openai.com/index/openai-to-acquire-pierre/ (first seen 2026-11-06)
+
+- [023165b80847] `extractor`: bot-blocked (403): https://openai.com/index/introducing-images-2-6/ (first seen 2026-11-06)
+
+- [bbe0e50beba5] `extractor`: bot-blocked (403): https://openai.com/index/a-thousand-fewer-paths-to-root/ (first seen 2026-11-06)
+
+- [de113f7dc952] `extractor`: bot-block page detected: https://www.theverge.com/news/1027379/discord-ditching-electron-web-app (first seen 2026-11-06)
+
 - [7d45884d14e2] `editor`: LLM call failed for 50363554: ANTHROPIC_API_KEY is not set (first seen 2026-11-05)
 
 - [cab7106fa643] `editor`: LLM call failed for 50356994: ANTHROPIC_API_KEY is not set (first seen 2026-11-05)
