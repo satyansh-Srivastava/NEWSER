@@ -30,6 +30,46 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [ee214fb4b1ce] `editor`: LLM call failed for 50383163: ANTHROPIC_API_KEY is not set (first seen 2026-11-07)
+
+- [e0861905e3fc] `editor`: LLM call failed for 50379576: ANTHROPIC_API_KEY is not set (first seen 2026-11-07)
+
+- [444402d90921] `editor`: LLM call failed for 50368208: ANTHROPIC_API_KEY is not set (first seen 2026-11-07)
+
+- [1c743ff3722a] `editor`: LLM call failed for 50386338: ANTHROPIC_API_KEY is not set (first seen 2026-11-07)
+
+- [fb74fab38249] `editor`: LLM call failed for 50364860: ANTHROPIC_API_KEY is not set (first seen 2026-11-07)
+
+- [d4ddc2e00d3a] `editor`: LLM call failed for 50385870: ANTHROPIC_API_KEY is not set (first seen 2026-11-07)
+
+- [fff7981c1d64] `editor`: LLM call failed for 50387796: ANTHROPIC_API_KEY is not set (first seen 2026-11-07)
+
+- [61c9c1a99854] `editor`: LLM call failed for 50389370: ANTHROPIC_API_KEY is not set (first seen 2026-11-07)
+
+- [31968a216533] `editor`: LLM call failed for 50389333: ANTHROPIC_API_KEY is not set (first seen 2026-11-07)
+
+- [1d7ffa685377] `editor`: LLM call failed for 50390124: ANTHROPIC_API_KEY is not set (first seen 2026-11-07)
+
+- [50687b0a2601] `editor`: LLM call failed for 50393758: ANTHROPIC_API_KEY is not set (first seen 2026-11-07)
+
+- [e77a1595e18d] `editor`: LLM call failed for 50392118: ANTHROPIC_API_KEY is not set (first seen 2026-11-07)
+
+- [bd9a4b8fb196] `editor`: LLM call failed for 50397429: ANTHROPIC_API_KEY is not set (first seen 2026-11-07)
+
+- [95b7a3a28983] `editor`: LLM call failed for 50391456: ANTHROPIC_API_KEY is not set (first seen 2026-11-07)
+
+- [50ebf414500e] `editor`: LLM call failed for 50397994: ANTHROPIC_API_KEY is not set (first seen 2026-11-07)
+
+- [76a42a659c5d] `editor`: LLM call failed for 50399933: ANTHROPIC_API_KEY is not set (first seen 2026-11-07)
+
+- [a7d100431ed3] `extractor`: HTTP 401 for https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/ (first seen 2026-11-07)
+
+- [b315862549a6] `extractor`: bot-blocked (403): https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/ (first seen 2026-11-07)
+
+- [e3a7ed027dde] `extractor`: bot-blocked (403): https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout (first seen 2026-11-07)
+
+- [479c84144787] `extractor`: HTTP 401 for https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/ (first seen 2026-11-07)
+
 - [e8a9f381018b] `editor`: LLM call failed for 50365780: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)
 
 - [a4b6e8fc4746] `editor`: LLM call failed for 50368626: ANTHROPIC_API_KEY is not set (first seen 2026-11-06)

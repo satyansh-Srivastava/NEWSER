@@ -1,0 +1,522 @@
+[
+  {
+    "id": "50399933",
+    "source": "hackernews",
+    "title": "Libghostty 1.0",
+    "url": "https://mitchellh.com/writing/libghostty-1-0",
+    "score": 215,
+    "comments": 27,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:43.092007+00:00"
+  },
+  {
+    "id": "50397994",
+    "source": "hackernews",
+    "title": "AI is dramatically accelerating AI research",
+    "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+    "score": 212,
+    "comments": 159,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:43.102205+00:00"
+  },
+  {
+    "id": "50388001",
+    "source": "hackernews",
+    "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+    "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+    "score": 288,
+    "comments": 225,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:43.104114+00:00"
+  },
+  {
+    "id": "50391456",
+    "source": "hackernews",
+    "title": "Tesla to wind down Cybertruck production",
+    "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+    "score": 862,
+    "comments": 1725,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:43.112055+00:00"
+  },
+  {
+    "id": "50397429",
+    "source": "hackernews",
+    "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+    "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+    "score": 348,
+    "comments": 77,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:43.121789+00:00"
+  },
+  {
+    "id": "50392118",
+    "source": "hackernews",
+    "title": "Gemini Omni 1.2 Flash",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+    "score": 298,
+    "comments": 220,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:43.232258+00:00"
+  },
+  {
+    "id": "50394906",
+    "source": "hackernews",
+    "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+    "score": 238,
+    "comments": 495,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:43.248280+00:00"
+  },
+  {
+    "id": "50393758",
+    "source": "hackernews",
+    "title": "Deus Ex",
+    "url": "https://www.filfre.net/2026/11/deus-ex/",
+    "score": 342,
+    "comments": 177,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:43.255201+00:00"
+  },
+  {
+    "id": "50390124",
+    "source": "hackernews",
+    "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+    "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+    "score": 622,
+    "comments": 406,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:43.366609+00:00"
+  },
+  {
+    "id": "50388122",
+    "source": "hackernews",
+    "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+    "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+    "score": 301,
+    "comments": 102,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:43.372326+00:00"
+  },
+  {
+    "id": "50389333",
+    "source": "hackernews",
+    "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+    "url": "https://github.com/ppmpreetham/BUI",
+    "score": 686,
+    "comments": 278,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:43.375901+00:00"
+  },
+  {
+    "id": "50385272",
+    "source": "hackernews",
+    "title": "Claude Code sends your email address to websites",
+    "url": "https://github.com/anthropics/claude-code/issues/107757",
+    "score": 1554,
+    "comments": 493,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:43.380328+00:00"
+  },
+  {
+    "id": "50378228",
+    "source": "hackernews",
+    "title": "sshole",
+    "url": "https://sshhole.com",
+    "score": 2910,
+    "comments": 730,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:43.383576+00:00"
+  },
+  {
+    "id": "50389370",
+    "source": "hackernews",
+    "title": "Kugelblitz \u2013 Mac-Native Google Earth Alternative",
+    "url": "https://apps.metaebene.me/en/kugelblitz",
+    "score": 244,
+    "comments": 65,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:43.397514+00:00"
+  },
+  {
+    "id": "50387796",
+    "source": "hackernews",
+    "title": "Pwn.college",
+    "url": "https://pwn.college/",
+    "score": 306,
+    "comments": 53,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:43.498009+00:00"
+  },
+  {
+    "id": "50389222",
+    "source": "hackernews",
+    "title": "Britain to make salary disclosure in job ads mandatory",
+    "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+    "score": 565,
+    "comments": 428,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:43.522622+00:00"
+  },
+  {
+    "id": "50384233",
+    "source": "hackernews",
+    "title": "MS Paint Remote Code Execution Vulnerability",
+    "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+    "score": 701,
+    "comments": 275,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:43.536565+00:00"
+  },
+  {
+    "id": "50378508",
+    "source": "hackernews",
+    "title": "Obscure audio codec is a perfect fit for the N64",
+    "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+    "score": 259,
+    "comments": 30,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:43.668593+00:00"
+  },
+  {
+    "id": "50385870",
+    "source": "hackernews",
+    "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+    "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+    "score": 496,
+    "comments": 223,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:43.688961+00:00"
+  },
+  {
+    "id": "50379249",
+    "source": "hackernews",
+    "title": "MCP Explained",
+    "url": "https://mcp-explained.com/",
+    "score": 331,
+    "comments": 133,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:43.754603+00:00"
+  },
+  {
+    "id": "50364860",
+    "source": "hackernews",
+    "title": "So my ISP was hijacking my DNS",
+    "url": "https://www.karthihegde.dev/posts/dns_tampering",
+    "score": 227,
+    "comments": 193,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:43.808197+00:00"
+  },
+  {
+    "id": "50383057",
+    "source": "hackernews",
+    "title": "The Hackintosh Reborn",
+    "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+    "score": 402,
+    "comments": 234,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:43.815381+00:00"
+  },
+  {
+    "id": "50383739",
+    "source": "hackernews",
+    "title": "Goodbye from Salon",
+    "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+    "score": 640,
+    "comments": 259,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:43.821953+00:00"
+  },
+  {
+    "id": "50381383",
+    "source": "hackernews",
+    "title": "Window Sweaters",
+    "url": "https://github.com/saragordic/window-sweaters",
+    "score": 449,
+    "comments": 132,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:43.824593+00:00"
+  },
+  {
+    "id": "50364336",
+    "source": "hackernews",
+    "title": "AI is forcing us to pay off 40 years of technical debt",
+    "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+    "score": 1292,
+    "comments": 748,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.039827+00:00"
+  },
+  {
+    "id": "50386338",
+    "source": "hackernews",
+    "title": "Inkling 2 Small",
+    "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+    "score": 283,
+    "comments": 90,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.048820+00:00"
+  },
+  {
+    "id": "50378625",
+    "source": "hackernews",
+    "title": "Discord is ditching Electron and its new app uses less RAM",
+    "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+    "score": 480,
+    "comments": 417,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.048844+00:00"
+  },
+  {
+    "id": "50373308",
+    "source": "hackernews",
+    "title": "Starfall \u2013 Affordable, routine access to microgravity",
+    "url": "https://www.spacex.com/starfall",
+    "score": 284,
+    "comments": 225,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.071246+00:00"
+  },
+  {
+    "id": "50383740",
+    "source": "hackernews",
+    "title": "Search for everyone",
+    "url": "https://kagi.com/changelog#11820",
+    "score": 746,
+    "comments": 408,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.071280+00:00"
+  },
+  {
+    "id": "50380810",
+    "source": "hackernews",
+    "title": "Motorola Signature 27 with GrapheneOS support",
+    "url": "https://motorolanews.com/motorola-signature-27-2/",
+    "score": 571,
+    "comments": 401,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.218137+00:00"
+  },
+  {
+    "id": "50341576",
+    "source": "hackernews",
+    "title": "Spreading Liquid with Three.js",
+    "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
+    "score": 241,
+    "comments": 32,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.228577+00:00"
+  },
+  {
+    "id": "50368208",
+    "source": "hackernews",
+    "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+    "url": "https://www.linum.ai/field-notes/pjit-21k",
+    "score": 270,
+    "comments": 29,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.243640+00:00"
+  },
+  {
+    "id": "50379576",
+    "source": "hackernews",
+    "title": "September in Servo: <progress>, rounded rectangles, and more",
+    "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+    "score": 266,
+    "comments": 77,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.248351+00:00"
+  },
+  {
+    "id": "50378942",
+    "source": "hackernews",
+    "title": "I wish tech companies knew more about me",
+    "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+    "score": 549,
+    "comments": 408,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.253045+00:00"
+  },
+  {
+    "id": "50376313",
+    "source": "hackernews",
+    "title": "GPT-6 Astra covertly underperforms on safety research",
+    "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+    "score": 340,
+    "comments": 189,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.253066+00:00"
+  },
+  {
+    "id": "50378571",
+    "source": "hackernews",
+    "title": "Download your favourite YouTube videos",
+    "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+    "score": 394,
+    "comments": 185,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.440036+00:00"
+  },
+  {
+    "id": "50383163",
+    "source": "hackernews",
+    "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
+    "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
+    "score": 234,
+    "comments": 70,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.449480+00:00"
+  },
+  {
+    "id": "50377821",
+    "source": "hackernews",
+    "title": "Awesome repositories are no longer awesome",
+    "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
+    "score": 299,
+    "comments": 124,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.464010+00:00"
+  },
+  {
+    "id": "50366999",
+    "source": "hackernews",
+    "title": "Kimi K3.1 Pro model weights are out",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+    "score": 636,
+    "comments": 189,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.470846+00:00"
+  },
+  {
+    "id": "50375354",
+    "source": "hackernews",
+    "title": "Lemmings CSS Animation",
+    "url": "https://markblah.github.io/lemmings/",
+    "score": 412,
+    "comments": 78,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.577558+00:00"
+  },
+  {
+    "id": "50372929",
+    "source": "hackernews",
+    "title": "A thousand fewer paths to root",
+    "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+    "score": 486,
+    "comments": 362,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.597195+00:00"
+  },
+  {
+    "id": "50362905",
+    "source": "hackernews",
+    "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+    "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+    "score": 614,
+    "comments": 289,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.597214+00:00"
+  },
+  {
+    "id": "50363461",
+    "source": "hackernews",
+    "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+    "url": "https://news.ycombinator.com/item?id=50363461",
+    "score": 724,
+    "comments": 197,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.603537+00:00"
+  },
+  {
+    "id": "50366117",
+    "source": "hackernews",
+    "title": "Ask HN: What's your current AI agentic setup?",
+    "url": "https://news.ycombinator.com/item?id=50366117",
+    "score": 541,
+    "comments": 675,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.726011+00:00"
+  },
+  {
+    "id": "50369106",
+    "source": "hackernews",
+    "title": "A new Go API for JSON",
+    "url": "https://go.dev/blog/jsonv2",
+    "score": 392,
+    "comments": 212,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.762859+00:00"
+  },
+  {
+    "id": "50349667",
+    "source": "hackernews",
+    "title": "The Lisp curse, now coming to your ecosystem",
+    "url": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
+    "score": 238,
+    "comments": 211,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.762885+00:00"
+  },
+  {
+    "id": "50372945",
+    "source": "hackernews",
+    "title": "Images 2.6",
+    "url": "https://openai.com/index/introducing-images-2-6/",
+    "score": 384,
+    "comments": 237,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.762907+00:00"
+  },
+  {
+    "id": "50369925",
+    "source": "hackernews",
+    "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+    "url": "https://www.ricursive.com/ripple",
+    "score": 339,
+    "comments": 127,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.762921+00:00"
+  },
+  {
+    "id": "50367125",
+    "source": "hackernews",
+    "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+    "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+    "score": 588,
+    "comments": 222,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.766490+00:00"
+  },
+  {
+    "id": "50354358",
+    "source": "hackernews",
+    "title": "Stringman, an $800 open-source room scale gripper robot",
+    "url": "https://neufangled.com/",
+    "score": 840,
+    "comments": 246,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.949239+00:00"
+  },
+  {
+    "id": "50365755",
+    "source": "hackernews",
+    "title": "North Korean fake job interview led to $6.3B Binance heist",
+    "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+    "score": 653,
+    "comments": 384,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.996257+00:00"
+  },
+  {
+    "id": "50371246",
+    "source": "hackernews",
+    "title": "Residential proxies detected on White House network",
+    "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+    "score": 1266,
+    "comments": 432,
+    "subreddit": null,
+    "qualified_at": "2026-11-07T02:26:44.997257+00:00"
+  }
+]
