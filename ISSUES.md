@@ -30,6 +30,40 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [a124d42d8768] `editor`: LLM call failed for 50393105: ANTHROPIC_API_KEY is not set (first seen 2026-11-08)
+
+- [1a63798401d5] `editor`: LLM call failed for 50399657: ANTHROPIC_API_KEY is not set (first seen 2026-11-08)
+
+- [fbed689531a9] `editor`: LLM call failed for 50388513: ANTHROPIC_API_KEY is not set (first seen 2026-11-08)
+
+- [da3b9486bc89] `editor`: LLM call failed for 50394855: ANTHROPIC_API_KEY is not set (first seen 2026-11-08)
+
+- [cc2360af18a6] `editor`: LLM call failed for 50397099: ANTHROPIC_API_KEY is not set (first seen 2026-11-08)
+
+- [16d1586234e9] `editor`: LLM call failed for 50397219: ANTHROPIC_API_KEY is not set (first seen 2026-11-08)
+
+- [695d9614121a] `editor`: LLM call failed for 50403066: ANTHROPIC_API_KEY is not set (first seen 2026-11-08)
+
+- [a1fd325571b3] `editor`: LLM call failed for 50401867: ANTHROPIC_API_KEY is not set (first seen 2026-11-08)
+
+- [1bc30ab3f997] `editor`: LLM call failed for 50406563: ANTHROPIC_API_KEY is not set (first seen 2026-11-08)
+
+- [4de22a6f2ef3] `editor`: LLM call failed for 50406222: ANTHROPIC_API_KEY is not set (first seen 2026-11-08)
+
+- [1a057dc96bb9] `editor`: LLM call failed for 50403507: ANTHROPIC_API_KEY is not set (first seen 2026-11-08)
+
+- [8d342c9f1233] `editor`: LLM call failed for 50406670: ANTHROPIC_API_KEY is not set (first seen 2026-11-08)
+
+- [83a4ce46b567] `editor`: LLM call failed for 50406111: ANTHROPIC_API_KEY is not set (first seen 2026-11-08)
+
+- [d47b61e67b5a] `editor`: LLM call failed for 50403097: ANTHROPIC_API_KEY is not set (first seen 2026-11-08)
+
+- [2acd1705e6bd] `editor`: LLM call failed for 50403052: ANTHROPIC_API_KEY is not set (first seen 2026-11-08)
+
+- [ead48eb7bb29] `extractor`: HTTP 429 for https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible (first seen 2026-11-08)
+
+- [c6e3046bc08e] `extractor`: bot-blocked (403): https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals (first seen 2026-11-08)
+
 - [ee214fb4b1ce] `editor`: LLM call failed for 50383163: ANTHROPIC_API_KEY is not set (first seen 2026-11-07)
 
 - [e0861905e3fc] `editor`: LLM call failed for 50379576: ANTHROPIC_API_KEY is not set (first seen 2026-11-07)
