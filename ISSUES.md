@@ -30,6 +30,46 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [a78ff7dab8ff] `editor`: LLM call failed for 50360810: ANTHROPIC_API_KEY is not set (first seen 2026-11-09)
+
+- [6ce197d8f476] `editor`: LLM call failed for 50405678: ANTHROPIC_API_KEY is not set (first seen 2026-11-09)
+
+- [40676c7363fb] `editor`: LLM call failed for 50415172: ANTHROPIC_API_KEY is not set (first seen 2026-11-09)
+
+- [df68efb71523] `editor`: LLM call failed for 50396064: ANTHROPIC_API_KEY is not set (first seen 2026-11-09)
+
+- [cb239451707d] `editor`: LLM call failed for 50412318: ANTHROPIC_API_KEY is not set (first seen 2026-11-09)
+
+- [01fc7800aa1c] `editor`: LLM call failed for 50406292: ANTHROPIC_API_KEY is not set (first seen 2026-11-09)
+
+- [ce03070531a2] `editor`: LLM call failed for 50377661: ANTHROPIC_API_KEY is not set (first seen 2026-11-09)
+
+- [b467b0ab5565] `editor`: LLM call failed for 50408713: ANTHROPIC_API_KEY is not set (first seen 2026-11-09)
+
+- [12044fcec87d] `editor`: LLM call failed for 50407882: ANTHROPIC_API_KEY is not set (first seen 2026-11-09)
+
+- [8faa6b07cf76] `editor`: LLM call failed for 50416801: ANTHROPIC_API_KEY is not set (first seen 2026-11-09)
+
+- [777c002246e8] `editor`: LLM call failed for 50410107: ANTHROPIC_API_KEY is not set (first seen 2026-11-09)
+
+- [dcc8398a49e6] `editor`: LLM call failed for 50412067: ANTHROPIC_API_KEY is not set (first seen 2026-11-09)
+
+- [1325507b8f3b] `editor`: LLM call failed for 50411961: ANTHROPIC_API_KEY is not set (first seen 2026-11-09)
+
+- [dc2023aff986] `editor`: LLM call failed for 50415628: ANTHROPIC_API_KEY is not set (first seen 2026-11-09)
+
+- [dc89b3f53f28] `editor`: LLM call failed for 50368481: ANTHROPIC_API_KEY is not set (first seen 2026-11-09)
+
+- [ca243e943329] `editor`: LLM call failed for 50416053: ANTHROPIC_API_KEY is not set (first seen 2026-11-09)
+
+- [53baa044804a] `editor`: LLM call failed for 50418176: ANTHROPIC_API_KEY is not set (first seen 2026-11-09)
+
+- [32be28c517cf] `extractor`: HTTP 429 for http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html (first seen 2026-11-09)
+
+- [b101ffe3aa6f] `extractor`: bot-blocked (403): https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company (first seen 2026-11-09)
+
+- [824494199d1c] `extractor`: bot-block page detected: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc (first seen 2026-11-09)
+
 - [a124d42d8768] `editor`: LLM call failed for 50393105: ANTHROPIC_API_KEY is not set (first seen 2026-11-08)
 
 - [1a63798401d5] `editor`: LLM call failed for 50399657: ANTHROPIC_API_KEY is not set (first seen 2026-11-08)
