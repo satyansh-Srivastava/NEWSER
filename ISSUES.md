@@ -30,6 +30,66 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [43d965e2741f] `editor`: LLM call failed for 50429475: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [83d648ec19a6] `editor`: LLM call failed for 50404599: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [eeef23bbecda] `editor`: LLM call failed for 50416363: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [3ec88e4676f1] `editor`: LLM call failed for 50418182: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [757389fa45e1] `editor`: LLM call failed for 50426582: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [41ab5822eef7] `editor`: LLM call failed for 50418975: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [7d8f6d3143f8] `editor`: LLM call failed for 50428724: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [d1a73d7fbd64] `editor`: LLM call failed for 50418016: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [e072b3619830] `editor`: LLM call failed for 50422628: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [8027ce5091a8] `editor`: LLM call failed for 50417407: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [a8bac31131b7] `editor`: LLM call failed for 50419215: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [0fb862603fe6] `editor`: LLM call failed for 50428801: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [92e2dba1ea96] `editor`: LLM call failed for 50426899: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [71a90daa8c57] `editor`: LLM call failed for 50422069: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [f2004ad7d916] `editor`: LLM call failed for 50429024: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [a17356c35d04] `editor`: LLM call failed for 50424157: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [c3fd98e59e98] `editor`: LLM call failed for 50431144: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [e97e42888f99] `editor`: LLM call failed for 50432831: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [daf8a09b6a27] `editor`: LLM call failed for 50429426: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [9d7b3fa50c3e] `editor`: LLM call failed for 50428907: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [d7f79bbac8c9] `editor`: LLM call failed for 50426175: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [91ae68d2ed15] `editor`: LLM call failed for 50433659: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [3b69140d1efc] `editor`: LLM call failed for 50424581: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [0063482faf6c] `editor`: LLM call failed for 50427362: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [d4840952c111] `editor`: LLM call failed for 50429068: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [89e98a48cad1] `editor`: LLM call failed for 50431058: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [9a2c32516738] `editor`: LLM call failed for 50429734: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
+
+- [2f1f18a85929] `extractor`: bot-blocked (403): https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia (first seen 2026-11-10)
+
+- [a3fd9f1edbb2] `extractor`: HTTP 429 for http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html (first seen 2026-11-10)
+
+- [bfb57874b6b2] `extractor`: bot-block page detected: https://aphyr.com/posts/427-rip-harvest (first seen 2026-11-10)
+
 - [a78ff7dab8ff] `editor`: LLM call failed for 50360810: ANTHROPIC_API_KEY is not set (first seen 2026-11-09)
 
 - [6ce197d8f476] `editor`: LLM call failed for 50405678: ANTHROPIC_API_KEY is not set (first seen 2026-11-09)
