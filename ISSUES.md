@@ -30,6 +30,48 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [4a4565306059] `editor`: LLM call failed for 50442303: ANTHROPIC_API_KEY is not set (first seen 2026-11-11)
+
+- [d8b088862ab5] `editor`: LLM call failed for 50434310: ANTHROPIC_API_KEY is not set (first seen 2026-11-11)
+
+- [e6fc3a765bc7] `editor`: LLM call failed for 50416456: ANTHROPIC_API_KEY is not set (first seen 2026-11-11)
+
+- [da6a7d84770d] `editor`: LLM call failed for 50434264: ANTHROPIC_API_KEY is not set (first seen 2026-11-11)
+
+- [10a60419e54d] `editor`: LLM call failed for 50436640: ANTHROPIC_API_KEY is not set (first seen 2026-11-11)
+
+- [d744f30845d0] `editor`: LLM call failed for 50436410: ANTHROPIC_API_KEY is not set (first seen 2026-11-11)
+
+- [afdbb067bec4] `editor`: LLM call failed for 50382401: ANTHROPIC_API_KEY is not set (first seen 2026-11-11)
+
+- [4932e807d0ba] `editor`: LLM call failed for 50439284: ANTHROPIC_API_KEY is not set (first seen 2026-11-11)
+
+- [55403a3ec8c3] `editor`: LLM call failed for 50442426: ANTHROPIC_API_KEY is not set (first seen 2026-11-11)
+
+- [c62cc05e0459] `editor`: LLM call failed for 50438318: ANTHROPIC_API_KEY is not set (first seen 2026-11-11)
+
+- [09b9f7e1e023] `editor`: LLM call failed for 50439695: ANTHROPIC_API_KEY is not set (first seen 2026-11-11)
+
+- [bf5e7c4b602f] `editor`: LLM call failed for 50443812: ANTHROPIC_API_KEY is not set (first seen 2026-11-11)
+
+- [c276c4cb546a] `editor`: LLM call failed for 50443427: ANTHROPIC_API_KEY is not set (first seen 2026-11-11)
+
+- [aafffefab3ca] `editor`: LLM call failed for 50443824: ANTHROPIC_API_KEY is not set (first seen 2026-11-11)
+
+- [631ba9dbbc34] `editor`: LLM call failed for 50444129: ANTHROPIC_API_KEY is not set (first seen 2026-11-11)
+
+- [a3cf6358e4a8] `editor`: LLM call failed for 50441707: ANTHROPIC_API_KEY is not set (first seen 2026-11-11)
+
+- [89bde094b510] `editor`: LLM call failed for 50439193: ANTHROPIC_API_KEY is not set (first seen 2026-11-11)
+
+- [c7a5fa2cc9e2] `editor`: LLM call failed for 50445401: ANTHROPIC_API_KEY is not set (first seen 2026-11-11)
+
+- [517007cebf00] `editor`: LLM call failed for 50442736: ANTHROPIC_API_KEY is not set (first seen 2026-11-11)
+
+- [0643f077ccdb] `editor`: LLM call failed for 50447074: ANTHROPIC_API_KEY is not set (first seen 2026-11-11)
+
+- [cc9dae101fe8] `extractor`: bot-blocked (403): https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/ (first seen 2026-11-11)
+
 - [43d965e2741f] `editor`: LLM call failed for 50429475: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
 
 - [83d648ec19a6] `editor`: LLM call failed for 50404599: ANTHROPIC_API_KEY is not set (first seen 2026-11-10)
