@@ -30,6 +30,56 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [4d19b2104577] `editor`: LLM call failed for 50457939: ANTHROPIC_API_KEY is not set (first seen 2026-11-12)
+
+- [bd3f5e4104fd] `editor`: LLM call failed for 50433216: ANTHROPIC_API_KEY is not set (first seen 2026-11-12)
+
+- [0f7e64b68e4a] `editor`: LLM call failed for 50442225: ANTHROPIC_API_KEY is not set (first seen 2026-11-12)
+
+- [b567dc44baaf] `editor`: LLM call failed for 50446246: ANTHROPIC_API_KEY is not set (first seen 2026-11-12)
+
+- [de70e674cccc] `editor`: LLM call failed for 50437790: ANTHROPIC_API_KEY is not set (first seen 2026-11-12)
+
+- [b1a8477f191a] `editor`: LLM call failed for 50441518: ANTHROPIC_API_KEY is not set (first seen 2026-11-12)
+
+- [4ff1e888dc67] `editor`: LLM call failed for 50443090: ANTHROPIC_API_KEY is not set (first seen 2026-11-12)
+
+- [7fc66007835c] `editor`: LLM call failed for 50449748: ANTHROPIC_API_KEY is not set (first seen 2026-11-12)
+
+- [0ba1e56f65ef] `editor`: LLM call failed for 50443716: ANTHROPIC_API_KEY is not set (first seen 2026-11-12)
+
+- [2145752c0738] `editor`: LLM call failed for 50448921: ANTHROPIC_API_KEY is not set (first seen 2026-11-12)
+
+- [dd4487aa434e] `editor`: LLM call failed for 50446520: ANTHROPIC_API_KEY is not set (first seen 2026-11-12)
+
+- [2248061ef3f8] `editor`: LLM call failed for 50451903: ANTHROPIC_API_KEY is not set (first seen 2026-11-12)
+
+- [91f239338fb6] `editor`: LLM call failed for 50453288: ANTHROPIC_API_KEY is not set (first seen 2026-11-12)
+
+- [9719c362fe47] `editor`: LLM call failed for 50452655: ANTHROPIC_API_KEY is not set (first seen 2026-11-12)
+
+- [4dd00d8b68ba] `editor`: LLM call failed for 50452455: ANTHROPIC_API_KEY is not set (first seen 2026-11-12)
+
+- [c4f984d37137] `editor`: LLM call failed for 50459745: ANTHROPIC_API_KEY is not set (first seen 2026-11-12)
+
+- [9c75a2da217e] `editor`: LLM call failed for 50455394: ANTHROPIC_API_KEY is not set (first seen 2026-11-12)
+
+- [2b3d28584339] `editor`: LLM call failed for 50456791: ANTHROPIC_API_KEY is not set (first seen 2026-11-12)
+
+- [9c90f68adfa3] `editor`: LLM call failed for 50450488: ANTHROPIC_API_KEY is not set (first seen 2026-11-12)
+
+- [8dcd4d2710b0] `editor`: LLM call failed for 50456631: ANTHROPIC_API_KEY is not set (first seen 2026-11-12)
+
+- [ef7cd4d7d3b1] `editor`: LLM call failed for 50458900: ANTHROPIC_API_KEY is not set (first seen 2026-11-12)
+
+- [12e1fd88d676] `extractor`: bot-blocked (403): https://www.blender.org/download/releases/5-3/ (first seen 2026-11-12)
+
+- [a6c6403b462e] `extractor`: bot-block page detected: https://www.theverge.com/tech/1012372/tv-privacy-acr-questions (first seen 2026-11-12)
+
+- [bf32c9b353ba] `extractor`: bot-blocked (403): https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html (first seen 2026-11-12)
+
+- [f0936435d152] `extractor`: HTTP 401 for https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad (first seen 2026-11-12)
+
 - [4a4565306059] `editor`: LLM call failed for 50442303: ANTHROPIC_API_KEY is not set (first seen 2026-11-11)
 
 - [d8b088862ab5] `editor`: LLM call failed for 50434310: ANTHROPIC_API_KEY is not set (first seen 2026-11-11)
