@@ -30,6 +30,54 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [3be1347a4ed5] `editor`: LLM call failed for 50427107: ANTHROPIC_API_KEY is not set (first seen 2026-11-13)
+
+- [22e8b8ad212d] `editor`: LLM call failed for 50458208: ANTHROPIC_API_KEY is not set (first seen 2026-11-13)
+
+- [3d47039ff64b] `editor`: LLM call failed for 50459485: ANTHROPIC_API_KEY is not set (first seen 2026-11-13)
+
+- [a211e9d5503d] `editor`: LLM call failed for 50457230: ANTHROPIC_API_KEY is not set (first seen 2026-11-13)
+
+- [48a4872e91bc] `editor`: LLM call failed for 50452652: ANTHROPIC_API_KEY is not set (first seen 2026-11-13)
+
+- [9fb2967eca2f] `editor`: LLM call failed for 50453637: ANTHROPIC_API_KEY is not set (first seen 2026-11-13)
+
+- [520c2178f6fd] `editor`: LLM call failed for 50454625: ANTHROPIC_API_KEY is not set (first seen 2026-11-13)
+
+- [652dfc21be8b] `editor`: LLM call failed for 50455633: ANTHROPIC_API_KEY is not set (first seen 2026-11-13)
+
+- [2881c35c258c] `editor`: LLM call failed for 50462177: ANTHROPIC_API_KEY is not set (first seen 2026-11-13)
+
+- [bb96dea7970e] `editor`: LLM call failed for 50425017: ANTHROPIC_API_KEY is not set (first seen 2026-11-13)
+
+- [478e88b18dba] `editor`: LLM call failed for 50438261: ANTHROPIC_API_KEY is not set (first seen 2026-11-13)
+
+- [4f6bc83a0483] `editor`: LLM call failed for 50465352: ANTHROPIC_API_KEY is not set (first seen 2026-11-13)
+
+- [d7c144950955] `editor`: LLM call failed for 50469994: ANTHROPIC_API_KEY is not set (first seen 2026-11-13)
+
+- [7b956b246e5a] `editor`: LLM call failed for 50465829: ANTHROPIC_API_KEY is not set (first seen 2026-11-13)
+
+- [7a578f7976a6] `editor`: LLM call failed for 50471431: ANTHROPIC_API_KEY is not set (first seen 2026-11-13)
+
+- [57ca7e4485ba] `editor`: LLM call failed for 50467618: ANTHROPIC_API_KEY is not set (first seen 2026-11-13)
+
+- [24b9f46f4a22] `editor`: LLM call failed for 50468888: ANTHROPIC_API_KEY is not set (first seen 2026-11-13)
+
+- [75efd5bd2945] `editor`: LLM call failed for 50471731: ANTHROPIC_API_KEY is not set (first seen 2026-11-13)
+
+- [b4ac6204e804] `editor`: LLM call failed for 50470488: ANTHROPIC_API_KEY is not set (first seen 2026-11-13)
+
+- [37c2885d9de2] `editor`: LLM call failed for 50472038: ANTHROPIC_API_KEY is not set (first seen 2026-11-13)
+
+- [dd862cc68d00] `editor`: LLM call failed for 50472260: ANTHROPIC_API_KEY is not set (first seen 2026-11-13)
+
+- [7d119854d8ca] `editor`: LLM call failed for 50472490: ANTHROPIC_API_KEY is not set (first seen 2026-11-13)
+
+- [3e0d77331937] `extractor`: bot-blocked (403): https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/ (first seen 2026-11-13)
+
+- [bae5c0b5cb10] `extractor`: bot-blocked (403): https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f (first seen 2026-11-13)
+
 - [4d19b2104577] `editor`: LLM call failed for 50457939: ANTHROPIC_API_KEY is not set (first seen 2026-11-12)
 
 - [bd3f5e4104fd] `editor`: LLM call failed for 50433216: ANTHROPIC_API_KEY is not set (first seen 2026-11-12)
