@@ -30,6 +30,56 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [c58f80457ff6] `editor`: LLM call failed for 50489083: ANTHROPIC_API_KEY is not set (first seen 2026-11-14)
+
+- [350512f24674] `editor`: LLM call failed for 50467460: ANTHROPIC_API_KEY is not set (first seen 2026-11-14)
+
+- [f85777800a5a] `editor`: LLM call failed for 50479098: ANTHROPIC_API_KEY is not set (first seen 2026-11-14)
+
+- [f390b4477713] `editor`: LLM call failed for 50471761: ANTHROPIC_API_KEY is not set (first seen 2026-11-14)
+
+- [c91e7a6f0acf] `editor`: LLM call failed for 50474361: ANTHROPIC_API_KEY is not set (first seen 2026-11-14)
+
+- [0689a14de14b] `editor`: LLM call failed for 50474883: ANTHROPIC_API_KEY is not set (first seen 2026-11-14)
+
+- [27a31154d58f] `editor`: LLM call failed for 50477231: ANTHROPIC_API_KEY is not set (first seen 2026-11-14)
+
+- [f8ba2bcdfa4e] `editor`: LLM call failed for 50478609: ANTHROPIC_API_KEY is not set (first seen 2026-11-14)
+
+- [5332e86a8e00] `editor`: LLM call failed for 50475713: ANTHROPIC_API_KEY is not set (first seen 2026-11-14)
+
+- [1ec7fbbb958a] `editor`: LLM call failed for 50467297: ANTHROPIC_API_KEY is not set (first seen 2026-11-14)
+
+- [38c8751fffba] `editor`: LLM call failed for 50483611: ANTHROPIC_API_KEY is not set (first seen 2026-11-14)
+
+- [757d3553b022] `editor`: LLM call failed for 50478515: ANTHROPIC_API_KEY is not set (first seen 2026-11-14)
+
+- [6d2c14ba18a8] `editor`: LLM call failed for 50477649: ANTHROPIC_API_KEY is not set (first seen 2026-11-14)
+
+- [fce496a98360] `editor`: LLM call failed for 50486482: ANTHROPIC_API_KEY is not set (first seen 2026-11-14)
+
+- [8959ed90f03c] `editor`: LLM call failed for 50486748: ANTHROPIC_API_KEY is not set (first seen 2026-11-14)
+
+- [25975c9b364f] `editor`: LLM call failed for 50487864: ANTHROPIC_API_KEY is not set (first seen 2026-11-14)
+
+- [5e96f66c67cd] `editor`: LLM call failed for 50487185: ANTHROPIC_API_KEY is not set (first seen 2026-11-14)
+
+- [754bba3949ab] `editor`: LLM call failed for 50474959: ANTHROPIC_API_KEY is not set (first seen 2026-11-14)
+
+- [f8dd5e1b0da1] `editor`: LLM call failed for 50490593: ANTHROPIC_API_KEY is not set (first seen 2026-11-14)
+
+- [5d14b370fb85] `editor`: LLM call failed for 50489641: ANTHROPIC_API_KEY is not set (first seen 2026-11-14)
+
+- [b120de54bcde] `extractor`: HTTP 401 for https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/ (first seen 2026-11-14)
+
+- [8eed3b0a9351] `extractor`: bot-blocked (403): https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ (first seen 2026-11-14)
+
+- [c22794b14cb4] `extractor`: bot-block page detected: https://status.claude.com/incidents/nn11wk485zfn (first seen 2026-11-14)
+
+- [7a525e9fc50f] `extractor`: bot-blocked (403): https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/ (first seen 2026-11-14)
+
+- [f432f5bd6bdc] `extractor`: bot-blocked (403): https://www.science.org/doi/10.1126/science.132.3436.1291 (first seen 2026-11-14)
+
 - [3be1347a4ed5] `editor`: LLM call failed for 50427107: ANTHROPIC_API_KEY is not set (first seen 2026-11-13)
 
 - [22e8b8ad212d] `editor`: LLM call failed for 50458208: ANTHROPIC_API_KEY is not set (first seen 2026-11-13)

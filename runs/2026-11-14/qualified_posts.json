@@ -1,0 +1,612 @@
+[
+  {
+    "id": "50489641",
+    "source": "hackernews",
+    "title": "FAA issues national ground stop",
+    "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+    "score": 1351,
+    "comments": 833,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:37.603419+00:00"
+  },
+  {
+    "id": "50490593",
+    "source": "hackernews",
+    "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+    "url": "https://orcasairband.com/",
+    "score": 219,
+    "comments": 50,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:37.612804+00:00"
+  },
+  {
+    "id": "50474959",
+    "source": "hackernews",
+    "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+    "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+    "score": 684,
+    "comments": 200,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:37.638569+00:00"
+  },
+  {
+    "id": "50482379",
+    "source": "hackernews",
+    "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+    "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+    "score": 459,
+    "comments": 314,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:37.648070+00:00"
+  },
+  {
+    "id": "50487185",
+    "source": "hackernews",
+    "title": "After 600 experiments, here's what I discovered about JEPA world models",
+    "url": "https://haddyalchaer.com/jepa",
+    "score": 217,
+    "comments": 36,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:37.662759+00:00"
+  },
+  {
+    "id": "50487864",
+    "source": "hackernews",
+    "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+    "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+    "score": 299,
+    "comments": 169,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:37.778409+00:00"
+  },
+  {
+    "id": "50487522",
+    "source": "hackernews",
+    "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
+    "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
+    "score": 305,
+    "comments": 157,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:37.802904+00:00"
+  },
+  {
+    "id": "50486748",
+    "source": "hackernews",
+    "title": "AI unlocks G\u00f6del's notebooks, said to contain hundreds of proved theorems",
+    "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+    "score": 339,
+    "comments": 93,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:37.809439+00:00"
+  },
+  {
+    "id": "50481187",
+    "source": "hackernews",
+    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "url": "https://status.claude.com/incidents/nn11wk485zfn",
+    "score": 484,
+    "comments": 383,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:37.917996+00:00"
+  },
+  {
+    "id": "50486482",
+    "source": "hackernews",
+    "title": "LibreOffice actually works 365 days a year",
+    "url": "https://twitter.com/LibreOffice/status/2121205272479998268",
+    "score": 837,
+    "comments": 257,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:37.991448+00:00"
+  },
+  {
+    "id": "50481870",
+    "source": "hackernews",
+    "title": "AI is destroying the trust between writers and readers",
+    "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+    "score": 314,
+    "comments": 195,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.028257+00:00"
+  },
+  {
+    "id": "50472038",
+    "source": "hackernews",
+    "title": "Rust 1.100",
+    "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+    "score": 876,
+    "comments": 312,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.074724+00:00"
+  },
+  {
+    "id": "50467087",
+    "source": "hackernews",
+    "title": "Jensen Huang resigns",
+    "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+    "score": 4013,
+    "comments": 3417,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.127231+00:00"
+  },
+  {
+    "id": "50470488",
+    "source": "hackernews",
+    "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+    "url": "https://github.com/simpsoka/zigzag",
+    "score": 719,
+    "comments": 245,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.154237+00:00"
+  },
+  {
+    "id": "50477649",
+    "source": "hackernews",
+    "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+    "url": "https://brave.com/blog/search-api-agentic-payments/",
+    "score": 257,
+    "comments": 148,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.177573+00:00"
+  },
+  {
+    "id": "50478515",
+    "source": "hackernews",
+    "title": "IceWM",
+    "url": "https://ice-wm.org/",
+    "score": 356,
+    "comments": 217,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.189593+00:00"
+  },
+  {
+    "id": "50483611",
+    "source": "hackernews",
+    "title": "Why Zig over C for Systems Programming",
+    "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
+    "score": 214,
+    "comments": 192,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.201193+00:00"
+  },
+  {
+    "id": "50472260",
+    "source": "hackernews",
+    "title": "Gemini 4 Hydrogen and Orchestrator",
+    "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+    "score": 495,
+    "comments": 161,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.259584+00:00"
+  },
+  {
+    "id": "50472490",
+    "source": "hackernews",
+    "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+    "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+    "score": 387,
+    "comments": 189,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.283488+00:00"
+  },
+  {
+    "id": "50473190",
+    "source": "hackernews",
+    "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+    "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+    "score": 448,
+    "comments": 478,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.288202+00:00"
+  },
+  {
+    "id": "50467297",
+    "source": "hackernews",
+    "title": "Our software engineering interviews are changing a little",
+    "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+    "score": 254,
+    "comments": 236,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.305870+00:00"
+  },
+  {
+    "id": "50471431",
+    "source": "hackernews",
+    "title": "Gemini 4 Hydrogen",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+    "score": 559,
+    "comments": 349,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.313304+00:00"
+  },
+  {
+    "id": "50450488",
+    "source": "hackernews",
+    "title": "Tim Peters has died",
+    "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+    "score": 1427,
+    "comments": 196,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.318522+00:00"
+  },
+  {
+    "id": "50475713",
+    "source": "hackernews",
+    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+    "score": 338,
+    "comments": 104,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.320492+00:00"
+  },
+  {
+    "id": "50468888",
+    "source": "hackernews",
+    "title": "I'm making LLMs work on small and old devices",
+    "url": "https://github.com/hyperionaidev/smolmaxxing/",
+    "score": 466,
+    "comments": 180,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.399968+00:00"
+  },
+  {
+    "id": "50446520",
+    "source": "hackernews",
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+    "score": 565,
+    "comments": 557,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.419250+00:00"
+  },
+  {
+    "id": "50478609",
+    "source": "hackernews",
+    "title": "Microsoft Outlook/365 still down after 12 hours",
+    "url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
+    "score": 462,
+    "comments": 306,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.424855+00:00"
+  },
+  {
+    "id": "50477231",
+    "source": "hackernews",
+    "title": "Nvidia employees petition to bring back Jensen Huang",
+    "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+    "score": 792,
+    "comments": 652,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.429998+00:00"
+  },
+  {
+    "id": "50471731",
+    "source": "hackernews",
+    "title": "Service degradation on Microsoft 365",
+    "url": "https://status.cloud.microsoft/",
+    "score": 1162,
+    "comments": 979,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.434935+00:00"
+  },
+  {
+    "id": "50474883",
+    "source": "hackernews",
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "url": "https://unemploymentlabs.com/checkpoint-forensics",
+    "score": 356,
+    "comments": 152,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.526225+00:00"
+  },
+  {
+    "id": "50474361",
+    "source": "hackernews",
+    "title": "Foundation Models framework",
+    "url": "https://developer.apple.com/foundation-models-framework/",
+    "score": 265,
+    "comments": 35,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.542899+00:00"
+  },
+  {
+    "id": "50456631",
+    "source": "hackernews",
+    "title": "AWS emulator",
+    "url": "https://github.com/aws/aws-emulator",
+    "score": 983,
+    "comments": 266,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.542917+00:00"
+  },
+  {
+    "id": "50467618",
+    "source": "hackernews",
+    "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+    "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+    "score": 306,
+    "comments": 128,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.561625+00:00"
+  },
+  {
+    "id": "50438261",
+    "source": "hackernews",
+    "title": "Socratic Tutor",
+    "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+    "score": 698,
+    "comments": 165,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.579515+00:00"
+  },
+  {
+    "id": "50471761",
+    "source": "hackernews",
+    "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+    "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+    "score": 229,
+    "comments": 40,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.584232+00:00"
+  },
+  {
+    "id": "50479098",
+    "source": "hackernews",
+    "title": "Global Microsoft Outage",
+    "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
+    "score": 285,
+    "comments": 181,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.585466+00:00"
+  },
+  {
+    "id": "50424581",
+    "source": "hackernews",
+    "title": "Foldable Flight: The Best Paper Airplanes",
+    "url": "https://www.foldableflight.com",
+    "score": 1276,
+    "comments": 168,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.642206+00:00"
+  },
+  {
+    "id": "50459745",
+    "source": "hackernews",
+    "title": "93% of paint splatters are valid Perl programs (2019)",
+    "url": "https://www.mcmillen.dev/sigbovik/",
+    "score": 583,
+    "comments": 79,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.656500+00:00"
+  },
+  {
+    "id": "50465829",
+    "source": "hackernews",
+    "title": "Anthropic IPO",
+    "url": "https://ipo.anthropic.com/us/",
+    "score": 996,
+    "comments": 905,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.672514+00:00"
+  },
+  {
+    "id": "50455633",
+    "source": "hackernews",
+    "title": "Faster Retrieval for Better, More Efficient RAG",
+    "url": "https://machinelearning.apple.com/research/faster-retrieval",
+    "score": 239,
+    "comments": 39,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.699970+00:00"
+  },
+  {
+    "id": "50454625",
+    "source": "hackernews",
+    "title": "Show HN: Yogurt \u2013 Free, private, open-source alternative to Granola",
+    "url": "https://github.com/FrigadeHQ/yogurt",
+    "score": 297,
+    "comments": 113,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.713213+00:00"
+  },
+  {
+    "id": "50453637",
+    "source": "hackernews",
+    "title": "Atuin Threads: All your agent sessions on every machine",
+    "url": "https://blog.atuin.sh/threads-agent-sessions/",
+    "score": 236,
+    "comments": 84,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.781709+00:00"
+  },
+  {
+    "id": "50425017",
+    "source": "hackernews",
+    "title": "A live tree of systemd jobs on the boot console",
+    "url": "https://codeberg.org/wvhulle/bootvine",
+    "score": 373,
+    "comments": 150,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.795814+00:00"
+  },
+  {
+    "id": "50465352",
+    "source": "hackernews",
+    "title": "Writing correct software is hard and math alone won\u2019t help us (2016)",
+    "url": "https://pron.github.io/posts/correctness-and-complexity",
+    "score": 368,
+    "comments": 183,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.815503+00:00"
+  },
+  {
+    "id": "50455394",
+    "source": "hackernews",
+    "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+    "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+    "score": 585,
+    "comments": 275,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.823765+00:00"
+  },
+  {
+    "id": "50467460",
+    "source": "hackernews",
+    "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+    "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+    "score": 239,
+    "comments": 8,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.843340+00:00"
+  },
+  {
+    "id": "50441707",
+    "source": "hackernews",
+    "title": "Smart home devices should work without the internet",
+    "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+    "score": 1194,
+    "comments": 442,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.856771+00:00"
+  },
+  {
+    "id": "50462177",
+    "source": "hackernews",
+    "title": "Critical RCE Vulnerability in Apache HTTP Server",
+    "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+    "score": 368,
+    "comments": 199,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.903129+00:00"
+  },
+  {
+    "id": "50456791",
+    "source": "hackernews",
+    "title": "Gemini Decisions API",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "score": 566,
+    "comments": 161,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.931674+00:00"
+  },
+  {
+    "id": "50452652",
+    "source": "hackernews",
+    "title": "We need more goat sacrifices",
+    "url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
+    "score": 222,
+    "comments": 135,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:38.959792+00:00"
+  },
+  {
+    "id": "50443716",
+    "source": "hackernews",
+    "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+    "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+    "score": 297,
+    "comments": 218,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:39.029959+00:00"
+  },
+  {
+    "id": "50448921",
+    "source": "hackernews",
+    "title": "A great old-timey game-programming hack (2013)",
+    "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+    "score": 286,
+    "comments": 73,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:39.059062+00:00"
+  },
+  {
+    "id": "50442736",
+    "source": "hackernews",
+    "title": ".name Grandfathered",
+    "url": "https://neil.fraser.name/news/2026/11/10/",
+    "score": 935,
+    "comments": 212,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:39.085663+00:00"
+  },
+  {
+    "id": "50489083",
+    "source": "hackernews",
+    "title": "Big tech is here to let us down",
+    "url": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
+    "score": 203,
+    "comments": 192,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:39.099548+00:00"
+  },
+  {
+    "id": "50457230",
+    "source": "hackernews",
+    "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+    "url": "https://termsheetplease.com/",
+    "score": 242,
+    "comments": 96,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:39.179944+00:00"
+  },
+  {
+    "id": "50463899",
+    "source": "hackernews",
+    "title": "\"Humble Bundle just killed most of their security through vibecoding\"",
+    "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+    "score": 402,
+    "comments": 236,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:39.181162+00:00"
+  },
+  {
+    "id": "50469994",
+    "source": "hackernews",
+    "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+    "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+    "score": 317,
+    "comments": 260,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:39.191881+00:00"
+  },
+  {
+    "id": "50438480",
+    "source": "hackernews",
+    "title": "What constant surveillance is doing to children and parents",
+    "url": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
+    "score": 279,
+    "comments": 335,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:39.194658+00:00"
+  },
+  {
+    "id": "50429068",
+    "source": "hackernews",
+    "title": "Claude Fable 5.2 and Mythos 5.2",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "score": 923,
+    "comments": 1054,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:39.197720+00:00"
+  },
+  {
+    "id": "50427107",
+    "source": "hackernews",
+    "title": "Why I wrote the BEAM book (2025)",
+    "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
+    "score": 210,
+    "comments": 48,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:39.206736+00:00"
+  },
+  {
+    "id": "50458900",
+    "source": "hackernews",
+    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+    "score": 677,
+    "comments": 702,
+    "subreddit": null,
+    "qualified_at": "2026-11-14T02:46:39.226640+00:00"
+  }
+]
