@@ -30,6 +30,48 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [2283de79db90] `editor`: LLM call failed for 50489652: ANTHROPIC_API_KEY is not set (first seen 2026-11-15)
+
+- [fe6a440efb81] `editor`: LLM call failed for 50487228: ANTHROPIC_API_KEY is not set (first seen 2026-11-15)
+
+- [6a9a5ddffbdf] `editor`: LLM call failed for 50484235: ANTHROPIC_API_KEY is not set (first seen 2026-11-15)
+
+- [c21134a2d89a] `editor`: LLM call failed for 50491545: ANTHROPIC_API_KEY is not set (first seen 2026-11-15)
+
+- [0e84c9c368fe] `editor`: LLM call failed for 50488470: ANTHROPIC_API_KEY is not set (first seen 2026-11-15)
+
+- [643d1aa1320b] `editor`: LLM call failed for 50488325: ANTHROPIC_API_KEY is not set (first seen 2026-11-15)
+
+- [b1be78435552] `editor`: LLM call failed for 50491980: ANTHROPIC_API_KEY is not set (first seen 2026-11-15)
+
+- [3cde0d7e6f51] `editor`: LLM call failed for 50491423: ANTHROPIC_API_KEY is not set (first seen 2026-11-15)
+
+- [e73c51abcf88] `editor`: LLM call failed for 50484658: ANTHROPIC_API_KEY is not set (first seen 2026-11-15)
+
+- [1b05b417e05c] `editor`: LLM call failed for 50493904: ANTHROPIC_API_KEY is not set (first seen 2026-11-15)
+
+- [f762b4136c8f] `editor`: LLM call failed for 50493062: ANTHROPIC_API_KEY is not set (first seen 2026-11-15)
+
+- [780ab6aa578e] `editor`: LLM call failed for 50496602: ANTHROPIC_API_KEY is not set (first seen 2026-11-15)
+
+- [6ea407a9be4d] `editor`: LLM call failed for 50496976: ANTHROPIC_API_KEY is not set (first seen 2026-11-15)
+
+- [efe63e7d0053] `editor`: LLM call failed for 50440709: ANTHROPIC_API_KEY is not set (first seen 2026-11-15)
+
+- [9dc2010e18a1] `editor`: LLM call failed for 50501631: ANTHROPIC_API_KEY is not set (first seen 2026-11-15)
+
+- [1a772fa22f2a] `editor`: LLM call failed for 50499017: ANTHROPIC_API_KEY is not set (first seen 2026-11-15)
+
+- [54e3646b8bba] `editor`: LLM call failed for 50499038: ANTHROPIC_API_KEY is not set (first seen 2026-11-15)
+
+- [159b50bd2ebd] `editor`: LLM call failed for 50497892: ANTHROPIC_API_KEY is not set (first seen 2026-11-15)
+
+- [8232b7fdaeb0] `editor`: LLM call failed for 50500963: ANTHROPIC_API_KEY is not set (first seen 2026-11-15)
+
+- [4a6f220d1c33] `extractor`: bot-blocked (403): https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus (first seen 2026-11-15)
+
+- [23ec84dd9d6f] `extractor`: HTTP 401 for https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/ (first seen 2026-11-15)
+
 - [c58f80457ff6] `editor`: LLM call failed for 50489083: ANTHROPIC_API_KEY is not set (first seen 2026-11-14)
 
 - [350512f24674] `editor`: LLM call failed for 50467460: ANTHROPIC_API_KEY is not set (first seen 2026-11-14)
