@@ -30,6 +30,46 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [0bc14fd12038] `editor`: LLM call failed for 50491830: ANTHROPIC_API_KEY is not set (first seen 2026-11-16)
+
+- [fcfd0710587e] `editor`: LLM call failed for 50493251: ANTHROPIC_API_KEY is not set (first seen 2026-11-16)
+
+- [a5743741a8cd] `editor`: LLM call failed for 50497589: ANTHROPIC_API_KEY is not set (first seen 2026-11-16)
+
+- [98d690eae797] `editor`: LLM call failed for 50496811: ANTHROPIC_API_KEY is not set (first seen 2026-11-16)
+
+- [77b68a27c13e] `editor`: LLM call failed for 50496051: ANTHROPIC_API_KEY is not set (first seen 2026-11-16)
+
+- [d9aeb29f1ca5] `editor`: LLM call failed for 50503255: ANTHROPIC_API_KEY is not set (first seen 2026-11-16)
+
+- [8cc50e613218] `editor`: LLM call failed for 50503465: ANTHROPIC_API_KEY is not set (first seen 2026-11-16)
+
+- [737fbc258729] `editor`: LLM call failed for 50502988: ANTHROPIC_API_KEY is not set (first seen 2026-11-16)
+
+- [ae75edaa1827] `editor`: LLM call failed for 50506180: ANTHROPIC_API_KEY is not set (first seen 2026-11-16)
+
+- [844225d5052c] `editor`: LLM call failed for 50506376: ANTHROPIC_API_KEY is not set (first seen 2026-11-16)
+
+- [74a99684d743] `editor`: LLM call failed for 50507303: ANTHROPIC_API_KEY is not set (first seen 2026-11-16)
+
+- [0cddf6752177] `editor`: LLM call failed for 50509411: ANTHROPIC_API_KEY is not set (first seen 2026-11-16)
+
+- [daee47382e94] `editor`: LLM call failed for 50506894: ANTHROPIC_API_KEY is not set (first seen 2026-11-16)
+
+- [7fbbd5f545e4] `editor`: LLM call failed for 50506719: ANTHROPIC_API_KEY is not set (first seen 2026-11-16)
+
+- [e88b7d6bc4ac] `extractor`: HTTP 429 for https://www.youtube.com/watch?v=IRK8h67ol7Q (first seen 2026-11-16)
+
+- [b52fb23a13fb] `extractor`: bot-blocked (403): https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/ (first seen 2026-11-16)
+
+- [710f5a8deb27] `extractor`: failed to fetch https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379: HTTPSConnectionPool(host='www.cbc.ca', port=443): Read timed out. (read timeout=15) (first seen 2026-11-16)
+
+- [dcc6915f476f] `extractor`: bot-blocked (403): https://retrocomputing.stackexchange.com/questions/17957 (first seen 2026-11-16)
+
+- [a579f45fb130] `extractor`: bot-blocked (403): https://space.stackexchange.com/questions/37775 (first seen 2026-11-16)
+
+- [3fa22dd0b940] `extractor`: HTTP 429 for https://www.youtube.com/watch?v=WPj3aQ-xxpI (first seen 2026-11-16)
+
 - [2283de79db90] `editor`: LLM call failed for 50489652: ANTHROPIC_API_KEY is not set (first seen 2026-11-15)
 
 - [fe6a440efb81] `editor`: LLM call failed for 50487228: ANTHROPIC_API_KEY is not set (first seen 2026-11-15)
