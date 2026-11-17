@@ -1,0 +1,612 @@
+[
+  {
+    "id": "50523601",
+    "source": "hackernews",
+    "title": "BugMeNot has closed",
+    "url": "https://www.bugmenot.com/",
+    "score": 407,
+    "comments": 199,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:41.494378+00:00"
+  },
+  {
+    "id": "50519744",
+    "source": "hackernews",
+    "title": "Jiff 1.0: A datetime library for Rust",
+    "url": "https://burntsushi.net/jiff/",
+    "score": 342,
+    "comments": 78,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:41.500371+00:00"
+  },
+  {
+    "id": "50524736",
+    "source": "hackernews",
+    "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+    "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+    "score": 380,
+    "comments": 236,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:41.504783+00:00"
+  },
+  {
+    "id": "50522980",
+    "source": "hackernews",
+    "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+    "url": "https://www.cs.cmu.edu/learn/",
+    "score": 1003,
+    "comments": 153,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:41.506925+00:00"
+  },
+  {
+    "id": "50520182",
+    "source": "hackernews",
+    "title": "Grazing sheep in fields with solar arrays",
+    "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+    "score": 244,
+    "comments": 237,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:41.510530+00:00"
+  },
+  {
+    "id": "50519354",
+    "source": "hackernews",
+    "title": "Frame \u2013 31.5\" color ePaper display",
+    "url": "https://trmnl.com/blog/introducing-frame",
+    "score": 343,
+    "comments": 241,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:41.533247+00:00"
+  },
+  {
+    "id": "50521045",
+    "source": "hackernews",
+    "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+    "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+    "score": 739,
+    "comments": 614,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:41.598345+00:00"
+  },
+  {
+    "id": "50522563",
+    "source": "hackernews",
+    "title": "Rust changed me as a developer",
+    "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
+    "score": 219,
+    "comments": 140,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:41.619452+00:00"
+  },
+  {
+    "id": "50524165",
+    "source": "hackernews",
+    "title": "United Airlines experiencing a widespread system outage, airline says",
+    "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+    "score": 213,
+    "comments": 109,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:41.622654+00:00"
+  },
+  {
+    "id": "50517321",
+    "source": "hackernews",
+    "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+    "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+    "score": 256,
+    "comments": 184,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:41.624611+00:00"
+  },
+  {
+    "id": "50517488",
+    "source": "hackernews",
+    "title": "Many of Amazon\u2019s Black Friday and Cyber Monday \u201cdeals\u201d offered no savings",
+    "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+    "score": 865,
+    "comments": 517,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:41.643612+00:00"
+  },
+  {
+    "id": "50515058",
+    "source": "hackernews",
+    "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+    "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
+    "score": 293,
+    "comments": 132,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:41.710118+00:00"
+  },
+  {
+    "id": "50516473",
+    "source": "hackernews",
+    "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+    "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+    "score": 303,
+    "comments": 119,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:41.734451+00:00"
+  },
+  {
+    "id": "50518567",
+    "source": "hackernews",
+    "title": "Nvidia was in trouble before the Jensen Huang mess",
+    "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+    "score": 262,
+    "comments": 237,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:41.743911+00:00"
+  },
+  {
+    "id": "50486745",
+    "source": "hackernews",
+    "title": "Researchers track whole body movement with just a smartwatch",
+    "url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
+    "score": 205,
+    "comments": 73,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:41.743925+00:00"
+  },
+  {
+    "id": "50514470",
+    "source": "hackernews",
+    "title": "How to make almost anything",
+    "url": "https://pub.cba.mit.edu/863.26/site/",
+    "score": 854,
+    "comments": 144,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:41.770931+00:00"
+  },
+  {
+    "id": "50520866",
+    "source": "hackernews",
+    "title": "Software is breaking down at a systemic level",
+    "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
+    "score": 349,
+    "comments": 222,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:41.819254+00:00"
+  },
+  {
+    "id": "50513160",
+    "source": "hackernews",
+    "title": "Universal XSS in uBlock Origin from website-driven element picker",
+    "url": "https://iter.ca/post/ubo-uxss/",
+    "score": 602,
+    "comments": 175,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:41.821309+00:00"
+  },
+  {
+    "id": "50512235",
+    "source": "hackernews",
+    "title": "What's Next for Nvidia?",
+    "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+    "score": 466,
+    "comments": 571,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:41.848480+00:00"
+  },
+  {
+    "id": "50500963",
+    "source": "hackernews",
+    "title": "SpaceX catches the Starship to end Flight 15",
+    "url": "https://www.spacex.com/launches/starship-flight-15",
+    "score": 1743,
+    "comments": 1358,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:41.852418+00:00"
+  },
+  {
+    "id": "50513215",
+    "source": "hackernews",
+    "title": "Qwen4-Max",
+    "url": "https://qwen.ai/blog?id=qwen4-max",
+    "score": 855,
+    "comments": 474,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:41.923296+00:00"
+  },
+  {
+    "id": "50511395",
+    "source": "hackernews",
+    "title": "Old Bitly links are being hijacked",
+    "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+    "score": 375,
+    "comments": 201,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:41.926692+00:00"
+  },
+  {
+    "id": "50509411",
+    "source": "hackernews",
+    "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+    "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+    "score": 625,
+    "comments": 273,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:41.935304+00:00"
+  },
+  {
+    "id": "50509837",
+    "source": "hackernews",
+    "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+    "url": "https://bruceroettgers.eu/blog/protomaps/",
+    "score": 456,
+    "comments": 84,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:41.938767+00:00"
+  },
+  {
+    "id": "50509972",
+    "source": "hackernews",
+    "title": "Handwriting, as a Font",
+    "url": "https://ductus.sorenblank.com",
+    "score": 459,
+    "comments": 76,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:41.965999+00:00"
+  },
+  {
+    "id": "50512441",
+    "source": "hackernews",
+    "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+    "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+    "score": 244,
+    "comments": 66,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.005247+00:00"
+  },
+  {
+    "id": "50499017",
+    "source": "hackernews",
+    "title": "Lovable apps expose passport details and more than 200K private messages",
+    "url": "https://www.crissyfield.de/research/lovable-en/",
+    "score": 1002,
+    "comments": 377,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.009688+00:00"
+  },
+  {
+    "id": "50506719",
+    "source": "hackernews",
+    "title": "The MacBook Pro's OLED PWM problem",
+    "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+    "score": 505,
+    "comments": 285,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.033976+00:00"
+  },
+  {
+    "id": "50474883",
+    "source": "hackernews",
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "url": "https://unemploymentlabs.com/checkpoint-forensics",
+    "score": 448,
+    "comments": 194,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.035824+00:00"
+  },
+  {
+    "id": "50517602",
+    "source": "hackernews",
+    "title": "What is w2rt6byl5nf1opmc-a.com?",
+    "url": "https://jack.cab/blog/siterate",
+    "score": 318,
+    "comments": 141,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.070026+00:00"
+  },
+  {
+    "id": "50463399",
+    "source": "hackernews",
+    "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+    "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+    "score": 450,
+    "comments": 239,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.096025+00:00"
+  },
+  {
+    "id": "50502988",
+    "source": "hackernews",
+    "title": "Court denies motion to dismiss DRAM price fixing case",
+    "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+    "score": 531,
+    "comments": 234,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.121080+00:00"
+  },
+  {
+    "id": "50511806",
+    "source": "hackernews",
+    "title": "Preserving 30 years of Salon journalism",
+    "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+    "score": 213,
+    "comments": 57,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.138379+00:00"
+  },
+  {
+    "id": "50509023",
+    "source": "hackernews",
+    "title": "Crows make decisions faster than we can",
+    "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+    "score": 311,
+    "comments": 207,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.155397+00:00"
+  },
+  {
+    "id": "50503465",
+    "source": "hackernews",
+    "title": "My favourite modern NES games",
+    "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+    "score": 218,
+    "comments": 41,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.174005+00:00"
+  },
+  {
+    "id": "50507553",
+    "source": "hackernews",
+    "title": "Emacs Is My Browser",
+    "url": "https://joshblais.com/blog/emacs-as-my-browser/",
+    "score": 233,
+    "comments": 146,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.175982+00:00"
+  },
+  {
+    "id": "50509308",
+    "source": "hackernews",
+    "title": "A short explainer on how El Ni\u00f1o works [video]",
+    "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+    "score": 298,
+    "comments": 186,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.207392+00:00"
+  },
+  {
+    "id": "50507303",
+    "source": "hackernews",
+    "title": "All AI-generated code should be Open Source",
+    "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+    "score": 1270,
+    "comments": 657,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.211170+00:00"
+  },
+  {
+    "id": "50506180",
+    "source": "hackernews",
+    "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+    "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+    "score": 537,
+    "comments": 249,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.213544+00:00"
+  },
+  {
+    "id": "50510296",
+    "source": "hackernews",
+    "title": "WebGL Flight Simulator with seed generated terrain",
+    "url": "https://baron.by.dai.studio/",
+    "score": 227,
+    "comments": 62,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.234696+00:00"
+  },
+  {
+    "id": "50506376",
+    "source": "hackernews",
+    "title": "Understanding Positional Embeddings in Modern LLMs",
+    "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+    "score": 244,
+    "comments": 27,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.278585+00:00"
+  },
+  {
+    "id": "50506894",
+    "source": "hackernews",
+    "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+    "url": "https://prog21.dadgum.com/116.html",
+    "score": 245,
+    "comments": 149,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.307481+00:00"
+  },
+  {
+    "id": "50440709",
+    "source": "hackernews",
+    "title": "Why get an expensive Pi when I have an old phone?",
+    "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+    "score": 633,
+    "comments": 328,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.355703+00:00"
+  },
+  {
+    "id": "50505271",
+    "source": "hackernews",
+    "title": "Why did some Apollo missions carry a grenade launcher? (2019)",
+    "url": "https://space.stackexchange.com/questions/37775",
+    "score": 252,
+    "comments": 157,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.411477+00:00"
+  },
+  {
+    "id": "50496976",
+    "source": "hackernews",
+    "title": "KDE: The documentary [video]",
+    "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+    "score": 577,
+    "comments": 148,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.413386+00:00"
+  },
+  {
+    "id": "50499038",
+    "source": "hackernews",
+    "title": "A family tree of software job titles",
+    "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+    "score": 458,
+    "comments": 220,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.446945+00:00"
+  },
+  {
+    "id": "50503255",
+    "source": "hackernews",
+    "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+    "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+    "score": 359,
+    "comments": 152,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.470823+00:00"
+  },
+  {
+    "id": "50517838",
+    "source": "hackernews",
+    "title": "Whistleblower accuses Pentagon over Iran strike on US base that killed 6",
+    "url": "https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint",
+    "score": 221,
+    "comments": 75,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.495245+00:00"
+  },
+  {
+    "id": "50501594",
+    "source": "hackernews",
+    "title": "How did Woz write the Apple 1 BASIC before building the computer? (2021)",
+    "url": "https://retrocomputing.stackexchange.com/questions/17957",
+    "score": 319,
+    "comments": 178,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.514585+00:00"
+  },
+  {
+    "id": "50496051",
+    "source": "hackernews",
+    "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+    "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+    "score": 318,
+    "comments": 193,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.547443+00:00"
+  },
+  {
+    "id": "50497892",
+    "source": "hackernews",
+    "title": "PyPI's redesigned project pages with clearer security signals are now live",
+    "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+    "score": 279,
+    "comments": 132,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.549572+00:00"
+  },
+  {
+    "id": "50474959",
+    "source": "hackernews",
+    "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+    "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+    "score": 799,
+    "comments": 225,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.555456+00:00"
+  },
+  {
+    "id": "50493062",
+    "source": "hackernews",
+    "title": "Ggml v1.0.0",
+    "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+    "score": 419,
+    "comments": 66,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.578247+00:00"
+  },
+  {
+    "id": "50424581",
+    "source": "hackernews",
+    "title": "Foldable Flight: The Best Paper Airplanes",
+    "url": "https://www.foldableflight.com",
+    "score": 1295,
+    "comments": 168,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.597570+00:00"
+  },
+  {
+    "id": "50493904",
+    "source": "hackernews",
+    "title": "Monkey Island: all 13 versions side by side",
+    "url": "https://monkeyisland.pages.dev/",
+    "score": 508,
+    "comments": 157,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.619023+00:00"
+  },
+  {
+    "id": "50484658",
+    "source": "hackernews",
+    "title": "Jonathan Blow \u2013 If AI solved coding, why is my software still the same? [video]",
+    "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+    "score": 489,
+    "comments": 737,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.637144+00:00"
+  },
+  {
+    "id": "50446520",
+    "source": "hackernews",
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+    "score": 576,
+    "comments": 566,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.645252+00:00"
+  },
+  {
+    "id": "50467087",
+    "source": "hackernews",
+    "title": "Jensen Huang resigns",
+    "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+    "score": 4055,
+    "comments": 3472,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.669912+00:00"
+  },
+  {
+    "id": "50441444",
+    "source": "hackernews",
+    "title": "Generative AI uses more energy on non-English text",
+    "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+    "score": 231,
+    "comments": 131,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.676193+00:00"
+  },
+  {
+    "id": "50450488",
+    "source": "hackernews",
+    "title": "Tim Peters has died",
+    "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+    "score": 1444,
+    "comments": 207,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.677452+00:00"
+  },
+  {
+    "id": "50472038",
+    "source": "hackernews",
+    "title": "Rust 1.100",
+    "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+    "score": 901,
+    "comments": 321,
+    "subreddit": null,
+    "qualified_at": "2026-11-17T04:50:42.693903+00:00"
+  }
+]

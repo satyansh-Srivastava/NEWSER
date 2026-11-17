@@ -30,6 +30,70 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [a43febd8092a] `editor`: LLM call failed for 50517838: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [d6b0b64063c4] `editor`: LLM call failed for 50510296: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [8f22a1021ac0] `editor`: LLM call failed for 50509308: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [27fdcf0e7d44] `editor`: LLM call failed for 50507553: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [9256059b9d06] `editor`: LLM call failed for 50509023: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [34814000f726] `editor`: LLM call failed for 50511806: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [5cde589af9c1] `editor`: LLM call failed for 50463399: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [0cd3ee0e6f38] `editor`: LLM call failed for 50517602: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [4bede1ccc872] `editor`: LLM call failed for 50512441: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [e64e269ad4a7] `editor`: LLM call failed for 50509972: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [b1da7e025798] `editor`: LLM call failed for 50509837: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [b5cd22177f56] `editor`: LLM call failed for 50511395: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [a0d72b7b71b9] `editor`: LLM call failed for 50513215: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [f4cc00d16d65] `editor`: LLM call failed for 50512235: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [dc6872026241] `editor`: LLM call failed for 50513160: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [c3b0345f8f72] `editor`: LLM call failed for 50520866: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [21edf7ac9732] `editor`: LLM call failed for 50514470: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [1acd599f4f71] `editor`: LLM call failed for 50486745: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [ea6e94659eee] `editor`: LLM call failed for 50518567: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [fec5b0a66b66] `editor`: LLM call failed for 50516473: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [d48ff93c30d3] `editor`: LLM call failed for 50515058: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [c9b6c7740639] `editor`: LLM call failed for 50517488: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [b40d4a416cf7] `editor`: LLM call failed for 50517321: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [804dab48be79] `editor`: LLM call failed for 50524165: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [d1a09d221240] `editor`: LLM call failed for 50522563: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [3d613cad02b7] `editor`: LLM call failed for 50519354: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [8d53110e90c5] `editor`: LLM call failed for 50520182: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [aba18c6c8b6f] `editor`: LLM call failed for 50522980: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [265056707605] `editor`: LLM call failed for 50524736: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [aba88d6aa3d0] `editor`: LLM call failed for 50519744: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [f4a51236f2d4] `editor`: LLM call failed for 50523601: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
+
+- [cea061bcadf3] `extractor`: bot-blocked (403): https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda (first seen 2026-11-17)
+
 - [0bc14fd12038] `editor`: LLM call failed for 50491830: ANTHROPIC_API_KEY is not set (first seen 2026-11-16)
 
 - [fcfd0710587e] `editor`: LLM call failed for 50493251: ANTHROPIC_API_KEY is not set (first seen 2026-11-16)
