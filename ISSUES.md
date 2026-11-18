@@ -30,6 +30,54 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [4227267aac22] `editor`: LLM call failed for 50526560: ANTHROPIC_API_KEY is not set (first seen 2026-11-18)
+
+- [0968c2c734f3] `editor`: LLM call failed for 50525575: ANTHROPIC_API_KEY is not set (first seen 2026-11-18)
+
+- [6f348935c154] `editor`: LLM call failed for 50532086: ANTHROPIC_API_KEY is not set (first seen 2026-11-18)
+
+- [ca4935d57100] `editor`: LLM call failed for 50515151: ANTHROPIC_API_KEY is not set (first seen 2026-11-18)
+
+- [08742f6785e5] `editor`: LLM call failed for 50523459: ANTHROPIC_API_KEY is not set (first seen 2026-11-18)
+
+- [4cbad34c97cb] `editor`: LLM call failed for 50511874: ANTHROPIC_API_KEY is not set (first seen 2026-11-18)
+
+- [50133f6cdc8e] `editor`: LLM call failed for 50535238: ANTHROPIC_API_KEY is not set (first seen 2026-11-18)
+
+- [8ccaecc73a7b] `editor`: LLM call failed for 50529612: ANTHROPIC_API_KEY is not set (first seen 2026-11-18)
+
+- [0365e1d548f2] `editor`: LLM call failed for 50532191: ANTHROPIC_API_KEY is not set (first seen 2026-11-18)
+
+- [c252c4315fb0] `editor`: LLM call failed for 50536387: ANTHROPIC_API_KEY is not set (first seen 2026-11-18)
+
+- [ed8f5e47992f] `editor`: LLM call failed for 50532849: ANTHROPIC_API_KEY is not set (first seen 2026-11-18)
+
+- [5b08687eda3f] `editor`: LLM call failed for 50535885: ANTHROPIC_API_KEY is not set (first seen 2026-11-18)
+
+- [996f77b7eab3] `editor`: LLM call failed for 50536813: ANTHROPIC_API_KEY is not set (first seen 2026-11-18)
+
+- [ce26f38bc6da] `editor`: LLM call failed for 50535992: ANTHROPIC_API_KEY is not set (first seen 2026-11-18)
+
+- [0570172020c2] `editor`: LLM call failed for 50537156: ANTHROPIC_API_KEY is not set (first seen 2026-11-18)
+
+- [b167771bfce6] `editor`: LLM call failed for 50538240: ANTHROPIC_API_KEY is not set (first seen 2026-11-18)
+
+- [d469211f1309] `extractor`: bot-blocked (403): https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html (first seen 2026-11-18)
+
+- [ce79adb08a09] `extractor`: failed to fetch https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/: HTTPSConnectionPool(host='arstechnica.com', port=443): Read timed out. (read timeout=15) (first seen 2026-11-18)
+
+- [bdaed61791e1] `extractor`: bot-blocked (403): https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry (first seen 2026-11-18)
+
+- [ff9d29dc3011] `extractor`: bot-block page detected: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/ (first seen 2026-11-18)
+
+- [ada8d886b9c4] `extractor`: bot-blocked (403): https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html (first seen 2026-11-18)
+
+- [8583630c2767] `extractor`: bot-block page detected: https://blog.cloudflare.com/quad9-withdrawal-from-france/ (first seen 2026-11-18)
+
+- [b189f6b306bb] `extractor`: bot-blocked (403): https://openai.com/index/introducing-gpt-6-2-astra-sol/ (first seen 2026-11-18)
+
+- [c73679312f91] `extractor`: bot-blocked (403): https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf (first seen 2026-11-18)
+
 - [a43febd8092a] `editor`: LLM call failed for 50517838: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
 
 - [d6b0b64063c4] `editor`: LLM call failed for 50510296: ANTHROPIC_API_KEY is not set (first seen 2026-11-17)
