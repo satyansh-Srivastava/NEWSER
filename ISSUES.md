@@ -30,6 +30,50 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [44f2cc67c4b2] `editor`: LLM call failed for 50547344: ANTHROPIC_API_KEY is not set (first seen 2026-11-19)
+
+- [cae2e7d146a4] `editor`: LLM call failed for 50546465: ANTHROPIC_API_KEY is not set (first seen 2026-11-19)
+
+- [adc016c06063] `editor`: LLM call failed for 50532385: ANTHROPIC_API_KEY is not set (first seen 2026-11-19)
+
+- [f8f11e60023a] `editor`: LLM call failed for 50539747: ANTHROPIC_API_KEY is not set (first seen 2026-11-19)
+
+- [5c34eb7cee05] `editor`: LLM call failed for 50538303: ANTHROPIC_API_KEY is not set (first seen 2026-11-19)
+
+- [48bb647ddb93] `editor`: LLM call failed for 50550062: ANTHROPIC_API_KEY is not set (first seen 2026-11-19)
+
+- [273b20dcb128] `editor`: LLM call failed for 50542705: ANTHROPIC_API_KEY is not set (first seen 2026-11-19)
+
+- [965cae834e81] `editor`: LLM call failed for 50540437: ANTHROPIC_API_KEY is not set (first seen 2026-11-19)
+
+- [bf30c659356e] `editor`: LLM call failed for 50540178: ANTHROPIC_API_KEY is not set (first seen 2026-11-19)
+
+- [19cd6fe41082] `editor`: LLM call failed for 50504373: ANTHROPIC_API_KEY is not set (first seen 2026-11-19)
+
+- [a442e81479de] `editor`: LLM call failed for 50541790: ANTHROPIC_API_KEY is not set (first seen 2026-11-19)
+
+- [f48245b309b7] `editor`: LLM call failed for 50543989: ANTHROPIC_API_KEY is not set (first seen 2026-11-19)
+
+- [88aad7303922] `editor`: LLM call failed for 50550415: ANTHROPIC_API_KEY is not set (first seen 2026-11-19)
+
+- [bd9428dbce0a] `editor`: LLM call failed for 50546914: ANTHROPIC_API_KEY is not set (first seen 2026-11-19)
+
+- [4b4eb7f44fba] `editor`: LLM call failed for 50554045: ANTHROPIC_API_KEY is not set (first seen 2026-11-19)
+
+- [07ec5b964628] `editor`: LLM call failed for 50547777: ANTHROPIC_API_KEY is not set (first seen 2026-11-19)
+
+- [197f97fce33a] `editor`: LLM call failed for 50547620: ANTHROPIC_API_KEY is not set (first seen 2026-11-19)
+
+- [fe84258d5dcf] `editor`: LLM call failed for 50545958: ANTHROPIC_API_KEY is not set (first seen 2026-11-19)
+
+- [bb76051394de] `editor`: LLM call failed for 50548021: ANTHROPIC_API_KEY is not set (first seen 2026-11-19)
+
+- [51962539a88e] `editor`: LLM call failed for 50552424: ANTHROPIC_API_KEY is not set (first seen 2026-11-19)
+
+- [1556b66a04dc] `editor`: LLM call failed for 50547374: ANTHROPIC_API_KEY is not set (first seen 2026-11-19)
+
+- [ee1099935eaa] `extractor`: HTTP 404 for https://github.com/microsoft/onnxruntime (first seen 2026-11-19)
+
 - [4227267aac22] `editor`: LLM call failed for 50526560: ANTHROPIC_API_KEY is not set (first seen 2026-11-18)
 
 - [0968c2c734f3] `editor`: LLM call failed for 50525575: ANTHROPIC_API_KEY is not set (first seen 2026-11-18)
