@@ -30,6 +30,68 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [8f255aac1f3d] `editor`: LLM call failed for 50537290: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [37f5534e8d27] `editor`: LLM call failed for 50547980: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [2c5e6707467a] `editor`: LLM call failed for 50548161: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [0897c8ea2e4e] `editor`: LLM call failed for 50554374: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [9144feb6aacf] `editor`: LLM call failed for 50551046: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [6f5a09c5ab83] `editor`: LLM call failed for 50553225: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [9a5f35fe8789] `editor`: LLM call failed for 50553843: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [96ee6abc1c30] `editor`: LLM call failed for 50554038: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [91995c39a31e] `editor`: LLM call failed for 50556533: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [2da782babfce] `editor`: LLM call failed for 50544261: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [89b498b7291e] `editor`: LLM call failed for 50562262: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [fde4631b1d80] `editor`: LLM call failed for 50556287: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [2c7901e17955] `editor`: LLM call failed for 50557716: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [708a0e7894bc] `editor`: LLM call failed for 50557537: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [1de0972af960] `editor`: LLM call failed for 50560822: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [7f875ac2f079] `editor`: LLM call failed for 50561508: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [30799f2b6665] `editor`: LLM call failed for 50557661: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [e6cb09de1b45] `editor`: LLM call failed for 50547048: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [002d47cdf372] `editor`: LLM call failed for 50558533: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [c74f84a81c42] `editor`: LLM call failed for 50557870: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [8ddd9c2ae696] `editor`: LLM call failed for 50559719: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [dd6afb09f877] `editor`: LLM call failed for 50562113: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [84c26dcf5f65] `editor`: LLM call failed for 50558906: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [5f6b2dd09da6] `editor`: LLM call failed for 50564159: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [badc1b388043] `editor`: LLM call failed for 50519231: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [67a6fb741a17] `editor`: LLM call failed for 50563148: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [92ed087e4900] `editor`: LLM call failed for 50563066: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [f761fe8b2dd7] `editor`: LLM call failed for 50568130: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
+
+- [3edc0c1e42b2] `extractor`: bot-blocked (403): https://openai.com/index/advancing-chip-design-with-our-models/ (first seen 2026-11-20)
+
+- [84334d4d6a08] `extractor`: bot-blocked (403): https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system (first seen 2026-11-20)
+
+- [4754453fa405] `extractor`: HTTP 401 for https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ (first seen 2026-11-20)
+
 - [44f2cc67c4b2] `editor`: LLM call failed for 50547344: ANTHROPIC_API_KEY is not set (first seen 2026-11-19)
 
 - [cae2e7d146a4] `editor`: LLM call failed for 50546465: ANTHROPIC_API_KEY is not set (first seen 2026-11-19)
