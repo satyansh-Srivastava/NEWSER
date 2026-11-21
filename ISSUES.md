@@ -30,6 +30,60 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [fb325bd13852] `editor`: LLM call failed for 50561515: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
+
+- [0f8049c1eddd] `editor`: LLM call failed for 50547583: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
+
+- [f51cb842deaa] `editor`: LLM call failed for 50528119: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
+
+- [215728d17074] `editor`: LLM call failed for 50571189: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
+
+- [a67d59a9972a] `editor`: LLM call failed for 50569890: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
+
+- [ad8ec0de4b0c] `editor`: LLM call failed for 50569226: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
+
+- [10f5fab1a7d4] `editor`: LLM call failed for 50572355: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
+
+- [caf1952d37fe] `editor`: LLM call failed for 50573886: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
+
+- [2b6108202680] `editor`: LLM call failed for 50569998: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
+
+- [1975c3476aea] `editor`: LLM call failed for 50575644: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
+
+- [f195c45bb737] `editor`: LLM call failed for 50572116: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
+
+- [9ea783a2136e] `editor`: LLM call failed for 50581260: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
+
+- [7dab65576726] `editor`: LLM call failed for 50576855: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
+
+- [8669eeacf1dc] `editor`: LLM call failed for 50572822: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
+
+- [a6fe71c9ed70] `editor`: LLM call failed for 50572503: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
+
+- [07efdbd802f0] `editor`: LLM call failed for 50526023: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
+
+- [a4b233ba9828] `editor`: LLM call failed for 50572348: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
+
+- [8ae9d5cd0f1e] `editor`: LLM call failed for 50581084: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
+
+- [beb0832e6d7a] `editor`: LLM call failed for 50578358: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
+
+- [7ad8f75432a1] `editor`: LLM call failed for 50576232: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
+
+- [cad956c6cd97] `editor`: LLM call failed for 50577265: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
+
+- [26dc826b1d42] `editor`: LLM call failed for 50574968: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
+
+- [f37f2c13e88a] `editor`: LLM call failed for 50579331: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
+
+- [bb4bc71f9a9e] `editor`: LLM call failed for 50579568: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
+
+- [3cdfe4bbd0a0] `extractor`: HTTP 429 for https://www.youtube.com/watch?v=-TLCGUpoD6c (first seen 2026-11-21)
+
+- [7b8fcdb5b259] `extractor`: bot-block page detected: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ (first seen 2026-11-21)
+
+- [39784ab98cb9] `extractor`: bot-blocked (403): https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627 (first seen 2026-11-21)
+
 - [8f255aac1f3d] `editor`: LLM call failed for 50537290: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
 
 - [37f5534e8d27] `editor`: LLM call failed for 50547980: ANTHROPIC_API_KEY is not set (first seen 2026-11-20)
