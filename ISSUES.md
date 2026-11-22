@@ -30,6 +30,36 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [6ef5f81bb572] `editor`: LLM call failed for 50585593: ANTHROPIC_API_KEY is not set (first seen 2026-11-22)
+
+- [2ea6799cf647] `editor`: LLM call failed for 50570628: ANTHROPIC_API_KEY is not set (first seen 2026-11-22)
+
+- [2fc0ea878515] `editor`: LLM call failed for 50541568: ANTHROPIC_API_KEY is not set (first seen 2026-11-22)
+
+- [8c9069d3a562] `editor`: LLM call failed for 50581110: ANTHROPIC_API_KEY is not set (first seen 2026-11-22)
+
+- [4115929ab8e1] `editor`: LLM call failed for 50583274: ANTHROPIC_API_KEY is not set (first seen 2026-11-22)
+
+- [7f178f53f5ce] `editor`: LLM call failed for 50574383: ANTHROPIC_API_KEY is not set (first seen 2026-11-22)
+
+- [7666e25dec3b] `editor`: LLM call failed for 50576012: ANTHROPIC_API_KEY is not set (first seen 2026-11-22)
+
+- [0cb703016c00] `editor`: LLM call failed for 50587208: ANTHROPIC_API_KEY is not set (first seen 2026-11-22)
+
+- [e3c4e3e6934b] `editor`: LLM call failed for 50583761: ANTHROPIC_API_KEY is not set (first seen 2026-11-22)
+
+- [77f362a10995] `editor`: LLM call failed for 50582069: ANTHROPIC_API_KEY is not set (first seen 2026-11-22)
+
+- [7d341798ff09] `editor`: LLM call failed for 50587875: ANTHROPIC_API_KEY is not set (first seen 2026-11-22)
+
+- [19867ea300f9] `editor`: LLM call failed for 50589618: ANTHROPIC_API_KEY is not set (first seen 2026-11-22)
+
+- [60e811a726a5] `editor`: LLM call failed for 50591853: ANTHROPIC_API_KEY is not set (first seen 2026-11-22)
+
+- [66d1934fa8b3] `extractor`: failed to fetch https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) (first seen 2026-11-22)
+
+- [98bb62dbd0ae] `extractor`: bot-blocked (403): https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really (first seen 2026-11-22)
+
 - [fb325bd13852] `editor`: LLM call failed for 50561515: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
 
 - [0f8049c1eddd] `editor`: LLM call failed for 50547583: ANTHROPIC_API_KEY is not set (first seen 2026-11-21)
