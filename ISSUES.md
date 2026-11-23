@@ -30,6 +30,36 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [8835fd3b013b] `editor`: LLM call failed for 50585376: ANTHROPIC_API_KEY is not set (first seen 2026-11-23)
+
+- [49c154f7fcf5] `editor`: LLM call failed for 50595168: ANTHROPIC_API_KEY is not set (first seen 2026-11-23)
+
+- [3329a9b5aec5] `editor`: LLM call failed for 50593737: ANTHROPIC_API_KEY is not set (first seen 2026-11-23)
+
+- [784d3770e06f] `editor`: LLM call failed for 50546587: ANTHROPIC_API_KEY is not set (first seen 2026-11-23)
+
+- [11ea2ef88022] `editor`: LLM call failed for 50595554: ANTHROPIC_API_KEY is not set (first seen 2026-11-23)
+
+- [9763135bb661] `editor`: LLM call failed for 50583028: ANTHROPIC_API_KEY is not set (first seen 2026-11-23)
+
+- [272ae57aa10b] `editor`: LLM call failed for 50594911: ANTHROPIC_API_KEY is not set (first seen 2026-11-23)
+
+- [e62aec3904c5] `editor`: LLM call failed for 50597612: ANTHROPIC_API_KEY is not set (first seen 2026-11-23)
+
+- [a5b09d5db7af] `editor`: LLM call failed for 50596133: ANTHROPIC_API_KEY is not set (first seen 2026-11-23)
+
+- [fa784bb4f032] `editor`: LLM call failed for 50600511: ANTHROPIC_API_KEY is not set (first seen 2026-11-23)
+
+- [d19705b97ffa] `editor`: LLM call failed for 50599762: ANTHROPIC_API_KEY is not set (first seen 2026-11-23)
+
+- [09663ca03b5e] `editor`: LLM call failed for 50602947: ANTHROPIC_API_KEY is not set (first seen 2026-11-23)
+
+- [1ecf5b2bc69e] `editor`: LLM call failed for 50601525: ANTHROPIC_API_KEY is not set (first seen 2026-11-23)
+
+- [516c3a7cf79b] `editor`: LLM call failed for 50603845: ANTHROPIC_API_KEY is not set (first seen 2026-11-23)
+
+- [81703a8cfa44] `extractor`: bot-block page detected: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife (first seen 2026-11-23)
+
 - [6ef5f81bb572] `editor`: LLM call failed for 50585593: ANTHROPIC_API_KEY is not set (first seen 2026-11-22)
 
 - [2ea6799cf647] `editor`: LLM call failed for 50570628: ANTHROPIC_API_KEY is not set (first seen 2026-11-22)
