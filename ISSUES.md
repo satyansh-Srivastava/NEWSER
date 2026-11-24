@@ -30,6 +30,62 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [e8029e4edaac] `editor`: LLM call failed for 50596155: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
+
+- [736510c4afbf] `editor`: LLM call failed for 50620822: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
+
+- [4d88e165ff60] `editor`: LLM call failed for 50603589: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
+
+- [c81c0662ef15] `editor`: LLM call failed for 50605045: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
+
+- [1e8424d1c7ce] `editor`: LLM call failed for 50598441: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
+
+- [305ea299c24c] `editor`: LLM call failed for 50603143: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
+
+- [a9fc618d7428] `editor`: LLM call failed for 50604988: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
+
+- [701993d32432] `editor`: LLM call failed for 50607261: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
+
+- [e9152d3ae1d9] `editor`: LLM call failed for 50610318: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
+
+- [2fc2b150eb1f] `editor`: LLM call failed for 50616933: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
+
+- [54a6298ffd27] `editor`: LLM call failed for 50607668: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
+
+- [0a73512e5f7d] `editor`: LLM call failed for 50610334: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
+
+- [9bbc5115e7e7] `editor`: LLM call failed for 50605479: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
+
+- [a09cdefeabe5] `editor`: LLM call failed for 50620102: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
+
+- [bd77cacc956d] `editor`: LLM call failed for 50615481: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
+
+- [4eacff4a3016] `editor`: LLM call failed for 50610743: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
+
+- [717aaec75ee7] `editor`: LLM call failed for 50606192: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
+
+- [aaedba5af427] `editor`: LLM call failed for 50587439: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
+
+- [a277a0e21376] `editor`: LLM call failed for 50617499: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
+
+- [a42b35f3f63e] `editor`: LLM call failed for 50615308: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
+
+- [558b736a31a7] `editor`: LLM call failed for 50619103: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
+
+- [1cbc8dc1de34] `editor`: LLM call failed for 50614249: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
+
+- [73b40848e389] `editor`: LLM call failed for 50611576: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
+
+- [bcd68447e783] `editor`: LLM call failed for 50620349: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
+
+- [b72887e07690] `extractor`: bot-blocked (403): https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body (first seen 2026-11-24)
+
+- [9161371efce3] `extractor`: bot-blocked (403): https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527 (first seen 2026-11-24)
+
+- [756d1ff8b2dd] `extractor`: bot-blocked (403): https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/ (first seen 2026-11-24)
+
+- [0d83f127fe5f] `extractor`: empty body extracted: https://z.ai/blog/glm-5.4 (first seen 2026-11-24)
+
 - [8835fd3b013b] `editor`: LLM call failed for 50585376: ANTHROPIC_API_KEY is not set (first seen 2026-11-23)
 
 - [49c154f7fcf5] `editor`: LLM call failed for 50595168: ANTHROPIC_API_KEY is not set (first seen 2026-11-23)

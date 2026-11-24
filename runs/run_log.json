@@ -46998,5 +46998,445 @@
     "item_id": "50558906",
     "severity": "warning",
     "signature": "84c26dcf5f65"
+  },
+  {
+    "ts": "2026-11-24T06:34:11.039295+00:00",
+    "component": "scraper.reddit",
+    "message": "Error - Unreachable r/artificial: 403 Client Error: Blocked for url: https://www.reddit.com/r/artificial/hot.json?limit=50",
+    "item_id": null,
+    "severity": "warning",
+    "signature": "5587b61e54d7"
+  },
+  {
+    "ts": "2026-11-24T06:34:11.112400+00:00",
+    "component": "scraper.reddit",
+    "message": "Error - Unreachable r/MachineLearning: 403 Client Error: Blocked for url: https://www.reddit.com/r/MachineLearning/hot.json?limit=50",
+    "item_id": null,
+    "severity": "warning",
+    "signature": "5a75b15b8044"
+  },
+  {
+    "ts": "2026-11-24T06:34:11.178935+00:00",
+    "component": "scraper.reddit",
+    "message": "Error - Unreachable r/SaaS: 403 Client Error: Blocked for url: https://www.reddit.com/r/SaaS/hot.json?limit=50",
+    "item_id": null,
+    "severity": "warning",
+    "signature": "99d095ddd6bd"
+  },
+  {
+    "ts": "2026-11-24T06:34:14.221064+00:00",
+    "component": "extractor",
+    "message": "empty body extracted: https://z.ai/blog/glm-5.4",
+    "item_id": "50609685",
+    "severity": "warning",
+    "signature": "0d83f127fe5f"
+  },
+  {
+    "ts": "2026-11-24T06:34:16.079667+00:00",
+    "component": "extractor",
+    "message": "bot-blocked (403): https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
+    "item_id": "50612686",
+    "severity": "warning",
+    "signature": "756d1ff8b2dd"
+  },
+  {
+    "ts": "2026-11-24T06:34:17.412846+00:00",
+    "component": "extractor",
+    "message": "bot-block page detected: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+    "item_id": "50602843",
+    "severity": "warning",
+    "signature": "81703a8cfa44"
+  },
+  {
+    "ts": "2026-11-24T06:34:17.616288+00:00",
+    "component": "extractor",
+    "message": "bot-blocked (403): https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+    "item_id": "50547698",
+    "severity": "warning",
+    "signature": "9161371efce3"
+  },
+  {
+    "ts": "2026-11-24T06:34:19.490954+00:00",
+    "component": "extractor",
+    "message": "bot-blocked (403): https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+    "item_id": "50588982",
+    "severity": "warning",
+    "signature": "98bb62dbd0ae"
+  },
+  {
+    "ts": "2026-11-24T06:34:21.298933+00:00",
+    "component": "extractor",
+    "message": "bot-blocked (403): https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+    "item_id": "50583028",
+    "severity": "warning",
+    "signature": "b72887e07690"
+  },
+  {
+    "ts": "2026-11-24T06:34:22.848395+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50620349: ANTHROPIC_API_KEY is not set",
+    "item_id": "50620349",
+    "severity": "warning",
+    "signature": "bcd68447e783"
+  },
+  {
+    "ts": "2026-11-24T06:34:22.881119+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50611576: ANTHROPIC_API_KEY is not set",
+    "item_id": "50611576",
+    "severity": "warning",
+    "signature": "73b40848e389"
+  },
+  {
+    "ts": "2026-11-24T06:34:22.913070+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50614249: ANTHROPIC_API_KEY is not set",
+    "item_id": "50614249",
+    "severity": "warning",
+    "signature": "1cbc8dc1de34"
+  },
+  {
+    "ts": "2026-11-24T06:34:22.945141+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50619103: ANTHROPIC_API_KEY is not set",
+    "item_id": "50619103",
+    "severity": "warning",
+    "signature": "558b736a31a7"
+  },
+  {
+    "ts": "2026-11-24T06:34:22.977290+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50615308: ANTHROPIC_API_KEY is not set",
+    "item_id": "50615308",
+    "severity": "warning",
+    "signature": "a42b35f3f63e"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.009417+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50617499: ANTHROPIC_API_KEY is not set",
+    "item_id": "50617499",
+    "severity": "warning",
+    "signature": "a277a0e21376"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.041947+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50587439: ANTHROPIC_API_KEY is not set",
+    "item_id": "50587439",
+    "severity": "warning",
+    "signature": "aaedba5af427"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.074933+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50606192: ANTHROPIC_API_KEY is not set",
+    "item_id": "50606192",
+    "severity": "warning",
+    "signature": "717aaec75ee7"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.107943+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50610743: ANTHROPIC_API_KEY is not set",
+    "item_id": "50610743",
+    "severity": "warning",
+    "signature": "4eacff4a3016"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.139822+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50615481: ANTHROPIC_API_KEY is not set",
+    "item_id": "50615481",
+    "severity": "warning",
+    "signature": "bd77cacc956d"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.172079+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50620102: ANTHROPIC_API_KEY is not set",
+    "item_id": "50620102",
+    "severity": "warning",
+    "signature": "a09cdefeabe5"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.204239+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50605479: ANTHROPIC_API_KEY is not set",
+    "item_id": "50605479",
+    "severity": "warning",
+    "signature": "9bbc5115e7e7"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.236192+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50610334: ANTHROPIC_API_KEY is not set",
+    "item_id": "50610334",
+    "severity": "warning",
+    "signature": "0a73512e5f7d"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.269259+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50607668: ANTHROPIC_API_KEY is not set",
+    "item_id": "50607668",
+    "severity": "warning",
+    "signature": "54a6298ffd27"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.302415+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50616933: ANTHROPIC_API_KEY is not set",
+    "item_id": "50616933",
+    "severity": "warning",
+    "signature": "2fc2b150eb1f"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.335469+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50610318: ANTHROPIC_API_KEY is not set",
+    "item_id": "50610318",
+    "severity": "warning",
+    "signature": "e9152d3ae1d9"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.367592+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50607261: ANTHROPIC_API_KEY is not set",
+    "item_id": "50607261",
+    "severity": "warning",
+    "signature": "701993d32432"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.399812+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50596133: ANTHROPIC_API_KEY is not set",
+    "item_id": "50596133",
+    "severity": "warning",
+    "signature": "a5b09d5db7af"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.431383+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50603845: ANTHROPIC_API_KEY is not set",
+    "item_id": "50603845",
+    "severity": "warning",
+    "signature": "516c3a7cf79b"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.462765+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50604988: ANTHROPIC_API_KEY is not set",
+    "item_id": "50604988",
+    "severity": "warning",
+    "signature": "a9fc618d7428"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.495613+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50601525: ANTHROPIC_API_KEY is not set",
+    "item_id": "50601525",
+    "severity": "warning",
+    "signature": "1ecf5b2bc69e"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.526914+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50582069: ANTHROPIC_API_KEY is not set",
+    "item_id": "50582069",
+    "severity": "warning",
+    "signature": "77f362a10995"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.559025+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50602947: ANTHROPIC_API_KEY is not set",
+    "item_id": "50602947",
+    "severity": "warning",
+    "signature": "09663ca03b5e"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.590647+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50603143: ANTHROPIC_API_KEY is not set",
+    "item_id": "50603143",
+    "severity": "warning",
+    "signature": "305ea299c24c"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.622854+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50597612: ANTHROPIC_API_KEY is not set",
+    "item_id": "50597612",
+    "severity": "warning",
+    "signature": "e62aec3904c5"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.654273+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50589618: ANTHROPIC_API_KEY is not set",
+    "item_id": "50589618",
+    "severity": "warning",
+    "signature": "19867ea300f9"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.686225+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50576012: ANTHROPIC_API_KEY is not set",
+    "item_id": "50576012",
+    "severity": "warning",
+    "signature": "7666e25dec3b"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.717606+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50574968: ANTHROPIC_API_KEY is not set",
+    "item_id": "50574968",
+    "severity": "warning",
+    "signature": "26dc826b1d42"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.749175+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50598441: ANTHROPIC_API_KEY is not set",
+    "item_id": "50598441",
+    "severity": "warning",
+    "signature": "1e8424d1c7ce"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.782285+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50605045: ANTHROPIC_API_KEY is not set",
+    "item_id": "50605045",
+    "severity": "warning",
+    "signature": "c81c0662ef15"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.815000+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50603589: ANTHROPIC_API_KEY is not set",
+    "item_id": "50603589",
+    "severity": "warning",
+    "signature": "4d88e165ff60"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.847704+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50581260: ANTHROPIC_API_KEY is not set",
+    "item_id": "50581260",
+    "severity": "warning",
+    "signature": "9ea783a2136e"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.879793+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50599762: ANTHROPIC_API_KEY is not set",
+    "item_id": "50599762",
+    "severity": "warning",
+    "signature": "d19705b97ffa"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.911178+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50594911: ANTHROPIC_API_KEY is not set",
+    "item_id": "50594911",
+    "severity": "warning",
+    "signature": "272ae57aa10b"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.942822+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50591853: ANTHROPIC_API_KEY is not set",
+    "item_id": "50591853",
+    "severity": "warning",
+    "signature": "60e811a726a5"
+  },
+  {
+    "ts": "2026-11-24T06:34:23.974415+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50620822: ANTHROPIC_API_KEY is not set",
+    "item_id": "50620822",
+    "severity": "warning",
+    "signature": "736510c4afbf"
+  },
+  {
+    "ts": "2026-11-24T06:34:24.007001+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50596155: ANTHROPIC_API_KEY is not set",
+    "item_id": "50596155",
+    "severity": "warning",
+    "signature": "e8029e4edaac"
+  },
+  {
+    "ts": "2026-11-24T06:34:24.039385+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50587875: ANTHROPIC_API_KEY is not set",
+    "item_id": "50587875",
+    "severity": "warning",
+    "signature": "7d341798ff09"
+  },
+  {
+    "ts": "2026-11-24T06:34:24.070784+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50563148: ANTHROPIC_API_KEY is not set",
+    "item_id": "50563148",
+    "severity": "warning",
+    "signature": "67a6fb741a17"
+  },
+  {
+    "ts": "2026-11-24T06:34:24.103049+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50575644: ANTHROPIC_API_KEY is not set",
+    "item_id": "50575644",
+    "severity": "warning",
+    "signature": "1975c3476aea"
+  },
+  {
+    "ts": "2026-11-24T06:34:24.134401+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50579568: ANTHROPIC_API_KEY is not set",
+    "item_id": "50579568",
+    "severity": "warning",
+    "signature": "bb4bc71f9a9e"
+  },
+  {
+    "ts": "2026-11-24T06:34:24.165839+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50583761: ANTHROPIC_API_KEY is not set",
+    "item_id": "50583761",
+    "severity": "warning",
+    "signature": "e3c4e3e6934b"
+  },
+  {
+    "ts": "2026-11-24T06:34:24.197083+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50579331: ANTHROPIC_API_KEY is not set",
+    "item_id": "50579331",
+    "severity": "warning",
+    "signature": "f37f2c13e88a"
+  },
+  {
+    "ts": "2026-11-24T06:34:24.228578+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50572355: ANTHROPIC_API_KEY is not set",
+    "item_id": "50572355",
+    "severity": "warning",
+    "signature": "10f5fab1a7d4"
+  },
+  {
+    "ts": "2026-11-24T06:34:24.259831+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50600511: ANTHROPIC_API_KEY is not set",
+    "item_id": "50600511",
+    "severity": "warning",
+    "signature": "fa784bb4f032"
+  },
+  {
+    "ts": "2026-11-24T06:34:24.291258+00:00",
+    "component": "editor",
+    "message": "LLM call failed for 50578358: ANTHROPIC_API_KEY is not set",
+    "item_id": "50578358",
+    "severity": "warning",
+    "signature": "beb0832e6d7a"
   }
 ]
