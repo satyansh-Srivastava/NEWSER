@@ -30,6 +30,56 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [6666f52cd12e] `editor`: LLM call failed for 50604314: ANTHROPIC_API_KEY is not set (first seen 2026-11-25)
+
+- [326d83840764] `editor`: LLM call failed for 50631210: ANTHROPIC_API_KEY is not set (first seen 2026-11-25)
+
+- [95d781f4433d] `editor`: LLM call failed for 50626861: ANTHROPIC_API_KEY is not set (first seen 2026-11-25)
+
+- [45a851deef6a] `editor`: LLM call failed for 50630809: ANTHROPIC_API_KEY is not set (first seen 2026-11-25)
+
+- [1b4a31ea4939] `editor`: LLM call failed for 50622774: ANTHROPIC_API_KEY is not set (first seen 2026-11-25)
+
+- [173d0cd18e24] `editor`: LLM call failed for 50625384: ANTHROPIC_API_KEY is not set (first seen 2026-11-25)
+
+- [50a37e05f3f6] `editor`: LLM call failed for 50624061: ANTHROPIC_API_KEY is not set (first seen 2026-11-25)
+
+- [56658c3aa4c1] `editor`: LLM call failed for 50624497: ANTHROPIC_API_KEY is not set (first seen 2026-11-25)
+
+- [9637c46bda24] `editor`: LLM call failed for 50599458: ANTHROPIC_API_KEY is not set (first seen 2026-11-25)
+
+- [8e9a97f2e986] `editor`: LLM call failed for 50626413: ANTHROPIC_API_KEY is not set (first seen 2026-11-25)
+
+- [3d2963c0083c] `editor`: LLM call failed for 50627340: ANTHROPIC_API_KEY is not set (first seen 2026-11-25)
+
+- [113c9bc8427c] `editor`: LLM call failed for 50635271: ANTHROPIC_API_KEY is not set (first seen 2026-11-25)
+
+- [9f06687cf51f] `editor`: LLM call failed for 50630462: ANTHROPIC_API_KEY is not set (first seen 2026-11-25)
+
+- [d74145e484b8] `editor`: LLM call failed for 50629231: ANTHROPIC_API_KEY is not set (first seen 2026-11-25)
+
+- [e71190e8af90] `editor`: LLM call failed for 50627783: ANTHROPIC_API_KEY is not set (first seen 2026-11-25)
+
+- [f9d970283500] `editor`: LLM call failed for 50598555: ANTHROPIC_API_KEY is not set (first seen 2026-11-25)
+
+- [b6dfa062479b] `editor`: LLM call failed for 50630594: ANTHROPIC_API_KEY is not set (first seen 2026-11-25)
+
+- [6040cf81927d] `editor`: LLM call failed for 50634658: ANTHROPIC_API_KEY is not set (first seen 2026-11-25)
+
+- [0da2d3a55212] `editor`: LLM call failed for 50633922: ANTHROPIC_API_KEY is not set (first seen 2026-11-25)
+
+- [f4e88e761350] `editor`: LLM call failed for 50637220: ANTHROPIC_API_KEY is not set (first seen 2026-11-25)
+
+- [64ce1d9fa456] `extractor`: bot-block page detected: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/ (first seen 2026-11-25)
+
+- [a7b4fa5b25ee] `extractor`: bot-block page detected: https://www.bored.com/ (first seen 2026-11-25)
+
+- [68e8b600441d] `extractor`: HTTP 401 for https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/ (first seen 2026-11-25)
+
+- [8c6630ea61bd] `extractor`: bot-blocked (403): https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading (first seen 2026-11-25)
+
+- [9396b6eb0148] `extractor`: HTTP 404 for https://github.com/ItsNotRexed/Leonida/issues (first seen 2026-11-25)
+
 - [e8029e4edaac] `editor`: LLM call failed for 50596155: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
 
 - [736510c4afbf] `editor`: LLM call failed for 50620822: ANTHROPIC_API_KEY is not set (first seen 2026-11-24)
