@@ -30,6 +30,56 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [f6716c2656ca] `editor`: LLM call failed for 50609579: ANTHROPIC_API_KEY is not set (first seen 2026-11-26)
+
+- [5420a46cbefb] `editor`: LLM call failed for 50638320: ANTHROPIC_API_KEY is not set (first seen 2026-11-26)
+
+- [b9efd5704dce] `editor`: LLM call failed for 50637874: ANTHROPIC_API_KEY is not set (first seen 2026-11-26)
+
+- [9aca2639d786] `editor`: LLM call failed for 50637686: ANTHROPIC_API_KEY is not set (first seen 2026-11-26)
+
+- [db4c8af7714f] `editor`: LLM call failed for 50638220: ANTHROPIC_API_KEY is not set (first seen 2026-11-26)
+
+- [2a452e0b75fc] `editor`: LLM call failed for 50607849: ANTHROPIC_API_KEY is not set (first seen 2026-11-26)
+
+- [1bdb7be1f05d] `editor`: LLM call failed for 50638478: ANTHROPIC_API_KEY is not set (first seen 2026-11-26)
+
+- [a3a4c7abdedf] `editor`: LLM call failed for 50637056: ANTHROPIC_API_KEY is not set (first seen 2026-11-26)
+
+- [4d32677f62c1] `editor`: LLM call failed for 50638032: ANTHROPIC_API_KEY is not set (first seen 2026-11-26)
+
+- [7fb682660cea] `editor`: LLM call failed for 50638503: ANTHROPIC_API_KEY is not set (first seen 2026-11-26)
+
+- [8386d883f5e1] `editor`: LLM call failed for 50637890: ANTHROPIC_API_KEY is not set (first seen 2026-11-26)
+
+- [693c49ae19e2] `editor`: LLM call failed for 50639698: ANTHROPIC_API_KEY is not set (first seen 2026-11-26)
+
+- [85d62dc783ec] `editor`: LLM call failed for 50642939: ANTHROPIC_API_KEY is not set (first seen 2026-11-26)
+
+- [4f16defbfdc0] `editor`: LLM call failed for 50624446: ANTHROPIC_API_KEY is not set (first seen 2026-11-26)
+
+- [83b03069dc2e] `editor`: LLM call failed for 50648823: ANTHROPIC_API_KEY is not set (first seen 2026-11-26)
+
+- [7a888ac7beb5] `editor`: LLM call failed for 50641171: ANTHROPIC_API_KEY is not set (first seen 2026-11-26)
+
+- [84f26815ffa2] `editor`: LLM call failed for 50642086: ANTHROPIC_API_KEY is not set (first seen 2026-11-26)
+
+- [151b8bdad890] `editor`: LLM call failed for 50601280: ANTHROPIC_API_KEY is not set (first seen 2026-11-26)
+
+- [bcb770413d27] `editor`: LLM call failed for 50644817: ANTHROPIC_API_KEY is not set (first seen 2026-11-26)
+
+- [a46523f0a77f] `editor`: LLM call failed for 50648050: ANTHROPIC_API_KEY is not set (first seen 2026-11-26)
+
+- [1ddcb15cd761] `editor`: LLM call failed for 50646108: ANTHROPIC_API_KEY is not set (first seen 2026-11-26)
+
+- [20e187c0b8be] `extractor`: bot-block page detected: https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase (first seen 2026-11-26)
+
+- [a2312c9c1a67] `extractor`: bot-blocked (403): https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/ (first seen 2026-11-26)
+
+- [9ade8343c68b] `extractor`: bot-block page detected: https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features (first seen 2026-11-26)
+
+- [ba74ed278b57] `extractor`: bot-block page detected: https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts (first seen 2026-11-26)
+
 - [6666f52cd12e] `editor`: LLM call failed for 50604314: ANTHROPIC_API_KEY is not set (first seen 2026-11-25)
 
 - [326d83840764] `editor`: LLM call failed for 50631210: ANTHROPIC_API_KEY is not set (first seen 2026-11-25)
