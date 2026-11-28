@@ -30,6 +30,42 @@ guards it — not when the symptom merely stops appearing.
 ## Open observations
 
 <!-- OPEN-OBSERVATIONS -->
+- [48a25db1301f] `editor`: LLM call failed for 50649040: ANTHROPIC_API_KEY is not set (first seen 2026-11-28)
+
+- [d1e5e45bf0eb] `editor`: LLM call failed for 50659640: ANTHROPIC_API_KEY is not set (first seen 2026-11-28)
+
+- [824f13d7507a] `editor`: LLM call failed for 50661646: ANTHROPIC_API_KEY is not set (first seen 2026-11-28)
+
+- [303fc5ac3190] `editor`: LLM call failed for 50655868: ANTHROPIC_API_KEY is not set (first seen 2026-11-28)
+
+- [05ad51036d8d] `editor`: LLM call failed for 50663261: ANTHROPIC_API_KEY is not set (first seen 2026-11-28)
+
+- [934fb5769e5d] `editor`: LLM call failed for 50663595: ANTHROPIC_API_KEY is not set (first seen 2026-11-28)
+
+- [4473f9ca2d52] `editor`: LLM call failed for 50663089: ANTHROPIC_API_KEY is not set (first seen 2026-11-28)
+
+- [d5f41e1d497c] `editor`: LLM call failed for 50664325: ANTHROPIC_API_KEY is not set (first seen 2026-11-28)
+
+- [adbe1458d1ee] `editor`: LLM call failed for 50670757: ANTHROPIC_API_KEY is not set (first seen 2026-11-28)
+
+- [a61af499d105] `editor`: LLM call failed for 50670855: ANTHROPIC_API_KEY is not set (first seen 2026-11-28)
+
+- [e1047d181715] `editor`: LLM call failed for 50669765: ANTHROPIC_API_KEY is not set (first seen 2026-11-28)
+
+- [31ca903eb294] `editor`: LLM call failed for 50667726: ANTHROPIC_API_KEY is not set (first seen 2026-11-28)
+
+- [6c1ba922a468] `editor`: LLM call failed for 50672565: ANTHROPIC_API_KEY is not set (first seen 2026-11-28)
+
+- [afa4bbf06c5b] `editor`: LLM call failed for 50668145: ANTHROPIC_API_KEY is not set (first seen 2026-11-28)
+
+- [bd7d7f6a1a44] `extractor`: HTTP 429 for https://news.ycombinator.com/item?id=50649864 (first seen 2026-11-28)
+
+- [6464bf472850] `extractor`: bot-blocked (403): https://eprint.iacr.org/2026/3020.pdf (first seen 2026-11-28)
+
+- [3fabbb8a9805] `extractor`: bot-blocked (403): https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163 (first seen 2026-11-28)
+
+- [642ecd01679a] `extractor`: bot-blocked (403): https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical (first seen 2026-11-28)
+
 - [4f42326c8d7e] `editor`: LLM call failed for 50647158: ANTHROPIC_API_KEY is not set (first seen 2026-11-27)
 
 - [4af7c75de3f3] `editor`: LLM call failed for 50589784: ANTHROPIC_API_KEY is not set (first seen 2026-11-27)
